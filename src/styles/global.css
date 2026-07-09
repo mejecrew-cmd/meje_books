@@ -205,6 +205,7 @@ a {
   font-family: var(--serif);
   font-size: 25px;
   line-height: 1.22;
+  white-space: pre-line;
 }
 
 .book-card p {
@@ -243,6 +244,7 @@ a {
   font-family: var(--serif);
   font-size: 56px;
   line-height: 1.05;
+  white-space: pre-line;
 }
 
 .book-hero .subtitle {
@@ -290,7 +292,40 @@ a {
   color: var(--ink-soft);
 }
 
+.chapter-sections {
+  display: grid;
+  gap: 22px;
+}
+
+.chapter-section {
+  min-width: 0;
+}
+
+.chapter-section-head {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 10px;
+}
+
+.chapter-section-head h3 {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: 25px;
+}
+
+.chapter-section-head p {
+  margin: 0;
+  color: var(--ink-muted);
+  font-family: var(--mono);
+  font-size: 12px;
+}
+
 .chapter-list {
+  max-height: 680px;
+  overflow: auto;
+  padding-right: 4px;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 8px;
@@ -312,6 +347,11 @@ a {
   border-color: var(--line-strong);
 }
 
+.chapter-row.external {
+  border-color: var(--accent);
+  background: linear-gradient(180deg, var(--surface), rgba(58, 115, 101, 0.08));
+}
+
 .chapter-row .num {
   font-family: var(--mono);
   font-size: 12px;
@@ -321,6 +361,11 @@ a {
 .chapter-row .title {
   font-size: 16px;
   line-height: 1.45;
+  white-space: pre-line;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .reader-wrap {
@@ -349,11 +394,25 @@ a {
   text-decoration: none;
   font-size: 13px;
   line-height: 1.45;
+  white-space: pre-line;
 }
 
 .reader-aside a.active {
   color: var(--accent-dark);
   font-weight: 700;
+}
+
+.reader-section {
+  margin-top: 18px;
+}
+
+.reader-section p {
+  margin: 0 0 6px;
+  color: var(--accent-dark);
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .reader {
@@ -378,6 +437,7 @@ a {
   font-family: var(--serif);
   font-size: 48px;
   line-height: 1.12;
+  white-space: pre-line;
 }
 
 .reader-meta {
@@ -485,6 +545,7 @@ a {
   border-radius: 8px;
   text-decoration: none;
   color: var(--ink-soft);
+  white-space: pre-line;
 }
 
 .reader-nav a:last-child {
@@ -599,8 +660,12 @@ a {
   }
 
   .book-grid,
-  .chapter-list,
   .reader-nav {
+    grid-template-columns: 1fr;
+  }
+
+  .chapter-list {
+    max-height: none;
     grid-template-columns: 1fr;
   }
 

@@ -6,105 +6,112 @@
   "category": "Process 06",
   "author": "MEJE Works",
   "description": "세계관과 캐릭터 시트를 바탕으로 일상단면, 사건, 관계 변화, 참여형 장면 100개를 생산하는 스토리텔링 공정입니다.",
-  "order": 7,
+  "order": 6,
   "chapterCount": 14,
-  "assetCount": 0,
-  "assets": [],
+  "cover": "/assets/books/meje-storytelling-100/00-generated-cover.svg",
+  "assetCount": 1,
+  "assets": [
+    {
+      "title": "MEJE 스토리텔링 100 생성 표지",
+      "sourceFile": "generated",
+      "url": "/assets/books/meje-storytelling-100/00-generated-cover.svg"
+    }
+  ],
   "chapters": [
     {
       "slug": "02-본문-01-제1장-wikied",
-      "title": "01 제1장",
+      "title": "Vault 이후의 빈 문서\n일상단면 시나리오가 세계관을 완성하는 역할",
       "sourceFile": "본문_01_제1장_wikied.md",
       "file": "chapters/02-본문-01-제1장-wikied.md",
       "order": 1
     },
     {
       "slug": "03-본문-02-제2장-wikied",
-      "title": "02 제2장",
+      "title": "한 편이 살아 있으려면\n6대 품질 기준의 지도",
       "sourceFile": "본문_02_제2장_wikied.md",
       "file": "chapters/03-본문-02-제2장-wikied.md",
       "order": 2
     },
     {
       "slug": "04-본문-03-제3장-wikied",
-      "title": "03 제3장",
+      "title": "판돈·시점·형식·분량\n집필 전에 확정해야 할 네 가지",
       "sourceFile": "본문_03_제3장_wikied.md",
       "file": "chapters/04-본문-03-제3장-wikied.md",
       "order": 3
     },
     {
       "slug": "05-본문-04-제4장-wikied",
-      "title": "04 제4장",
+      "title": "Vault와 집필의 인터페이스\n단일 진실 공급원과 양방향 동기화",
       "sourceFile": "본문_04_제4장_wikied.md",
       "file": "chapters/05-본문-04-제4장-wikied.md",
       "order": 4
     },
     {
       "slug": "06-본문-05-제5장-wikied",
-      "title": "05 제5장",
+      "title": "100인의 주인공들\n커버리지 매트릭스와 인물 균형",
       "sourceFile": "본문_05_제5장_wikied.md",
       "file": "chapters/06-본문-05-제5장-wikied.md",
       "order": 5
     },
     {
       "slug": "07-본문-06-제6장-wikied",
-      "title": "06 제6장",
+      "title": "소재 발굴 네 갈래\n라이브러리 표제와 일상의 밀도",
       "sourceFile": "본문_06_제6장_wikied.md",
       "file": "chapters/07-본문-06-제6장-wikied.md",
       "order": 6
     },
     {
       "slug": "08-본문-07-제7장-wikied",
-      "title": "07 제7장",
+      "title": "신체 앵커 설계\n몸이 없으면 독자도 없다",
       "sourceFile": "본문_07_제7장_wikied.md",
       "file": "chapters/08-본문-07-제7장-wikied.md",
       "order": 7
     },
     {
       "slug": "09-본문-08-제8장-wikied",
-      "title": "08 제8장",
+      "title": "Fun Engine 5종\n이야기를 작동시키는 장치들",
       "sourceFile": "본문_08_제8장_wikied.md",
       "file": "chapters/09-본문-08-제8장-wikied.md",
       "order": 8
     },
     {
       "slug": "10-본문-09-제9장-wikied",
-      "title": "09 제9장",
+      "title": "엔딩 착지와 숫자 장면화\n원고의 끝에서 남는 것",
       "sourceFile": "본문_09_제9장_wikied.md",
       "file": "chapters/10-본문-09-제9장-wikied.md",
       "order": 9
     },
     {
       "slug": "11-본문-10-제10장-wikied",
-      "title": "10 제10장",
+      "title": "설계서에서 원고까지\n10가지 결정의 연쇄",
       "sourceFile": "본문_10_제10장_wikied.md",
       "file": "chapters/11-본문-10-제10장-wikied.md",
       "order": 10
     },
     {
       "slug": "12-본문-11-제11장-wikied",
-      "title": "11 제11장",
+      "title": "참조 작가 시스템\n기술·직업 루틴과 내면 감각의 통합",
       "sourceFile": "본문_11_제11장_wikied.md",
       "file": "chapters/12-본문-11-제11장-wikied.md",
       "order": 11
     },
     {
       "slug": "13-본문-12-제12장-wikied",
-      "title": "12 제12장",
+      "title": "합격선 앞에 서는 법\nQA 리포트와 자기 교정",
       "sourceFile": "본문_12_제12장_wikied.md",
       "file": "chapters/13-본문-12-제12장-wikied.md",
       "order": 12
     },
     {
       "slug": "14-본문-13-제13장-wikied",
-      "title": "13 제13장",
+      "title": "100편을 관리하는 일\n커버리지 매트릭스와 아카이브 운영",
       "sourceFile": "본문_13_제13장_wikied.md",
       "file": "chapters/14-본문-13-제13장-wikied.md",
       "order": 13
     },
     {
       "slug": "15-본문-14-제14장-wikied",
-      "title": "14 제14장",
+      "title": "실전에서 알게 된 것\n100편의 끝에서 보이는 것들",
       "sourceFile": "본문_14_제14장_wikied.md",
       "file": "chapters/15-본문-14-제14장-wikied.md",
       "order": 14

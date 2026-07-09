@@ -1,12 +1,12 @@
 {
   "slug": "mobile-game-bm-renewal",
-  "title": "모바일 게임 BM 리뉴얼",
-  "subtitle": "과금 기획, 설계, 데이터 분석과 운영",
+  "title": "뉴콘텐츠 BM과 IP 확장 경제",
+  "subtitle": "게임, 음악, 영상, 웹툰을 잇는 지불 습관과 과금 구조",
   "line": "KIM DONG-EUN",
   "category": "Business Model",
   "author": "김동은WhtDrgon.",
-  "description": "뉴콘텐츠 비즈니스 모델을 게임, 음악, 영상, 웹툰, IP 확장 경제와 연결해 읽는 BM북 리뉴얼 원고입니다.",
-  "order": 10,
+  "description": "지불 습관의 역사에서 게임, 음악, 영상, 웹툰, IP 확장 경제까지 이어지는 뉴콘텐츠 비즈니스 모델 원고입니다.",
+  "order": 9,
   "chapterCount": 30,
   "cover": "/assets/books/mobile-game-bm-renewal/02-01-새로운것은어디서오는가-title.webp",
   "assetCount": 63,
@@ -330,210 +330,210 @@
   "chapters": [
     {
       "slug": "01-01-프롤로그",
-      "title": "01 프롤로그",
+      "title": "새로운 것은 어디서 오는가",
       "sourceFile": "01_프롤로그.md",
       "file": "chapters/01-01-프롤로그.md",
       "order": 1
     },
     {
       "slug": "02-02-bm이란무엇인가",
-      "title": "02 BM이란무엇인가",
+      "title": "BM이란 무엇인가\n지불 습관을 해부하는 도구",
       "sourceFile": "02_BM이란무엇인가.md",
       "file": "chapters/02-02-bm이란무엇인가.md",
       "order": 2
     },
     {
       "slug": "03-03-지불습관의탄생",
-      "title": "03 지불습관의탄생",
+      "title": "지불 습관의 탄생\n인류는 언제부터 콘텐츠에 돈을 냈는가",
       "sourceFile": "03_지불습관의탄생.md",
       "file": "chapters/03-03-지불습관의탄생.md",
       "order": 3
     },
     {
       "slug": "04-04-현대bm유형론",
-      "title": "04 현대BM유형론",
+      "title": "현대 BM 유형론\n6가지 패턴과 그 기원",
       "sourceFile": "04_현대BM유형론.md",
       "file": "chapters/04-04-현대bm유형론.md",
       "order": 4
     },
     {
       "slug": "05-05-디지털전환",
-      "title": "05 디지털전환",
+      "title": "디지털 전환\n마찰을 없애는 자가 시장을 가져간다",
       "sourceFile": "05_디지털전환.md",
       "file": "chapters/05-05-디지털전환.md",
       "order": 5
     },
     {
       "slug": "06-06-아케이드",
-      "title": "06 아케이드",
+      "title": "아케이드\n동전 한 닢의 발명",
       "sourceFile": "06_아케이드.md",
       "file": "chapters/06-06-아케이드.md",
       "order": 6
     },
     {
       "slug": "07-07-콘솔",
-      "title": "07 콘솔",
+      "title": "콘솔\n패키지의 탄생과 DLC의 발명",
       "sourceFile": "07_콘솔.md",
       "file": "chapters/07-07-콘솔.md",
       "order": 7
     },
     {
       "slug": "08-08-pc와온라인게임",
-      "title": "08 PC와온라인게임",
+      "title": "PC와 온라인 게임\n부분유료화는 어떻게 태어났는가",
       "sourceFile": "08_PC와온라인게임.md",
       "file": "chapters/08-08-pc와온라인게임.md",
       "order": 8
     },
     {
       "slug": "09-09-모바일게임",
-      "title": "09 모바일게임",
+      "title": "모바일 게임\nF2P와 가챠의 심리학",
       "sourceFile": "09_모바일게임.md",
       "file": "chapters/09-09-모바일게임.md",
       "order": 9
     },
     {
       "slug": "10-10-gaas",
-      "title": "10 GaaS",
+      "title": "경계의 해체\n하이브리드 BM과 GaaS",
       "sourceFile": "10_GaaS.md",
       "file": "chapters/10-10-gaas.md",
       "order": 10
     },
     {
       "slug": "11-11-e스포츠",
-      "title": "11 e스포츠",
+      "title": "e스포츠와 게임 방송\n관람이 지불 습관이 되다",
       "sourceFile": "11_e스포츠.md",
       "file": "chapters/11-11-e스포츠.md",
       "order": 11
     },
     {
       "slug": "12-12-게임bm미래",
-      "title": "12 게임BM미래",
+      "title": "게임 BM의 미래와 사회\n새 기술은 새 습관 공간을 만드는가",
       "sourceFile": "12_게임BM미래.md",
       "file": "chapters/12-12-게임bm미래.md",
       "order": 12
     },
     {
       "slug": "13-13-게임과금실무1",
-      "title": "13 게임과금실무1",
+      "title": "게임 과금 실무 I\n결제 유저의 심리학",
       "sourceFile": "13_게임과금실무1.md",
       "file": "chapters/13-13-게임과금실무1.md",
       "order": 13
     },
     {
       "slug": "14-14-게임과금실무2",
-      "title": "14 게임과금실무2",
+      "title": "게임 과금 실무 II\n설계와 데이터",
       "sourceFile": "14_게임과금실무2.md",
       "file": "chapters/14-14-게임과금실무2.md",
       "order": 14
     },
     {
       "slug": "15-15-2권오프닝",
-      "title": "15 2권오프닝",
+      "title": "2권 오프닝\n게임에서 배운 눈으로 음악을 보다",
       "sourceFile": "15_2권오프닝.md",
       "file": "chapters/15-15-2권오프닝.md",
       "order": 15
     },
     {
       "slug": "16-16-음악의탄생",
-      "title": "16 음악의탄생",
+      "title": "음악의 탄생\n공연에서 레코드까지, 소리에 값을 매기다",
       "sourceFile": "16_음악의탄생.md",
       "file": "chapters/16-16-음악의탄생.md",
       "order": 16
     },
     {
       "slug": "17-17-cd와mp3",
-      "title": "17 CD와MP3",
+      "title": "CD와 MP3의 전쟁\n디지털 전환의 첫 번째 충격",
       "sourceFile": "17_CD와MP3.md",
       "file": "chapters/17-17-cd와mp3.md",
       "order": 17
     },
     {
       "slug": "18-18-스트리밍의역설",
-      "title": "18 스트리밍의역설",
+      "title": "스트리밍의 역설\n더 많이 듣고 덜 번다",
       "sourceFile": "18_스트리밍의역설.md",
       "file": "chapters/18-18-스트리밍의역설.md",
       "order": 18
     },
     {
       "slug": "19-19-k팝",
-      "title": "19 K팝",
+      "title": "K-pop\n팬덤을 설계한 산업",
       "sourceFile": "19_K팝.md",
       "file": "chapters/19-19-k팝.md",
       "order": 19
     },
     {
       "slug": "20-20-공연과레이블",
-      "title": "20 공연과레이블",
+      "title": "공연과 레이블\n음악 생태계의 돈의 흐름",
       "sourceFile": "20_공연과레이블.md",
       "file": "chapters/20-20-공연과레이블.md",
       "order": 20
     },
     {
       "slug": "21-21-노래방과음향디바이스",
-      "title": "21 노래방과음향디바이스",
+      "title": "노래방과 음향 디바이스\n공간과 기기가 만든 습관",
       "sourceFile": "21_노래방과음향디바이스.md",
       "file": "chapters/21-21-노래방과음향디바이스.md",
       "order": 21
     },
     {
       "slug": "22-22-영상산업지형",
-      "title": "22 영상산업지형",
+      "title": "영상산업의 지형\nTV에서 스트리밍까지의 습관 변화",
       "sourceFile": "22_영상산업지형.md",
       "file": "chapters/22-22-영상산업지형.md",
       "order": 22
     },
     {
       "slug": "23-23-ott전쟁",
-      "title": "23 OTT전쟁",
+      "title": "OTT 전쟁\nSVOD vs AVOD, 넷플릭스가 만든 것과 부순 것",
       "sourceFile": "23_OTT전쟁.md",
       "file": "chapters/23-23-ott전쟁.md",
       "order": 23
     },
     {
       "slug": "24-24-웹툰과웹소설",
-      "title": "24 웹툰과웹소설",
+      "title": "웹툰과 웹소설\n\"기다리면 무료\"라는 천재적 발명",
       "sourceFile": "24_웹툰과웹소설.md",
       "file": "chapters/24-24-웹툰과웹소설.md",
       "order": 24
     },
     {
       "slug": "25-25-유튜브와숏폼",
-      "title": "25 유튜브와숏폼",
+      "title": "유튜브와 숏폼\n개인이 방송국이 되던 날",
       "sourceFile": "25_유튜브와숏폼.md",
       "file": "chapters/25-25-유튜브와숏폼.md",
       "order": 25
     },
     {
       "slug": "26-26-ip확장경제",
-      "title": "26 IP확장경제",
+      "title": "IP 확장 경제\n게임·음악·영상·MD의 습관 순환",
       "sourceFile": "26_IP확장경제.md",
       "file": "chapters/26-26-ip확장경제.md",
       "order": 26
     },
     {
       "slug": "27-27-데이팅앱과운세",
-      "title": "27 데이팅앱과운세",
+      "title": "데이팅 앱과 운세\n특수 BM의 습관 공간 분석",
       "sourceFile": "27_데이팅앱과운세.md",
       "file": "chapters/27-27-데이팅앱과운세.md",
       "order": 27
     },
     {
       "slug": "28-28-bm설계프레임워크",
-      "title": "28 BM설계프레임워크",
+      "title": "BM 설계 프레임워크\n역사에서 찾는 나의 BM",
       "sourceFile": "28_BM설계프레임워크.md",
       "file": "chapters/28-28-bm설계프레임워크.md",
       "order": 28
     },
     {
       "slug": "29-29-오타쿠경제학",
-      "title": "29 오타쿠경제학",
+      "title": "오타쿠 경제학\n왜 팬덤이 미래인가",
       "sourceFile": "29_오타쿠경제학.md",
       "file": "chapters/29-29-오타쿠경제학.md",
       "order": 29
     },
     {
       "slug": "30-30-부록",
-      "title": "30 부록",
+      "title": "부록\n지불 습관 전이 패턴 사전 + 뉴콘텐츠 BM 체크리스트",
       "sourceFile": "30_부록.md",
       "file": "chapters/30-30-부록.md",
       "order": 30

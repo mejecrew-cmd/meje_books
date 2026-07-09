@@ -7,107 +7,122 @@
   "author": "MEJE Works",
   "description": "MEJEworks 산하 번역 조직 서연각의 기획부터 납품까지, 다국어 콘텐츠 제작과 자료집화를 다루는 실무 원고입니다.",
   "order": 2,
-  "chapterCount": 14,
-  "assetCount": 0,
-  "assets": [],
+  "chapterCount": 15,
+  "cover": "/assets/books/meje-seoyeongak/00-generated-cover.svg",
+  "assetCount": 1,
+  "assets": [
+    {
+      "title": "MEJE 서연각 번역 프로세스 생성 표지",
+      "sourceFile": "generated",
+      "url": "/assets/books/meje-seoyeongak/00-generated-cover.svg"
+    }
+  ],
   "chapters": [
     {
       "slug": "03-본문-01-제1장-wikied",
-      "title": "01 제1장",
+      "title": "사과는 애플이 아니다\n<서연각>이라는 작업",
       "sourceFile": "본문_01_제1장_wikied.md",
       "file": "chapters/03-본문-01-제1장-wikied.md",
       "order": 1
     },
     {
       "slug": "04-본문-02-제2장-wikied",
-      "title": "02 제2장",
+      "title": "<서연각>은 6단계로 흐릅니다",
       "sourceFile": "본문_02_제2장_wikied.md",
       "file": "chapters/04-본문-02-제2장-wikied.md",
       "order": 2
     },
     {
       "slug": "05-본문-03-제3장-wikied",
-      "title": "03 제3장",
+      "title": "30여 종의 자료, 그 분류의 논리\n오만과 편견이 35종이 된 까닭",
       "sourceFile": "본문_03_제3장_wikied.md",
       "file": "chapters/05-본문-03-제3장-wikied.md",
       "order": 3
     },
     {
       "slug": "06-본문-04-제4장-wikied",
-      "title": "04 제4장",
+      "title": "오만과 편견 작업 폴더의 안쪽",
       "sourceFile": "본문_04_제4장_wikied.md",
       "file": "chapters/06-본문-04-제4장-wikied.md",
       "order": 4
     },
     {
       "slug": "07-본문-05-제5장-wikied",
-      "title": "05 제5장",
+      "title": "한 구간을 들여다보기, 한 사건군을 풀어보기",
       "sourceFile": "본문_05_제5장_wikied.md",
       "file": "chapters/07-본문-05-제5장-wikied.md",
       "order": 5
     },
     {
       "slug": "08-본문-06-제6장-wikied",
-      "title": "06 제6장",
+      "title": "한 문장의 갈림길\n구조를 미리 정해 두는 자료",
       "sourceFile": "본문_06_제6장_wikied.md",
       "file": "chapters/08-본문-06-제6장-wikied.md",
       "order": 6
     },
     {
       "slug": "09-본문-07-제7장-wikied",
-      "title": "07 제7장",
+      "title": "35종의 자료가 결정된 경로",
       "sourceFile": "본문_07_제7장_wikied.md",
       "file": "chapters/09-본문-07-제7장-wikied.md",
       "order": 7
     },
     {
       "slug": "10-본문-08-제8장-wikied",
-      "title": "08 제8장",
+      "title": "모든 작품의 뼈대\n공통 자료와 소설 팩",
       "sourceFile": "본문_08_제8장_wikied.md",
       "file": "chapters/10-본문-08-제8장-wikied.md",
       "order": 8
     },
     {
       "slug": "11-본문-09-제9장-wikied",
-      "title": "09 제9장",
+      "title": "작품의 세계\n시대 백과와 모티프 자료",
       "sourceFile": "본문_09_제9장_wikied.md",
       "file": "chapters/11-본문-09-제9장-wikied.md",
       "order": 9
     },
     {
       "slug": "12-본문-10-제10장-wikied",
-      "title": "10 제10장",
+      "title": "오만과 편견 고유의 보강 자료들",
       "sourceFile": "본문_10_제10장_wikied.md",
       "file": "chapters/12-본문-10-제10장-wikied.md",
       "order": 10
     },
     {
       "slug": "13-본문-11-제11장-wikied",
-      "title": "11 제11장",
+      "title": "주인공의 노트\n엘리자베스 베넷",
       "sourceFile": "본문_11_제11장_wikied.md",
       "file": "chapters/13-본문-11-제11장-wikied.md",
       "order": 11
     },
     {
       "slug": "14-본문-12-제12장-wikied",
-      "title": "12 제12장",
+      "title": "조연의 노트\n샬럿 루카스",
       "sourceFile": "본문_12_제12장_wikied.md",
       "file": "chapters/14-본문-12-제12장-wikied.md",
       "order": 12
     },
     {
       "slug": "15-본문-13-제13장-wikied",
-      "title": "13 제13장",
+      "title": "단역과 부속, 그리고 분업의 기술",
       "sourceFile": "본문_13_제13장_wikied.md",
       "file": "chapters/15-본문-13-제13장-wikied.md",
       "order": 13
     },
     {
       "slug": "16-본문-14-제14장-wikied",
-      "title": "14 제14장",
+      "title": "자료의 무결성, 그리고 마지막 인사",
       "sourceFile": "본문_14_제14장_wikied.md",
       "file": "chapters/16-본문-14-제14장-wikied.md",
       "order": 14
+    },
+    {
+      "title": "산출물 샘플 : 오만과 편견",
+      "slug": "15-pride-and-prejudice-sample",
+      "externalUrl": "/books/pride-and-prejudice-data/",
+      "section": "산출물 샘플",
+      "sourceFile": "external:pride-and-prejudice-data",
+      "order": 15
     }
   ]
 }

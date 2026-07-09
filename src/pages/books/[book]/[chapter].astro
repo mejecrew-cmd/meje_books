@@ -1,11 +1,12 @@
 ---
 import BaseLayout from "../../../layouts/BaseLayout.astro";
-import { getBooks, getChapter } from "../../../lib/books";
+import { bookTitleWithCount, chapterHref, getBooks, getChapter, groupedChapters } from "../../../lib/books";
 
 export async function getStaticPaths() {
   const paths = [];
   for (const book of getBooks()) {
     for (const chapter of book.chapters) {
+      if (chapter.externalUrl) continue;
       paths.push({
         params: { book: book.slug, chapter: chapter.slug },
         props: { bookSlug: book.slug, chapterSlug: chapter.slug }
@@ -20,37 +21,43 @@ if (!data) {
   throw new Error("Chapter not found");
 }
 const { book, chapter, html, prev, next } = data;
+const chapterGroups = groupedChapters(book);
 ---
-<BaseLayout title={`${chapter.title} · ${book.title}`} description={book.description}>
+<BaseLayout title={`${chapter.title} · ${bookTitleWithCount(book)}`} description={book.description}>
   <div class="reader-wrap">
     <aside class="reader-aside" aria-label="목차">
-      <a href={`/books/${book.slug}/`}>← {book.title}</a>
-      {book.chapters.map((item) => (
-        <a
-          class={item.slug === chapter.slug ? "active" : ""}
-          href={`/books/${book.slug}/${item.slug}/`}
-        >
-          {String(item.order).padStart(2, "0")}. {item.title}
-        </a>
+      <a href={`/books/${book.slug}/`}>← {bookTitleWithCount(book)}</a>
+      {chapterGroups.map(([section, chapters]) => (
+        <div class="reader-section">
+          <p>{section}</p>
+          {chapters.map((item) => (
+            <a
+              class={item.slug === chapter.slug ? "active" : ""}
+              href={chapterHref(book, item)}
+            >
+              {String(item.order).padStart(2, "0")}. {item.title}
+            </a>
+          ))}
+        </div>
       ))}
     </aside>
 
     <article class="reader">
       <header class="reader-head">
-        <p class="crumb">{book.line} · {book.title}</p>
+        <p class="crumb">{book.line} · {bookTitleWithCount(book)}</p>
         <h1>{chapter.title}</h1>
-        <div class="reader-meta">{book.author} · Chapter {chapter.order}</div>
+        <div class="reader-meta">{book.author} · {chapter.order}편</div>
       </header>
       <div class="prose" set:html={html} />
       <nav class="reader-nav" aria-label="Chapter navigation">
         {prev ? (
-          <a href={`/books/${book.slug}/${prev.slug}/`}>
+          <a href={chapterHref(book, prev)}>
             <span>Previous</span>
             {prev.title}
           </a>
         ) : <span></span>}
         {next ? (
-          <a href={`/books/${book.slug}/${next.slug}/`}>
+          <a href={chapterHref(book, next)}>
             <span>Next</span>
             {next.title}
           </a>

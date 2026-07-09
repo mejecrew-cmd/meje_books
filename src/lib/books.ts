@@ -7,8 +7,10 @@ export type Chapter = {
   slug: string;
   title: string;
   sourceFile: string;
-  file: string;
+  file?: string;
   order: number;
+  section?: string;
+  externalUrl?: string;
 };
 
 export type BookAsset = {
@@ -51,6 +53,29 @@ export function getBooks(): Book[] {
     .sort((a, b) => a.order - b.order || a.title.localeCompare(b.title, "ko"));
 }
 
+export function bookTitleWithCount(book: Pick<Book, "title" | "chapterCount">): string {
+  return `${book.title} (${book.chapterCount}편)`;
+}
+
+export function chapterCountLabel(book: Pick<Book, "chapterCount">): string {
+  return `${book.chapterCount}편`;
+}
+
+export function chapterHref(book: Pick<Book, "slug">, chapter: Chapter): string {
+  return chapter.externalUrl ?? `/books/${book.slug}/${chapter.slug}/`;
+}
+
+export function groupedChapters(book: Pick<Book, "chapters">): Array<[string, Chapter[]]> {
+  const groups = new Map<string, Chapter[]>();
+  for (const chapter of book.chapters) {
+    const section = chapter.section ?? "목차";
+    const current = groups.get(section) ?? [];
+    current.push(chapter);
+    groups.set(section, current);
+  }
+  return [...groups.entries()];
+}
+
 export function getBook(slug: string): Book | undefined {
   const filePath = path.join(contentRoot, slug, "book.json");
   if (!fs.existsSync(filePath)) return undefined;
@@ -61,7 +86,7 @@ export async function getChapter(bookSlug: string, chapterSlug: string) {
   const book = getBook(bookSlug);
   if (!book) return undefined;
   const chapter = book.chapters.find((item) => item.slug === chapterSlug);
-  if (!chapter) return undefined;
+  if (!chapter || chapter.externalUrl || !chapter.file) return undefined;
 
   const filePath = path.join(contentRoot, book.slug, chapter.file);
   const source = fs.readFileSync(filePath, "utf8");

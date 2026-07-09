@@ -6,7 +6,7 @@
   "category": "FTUE",
   "author": "김동은WhtDrgon.",
   "description": "서비스와 콘텐츠의 첫 화면, 첫 감정, 첫 관계를 어떻게 설계할지 다루는 최초 사용자 경험 원고 묶음입니다.",
-  "order": 9,
+  "order": 8,
   "chapterCount": 30,
   "cover": "/assets/books/new-content-ftue/01-00-전체표지.webp",
   "assetCount": 31,
@@ -170,210 +170,210 @@
   "chapters": [
     {
       "slug": "01-01-게임은-안멋져",
-      "title": "01 게임은 안멋져",
+      "title": "1장. 게임은 안 멋져",
       "sourceFile": "01_게임은_안멋져.md",
       "file": "chapters/01-01-게임은-안멋져.md",
       "order": 1
     },
     {
       "slug": "02-02-ftue는튜토리얼이아니다",
-      "title": "02 FTUE는튜토리얼이아니다",
+      "title": "2장. FTUE는 튜토리얼이 아니다",
       "sourceFile": "02_FTUE는튜토리얼이아니다.md",
       "file": "chapters/02-02-ftue는튜토리얼이아니다.md",
       "order": 2
     },
     {
       "slug": "03-03-최초란무엇인가",
-      "title": "03 최초란무엇인가",
+      "title": "3장. 최초란 무엇인가",
       "sourceFile": "03_최초란무엇인가.md",
       "file": "chapters/03-03-최초란무엇인가.md",
       "order": 3
     },
     {
       "slug": "04-04-경험이란무엇인가",
-      "title": "04 경험이란무엇인가",
+      "title": "4장. 경험이란 무엇인가",
       "sourceFile": "04_경험이란무엇인가.md",
       "file": "chapters/04-04-경험이란무엇인가.md",
       "order": 4
     },
     {
       "slug": "05-05-경험은경험을기반한다",
-      "title": "05 경험은경험을기반한다",
+      "title": "5장. 경험은 경험에 기반한다: 선행 유사경험",
       "sourceFile": "05_경험은경험을기반한다.md",
       "file": "chapters/05-05-경험은경험을기반한다.md",
       "order": 5
     },
     {
       "slug": "06-06-사용자는한사람이아니다",
-      "title": "06 사용자는한사람이아니다",
+      "title": "6장. 사용자는 한 사람이 아니다: 정체성 8계층",
       "sourceFile": "06_사용자는한사람이아니다.md",
       "file": "chapters/06-06-사용자는한사람이아니다.md",
       "order": 6
     },
     {
       "slug": "07-07-극단적초보자와가짜초보자",
-      "title": "07 극단적초보자와가짜초보자",
+      "title": "7장. 극단적 초보자와 가짜 초보자: 체험자 8종",
       "sourceFile": "07_극단적초보자와가짜초보자.md",
       "file": "chapters/07-07-극단적초보자와가짜초보자.md",
       "order": 7
     },
     {
       "slug": "08-08-고객안의고객들",
-      "title": "08 고객안의고객들",
+      "title": "8장. 고객 안의 고객들: 페르소나에서 이민 후보자로",
       "sourceFile": "08_고객안의고객들.md",
       "file": "chapters/08-08-고객안의고객들.md",
       "order": 8
     },
     {
       "slug": "09-09-주력세계관과인접세계관",
-      "title": "09 주력세계관과인접세계관",
+      "title": "9장. 주력 세계관과 인접 세계관: 세계는 주민을 입주시킬 수 있어야 한다",
       "sourceFile": "09_주력세계관과인접세계관.md",
       "file": "chapters/09-09-주력세계관과인접세계관.md",
       "order": 9
     },
     {
       "slug": "10-10-캐릭터명단과감각명단",
-      "title": "10 캐릭터명단과감각명단",
+      "title": "10장. 캐릭터 명단과 감각 명단",
       "sourceFile": "10_캐릭터명단과감각명단.md",
       "file": "chapters/10-10-캐릭터명단과감각명단.md",
       "order": 10
     },
     {
       "slug": "11-11-사용자의상태-경험의요금",
-      "title": "11 사용자의상태 경험의요금",
+      "title": "11장. 사용자의 상태: 산만함과 경험의 요금",
       "sourceFile": "11_사용자의상태_경험의요금.md",
       "file": "chapters/11-11-사용자의상태-경험의요금.md",
       "order": 11
     },
     {
       "slug": "12-12-콘텐츠별경험의유형",
-      "title": "12 콘텐츠별경험의유형",
+      "title": "12장. 콘텐츠별 경험의 유형",
       "sourceFile": "12_콘텐츠별경험의유형.md",
       "file": "chapters/12-12-콘텐츠별경험의유형.md",
       "order": 12
     },
     {
       "slug": "13-13-버튼이상징하는것",
-      "title": "13 버튼이상징하는것",
+      "title": "13장. 버튼이 상징하는 것: 경험모사 해부",
       "sourceFile": "13_버튼이상징하는것.md",
       "file": "chapters/13-13-버튼이상징하는것.md",
       "order": 13
     },
     {
       "slug": "14-14-놀라움과익숙함의조화",
-      "title": "14 놀라움과익숙함의조화",
+      "title": "14장. 놀라움과 익숙함의 조화: 4원칙과 플로우",
       "sourceFile": "14_놀라움과익숙함의조화.md",
       "file": "chapters/14-14-놀라움과익숙함의조화.md",
       "order": 14
     },
     {
       "slug": "15-15-피드백",
-      "title": "15 피드백",
+      "title": "15장. 피드백: 버튼 뒤에 세계가 반응한다",
       "sourceFile": "15_피드백.md",
       "file": "chapters/15-15-피드백.md",
       "order": 15
     },
     {
       "slug": "16-16-비집중상태의설계",
-      "title": "16 비집중상태의설계",
+      "title": "16장. 비집중 상태의 설계: 소음·오염 속의 버튼과 LED",
       "sourceFile": "16_비집중상태의설계.md",
       "file": "chapters/16-16-비집중상태의설계.md",
       "order": 16
     },
     {
       "slug": "17-17-오류와복구",
-      "title": "17 오류와복구",
+      "title": "17장. 오류와 복구: 통제감을 빼앗지 않는 법",
       "sourceFile": "17_오류와복구.md",
       "file": "chapters/17-17-오류와복구.md",
       "order": 17
     },
     {
       "slug": "18-18-경험의예고와100개의첫인상",
-      "title": "18 경험의예고와100개의첫인상",
+      "title": "18장. 경험의 예고와 100개의 첫인상",
       "sourceFile": "18_경험의예고와100개의첫인상.md",
       "file": "chapters/18-18-경험의예고와100개의첫인상.md",
       "order": 18
     },
     {
       "slug": "19-19-경험의충돌과레이어",
-      "title": "19 경험의충돌과레이어",
+      "title": "19장. 경험의 충돌과 레이어",
       "sourceFile": "19_경험의충돌과레이어.md",
       "file": "chapters/19-19-경험의충돌과레이어.md",
       "order": 19
     },
     {
       "slug": "20-20-ftue의시작점과종료점",
-      "title": "20 FTUE의시작점과종료점",
+      "title": "20장. FTUE의 시작점과 종료점",
       "sourceFile": "20_FTUE의시작점과종료점.md",
       "file": "chapters/20-20-ftue의시작점과종료점.md",
       "order": 20
     },
     {
       "slug": "21-21-첫30초3분30분하루",
-      "title": "21 첫30초3분30분하루",
+      "title": "21장. 첫 30초·3분·30분·하루",
       "sourceFile": "21_첫30초3분30분하루.md",
       "file": "chapters/21-21-첫30초3분30분하루.md",
       "order": 21
     },
     {
       "slug": "22-22-결과적계기판의정의",
-      "title": "22 결과적계기판의정의",
+      "title": "22장. 결과적 계기판의 정의",
       "sourceFile": "22_결과적계기판의정의.md",
       "file": "chapters/22-22-결과적계기판의정의.md",
       "order": 22
     },
     {
       "slug": "23-23-계기와계기판의인과",
-      "title": "23 계기와계기판의인과",
+      "title": "23장. 계기와 계기판의 인과",
       "sourceFile": "23_계기와계기판의인과.md",
       "file": "chapters/23-23-계기와계기판의인과.md",
       "order": 23
     },
     {
       "slug": "24-24-사업적목표와정량",
-      "title": "24 사업적목표와정량",
+      "title": "24장. 사업적 목표와 정량",
       "sourceFile": "24_사업적목표와정량.md",
       "file": "chapters/24-24-사업적목표와정량.md",
       "order": 24
     },
     {
       "slug": "25-25-측정과반복",
-      "title": "25 측정과반복",
+      "title": "25장. 측정과 반복",
       "sourceFile": "25_측정과반복.md",
       "file": "chapters/25-25-측정과반복.md",
       "order": 25
     },
     {
       "slug": "26-26-경험의확장을유저에게",
-      "title": "26 경험의확장을유저에게",
+      "title": "26장. 경험의 확장을 유저에게 맡길 수 있는가",
       "sourceFile": "26_경험의확장을유저에게.md",
       "file": "chapters/26-26-경험의확장을유저에게.md",
       "order": 26
     },
     {
       "slug": "27-27-ai시대의ftue",
-      "title": "27 AI시대의FTUE",
+      "title": "27장. AI 시대의 FTUE",
       "sourceFile": "27_AI시대의FTUE.md",
       "file": "chapters/27-27-ai시대의ftue.md",
       "order": 27
     },
     {
       "slug": "28-28-정리a-설계도구",
-      "title": "28 정리A 설계도구",
+      "title": "28. 정리 A: 설계 도구",
       "sourceFile": "28_정리A_설계도구.md",
       "file": "chapters/28-28-정리a-설계도구.md",
       "order": 28
     },
     {
       "slug": "29-30-정리c-장별참고사례",
-      "title": "30 정리C 장별참고사례",
+      "title": "30. 정리 C: 장별 참고 사례",
       "sourceFile": "30_정리C_장별참고사례.md",
       "file": "chapters/29-30-정리c-장별참고사례.md",
       "order": 29
     },
     {
       "slug": "30-29-정리b-측정과점검과참조",
-      "title": "29 정리B 측정과점검과참조",
+      "title": "29. 정리 B: 측정·점검·참조",
       "sourceFile": "29_정리B_측정과점검과참조.md",
       "file": "chapters/30-29-정리b-측정과점검과참조.md",
       "order": 30

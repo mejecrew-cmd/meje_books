@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Pride and Prejudice 세계관 데이터 cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4d3a52"/>
+      <stop offset="1" stop-color="#c7a8d6"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#eadff1" stroke-opacity="0.18" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#grid)"/>
+  <circle cx="980" cy="150" r="180" fill="#eadff1" opacity="0.22"/>
+  <circle cx="1040" cy="505" r="260" fill="#fff5df" opacity="0.12"/>
+  <rect x="72" y="86" width="180" height="6" fill="#fff5df" opacity="0.84"/>
+  <text x="72" y="138" font-size="24" font-weight="700" letter-spacing="4" fill="#fff5df" opacity="0.86">MEJE PROCESS</text>
+  <text x="72" y="232" font-size="42" font-weight="800" fill="#fff5df">Pride and</text>
+<text x="72" y="284" font-size="42" font-weight="800" fill="#fff5df">Prejudice 세계관 데이터</text>
+  <text x="72" y="566" font-size="24" font-weight="600" fill="#fff5df" opacity="0.82">Reference · MEJE BOOKS</text>
+</svg>

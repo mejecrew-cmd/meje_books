@@ -1,274 +1,614 @@
 {
   "slug": "pride-and-prejudice-data",
   "title": "Pride and Prejudice 세계관 데이터",
-  "subtitle": "서연각 공정의 기반 자료 예시",
+  "subtitle": "배경 설정 시트와 캐릭터시트로 보는 서연각 산출물 샘플",
   "line": "MEJE PROCESS",
   "category": "Reference",
   "author": "MEJE Works",
-  "description": "서연각 번역 및 자료집 공정의 기반 예시로 정리된 Pride and Prejudice 세계관 데이터와 설정 시트 자료입니다.",
+  "description": "서연각 번역 및 자료집 공정의 산출물 샘플로, Pride and Prejudice의 배경 설정 시트와 캐릭터시트를 함께 정리했습니다.",
   "order": 3,
-  "chapterCount": 37,
-  "assetCount": 0,
-  "assets": [],
+  "chapterCount": 74,
+  "cover": "/assets/books/pride-and-prejudice-data/00-generated-cover.svg",
+  "assetCount": 1,
+  "assets": [
+    {
+      "title": "Pride and Prejudice 세계관 데이터 생성 표지",
+      "sourceFile": "generated",
+      "url": "/assets/books/pride-and-prejudice-data/00-generated-cover.svg"
+    }
+  ],
   "chapters": [
     {
       "slug": "01-p-p-profile-wikied",
       "title": "Pride and Prejudice 작품 프로파일",
       "sourceFile": "P&P_profile_wikied.md",
       "file": "chapters/01-p-p-profile-wikied.md",
-      "order": 1
+      "order": 1,
+      "section": "배경 섹션"
     },
     {
       "slug": "02-인물관계도-wikied",
-      "title": "인물관계도",
+      "title": "Pride and Prejudice\n인물관계도",
       "sourceFile": "[설정시트]/인물관계도_wikied.md",
       "file": "chapters/02-인물관계도-wikied.md",
-      "order": 2
+      "order": 2,
+      "section": "배경 섹션"
     },
     {
       "slug": "03-연대기-wikied",
-      "title": "연대기",
+      "title": "Pride and Prejudice\n연대기 (Chronology)",
       "sourceFile": "[설정시트]/연대기_wikied.md",
       "file": "chapters/03-연대기-wikied.md",
-      "order": 3
+      "order": 3,
+      "section": "배경 섹션"
     },
     {
       "slug": "04-전체인물리스트-wikied",
-      "title": "전체인물리스트",
+      "title": "Pride and Prejudice\n전체인물리스트",
       "sourceFile": "[설정시트]/전체인물리스트_wikied.md",
       "file": "chapters/04-전체인물리스트-wikied.md",
-      "order": 4
+      "order": 4,
+      "section": "배경 섹션"
     },
     {
       "slug": "05-전체장소리스트-wikied",
-      "title": "전체장소리스트",
+      "title": "Pride and Prejudice\n전체장소리스트",
       "sourceFile": "[설정시트]/전체장소리스트_wikied.md",
       "file": "chapters/05-전체장소리스트-wikied.md",
-      "order": 5
+      "order": 5,
+      "section": "배경 섹션"
     },
     {
       "slug": "06-전체사물리스트-wikied",
-      "title": "전체사물리스트",
+      "title": "Pride and Prejudice\n전체사물리스트",
       "sourceFile": "[설정시트]/전체사물리스트_wikied.md",
       "file": "chapters/06-전체사물리스트-wikied.md",
-      "order": 6
+      "order": 6,
+      "section": "배경 섹션"
     },
     {
       "slug": "07-장별-번역가이드-wikied",
-      "title": "장별 번역가이드",
+      "title": "Pride and Prejudice\n장별 번역가이드",
       "sourceFile": "[설정시트]/장별_번역가이드_wikied.md",
       "file": "chapters/07-장별-번역가이드-wikied.md",
-      "order": 7
+      "order": 7,
+      "section": "배경 섹션"
     },
     {
       "slug": "08-시대어-오역방지-사전-wikied",
-      "title": "시대어 오역방지 사전",
+      "title": "Pride and Prejudice\n시대어 오역방지 사전",
       "sourceFile": "[설정시트]/시대어_오역방지_사전_wikied.md",
       "file": "chapters/08-시대어-오역방지-사전-wikied.md",
-      "order": 8
+      "order": 8,
+      "section": "배경 섹션"
     },
     {
       "slug": "09-경칭-어조-번역가이드-wikied",
-      "title": "경칭 어조 번역가이드",
+      "title": "Pride and Prejudice\n경칭 어조 번역가이드",
       "sourceFile": "[설정시트]/경칭_어조_번역가이드_wikied.md",
       "file": "chapters/09-경칭-어조-번역가이드-wikied.md",
-      "order": 9
+      "order": 9,
+      "section": "배경 섹션"
     },
     {
       "slug": "10-서술자-가이드-wikied",
-      "title": "서술자 가이드",
+      "title": "Pride and Prejudice\n서술자(Narrator) 가이드",
       "sourceFile": "[설정시트]/서술자_가이드_wikied.md",
       "file": "chapters/10-서술자-가이드-wikied.md",
-      "order": 10
+      "order": 10,
+      "section": "배경 섹션"
     },
     {
       "slug": "11-뉘앙스리스트-wikied",
-      "title": "뉘앙스리스트",
+      "title": "Pride and Prejudice\n뉘앙스리스트 (본문 번역 가이드)",
       "sourceFile": "[설정시트]/뉘앙스리스트_wikied.md",
       "file": "chapters/11-뉘앙스리스트-wikied.md",
-      "order": 11
+      "order": 11,
+      "section": "배경 섹션"
     },
     {
       "slug": "12-반복모티프-추적표-wikied",
-      "title": "반복모티프 추적표",
+      "title": "Pride and Prejudice\n반복 모티프 추적표",
       "sourceFile": "[설정시트]/반복모티프_추적표_wikied.md",
       "file": "chapters/12-반복모티프-추적표-wikied.md",
-      "order": 12
+      "order": 12,
+      "section": "배경 섹션"
     },
     {
       "slug": "13-서간체-모음집-wikied",
-      "title": "서간체 모음집",
+      "title": "Pride and Prejudice\n서간체 모음집",
       "sourceFile": "[설정시트]/서간체_모음집_wikied.md",
       "file": "chapters/13-서간체-모음집-wikied.md",
-      "order": 13
+      "order": 13,
+      "section": "배경 섹션"
     },
     {
       "slug": "14-인물-심리변화-곡선-wikied",
-      "title": "인물 심리변화 곡선",
+      "title": "Pride and Prejudice\n인물 심리 변화 곡선 (분석/창작 지원)",
       "sourceFile": "[설정시트]/인물_심리변화_곡선_wikied.md",
       "file": "chapters/14-인물-심리변화-곡선-wikied.md",
-      "order": 14
+      "order": 14,
+      "section": "배경 섹션"
     },
     {
       "slug": "15-리젠시-시대상-백과-wikied",
-      "title": "리젠시 시대상 백과",
+      "title": "Pride and Prejudice\n리젠시 시대상 백과",
       "sourceFile": "[설정시트]/리젠시_시대상_백과_wikied.md",
       "file": "chapters/15-리젠시-시대상-백과-wikied.md",
-      "order": 15
+      "order": 15,
+      "section": "배경 섹션"
     },
     {
       "slug": "16-사물-계급상징-사전-wikied",
-      "title": "사물 계급상징 사전",
+      "title": "Pride and Prejudice\n사물 계급상징 사전",
       "sourceFile": "[설정시트]/사물_계급상징_사전_wikied.md",
       "file": "chapters/16-사물-계급상징-사전-wikied.md",
-      "order": 16
+      "order": 16,
+      "section": "배경 섹션"
     },
     {
       "slug": "17-제도-경제용어-관계도-wikied",
-      "title": "제도 경제용어 관계도",
+      "title": "Pride and Prejudice\n제도 경제용어 관계도",
       "sourceFile": "[설정시트]/제도_경제용어_관계도_wikied.md",
       "file": "chapters/17-제도-경제용어-관계도-wikied.md",
-      "order": 17
+      "order": 17,
+      "section": "배경 섹션"
     },
     {
       "slug": "18-하인-체계도-추정-wikied",
-      "title": "하인 체계도 추정",
+      "title": "Pride and Prejudice\n하인 체계도 (추정/창작)",
       "sourceFile": "[설정시트]/하인_체계도_추정_wikied.md",
       "file": "chapters/18-하인-체계도-추정-wikied.md",
-      "order": 18
+      "order": 18,
+      "section": "배경 섹션"
     },
     {
       "slug": "19-메뉴-식문화-추정-wikied",
-      "title": "메뉴 식문화 추정",
+      "title": "Pride and Prejudice\n메뉴 및 식문화 (추정/창작)",
       "sourceFile": "[설정시트]/메뉴_식문화_추정_wikied.md",
       "file": "chapters/19-메뉴-식문화-추정-wikied.md",
-      "order": 19
+      "order": 19,
+      "section": "배경 섹션"
     },
     {
       "slug": "20-의상-인벤토리-추정-wikied",
-      "title": "의상 인벤토리 추정",
+      "title": "Pride and Prejudice\n의상 인벤토리 (추정/창작)",
       "sourceFile": "[설정시트]/의상_인벤토리_추정_wikied.md",
       "file": "chapters/20-의상-인벤토리-추정-wikied.md",
-      "order": 20
+      "order": 20,
+      "section": "배경 섹션"
     },
     {
       "slug": "21-음악-소리환경-추정-wikied",
-      "title": "음악 소리환경 추정",
+      "title": "Pride and Prejudice\n음악 및 소리 환경 (추정/창작)",
       "sourceFile": "[설정시트]/음악_소리환경_추정_wikied.md",
       "file": "chapters/21-음악-소리환경-추정-wikied.md",
-      "order": 21
+      "order": 21,
+      "section": "배경 섹션"
     },
     {
       "slug": "22-신체언어-예법-사전-wikied",
-      "title": "신체언어 예법 사전",
+      "title": "Pride and Prejudice\n신체언어 예법 사전",
       "sourceFile": "[설정시트]/신체언어_예법_사전_wikied.md",
       "file": "chapters/22-신체언어-예법-사전-wikied.md",
-      "order": 22
+      "order": 22,
+      "section": "배경 섹션"
     },
     {
       "slug": "23-감정어휘-한영대응표-wikied",
-      "title": "감정어휘 한영대응표",
+      "title": "Pride and Prejudice\n감정어휘 한영대응표",
       "sourceFile": "[설정시트]/감정어휘_한영대응표_wikied.md",
       "file": "chapters/23-감정어휘-한영대응표-wikied.md",
-      "order": 23
+      "order": 23,
+      "section": "배경 섹션"
     },
     {
       "slug": "24-외래어-프랑스어-사전-wikied",
-      "title": "외래어 프랑스어 사전",
+      "title": "Pride and Prejudice\n외래어 프랑스어 사전",
       "sourceFile": "[설정시트]/외래어_프랑스어_사전_wikied.md",
       "file": "chapters/24-외래어-프랑스어-사전-wikied.md",
-      "order": 24
+      "order": 24,
+      "section": "배경 섹션"
     },
     {
       "slug": "25-건물-평면도-추정-wikied",
-      "title": "건물 평면도 추정",
+      "title": "Pride and Prejudice\n건물 평면도 (추정/창작)",
       "sourceFile": "[설정시트]/건물_평면도_추정_wikied.md",
       "file": "chapters/25-건물-평면도-추정-wikied.md",
-      "order": 25
+      "order": 25,
+      "section": "배경 섹션"
     },
     {
       "slug": "26-씬-세트-구성도-wikied",
-      "title": "씬 세트 구성도",
+      "title": "Pride and Prejudice\n씬 세트 구성도",
       "sourceFile": "[설정시트]/씬_세트_구성도_wikied.md",
       "file": "chapters/26-씬-세트-구성도-wikied.md",
-      "order": 26
+      "order": 26,
+      "section": "배경 섹션"
     },
     {
       "slug": "27-정원-조경-추정-wikied",
-      "title": "정원 조경 추정",
+      "title": "Pride and Prejudice\n정원 및 조경 (추정/창작)",
       "sourceFile": "[설정시트]/정원_조경_추정_wikied.md",
       "file": "chapters/27-정원-조경-추정-wikied.md",
-      "order": 27
+      "order": 27,
+      "section": "배경 섹션"
     },
     {
       "slug": "28-메리턴-상점가-추정-wikied",
-      "title": "메리턴 상점가 추정",
+      "title": "Pride and Prejudice\n메리턴 상점가 (추정/창작)",
       "sourceFile": "[설정시트]/메리턴_상점가_추정_wikied.md",
       "file": "chapters/28-메리턴-상점가-추정-wikied.md",
-      "order": 28
+      "order": 28,
+      "section": "배경 섹션"
     },
     {
       "slug": "29-종교-생활-추정-wikied",
-      "title": "종교 생활 추정",
+      "title": "Pride and Prejudice\n종교 생활 (추정/창작)",
       "sourceFile": "[설정시트]/종교_생활_추정_wikied.md",
       "file": "chapters/29-종교-생활-추정-wikied.md",
-      "order": 29
+      "order": 29,
+      "section": "배경 섹션"
     },
     {
       "slug": "30-인물-일과표-추정-wikied",
-      "title": "인물 일과표 추정",
+      "title": "Pride and Prejudice\n인물 일과표 (추정/창작)",
       "sourceFile": "[설정시트]/인물_일과표_추정_wikied.md",
       "file": "chapters/30-인물-일과표-추정-wikied.md",
-      "order": 30
+      "order": 30,
+      "section": "배경 섹션"
     },
     {
       "slug": "31-전체집단리스트-wikied",
-      "title": "전체집단리스트",
+      "title": "Pride and Prejudice\n전체집단리스트",
       "sourceFile": "[설정시트]/전체집단리스트_wikied.md",
       "file": "chapters/31-전체집단리스트-wikied.md",
-      "order": 31
+      "order": 31,
+      "section": "배경 섹션"
     },
     {
       "slug": "32-전체기타리스트-wikied",
-      "title": "전체기타리스트",
+      "title": "Pride and Prejudice\n전체기타리스트",
       "sourceFile": "[설정시트]/전체기타리스트_wikied.md",
       "file": "chapters/32-전체기타리스트-wikied.md",
-      "order": 32
+      "order": 32,
+      "section": "배경 섹션"
     },
     {
       "slug": "33-전체불특정리스트-wikied",
-      "title": "전체불특정리스트",
+      "title": "Pride and Prejudice\n전체불특정리스트",
       "sourceFile": "[설정시트]/전체불특정리스트_wikied.md",
       "file": "chapters/33-전체불특정리스트-wikied.md",
-      "order": 33
+      "order": 33,
+      "section": "배경 섹션"
     },
     {
       "slug": "34-시대착오-금기단어-wikied",
-      "title": "시대착오 금기단어",
+      "title": "Pride and Prejudice\n시대착오 금기단어 사전",
       "sourceFile": "[설정시트]/시대착오_금기단어_wikied.md",
       "file": "chapters/34-시대착오-금기단어-wikied.md",
-      "order": 34
+      "order": 34,
+      "section": "배경 섹션"
     },
     {
       "slug": "35-인물-숨은-관계망-추정-wikied",
-      "title": "인물 숨은 관계망 추정",
+      "title": "Pride and Prejudice\n인물 숨은 관계망 (추정/창작)",
       "sourceFile": "[설정시트]/인물_숨은_관계망_추정_wikied.md",
       "file": "chapters/35-인물-숨은-관계망-추정-wikied.md",
-      "order": 35
+      "order": 35,
+      "section": "배경 섹션"
     },
     {
       "slug": "36-인물별-사건별-장소관계도-wikied",
-      "title": "인물별 사건별 장소관계도",
+      "title": "Pride and Prejudice\n인물별 사건별 장소관계도",
       "sourceFile": "[설정시트]/인물별_사건별_장소관계도_wikied.md",
       "file": "chapters/36-인물별-사건별-장소관계도-wikied.md",
-      "order": 36
+      "order": 36,
+      "section": "배경 섹션"
     },
     {
       "slug": "37-각색-시나리오-가이드-wikied",
-      "title": "각색 시나리오 가이드",
+      "title": "Pride and Prejudice\n각색 시나리오 가이드 (창작 지원)",
       "sourceFile": "[설정시트]/각색_시나리오_가이드_wikied.md",
       "file": "chapters/37-각색-시나리오-가이드-wikied.md",
-      "order": 37
+      "order": 37,
+      "section": "배경 섹션"
+    },
+    {
+      "slug": "38-인물관계도-wikied",
+      "title": "인물관계도 (Pride and Prejudice)",
+      "sourceFile": "[캐릭터시트]/인물관계도_wikied.md",
+      "file": "chapters/38-인물관계도-wikied.md",
+      "order": 38,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "39-가디너-부부-wikied",
+      "title": "Mr. & Mrs. Gardiner (가디너 부부)\n관계 통합 시트",
+      "sourceFile": "[캐릭터시트]/가디너 부부_wikied.md",
+      "file": "chapters/39-가디너-부부-wikied.md",
+      "order": 39,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "40-포스터-부부-wikied",
+      "title": "Colonel & Mrs. Forster (포스터 부부)\n관계 통합 시트",
+      "sourceFile": "[캐릭터시트]/포스터 부부_wikied.md",
+      "file": "chapters/40-포스터-부부-wikied.md",
+      "order": 40,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "41-captain-carter-wikied",
+      "title": "Captain Carter (카터 대위)",
+      "sourceFile": "[캐릭터시트]/Captain Carter_wikied.md",
+      "file": "chapters/41-captain-carter-wikied.md",
+      "order": 41,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "42-charlotte-lucas-wikied",
+      "title": "Charlotte Lucas (샬럿 루카스)",
+      "sourceFile": "[캐릭터시트]/Charlotte Lucas_wikied.md",
+      "file": "chapters/42-charlotte-lucas-wikied.md",
+      "order": 42,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "43-colonel-fitzwilliam-wikied",
+      "title": "Colonel Fitzwilliam (피츠윌리엄 대령)",
+      "sourceFile": "[캐릭터시트]/Colonel Fitzwilliam_wikied.md",
+      "file": "chapters/43-colonel-fitzwilliam-wikied.md",
+      "order": 43,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "44-colonel-forster-wikied",
+      "title": "Colonel Forster (포스터 대령)",
+      "sourceFile": "[캐릭터시트]/Colonel Forster_wikied.md",
+      "file": "chapters/44-colonel-forster-wikied.md",
+      "order": 44,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "45-elizabeth-bennet-wikied",
+      "title": "Elizabeth Bennet (엘리자베스 베넷 / 리지 Lizzy)",
+      "sourceFile": "[캐릭터시트]/Elizabeth Bennet_wikied.md",
+      "file": "chapters/45-elizabeth-bennet-wikied.md",
+      "order": 45,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "46-georgiana-darcy-wikied",
+      "title": "Georgiana Darcy (조지아나 다아시)",
+      "sourceFile": "[캐릭터시트]/Georgiana Darcy_wikied.md",
+      "file": "chapters/46-georgiana-darcy-wikied.md",
+      "order": 46,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "47-jane-bennet-wikied",
+      "title": "Jane Bennet (제인 베넷)",
+      "sourceFile": "[캐릭터시트]/Jane Bennet_wikied.md",
+      "file": "chapters/47-jane-bennet-wikied.md",
+      "order": 47,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "48-kitty-bennet-wikied",
+      "title": "Kitty Bennet (키티 베넷 / 캐서린 베넷)",
+      "sourceFile": "[캐릭터시트]/Kitty Bennet_wikied.md",
+      "file": "chapters/48-kitty-bennet-wikied.md",
+      "order": 48,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "49-lady-catherine-de-bourgh-wikied",
+      "title": "Lady Catherine de Bourgh (레이디 캐서린 드 버그)",
+      "sourceFile": "[캐릭터시트]/Lady Catherine de Bourgh_wikied.md",
+      "file": "chapters/49-lady-catherine-de-bourgh-wikied.md",
+      "order": 49,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "50-lady-lucas-wikied",
+      "title": "Lady Lucas (레이디 루카스)",
+      "sourceFile": "[캐릭터시트]/Lady Lucas_wikied.md",
+      "file": "chapters/50-lady-lucas-wikied.md",
+      "order": 50,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "51-lydia-bennet-wikied",
+      "title": "Lydia Bennet (리디아 베넷)",
+      "sourceFile": "[캐릭터시트]/Lydia Bennet_wikied.md",
+      "file": "chapters/51-lydia-bennet-wikied.md",
+      "order": 51,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "52-maria-lucas-wikied",
+      "title": "Maria Lucas (마리아 루카스)",
+      "sourceFile": "[캐릭터시트]/Maria Lucas_wikied.md",
+      "file": "chapters/52-maria-lucas-wikied.md",
+      "order": 52,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "53-mary-bennet-wikied",
+      "title": "Mary Bennet (메리 베넷)",
+      "sourceFile": "[캐릭터시트]/Mary Bennet_wikied.md",
+      "file": "chapters/53-mary-bennet-wikied.md",
+      "order": 53,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "54-miss-bingley-wikied",
+      "title": "Miss Bingley (빙리 양 / 캐롤라인 빙리)",
+      "sourceFile": "[캐릭터시트]/Miss Bingley_wikied.md",
+      "file": "chapters/54-miss-bingley-wikied.md",
+      "order": 54,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "55-miss-de-bourgh-wikied",
+      "title": "Miss de Bourgh (드 버그 양 / 앤 드 버그)",
+      "sourceFile": "[캐릭터시트]/Miss de Bourgh_wikied.md",
+      "file": "chapters/55-miss-de-bourgh-wikied.md",
+      "order": 55,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "56-miss-king-wikied",
+      "title": "Miss King (미스 킹)",
+      "sourceFile": "[캐릭터시트]/Miss King_wikied.md",
+      "file": "chapters/56-miss-king-wikied.md",
+      "order": 56,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "57-mr-bennet-wikied",
+      "title": "Mr. Bennet (베넷 씨)",
+      "sourceFile": "[캐릭터시트]/Mr Bennet_wikied.md",
+      "file": "chapters/57-mr-bennet-wikied.md",
+      "order": 57,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "58-mr-bingley-wikied",
+      "title": "Mr. Bingley (빙리 씨 / 찰스 빙리)",
+      "sourceFile": "[캐릭터시트]/Mr Bingley_wikied.md",
+      "file": "chapters/58-mr-bingley-wikied.md",
+      "order": 58,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "59-mr-collins-wikied",
+      "title": "Mr. Collins (콜린스 목사 / 윌리엄 콜린스)",
+      "sourceFile": "[캐릭터시트]/Mr Collins_wikied.md",
+      "file": "chapters/59-mr-collins-wikied.md",
+      "order": 59,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "60-mr-darcy-wikied",
+      "title": "Mr. Darcy (다아시 씨 / 피츠윌리엄 다아시)",
+      "sourceFile": "[캐릭터시트]/Mr Darcy_wikied.md",
+      "file": "chapters/60-mr-darcy-wikied.md",
+      "order": 60,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "61-mr-denny-wikied",
+      "title": "Mr. Denny (미스터 데니)",
+      "sourceFile": "[캐릭터시트]/Mr Denny_wikied.md",
+      "file": "chapters/61-mr-denny-wikied.md",
+      "order": 61,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "62-mr-gardiner-wikied",
+      "title": "Mr. Gardiner (가디너 씨 / 에드워드 가디너)",
+      "sourceFile": "[캐릭터시트]/Mr Gardiner_wikied.md",
+      "file": "chapters/62-mr-gardiner-wikied.md",
+      "order": 62,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "63-mr-hurst-wikied",
+      "title": "Mr. Hurst (미스터 허스트)",
+      "sourceFile": "[캐릭터시트]/Mr Hurst_wikied.md",
+      "file": "chapters/63-mr-hurst-wikied.md",
+      "order": 63,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "64-mr-jones-wikied",
+      "title": "Mr. Jones (미스터 존스)",
+      "sourceFile": "[캐릭터시트]/Mr Jones_wikied.md",
+      "file": "chapters/64-mr-jones-wikied.md",
+      "order": 64,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "65-mr-wickham-wikied",
+      "title": "Mr. Wickham (위컴 씨 / 조지 위컴)",
+      "sourceFile": "[캐릭터시트]/Mr Wickham_wikied.md",
+      "file": "chapters/65-mr-wickham-wikied.md",
+      "order": 65,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "66-mrs-bennet-wikied",
+      "title": "Mrs. Bennet (베넷 부인)",
+      "sourceFile": "[캐릭터시트]/Mrs Bennet_wikied.md",
+      "file": "chapters/66-mrs-bennet-wikied.md",
+      "order": 66,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "67-mrs-forster-wikied",
+      "title": "Mrs. Forster (포스터 부인 / 해리엇)",
+      "sourceFile": "[캐릭터시트]/Mrs Forster_wikied.md",
+      "file": "chapters/67-mrs-forster-wikied.md",
+      "order": 67,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "68-mrs-gardiner-wikied",
+      "title": "Mrs. Gardiner (가디너 부인)",
+      "sourceFile": "[캐릭터시트]/Mrs Gardiner_wikied.md",
+      "file": "chapters/68-mrs-gardiner-wikied.md",
+      "order": 68,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "69-mrs-hurst-wikied",
+      "title": "Mrs. Hurst (허스트 부인 / 루이자 빙리)",
+      "sourceFile": "[캐릭터시트]/Mrs Hurst_wikied.md",
+      "file": "chapters/69-mrs-hurst-wikied.md",
+      "order": 69,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "70-mrs-jenkinson-wikied",
+      "title": "Mrs. Jenkinson (미세스 젠킨슨)",
+      "sourceFile": "[캐릭터시트]/Mrs Jenkinson_wikied.md",
+      "file": "chapters/70-mrs-jenkinson-wikied.md",
+      "order": 70,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "71-mrs-philips-wikied",
+      "title": "Mrs. Philips (미세스 필립스)",
+      "sourceFile": "[캐릭터시트]/Mrs Philips_wikied.md",
+      "file": "chapters/71-mrs-philips-wikied.md",
+      "order": 71,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "72-mrs-reynolds-wikied",
+      "title": "Mrs. Reynolds (미세스 레이놀즈)",
+      "sourceFile": "[캐릭터시트]/Mrs Reynolds_wikied.md",
+      "file": "chapters/72-mrs-reynolds-wikied.md",
+      "order": 72,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "73-mrs-younge-wikied",
+      "title": "Mrs. Younge (미세스 영)",
+      "sourceFile": "[캐릭터시트]/Mrs Younge_wikied.md",
+      "file": "chapters/73-mrs-younge-wikied.md",
+      "order": 73,
+      "section": "캐릭터 섹션"
+    },
+    {
+      "slug": "74-sir-william-lucas-wikied",
+      "title": "Sir William Lucas (윌리엄 루카스 경)",
+      "sourceFile": "[캐릭터시트]/Sir William Lucas_wikied.md",
+      "file": "chapters/74-sir-william-lucas-wikied.md",
+      "order": 74,
+      "section": "캐릭터 섹션"
     }
   ]
 }

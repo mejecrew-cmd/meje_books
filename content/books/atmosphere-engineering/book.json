@@ -6,7 +6,7 @@
   "category": "Essay",
   "author": "김동은WhtDrgon.",
   "description": "MEJE 대표이자 세계관 제작자 김동은WhtDrgon.의 분위기, 감각, 공간, 관계에 관한 원고 라인입니다.",
-  "order": 8,
+  "order": 7,
   "chapterCount": 3,
   "cover": "/assets/books/atmosphere-engineering/01-01-분위기공학-1-형용사대신-다이얼.webp",
   "assetCount": 3,
@@ -30,21 +30,21 @@
   "chapters": [
     {
       "slug": "01-분위기-공학-1",
-      "title": "분위기 공학 1",
+      "title": "분위기 공학 1",
       "sourceFile": "분위기_공학_1.md",
       "file": "chapters/01-분위기-공학-1.md",
       "order": 1
     },
     {
       "slug": "02-분위기-공학-2",
-      "title": "분위기 공학 2",
+      "title": "분위기 공학 2",
       "sourceFile": "분위기_공학_2.md",
       "file": "chapters/02-분위기-공학-2.md",
       "order": 2
     },
     {
       "slug": "03-분위기-공학-3",
-      "title": "분위기 공학 3",
+      "title": "분위기 공학 3",
       "sourceFile": "분위기_공학_3.md",
       "file": "chapters/03-분위기-공학-3.md",
       "order": 3

@@ -125,147 +125,147 @@
   "chapters": [
     {
       "slug": "03-본문-01-제1장",
-      "title": "01 제1장",
+      "title": "글로서리에서 클라우드로\n우리가 다루는 자료의 변화",
       "sourceFile": "본문_01_제1장.md",
       "file": "chapters/03-본문-01-제1장.md",
       "order": 1
     },
     {
       "slug": "04-본문-02-제2장",
-      "title": "02 제2장",
+      "title": "제작자와 AI 작업 동료\n두 손으로 짓는 위키",
       "sourceFile": "본문_02_제2장.md",
       "file": "chapters/04-본문-02-제2장.md",
       "order": 2
     },
     {
       "slug": "05-본문-03-제3장",
-      "title": "03 제3장",
+      "title": "입력에서 Vault까지\n4단계의 흐름",
       "sourceFile": "본문_03_제3장.md",
       "file": "chapters/05-본문-03-제3장.md",
       "order": 3
     },
     {
       "slug": "06-본문-04-제4장",
-      "title": "04 제4장",
+      "title": "모든 키워드를 끌어내기\n1차 추출의 자세",
       "sourceFile": "본문_04_제4장.md",
       "file": "chapters/06-본문-04-제4장.md",
       "order": 4
     },
     {
       "slug": "07-본문-05-제5장",
-      "title": "05 제5장",
+      "title": "Wiki 표제어로 묶기\n2차 통합의 결정들",
       "sourceFile": "본문_05_제5장.md",
       "file": "chapters/07-본문-05-제5장.md",
       "order": 5
     },
     {
       "slug": "08-본문-06-제6장",
-      "title": "06 제6장",
+      "title": "두 분류 기준\n9분류와 세계관축",
       "sourceFile": "본문_06_제6장.md",
       "file": "chapters/08-본문-06-제6장.md",
       "order": 6
     },
     {
       "slug": "09-본문-07-제7장",
-      "title": "07 제7장",
+      "title": "골격 빌드, CSV가 옵시디안 파일이 되는 과정",
       "sourceFile": "본문_07_제7장.md",
       "file": "chapters/09-본문-07-제7장.md",
       "order": 7
     },
     {
       "slug": "10-본문-08-제8장",
-      "title": "08 제8장",
+      "title": "hub와 leaf\n표제어의 비중을 결정하는 일",
       "sourceFile": "본문_08_제8장.md",
       "file": "chapters/10-본문-08-제8장.md",
       "order": 8
     },
     {
       "slug": "11-본문-09-제9장",
-      "title": "09 제9장",
+      "title": "4차 서술 집필\nVault에 생명을 불어넣기",
       "sourceFile": "본문_09_제9장.md",
       "file": "chapters/11-본문-09-제9장.md",
       "order": 9
     },
     {
       "slug": "12-본문-10-제10장",
-      "title": "10 제10장",
+      "title": "검증\n세 단계로 합격을 담보하는 과정",
       "sourceFile": "본문_10_제10장.md",
       "file": "chapters/12-본문-10-제10장.md",
       "order": 10
     },
     {
       "slug": "13-본문-11-제11장",
-      "title": "11 제11장",
+      "title": "Vault의 평생\n역류와 운영 사이클",
       "sourceFile": "본문_11_제11장.md",
       "file": "chapters/13-본문-11-제11장.md",
       "order": 11
     },
     {
       "slug": "14-본문-12-제12장",
-      "title": "12 제12장",
+      "title": "Vault의 출구\n다음 작업이 가져가는 것",
       "sourceFile": "본문_12_제12장.md",
       "file": "chapters/14-본문-12-제12장.md",
       "order": 12
     },
     {
       "slug": "15-본문-13-제13장",
-      "title": "13 제13장",
+      "title": "1,500을 빚으며 알게 된 것\n실전의 풍경",
       "sourceFile": "본문_13_제13장.md",
       "file": "chapters/15-본문-13-제13장.md",
       "order": 13
     },
     {
       "slug": "16-본문-14-제14장",
-      "title": "14 제14장",
+      "title": "빈 Vault 앞에서\n이 글이 전하려 한 것",
       "sourceFile": "본문_14_제14장.md",
       "file": "chapters/16-본문-14-제14장.md",
       "order": 14
     },
     {
       "slug": "18-실무편-b-1차추출-csv-샘플",
-      "title": "실무편 B 1차추출 CSV 샘플",
+      "title": "실무편 B. 1차 추출 CSV 샘플",
       "sourceFile": "실무편_B_1차추출_CSV_샘플.md",
       "file": "chapters/18-실무편-b-1차추출-csv-샘플.md",
       "order": 15
     },
     {
       "slug": "19-실무편-c-2차통합-csv-샘플",
-      "title": "실무편 C 2차통합 CSV 샘플",
+      "title": "실무편 C. 2차 통합 CSV 샘플",
       "sourceFile": "실무편_C_2차통합_CSV_샘플.md",
       "file": "chapters/19-실무편-c-2차통합-csv-샘플.md",
       "order": 16
     },
     {
       "slug": "20-실무편-a-프로젝트프로파일-템플릿",
-      "title": "실무편 A 프로젝트프로파일 템플릿",
+      "title": "실무편 A. 프로젝트 프로파일 템플릿",
       "sourceFile": "실무편_A_프로젝트프로파일_템플릿.md",
       "file": "chapters/20-실무편-a-프로젝트프로파일-템플릿.md",
       "order": 17
     },
     {
       "slug": "21-실무편-d-vault-md-기준문서-예시",
-      "title": "실무편 D Vault md 기준문서 예시",
+      "title": "실무편 D. Vault .md 기준 문서 예시",
       "sourceFile": "실무편_D_Vault_md_기준문서_예시.md",
       "file": "chapters/21-실무편-d-vault-md-기준문서-예시.md",
       "order": 18
     },
     {
       "slug": "22-실무편-e-vault-manifest-예시",
-      "title": "실무편 E vault manifest 예시",
+      "title": "실무편 E. vaultmanifest.json 예시",
       "sourceFile": "실무편_E_vault_manifest_예시.md",
       "file": "chapters/22-실무편-e-vault-manifest-예시.md",
       "order": 19
     },
     {
       "slug": "23-실무편-f-검증체크리스트",
-      "title": "실무편 F 검증체크리스트",
+      "title": "실무편 F. 검증 체크리스트",
       "sourceFile": "실무편_F_검증체크리스트.md",
       "file": "chapters/23-실무편-f-검증체크리스트.md",
       "order": 20
     },
     {
       "slug": "24-실무편-g-적용전후비교-양식",
-      "title": "실무편 G 적용전후비교 양식",
+      "title": "실무편 G. 적용 전후 비교 양식",
       "sourceFile": "실무편_G_적용전후비교_양식.md",
       "file": "chapters/24-실무편-g-적용전후비교-양식.md",
       "order": 21

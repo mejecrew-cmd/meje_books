@@ -7,8 +7,8 @@ interface Props {
 }
 
 const {
-  title = "MEJE BOOKS",
-  description = "MEJE Works 공개 원고와 강연고를 책 단위로 정리한 읽기 사이트"
+  title = "Books of MEJE Knowledge",
+  description = "Books of MEJE Knowledge는 MEJE의 제작 절차, 강연고, 세계관 원고를 책 단위로 정리한 공개 라이브러리입니다."
 } = Astro.props;
 ---
 <!doctype html>
@@ -30,7 +30,7 @@ const {
   <body>
     <div class="site-shell">
       <header class="topbar">
-        <a class="brand" href="/">MEJE BOOKS <span>읽기 사이트</span></a>
+        <a class="brand" href="/">MEJE BOOKS <span>Knowledge Library</span></a>
         <nav class="nav" aria-label="Primary">
           <a href="/">Home</a>
           <a href="/books/">Books</a>
@@ -41,7 +41,7 @@ const {
         <slot />
       </main>
       <footer class="footer">
-        MEJE Works Corp. · Public manuscripts and lecture notes.
+        MEJE Works Corp. · Books of MEJE Knowledge.
       </footer>
     </div>
   </body>

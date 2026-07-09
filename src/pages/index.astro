@@ -1,18 +1,18 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { getBooks, getLineGroups } from "../lib/books";
+import { bookTitleWithCount, chapterCountLabel, getBooks, getLineGroups } from "../lib/books";
 
 const books = getBooks();
 const groups = getLineGroups();
 ---
-<BaseLayout title="MEJE BOOKS" description="MEJE Works 공개 원고와 강연고를 책 단위로 정리한 읽기 사이트">
+<BaseLayout title="Books of MEJE Knowledge" description="MEJE의 제작 절차, 강연고, 세계관과 비즈니스 모델 원고를 책 단위로 정리한 공개 라이브러리">
   <section class="hero">
     <div class="container">
       <p class="eyebrow">MEJE BOOKS</p>
-      <h1>MEJE 원고와 강연고를 책 단위로 읽기</h1>
+      <h1>Books of MEJE Knowledge</h1>
       <p>
         MEJE의 제작 절차, 김동은WhtDrgon.의 강연고, 세계관과 비즈니스 모델 원고를 책 단위로 정리했습니다.
-        목차, 챕터, 이전/다음 이동을 갖춘 공개 읽기 사이트입니다.
+        목차, 챕터, 이전/다음 이동을 갖춘 공개 라이브러리입니다.
       </p>
     </div>
   </section>
@@ -30,11 +30,11 @@ const groups = getLineGroups();
               <img class="book-thumb" src={book.cover} alt={`${book.title} 표지`} loading="lazy" />
             )}
             <span class="line">{book.line} · {book.category}</span>
-            <h2>{book.title}</h2>
+            <h2>{bookTitleWithCount(book)}</h2>
             <p>{book.description}</p>
             <span class="card-foot">
               <span>{book.author}</span>
-              <span>{book.chapterCount} chapters</span>
+              <span>{chapterCountLabel(book)}</span>
             </span>
           </a>
         ))}
@@ -56,11 +56,11 @@ const groups = getLineGroups();
                 <img class="book-thumb" src={book.cover} alt={`${book.title} 표지`} loading="lazy" />
               )}
               <span class="line">{book.category}</span>
-              <h3>{book.title}</h3>
+              <h3>{bookTitleWithCount(book)}</h3>
               <p>{book.subtitle}</p>
               <span class="card-foot">
                 <span>목차 보기</span>
-                <span>{book.chapterCount}</span>
+                <span>{chapterCountLabel(book)}</span>
               </span>
             </a>
           ))}

@@ -51,37 +51,35 @@ const bookDefs = [
     ],
     include: [
       /^본문_(0[1-9]|1[0-4])_제\d+장_wikied\.md$/
+    ],
+    externalChapters: [
+      {
+        title: "산출물 샘플 : 오만과 편견",
+        slug: "15-pride-and-prejudice-sample",
+        externalUrl: "/books/pride-and-prejudice-data/",
+        section: "산출물 샘플",
+        sourceFile: "external:pride-and-prejudice-data"
+      }
     ]
   },
   {
     slug: "pride-and-prejudice-data",
     title: "Pride and Prejudice 세계관 데이터",
-    subtitle: "서연각 공정의 기반 자료 예시",
+    subtitle: "배경 설정 시트와 캐릭터시트로 보는 서연각 산출물 샘플",
     line: "MEJE PROCESS",
     category: "Reference",
     author: "MEJE Works",
     description:
-      "서연각 번역 및 자료집 공정의 기반 예시로 정리된 Pride and Prejudice 세계관 데이터와 설정 시트 자료입니다.",
+      "서연각 번역 및 자료집 공정의 산출물 샘플로, Pride and Prejudice의 배경 설정 시트와 캐릭터시트를 함께 정리했습니다.",
     sourceDir: "__메제 기술자산/강연고2_기반_세계관 데이터 pride and prejudice",
     recursive: true,
     include: [
       /^P&P_profile_wikied\.md$/,
-      /^\[설정시트\]\/.+_wikied\.md$/
+      /^\[설정시트\]\/.+_wikied\.md$/,
+      /^\[캐릭터시트\]\/.+_wikied\.md$/
     ],
     exclude: [/^README_wikied\.md$/, /^설정시트_목록_wikied\.md$/],
     privateAssetManifest: true
-  },
-  {
-    slug: "pride-and-prejudice-characters",
-    title: "Pride and Prejudice 캐릭터시트",
-    subtitle: "서연각 공정의 인물 레퍼런스",
-    line: "MEJE PROCESS",
-    category: "Reference",
-    author: "MEJE Works",
-    description:
-      "Pride and Prejudice 번역·각색 자료집에서 분리한 인물관계도와 캐릭터시트 37개입니다.",
-    sourceDir: "__메제 기술자산/강연고2_기반_세계관 데이터 pride and prejudice/[캐릭터시트]",
-    include: [/\.md$/]
   },
   {
     slug: "meje-lorebook",
@@ -153,13 +151,13 @@ const bookDefs = [
   },
   {
     slug: "mobile-game-bm-renewal",
-    title: "모바일 게임 BM 리뉴얼",
-    subtitle: "과금 기획, 설계, 데이터 분석과 운영",
+    title: "뉴콘텐츠 BM과 IP 확장 경제",
+    subtitle: "게임, 음악, 영상, 웹툰을 잇는 지불 습관과 과금 구조",
     line: "KIM DONG-EUN",
     category: "Business Model",
     author: "김동은WhtDrgon.",
     description:
-      "뉴콘텐츠 비즈니스 모델을 게임, 음악, 영상, 웹툰, IP 확장 경제와 연결해 읽는 BM북 리뉴얼 원고입니다.",
+      "지불 습관의 역사에서 게임, 음악, 영상, 웹툰, IP 확장 경제까지 이어지는 뉴콘텐츠 비즈니스 모델 원고입니다.",
     sourceDir: "김동은 세계관 통합 지식체계 정리/강연고_김동은_BM북 리뉴얼  260331/03_집필",
     assetDirs: [".", "../04_표지"],
     include: [/\.md$/]
@@ -226,6 +224,41 @@ function cleanTitle(fileName) {
     .trim();
 }
 
+function normalizeChapterTitle(rawTitle) {
+  let title = rawTitle
+    .replace(/^#+\s*/, "")
+    .replace(/[*_`]/g, "")
+    .trim();
+
+  const chapterPrefix = /^제\s*\d+\s*장\s*[.:·-]?\s*/i;
+  const numberedPartPrefix = /^\d+\s*편\s*[.:·-]?\s*/i;
+  const partPrefix = /^제\s*\d+\s*편\s*[.:·-]?\s*/i;
+  if (chapterPrefix.test(title)) {
+    title = title.replace(chapterPrefix, "");
+  } else if (partPrefix.test(title)) {
+    title = title.replace(partPrefix, "");
+  } else if (numberedPartPrefix.test(title)) {
+    title = title.replace(numberedPartPrefix, "");
+  }
+
+  const parts = title.split(/\s[-–—]\s/).map((part) => part.trim()).filter(Boolean);
+  if (parts.length >= 2) {
+    return [parts[0], parts.slice(1).join(" - ")].join("\n");
+  }
+  return title;
+}
+
+function extractChapterTitle(sourcePath, fallbackFileName) {
+  const source = fs.readFileSync(sourcePath, "utf8");
+  const heading = source
+    .split(/\r?\n/)
+    .find((line) => /^#{1,3}\s+\S/.test(line.trim()));
+  if (!heading) return cleanTitle(fallbackFileName);
+
+  const title = normalizeChapterTitle(heading.trim());
+  return title || cleanTitle(fallbackFileName);
+}
+
 function slugify(fileName, index) {
   const base = path.basename(fileName)
     .normalize("NFC")
@@ -279,12 +312,13 @@ const prideSettingOrder = new Map([
 function sortKey(fileName) {
   const normalized = fileName.normalize("NFC");
   const name = path.basename(normalized);
-  if (prideSettingOrder.has(name)) return prideSettingOrder.get(name);
-  if (name === "인물관계도_wikied.md") return 0;
+  const sectionWeight = normalized.startsWith("[캐릭터시트]/") ? 1000 : 0;
+  if (prideSettingOrder.has(name)) return sectionWeight + prideSettingOrder.get(name);
+  if (name === "인물관계도_wikied.md") return sectionWeight;
   const numberMatch = name.match(/(?:본문_)?(\d+)[^0-9]/);
   const number = numberMatch ? Number(numberMatch[1]) : 900;
   const appendix = /실무편|부록|참조|예시|양식|체크리스트/.test(name) ? 500 : 0;
-  return number + appendix;
+  return sectionWeight + number + appendix;
 }
 
 function assetName(fileName, index) {
@@ -307,6 +341,84 @@ function copyAssetFile(sourcePath, targetPath, sourceName) {
     if (result.status === 0) return;
   }
   fs.copyFileSync(sourcePath, targetPath);
+}
+
+const coverPalettes = [
+  ["#253b53", "#d8e6ef", "#9bb8c8", "#f6f1de"],
+  ["#2f4736", "#dce8d3", "#9cb77d", "#fbf6e7"],
+  ["#4d3a52", "#eadff1", "#c7a8d6", "#fff5df"],
+  ["#4d3f2d", "#efe3cc", "#c99d64", "#fff9ed"],
+  ["#273f45", "#dbedf0", "#7fb5be", "#f4f1df"],
+  ["#563436", "#f1dbd2", "#c78975", "#fff7ed"]
+];
+
+function escapeXml(value) {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function titleLines(title) {
+  const normalized = title.replace(/\s+/g, " ").trim();
+  if (normalized.length <= 16) return [normalized];
+  const words = normalized.split(" ");
+  const lines = [];
+  let current = "";
+  for (const word of words) {
+    const next = current ? `${current} ${word}` : word;
+    if (next.length > 18 && current) {
+      lines.push(current);
+      current = word;
+    } else {
+      current = next;
+    }
+    if (lines.length === 2) break;
+  }
+  if (current && lines.length < 3) lines.push(current);
+  if (lines.length === 1 && lines[0].length > 18) {
+    return [lines[0].slice(0, 18), lines[0].slice(18, 36)];
+  }
+  return lines.slice(0, 3);
+}
+
+function writeGeneratedCover(book, targetDir, index) {
+  fs.mkdirSync(targetDir, { recursive: true });
+  const outputName = "00-generated-cover.svg";
+  const palette = coverPalettes[index % coverPalettes.length];
+  const lines = titleLines(book.title);
+  const titleText = lines
+    .map((line, lineIndex) => (
+      `<text x="72" y="${232 + lineIndex * 52}" font-size="42" font-weight="800" fill="${palette[3]}">${escapeXml(line)}</text>`
+    ))
+    .join("\n");
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="${escapeXml(book.title)} cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="${palette[0]}"/>
+      <stop offset="1" stop-color="${palette[2]}"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="${palette[1]}" stroke-opacity="0.18" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#grid)"/>
+  <circle cx="980" cy="150" r="180" fill="${palette[1]}" opacity="0.22"/>
+  <circle cx="1040" cy="505" r="260" fill="${palette[3]}" opacity="0.12"/>
+  <rect x="72" y="86" width="180" height="6" fill="${palette[3]}" opacity="0.84"/>
+  <text x="72" y="138" font-size="24" font-weight="700" letter-spacing="4" fill="${palette[3]}" opacity="0.86">${escapeXml(book.line)}</text>
+  ${titleText}
+  <text x="72" y="566" font-size="24" font-weight="600" fill="${palette[3]}" opacity="0.82">${escapeXml(book.category)} · MEJE BOOKS</text>
+</svg>
+`;
+  fs.writeFileSync(path.join(targetDir, outputName), svg, "utf8");
+  return {
+    title: `${book.title} 생성 표지`,
+    sourceFile: "generated",
+    url: `/assets/books/${book.slug}/${outputName}`
+  };
 }
 
 function copyAssets(book, sourceDir) {
@@ -335,8 +447,14 @@ function copyAssets(book, sourceDir) {
     }
   }
 
-  const preferredCover =
+  let preferredCover =
     assets.find((asset) => /커버|cover|표지|title|전체/.test(asset.title)) ?? assets[0];
+
+  if (!preferredCover) {
+    const generatedCover = writeGeneratedCover(book, targetDir, assets.length + bookDefs.findIndex((item) => item.slug === book.slug));
+    assets.push(generatedCover);
+    preferredCover = generatedCover;
+  }
 
   return {
     assets,
@@ -360,6 +478,15 @@ function listFilesRecursive(dir) {
 
 function relativeSourcePath(sourceDir, filePath) {
   return path.relative(sourceDir, filePath).normalize("NFC");
+}
+
+function chapterSection(book, fileName) {
+  const normalized = fileName.normalize("NFC");
+  if (book.slug === "pride-and-prejudice-data") {
+    if (normalized.startsWith("[캐릭터시트]/")) return "캐릭터 섹션";
+    return "배경 섹션";
+  }
+  return undefined;
 }
 
 function sha256(filePath) {
@@ -424,9 +551,7 @@ function writePrivateAssetManifest(book, sourceDir, targetDir) {
     publicPlan: {
       publishedInThisBook: [
         "P&P_profile_wikied.md",
-        "[설정시트]/*.md"
-      ],
-      publishedInSeparateBook: [
+        "[설정시트]/*.md",
         "[캐릭터시트]/*.md"
       ],
       excludedMarkdown: [
@@ -467,8 +592,7 @@ function writePrivateAssetManifest(book, sourceDir, targetDir) {
 
 ## 공개 구조
 
-- 본문 책: P&P_profile_wikied.md + [설정시트] 36개
-- 별도 책: [캐릭터시트] 37개
+- 본문 책: P&P_profile_wikied.md + [설정시트] 36개 + [캐릭터시트] 37개
 - 공개 제외: README_wikied.md, 설정시트_목록_wikied.md
 - 비공개 또는 다운로드 후보: CSV 19개, PDF 66개
 
@@ -526,17 +650,24 @@ function copyBook(book, bookIndex) {
     .filter((fileName) => matchesAny(fileName, book.include))
     .filter((fileName) => matchesNone(fileName, book.exclude));
 
-  const chapters = files.map((fileName, chapterIndex) => {
+  const fileChapters = files.map((fileName, chapterIndex) => {
     const slug = slugify(fileName, orderedIndex.get(fileName.normalize("NFC")));
     const outputName = `${slug}.md`;
+    const sourcePath = path.join(sourceDir, fileName);
     return {
       slug,
-      title: cleanTitle(fileName),
+      title: extractChapterTitle(sourcePath, fileName),
       sourceFile: fileName,
       file: `chapters/${outputName}`,
-      order: chapterIndex + 1
+      order: chapterIndex + 1,
+      section: chapterSection(book, fileName)
     };
   });
+  const externalChapters = (book.externalChapters ?? []).map((chapter, index) => ({
+    ...chapter,
+    order: fileChapters.length + index + 1
+  }));
+  const chapters = [...fileChapters, ...externalChapters];
 
   const { assets, cover } = copyAssets(book, sourceDir);
 
