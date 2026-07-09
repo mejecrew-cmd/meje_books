@@ -7,121 +7,114 @@
   "author": "MEJE Works",
   "description": "라이브러링된 지식을 공식 설정집, 로어북, 공개 위키, 책 구조로 편집하는 MEJE의 세계관 설정집 제작 공정입니다.",
   "order": 4,
-  "chapterCount": 16,
+  "chapterCount": 15,
   "assetCount": 0,
   "assets": [],
   "chapters": [
-    {
-      "slug": "01-00-총람-목차와-집필계획-wikied",
-      "title": "총람 목차와 집필계획",
-      "sourceFile": "00_총람_목차와_집필계획_wikied.md",
-      "file": "chapters/01-00-총람-목차와-집필계획-wikied.md",
-      "order": 1
-    },
     {
       "slug": "02-본문-01-제1장-wikied",
       "title": "01 제1장",
       "sourceFile": "본문_01_제1장_wikied.md",
       "file": "chapters/02-본문-01-제1장-wikied.md",
-      "order": 2
+      "order": 1
     },
     {
       "slug": "03-본문-02-제2장-wikied",
       "title": "02 제2장",
       "sourceFile": "본문_02_제2장_wikied.md",
       "file": "chapters/03-본문-02-제2장-wikied.md",
-      "order": 3
+      "order": 2
     },
     {
       "slug": "04-본문-03-제3장-wikied",
       "title": "03 제3장",
       "sourceFile": "본문_03_제3장_wikied.md",
       "file": "chapters/04-본문-03-제3장-wikied.md",
-      "order": 4
+      "order": 3
     },
     {
       "slug": "05-본문-04-제4장-wikied",
       "title": "04 제4장",
       "sourceFile": "본문_04_제4장_wikied.md",
       "file": "chapters/05-본문-04-제4장-wikied.md",
-      "order": 5
+      "order": 4
     },
     {
       "slug": "06-본문-05-제5장-wikied",
       "title": "05 제5장",
       "sourceFile": "본문_05_제5장_wikied.md",
       "file": "chapters/06-본문-05-제5장-wikied.md",
-      "order": 6
+      "order": 5
     },
     {
       "slug": "07-본문-06-제6장-wikied",
       "title": "06 제6장",
       "sourceFile": "본문_06_제6장_wikied.md",
       "file": "chapters/07-본문-06-제6장-wikied.md",
-      "order": 7
+      "order": 6
     },
     {
       "slug": "08-본문-07-제7장-wikied",
       "title": "07 제7장",
       "sourceFile": "본문_07_제7장_wikied.md",
       "file": "chapters/08-본문-07-제7장-wikied.md",
-      "order": 8
+      "order": 7
     },
     {
       "slug": "09-본문-08-제8장-wikied",
       "title": "08 제8장",
       "sourceFile": "본문_08_제8장_wikied.md",
       "file": "chapters/09-본문-08-제8장-wikied.md",
-      "order": 9
+      "order": 8
     },
     {
       "slug": "10-본문-09-제9장-wikied",
       "title": "09 제9장",
       "sourceFile": "본문_09_제9장_wikied.md",
       "file": "chapters/10-본문-09-제9장-wikied.md",
-      "order": 10
+      "order": 9
     },
     {
       "slug": "11-본문-10-제10장-wikied",
       "title": "10 제10장",
       "sourceFile": "본문_10_제10장_wikied.md",
       "file": "chapters/11-본문-10-제10장-wikied.md",
-      "order": 11
+      "order": 10
     },
     {
       "slug": "12-본문-11-제11장-wikied",
       "title": "11 제11장",
       "sourceFile": "본문_11_제11장_wikied.md",
       "file": "chapters/12-본문-11-제11장-wikied.md",
-      "order": 12
+      "order": 11
     },
     {
       "slug": "13-본문-12-제12장-wikied",
       "title": "12 제12장",
       "sourceFile": "본문_12_제12장_wikied.md",
       "file": "chapters/13-본문-12-제12장-wikied.md",
-      "order": 13
+      "order": 12
     },
     {
       "slug": "14-본문-13-제13장-wikied",
       "title": "13 제13장",
       "sourceFile": "본문_13_제13장_wikied.md",
       "file": "chapters/14-본문-13-제13장-wikied.md",
-      "order": 14
+      "order": 13
     },
     {
       "slug": "15-본문-14-제14장-wikied",
       "title": "14 제14장",
       "sourceFile": "본문_14_제14장_wikied.md",
       "file": "chapters/15-본문-14-제14장-wikied.md",
-      "order": 15
+      "order": 14
     },
     {
       "slug": "16-본문-15-부록-wikied",
       "title": "15 부록",
       "sourceFile": "본문_15_부록_wikied.md",
       "file": "chapters/16-본문-15-부록-wikied.md",
-      "order": 16
+      "order": 15
     }
   ]
 }

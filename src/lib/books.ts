@@ -47,6 +47,7 @@ export function getBooks(): Book[] {
 
   return slugs
     .map((slug) => readJson<Book>(path.join(contentRoot, slug, "book.json")))
+    .filter((book) => book.chapterCount > 0 && book.chapters.length > 0)
     .sort((a, b) => a.order - b.order || a.title.localeCompare(b.title, "ko"));
 }
 
