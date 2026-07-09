@@ -22,7 +22,7 @@ npm run build
 - Build command: `npm run build`
 - Output directory: `dist`
 - Production branch: `main`
-- Custom domain: `books.mejeworks.com`
+- Custom domain: `books.meje.kr`
 
 ## Content
 
