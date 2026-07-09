@@ -1,0 +1,542 @@
+{
+  "slug": "mobile-game-bm-renewal",
+  "title": "모바일 게임 BM 리뉴얼",
+  "subtitle": "과금 기획, 설계, 데이터 분석과 운영",
+  "line": "KIM DONG-EUN",
+  "category": "Business Model",
+  "author": "김동은WhtDrgon.",
+  "description": "뉴콘텐츠 비즈니스 모델을 게임, 음악, 영상, 웹툰, IP 확장 경제와 연결해 읽는 BM북 리뉴얼 원고입니다.",
+  "order": 9,
+  "chapterCount": 30,
+  "cover": "/assets/books/mobile-game-bm-renewal/02-01-새로운것은어디서오는가-title.webp",
+  "assetCount": 63,
+  "assets": [
+    {
+      "title": "ig 0926ba6a160379b4016a14290fa604819185321be140e5baaf.png",
+      "sourceFile": "ig_0926ba6a160379b4016a14290fa604819185321be140e5baaf.png",
+      "url": "/assets/books/mobile-game-bm-renewal/01-ig-0926ba6a160379b4016a14290fa604819185321be140e5baaf.webp"
+    },
+    {
+      "title": "01 새로운것은어디서오는가 title.png",
+      "sourceFile": "01_새로운것은어디서오는가_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/02-01-새로운것은어디서오는가-title.webp"
+    },
+    {
+      "title": "02 BM이란무엇인가 title.png",
+      "sourceFile": "02_BM이란무엇인가_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/03-02-bm이란무엇인가-title.webp"
+    },
+    {
+      "title": "03 지불습관의탄생 title.png",
+      "sourceFile": "03_지불습관의탄생_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/04-03-지불습관의탄생-title.webp"
+    },
+    {
+      "title": "04 현대BM유형론 title.png",
+      "sourceFile": "04_현대BM유형론_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/05-04-현대bm유형론-title.webp"
+    },
+    {
+      "title": "05 디지털전환 title.png",
+      "sourceFile": "05_디지털전환_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/06-05-디지털전환-title.webp"
+    },
+    {
+      "title": "06 아케이드 title.png",
+      "sourceFile": "06_아케이드_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/07-06-아케이드-title.webp"
+    },
+    {
+      "title": "07 콘솔 title.png",
+      "sourceFile": "07_콘솔_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/08-07-콘솔-title.webp"
+    },
+    {
+      "title": "08 PC와온라인게임 title.png",
+      "sourceFile": "08_PC와온라인게임_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/09-08-pc와온라인게임-title.webp"
+    },
+    {
+      "title": "09 모바일게임 title.png",
+      "sourceFile": "09_모바일게임_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/10-09-모바일게임-title.webp"
+    },
+    {
+      "title": "10 GaaS title.png",
+      "sourceFile": "10_GaaS_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/11-10-gaas-title.webp"
+    },
+    {
+      "title": "11 e스포츠 title.png",
+      "sourceFile": "11_e스포츠_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/12-11-e스포츠-title.webp"
+    },
+    {
+      "title": "12 게임BM미래 title.png",
+      "sourceFile": "12_게임BM미래_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/13-12-게임bm미래-title.webp"
+    },
+    {
+      "title": "13 게임과금실무1 title.png",
+      "sourceFile": "13_게임과금실무1_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/14-13-게임과금실무1-title.webp"
+    },
+    {
+      "title": "14 게임과금실무2 title.png",
+      "sourceFile": "14_게임과금실무2_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/15-14-게임과금실무2-title.webp"
+    },
+    {
+      "title": "15 2권오프닝 title.png",
+      "sourceFile": "15_2권오프닝_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/16-15-2권오프닝-title.webp"
+    },
+    {
+      "title": "15 2권오프닝 title.svg",
+      "sourceFile": "15_2권오프닝_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/17-15-2권오프닝-title.svg"
+    },
+    {
+      "title": "15 2권오프닝 title.svg.png",
+      "sourceFile": "15_2권오프닝_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/18-15-2권오프닝-title-svg.webp"
+    },
+    {
+      "title": "16 음악의탄생 title.png",
+      "sourceFile": "16_음악의탄생_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/19-16-음악의탄생-title.webp"
+    },
+    {
+      "title": "16 음악의탄생 title.svg",
+      "sourceFile": "16_음악의탄생_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/20-16-음악의탄생-title.svg"
+    },
+    {
+      "title": "16 음악의탄생 title.svg.png",
+      "sourceFile": "16_음악의탄생_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/21-16-음악의탄생-title-svg.webp"
+    },
+    {
+      "title": "17 CD와MP3 title.png",
+      "sourceFile": "17_CD와MP3_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/22-17-cd와mp3-title.webp"
+    },
+    {
+      "title": "17 CD와MP3 title.svg",
+      "sourceFile": "17_CD와MP3_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/23-17-cd와mp3-title.svg"
+    },
+    {
+      "title": "17 CD와MP3 title.svg.png",
+      "sourceFile": "17_CD와MP3_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/24-17-cd와mp3-title-svg.webp"
+    },
+    {
+      "title": "18 스트리밍의역설 title.png",
+      "sourceFile": "18_스트리밍의역설_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/25-18-스트리밍의역설-title.webp"
+    },
+    {
+      "title": "18 스트리밍의역설 title.svg",
+      "sourceFile": "18_스트리밍의역설_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/26-18-스트리밍의역설-title.svg"
+    },
+    {
+      "title": "18 스트리밍의역설 title.svg.png",
+      "sourceFile": "18_스트리밍의역설_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/27-18-스트리밍의역설-title-svg.webp"
+    },
+    {
+      "title": "19 K팝 title.png",
+      "sourceFile": "19_K팝_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/28-19-k팝-title.webp"
+    },
+    {
+      "title": "19 K팝 title.svg",
+      "sourceFile": "19_K팝_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/29-19-k팝-title.svg"
+    },
+    {
+      "title": "19 K팝 title.svg.png",
+      "sourceFile": "19_K팝_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/30-19-k팝-title-svg.webp"
+    },
+    {
+      "title": "20 공연과레이블 title.png",
+      "sourceFile": "20_공연과레이블_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/31-20-공연과레이블-title.webp"
+    },
+    {
+      "title": "20 공연과레이블 title.svg",
+      "sourceFile": "20_공연과레이블_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/32-20-공연과레이블-title.svg"
+    },
+    {
+      "title": "20 공연과레이블 title.svg.png",
+      "sourceFile": "20_공연과레이블_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/33-20-공연과레이블-title-svg.webp"
+    },
+    {
+      "title": "21 노래방과음향디바이스 title.png",
+      "sourceFile": "21_노래방과음향디바이스_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/34-21-노래방과음향디바이스-title.webp"
+    },
+    {
+      "title": "21 노래방과음향디바이스 title.svg",
+      "sourceFile": "21_노래방과음향디바이스_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/35-21-노래방과음향디바이스-title.svg"
+    },
+    {
+      "title": "21 노래방과음향디바이스 title.svg.png",
+      "sourceFile": "21_노래방과음향디바이스_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/36-21-노래방과음향디바이스-title-svg.webp"
+    },
+    {
+      "title": "22 영상산업지형 title.png",
+      "sourceFile": "22_영상산업지형_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/37-22-영상산업지형-title.webp"
+    },
+    {
+      "title": "22 영상산업지형 title.svg",
+      "sourceFile": "22_영상산업지형_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/38-22-영상산업지형-title.svg"
+    },
+    {
+      "title": "22 영상산업지형 title.svg.png",
+      "sourceFile": "22_영상산업지형_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/39-22-영상산업지형-title-svg.webp"
+    },
+    {
+      "title": "23 OTT전쟁 title.png",
+      "sourceFile": "23_OTT전쟁_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/40-23-ott전쟁-title.webp"
+    },
+    {
+      "title": "23 OTT전쟁 title.svg",
+      "sourceFile": "23_OTT전쟁_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/41-23-ott전쟁-title.svg"
+    },
+    {
+      "title": "23 OTT전쟁 title.svg.png",
+      "sourceFile": "23_OTT전쟁_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/42-23-ott전쟁-title-svg.webp"
+    },
+    {
+      "title": "24 웹툰과웹소설 title.png",
+      "sourceFile": "24_웹툰과웹소설_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/43-24-웹툰과웹소설-title.webp"
+    },
+    {
+      "title": "24 웹툰과웹소설 title.svg",
+      "sourceFile": "24_웹툰과웹소설_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/44-24-웹툰과웹소설-title.svg"
+    },
+    {
+      "title": "24 웹툰과웹소설 title.svg.png",
+      "sourceFile": "24_웹툰과웹소설_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/45-24-웹툰과웹소설-title-svg.webp"
+    },
+    {
+      "title": "25 유튜브와숏폼 title.png",
+      "sourceFile": "25_유튜브와숏폼_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/46-25-유튜브와숏폼-title.webp"
+    },
+    {
+      "title": "25 유튜브와숏폼 title.svg",
+      "sourceFile": "25_유튜브와숏폼_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/47-25-유튜브와숏폼-title.svg"
+    },
+    {
+      "title": "25 유튜브와숏폼 title.svg.png",
+      "sourceFile": "25_유튜브와숏폼_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/48-25-유튜브와숏폼-title-svg.webp"
+    },
+    {
+      "title": "26 IP확장경제 title.png",
+      "sourceFile": "26_IP확장경제_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/49-26-ip확장경제-title.webp"
+    },
+    {
+      "title": "26 IP확장경제 title.svg",
+      "sourceFile": "26_IP확장경제_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/50-26-ip확장경제-title.svg"
+    },
+    {
+      "title": "26 IP확장경제 title.svg.png",
+      "sourceFile": "26_IP확장경제_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/51-26-ip확장경제-title-svg.webp"
+    },
+    {
+      "title": "27 데이팅앱과운세 title.png",
+      "sourceFile": "27_데이팅앱과운세_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/52-27-데이팅앱과운세-title.webp"
+    },
+    {
+      "title": "27 데이팅앱과운세 title.svg",
+      "sourceFile": "27_데이팅앱과운세_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/53-27-데이팅앱과운세-title.svg"
+    },
+    {
+      "title": "27 데이팅앱과운세 title.svg.png",
+      "sourceFile": "27_데이팅앱과운세_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/54-27-데이팅앱과운세-title-svg.webp"
+    },
+    {
+      "title": "28 BM설계프레임워크 title.png",
+      "sourceFile": "28_BM설계프레임워크_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/55-28-bm설계프레임워크-title.webp"
+    },
+    {
+      "title": "28 BM설계프레임워크 title.svg",
+      "sourceFile": "28_BM설계프레임워크_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/56-28-bm설계프레임워크-title.svg"
+    },
+    {
+      "title": "28 BM설계프레임워크 title.svg.png",
+      "sourceFile": "28_BM설계프레임워크_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/57-28-bm설계프레임워크-title-svg.webp"
+    },
+    {
+      "title": "29 오타쿠경제학 title.png",
+      "sourceFile": "29_오타쿠경제학_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/58-29-오타쿠경제학-title.webp"
+    },
+    {
+      "title": "29 오타쿠경제학 title.svg",
+      "sourceFile": "29_오타쿠경제학_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/59-29-오타쿠경제학-title.svg"
+    },
+    {
+      "title": "29 오타쿠경제학 title.svg.png",
+      "sourceFile": "29_오타쿠경제학_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/60-29-오타쿠경제학-title-svg.webp"
+    },
+    {
+      "title": "30 부록 title.png",
+      "sourceFile": "30_부록_title.png",
+      "url": "/assets/books/mobile-game-bm-renewal/61-30-부록-title.webp"
+    },
+    {
+      "title": "30 부록 title.svg",
+      "sourceFile": "30_부록_title.svg",
+      "url": "/assets/books/mobile-game-bm-renewal/62-30-부록-title.svg"
+    },
+    {
+      "title": "30 부록 title.svg.png",
+      "sourceFile": "30_부록_title.svg.png",
+      "url": "/assets/books/mobile-game-bm-renewal/63-30-부록-title-svg.webp"
+    }
+  ],
+  "chapters": [
+    {
+      "slug": "01-01-프롤로그",
+      "title": "01 프롤로그",
+      "sourceFile": "01_프롤로그.md",
+      "file": "chapters/01-01-프롤로그.md",
+      "order": 1
+    },
+    {
+      "slug": "02-02-bm이란무엇인가",
+      "title": "02 BM이란무엇인가",
+      "sourceFile": "02_BM이란무엇인가.md",
+      "file": "chapters/02-02-bm이란무엇인가.md",
+      "order": 2
+    },
+    {
+      "slug": "03-03-지불습관의탄생",
+      "title": "03 지불습관의탄생",
+      "sourceFile": "03_지불습관의탄생.md",
+      "file": "chapters/03-03-지불습관의탄생.md",
+      "order": 3
+    },
+    {
+      "slug": "04-04-현대bm유형론",
+      "title": "04 현대BM유형론",
+      "sourceFile": "04_현대BM유형론.md",
+      "file": "chapters/04-04-현대bm유형론.md",
+      "order": 4
+    },
+    {
+      "slug": "05-05-디지털전환",
+      "title": "05 디지털전환",
+      "sourceFile": "05_디지털전환.md",
+      "file": "chapters/05-05-디지털전환.md",
+      "order": 5
+    },
+    {
+      "slug": "06-06-아케이드",
+      "title": "06 아케이드",
+      "sourceFile": "06_아케이드.md",
+      "file": "chapters/06-06-아케이드.md",
+      "order": 6
+    },
+    {
+      "slug": "07-07-콘솔",
+      "title": "07 콘솔",
+      "sourceFile": "07_콘솔.md",
+      "file": "chapters/07-07-콘솔.md",
+      "order": 7
+    },
+    {
+      "slug": "08-08-pc와온라인게임",
+      "title": "08 PC와온라인게임",
+      "sourceFile": "08_PC와온라인게임.md",
+      "file": "chapters/08-08-pc와온라인게임.md",
+      "order": 8
+    },
+    {
+      "slug": "09-09-모바일게임",
+      "title": "09 모바일게임",
+      "sourceFile": "09_모바일게임.md",
+      "file": "chapters/09-09-모바일게임.md",
+      "order": 9
+    },
+    {
+      "slug": "10-10-gaas",
+      "title": "10 GaaS",
+      "sourceFile": "10_GaaS.md",
+      "file": "chapters/10-10-gaas.md",
+      "order": 10
+    },
+    {
+      "slug": "11-11-e스포츠",
+      "title": "11 e스포츠",
+      "sourceFile": "11_e스포츠.md",
+      "file": "chapters/11-11-e스포츠.md",
+      "order": 11
+    },
+    {
+      "slug": "12-12-게임bm미래",
+      "title": "12 게임BM미래",
+      "sourceFile": "12_게임BM미래.md",
+      "file": "chapters/12-12-게임bm미래.md",
+      "order": 12
+    },
+    {
+      "slug": "13-13-게임과금실무1",
+      "title": "13 게임과금실무1",
+      "sourceFile": "13_게임과금실무1.md",
+      "file": "chapters/13-13-게임과금실무1.md",
+      "order": 13
+    },
+    {
+      "slug": "14-14-게임과금실무2",
+      "title": "14 게임과금실무2",
+      "sourceFile": "14_게임과금실무2.md",
+      "file": "chapters/14-14-게임과금실무2.md",
+      "order": 14
+    },
+    {
+      "slug": "15-15-2권오프닝",
+      "title": "15 2권오프닝",
+      "sourceFile": "15_2권오프닝.md",
+      "file": "chapters/15-15-2권오프닝.md",
+      "order": 15
+    },
+    {
+      "slug": "16-16-음악의탄생",
+      "title": "16 음악의탄생",
+      "sourceFile": "16_음악의탄생.md",
+      "file": "chapters/16-16-음악의탄생.md",
+      "order": 16
+    },
+    {
+      "slug": "17-17-cd와mp3",
+      "title": "17 CD와MP3",
+      "sourceFile": "17_CD와MP3.md",
+      "file": "chapters/17-17-cd와mp3.md",
+      "order": 17
+    },
+    {
+      "slug": "18-18-스트리밍의역설",
+      "title": "18 스트리밍의역설",
+      "sourceFile": "18_스트리밍의역설.md",
+      "file": "chapters/18-18-스트리밍의역설.md",
+      "order": 18
+    },
+    {
+      "slug": "19-19-k팝",
+      "title": "19 K팝",
+      "sourceFile": "19_K팝.md",
+      "file": "chapters/19-19-k팝.md",
+      "order": 19
+    },
+    {
+      "slug": "20-20-공연과레이블",
+      "title": "20 공연과레이블",
+      "sourceFile": "20_공연과레이블.md",
+      "file": "chapters/20-20-공연과레이블.md",
+      "order": 20
+    },
+    {
+      "slug": "21-21-노래방과음향디바이스",
+      "title": "21 노래방과음향디바이스",
+      "sourceFile": "21_노래방과음향디바이스.md",
+      "file": "chapters/21-21-노래방과음향디바이스.md",
+      "order": 21
+    },
+    {
+      "slug": "22-22-영상산업지형",
+      "title": "22 영상산업지형",
+      "sourceFile": "22_영상산업지형.md",
+      "file": "chapters/22-22-영상산업지형.md",
+      "order": 22
+    },
+    {
+      "slug": "23-23-ott전쟁",
+      "title": "23 OTT전쟁",
+      "sourceFile": "23_OTT전쟁.md",
+      "file": "chapters/23-23-ott전쟁.md",
+      "order": 23
+    },
+    {
+      "slug": "24-24-웹툰과웹소설",
+      "title": "24 웹툰과웹소설",
+      "sourceFile": "24_웹툰과웹소설.md",
+      "file": "chapters/24-24-웹툰과웹소설.md",
+      "order": 24
+    },
+    {
+      "slug": "25-25-유튜브와숏폼",
+      "title": "25 유튜브와숏폼",
+      "sourceFile": "25_유튜브와숏폼.md",
+      "file": "chapters/25-25-유튜브와숏폼.md",
+      "order": 25
+    },
+    {
+      "slug": "26-26-ip확장경제",
+      "title": "26 IP확장경제",
+      "sourceFile": "26_IP확장경제.md",
+      "file": "chapters/26-26-ip확장경제.md",
+      "order": 26
+    },
+    {
+      "slug": "27-27-데이팅앱과운세",
+      "title": "27 데이팅앱과운세",
+      "sourceFile": "27_데이팅앱과운세.md",
+      "file": "chapters/27-27-데이팅앱과운세.md",
+      "order": 27
+    },
+    {
+      "slug": "28-28-bm설계프레임워크",
+      "title": "28 BM설계프레임워크",
+      "sourceFile": "28_BM설계프레임워크.md",
+      "file": "chapters/28-28-bm설계프레임워크.md",
+      "order": 28
+    },
+    {
+      "slug": "29-29-오타쿠경제학",
+      "title": "29 오타쿠경제학",
+      "sourceFile": "29_오타쿠경제학.md",
+      "file": "chapters/29-29-오타쿠경제학.md",
+      "order": 29
+    },
+    {
+      "slug": "30-30-부록",
+      "title": "30 부록",
+      "sourceFile": "30_부록.md",
+      "file": "chapters/30-30-부록.md",
+      "order": 30
+    }
+  ]
+}

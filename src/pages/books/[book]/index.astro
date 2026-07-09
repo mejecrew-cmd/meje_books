@@ -1,0 +1,60 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { getBooks } from "../../../lib/books";
+
+export function getStaticPaths() {
+  return getBooks().map((book) => ({
+    params: { book: book.slug },
+    props: { book }
+  }));
+}
+
+const { book } = Astro.props;
+---
+<BaseLayout title={`${book.title} · MEJE BOOKS`} description={book.description}>
+  <section class="book-hero">
+    <div class="container book-hero-grid">
+      <div>
+        <p class="eyebrow">{book.line} · {book.category}</p>
+        <h1>{book.title}</h1>
+        <p class="subtitle">{book.subtitle}</p>
+      </div>
+      <aside class="book-panel">
+        {book.cover && (
+          <img class="book-panel-cover" src={book.cover} alt={`${book.title} 표지`} />
+        )}
+        <dl>
+          <dt>Author</dt>
+          <dd>{book.author}</dd>
+          <dt>Chapters</dt>
+          <dd>{book.chapterCount}</dd>
+          <dt>Assets</dt>
+          <dd>{book.assetCount ?? 0}</dd>
+          <dt>Line</dt>
+          <dd>{book.line}</dd>
+        </dl>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2 class="section-title">목차</h2>
+        <p class="section-meta">{book.chapterCount} chapters</p>
+      </div>
+      {book.chapters.length === 0 ? (
+        <p class="empty">아직 공개된 챕터가 없습니다.</p>
+      ) : (
+        <div class="chapter-list">
+          {book.chapters.map((chapter) => (
+            <a class="chapter-row" href={`/books/${book.slug}/${chapter.slug}/`}>
+              <span class="num">{String(chapter.order).padStart(2, "0")}</span>
+              <span class="title">{chapter.title}</span>
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>

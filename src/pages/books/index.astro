@@ -1,0 +1,36 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getBooks } from "../../lib/books";
+
+const books = getBooks();
+---
+<BaseLayout title="Books · MEJE BOOKS" description="MEJE BOOKS 전체 책 목록">
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">CATALOG</p>
+      <h1>MEJE BOOKS 전체 목록</h1>
+      <p>제작 공정 원고와 김동은WhtDrgon. 강연고를 책 단위로 정리했습니다.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="book-grid">
+        {books.map((book) => (
+          <a class="book-card" href={`/books/${book.slug}/`}>
+            {book.cover && (
+              <img class="book-thumb" src={book.cover} alt={`${book.title} 표지`} loading="lazy" />
+            )}
+            <span class="line">{book.line} · {book.category}</span>
+            <h2>{book.title}</h2>
+            <p>{book.description}</p>
+            <span class="card-foot">
+              <span>{book.author}</span>
+              <span>{book.chapterCount} chapters</span>
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

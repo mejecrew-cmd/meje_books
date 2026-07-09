@@ -1,0 +1,36 @@
+{
+  "slug": "pride-and-prejudice-data",
+  "title": "Pride and Prejudice 세계관 데이터",
+  "subtitle": "서연각 공정의 기반 자료 예시",
+  "line": "MEJE PROCESS",
+  "category": "Reference",
+  "author": "MEJE Works",
+  "description": "서연각 번역 및 자료집 공정의 기반 예시로 정리된 Pride and Prejudice 세계관 데이터와 설정 시트 자료입니다.",
+  "order": 3,
+  "chapterCount": 3,
+  "assetCount": 0,
+  "assets": [],
+  "chapters": [
+    {
+      "slug": "01-설정시트-목록-wikied",
+      "title": "설정시트 목록",
+      "sourceFile": "설정시트_목록_wikied.md",
+      "file": "chapters/01-설정시트-목록-wikied.md",
+      "order": 1
+    },
+    {
+      "slug": "02-p-p-profile-wikied",
+      "title": "P&P profile",
+      "sourceFile": "P&P_profile_wikied.md",
+      "file": "chapters/02-p-p-profile-wikied.md",
+      "order": 2
+    },
+    {
+      "slug": "03-readme-wikied",
+      "title": "README",
+      "sourceFile": "README_wikied.md",
+      "file": "chapters/03-readme-wikied.md",
+      "order": 3
+    }
+  ]
+}

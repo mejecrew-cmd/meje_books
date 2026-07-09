@@ -1,0 +1,20 @@
+{
+  "name": "meje-books",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev --host 127.0.0.1",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 astro build",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview --host 127.0.0.1",
+    "import:books": "node scripts/import-books.mjs"
+  },
+  "dependencies": {
+    "astro": "latest",
+    "gray-matter": "latest",
+    "marked": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "slug": "meje-librarying",
+  "title": "MEJE 라이브러링 워크플로 백서",
+  "subtitle": "자료를 세계관 지식 구조로 묶는 제작 공정",
+  "line": "MEJE PROCESS",
+  "category": "Process 02",
+  "author": "MEJE Works",
+  "description": "흩어진 원천 자료에서 키워드, 개념, 관계, 장소, 사건을 추출해 세계관 지식 구조로 묶는 MEJE의 라이브러링 공정입니다.",
+  "order": 1,
+  "chapterCount": 24,
+  "cover": "/assets/books/meje-librarying/01-01-본문-제1장-글로서리에서-클라우드로.webp",
+  "assetCount": 22,
+  "assets": [
+    {
+      "title": "01 본문 제1장 글로서리에서 클라우드로.png",
+      "sourceFile": "01_본문_제1장_글로서리에서_클라우드로.png",
+      "url": "/assets/books/meje-librarying/01-01-본문-제1장-글로서리에서-클라우드로.webp"
+    },
+    {
+      "title": "02 본문 제2장 제작자와 AI작업동료.png",
+      "sourceFile": "02_본문_제2장_제작자와_AI작업동료.png",
+      "url": "/assets/books/meje-librarying/02-02-본문-제2장-제작자와-ai작업동료.webp"
+    },
+    {
+      "title": "03 본문 제3장 입력에서 Vault까지.png",
+      "sourceFile": "03_본문_제3장_입력에서_Vault까지.png",
+      "url": "/assets/books/meje-librarying/03-03-본문-제3장-입력에서-vault까지.webp"
+    },
+    {
+      "title": "04 본문 제4장 키워드 추출.png",
+      "sourceFile": "04_본문_제4장_키워드_추출.png",
+      "url": "/assets/books/meje-librarying/04-04-본문-제4장-키워드-추출.webp"
+    },
+    {
+      "title": "05 본문 제5장 Wiki표제어 통합.png",
+      "sourceFile": "05_본문_제5장_Wiki표제어_통합.png",
+      "url": "/assets/books/meje-librarying/05-05-본문-제5장-wiki표제어-통합.webp"
+    },
+    {
+      "title": "06 본문 제6장 두 분류기준.png",
+      "sourceFile": "06_본문_제6장_두_분류기준.png",
+      "url": "/assets/books/meje-librarying/06-06-본문-제6장-두-분류기준.webp"
+    },
+    {
+      "title": "07 본문 제7장 CSV에서 Obsidian파일로.png",
+      "sourceFile": "07_본문_제7장_CSV에서_Obsidian파일로.png",
+      "url": "/assets/books/meje-librarying/07-07-본문-제7장-csv에서-obsidian파일로.webp"
+    },
+    {
+      "title": "08 본문 제8장 hub와 leaf.png",
+      "sourceFile": "08_본문_제8장_hub와_leaf.png",
+      "url": "/assets/books/meje-librarying/08-08-본문-제8장-hub와-leaf.webp"
+    },
+    {
+      "title": "09 본문 제9장 서술집필과 Vault의 생명.png",
+      "sourceFile": "09_본문_제9장_서술집필과_Vault의_생명.png",
+      "url": "/assets/books/meje-librarying/09-09-본문-제9장-서술집필과-vault의-생명.webp"
+    },
+    {
+      "title": "10 본문 제10장 검증.png",
+      "sourceFile": "10_본문_제10장_검증.png",
+      "url": "/assets/books/meje-librarying/10-10-본문-제10장-검증.webp"
+    },
+    {
+      "title": "11 본문 제11장 역류와 운영사이클.png",
+      "sourceFile": "11_본문_제11장_역류와_운영사이클.png",
+      "url": "/assets/books/meje-librarying/11-11-본문-제11장-역류와-운영사이클.webp"
+    },
+    {
+      "title": "12 본문 제12장 Vault의 출구.png",
+      "sourceFile": "12_본문_제12장_Vault의_출구.png",
+      "url": "/assets/books/meje-librarying/12-12-본문-제12장-vault의-출구.webp"
+    },
+    {
+      "title": "13 본문 제13장 실전의 풍경.png",
+      "sourceFile": "13_본문_제13장_실전의_풍경.png",
+      "url": "/assets/books/meje-librarying/13-13-본문-제13장-실전의-풍경.webp"
+    },
+    {
+      "title": "14 본문 제14장 빈 Vault앞에서.png",
+      "sourceFile": "14_본문_제14장_빈_Vault앞에서.png",
+      "url": "/assets/books/meje-librarying/14-14-본문-제14장-빈-vault앞에서.webp"
+    },
+    {
+      "title": "15 실무편 00 실행패키지 설계.png",
+      "sourceFile": "15_실무편_00_실행패키지_설계.png",
+      "url": "/assets/books/meje-librarying/15-15-실무편-00-실행패키지-설계.webp"
+    },
+    {
+      "title": "16 실무편 A 프로젝트프로파일.png",
+      "sourceFile": "16_실무편_A_프로젝트프로파일.png",
+      "url": "/assets/books/meje-librarying/16-16-실무편-a-프로젝트프로파일.webp"
+    },
+    {
+      "title": "17 실무편 B 1차추출 CSV.png",
+      "sourceFile": "17_실무편_B_1차추출_CSV.png",
+      "url": "/assets/books/meje-librarying/17-17-실무편-b-1차추출-csv.webp"
+    },
+    {
+      "title": "18 실무편 C 2차통합 CSV.png",
+      "sourceFile": "18_실무편_C_2차통합_CSV.png",
+      "url": "/assets/books/meje-librarying/18-18-실무편-c-2차통합-csv.webp"
+    },
+    {
+      "title": "19 실무편 D Vault md 기준문서.png",
+      "sourceFile": "19_실무편_D_Vault_md_기준문서.png",
+      "url": "/assets/books/meje-librarying/19-19-실무편-d-vault-md-기준문서.webp"
+    },
+    {
+      "title": "20 실무편 E vault manifest.png",
+      "sourceFile": "20_실무편_E_vault_manifest.png",
+      "url": "/assets/books/meje-librarying/20-20-실무편-e-vault-manifest.webp"
+    },
+    {
+      "title": "21 실무편 F 검증체크리스트.png",
+      "sourceFile": "21_실무편_F_검증체크리스트.png",
+      "url": "/assets/books/meje-librarying/21-21-실무편-f-검증체크리스트.webp"
+    },
+    {
+      "title": "22 실무편 G 적용전후비교.png",
+      "sourceFile": "22_실무편_G_적용전후비교.png",
+      "url": "/assets/books/meje-librarying/22-22-실무편-g-적용전후비교.webp"
+    }
+  ],
+  "chapters": [
+    {
+      "slug": "01-00-공개본-서문과-목차",
+      "title": "공개본 서문과 목차",
+      "sourceFile": "00_공개본_서문과_목차.md",
+      "file": "chapters/01-00-공개본-서문과-목차.md",
+      "order": 1
+    },
+    {
+      "slug": "02-00-총람-목차와-집필계획-wikied",
+      "title": "총람 목차와 집필계획",
+      "sourceFile": "00_총람_목차와_집필계획_wikied.md",
+      "file": "chapters/02-00-총람-목차와-집필계획-wikied.md",
+      "order": 2
+    },
+    {
+      "slug": "03-본문-01-제1장",
+      "title": "01 제1장",
+      "sourceFile": "본문_01_제1장.md",
+      "file": "chapters/03-본문-01-제1장.md",
+      "order": 3
+    },
+    {
+      "slug": "04-본문-02-제2장",
+      "title": "02 제2장",
+      "sourceFile": "본문_02_제2장.md",
+      "file": "chapters/04-본문-02-제2장.md",
+      "order": 4
+    },
+    {
+      "slug": "05-본문-03-제3장",
+      "title": "03 제3장",
+      "sourceFile": "본문_03_제3장.md",
+      "file": "chapters/05-본문-03-제3장.md",
+      "order": 5
+    },
+    {
+      "slug": "06-본문-04-제4장",
+      "title": "04 제4장",
+      "sourceFile": "본문_04_제4장.md",
+      "file": "chapters/06-본문-04-제4장.md",
+      "order": 6
+    },
+    {
+      "slug": "07-본문-05-제5장",
+      "title": "05 제5장",
+      "sourceFile": "본문_05_제5장.md",
+      "file": "chapters/07-본문-05-제5장.md",
+      "order": 7
+    },
+    {
+      "slug": "08-본문-06-제6장",
+      "title": "06 제6장",
+      "sourceFile": "본문_06_제6장.md",
+      "file": "chapters/08-본문-06-제6장.md",
+      "order": 8
+    },
+    {
+      "slug": "09-본문-07-제7장",
+      "title": "07 제7장",
+      "sourceFile": "본문_07_제7장.md",
+      "file": "chapters/09-본문-07-제7장.md",
+      "order": 9
+    },
+    {
+      "slug": "10-본문-08-제8장",
+      "title": "08 제8장",
+      "sourceFile": "본문_08_제8장.md",
+      "file": "chapters/10-본문-08-제8장.md",
+      "order": 10
+    },
+    {
+      "slug": "11-본문-09-제9장",
+      "title": "09 제9장",
+      "sourceFile": "본문_09_제9장.md",
+      "file": "chapters/11-본문-09-제9장.md",
+      "order": 11
+    },
+    {
+      "slug": "12-본문-10-제10장",
+      "title": "10 제10장",
+      "sourceFile": "본문_10_제10장.md",
+      "file": "chapters/12-본문-10-제10장.md",
+      "order": 12
+    },
+    {
+      "slug": "13-본문-11-제11장",
+      "title": "11 제11장",
+      "sourceFile": "본문_11_제11장.md",
+      "file": "chapters/13-본문-11-제11장.md",
+      "order": 13
+    },
+    {
+      "slug": "14-본문-12-제12장",
+      "title": "12 제12장",
+      "sourceFile": "본문_12_제12장.md",
+      "file": "chapters/14-본문-12-제12장.md",
+      "order": 14
+    },
+    {
+      "slug": "15-본문-13-제13장",
+      "title": "13 제13장",
+      "sourceFile": "본문_13_제13장.md",
+      "file": "chapters/15-본문-13-제13장.md",
+      "order": 15
+    },
+    {
+      "slug": "16-본문-14-제14장",
+      "title": "14 제14장",
+      "sourceFile": "본문_14_제14장.md",
+      "file": "chapters/16-본문-14-제14장.md",
+      "order": 16
+    },
+    {
+      "slug": "17-실무편-00-백서실무편-설계",
+      "title": "실무편 00 백서실무편 설계",
+      "sourceFile": "실무편_00_백서실무편_설계.md",
+      "file": "chapters/17-실무편-00-백서실무편-설계.md",
+      "order": 17
+    },
+    {
+      "slug": "18-실무편-b-1차추출-csv-샘플",
+      "title": "실무편 B 1차추출 CSV 샘플",
+      "sourceFile": "실무편_B_1차추출_CSV_샘플.md",
+      "file": "chapters/18-실무편-b-1차추출-csv-샘플.md",
+      "order": 18
+    },
+    {
+      "slug": "19-실무편-c-2차통합-csv-샘플",
+      "title": "실무편 C 2차통합 CSV 샘플",
+      "sourceFile": "실무편_C_2차통합_CSV_샘플.md",
+      "file": "chapters/19-실무편-c-2차통합-csv-샘플.md",
+      "order": 19
+    },
+    {
+      "slug": "20-실무편-a-프로젝트프로파일-템플릿",
+      "title": "실무편 A 프로젝트프로파일 템플릿",
+      "sourceFile": "실무편_A_프로젝트프로파일_템플릿.md",
+      "file": "chapters/20-실무편-a-프로젝트프로파일-템플릿.md",
+      "order": 20
+    },
+    {
+      "slug": "21-실무편-d-vault-md-기준문서-예시",
+      "title": "실무편 D Vault md 기준문서 예시",
+      "sourceFile": "실무편_D_Vault_md_기준문서_예시.md",
+      "file": "chapters/21-실무편-d-vault-md-기준문서-예시.md",
+      "order": 21
+    },
+    {
+      "slug": "22-실무편-e-vault-manifest-예시",
+      "title": "실무편 E vault manifest 예시",
+      "sourceFile": "실무편_E_vault_manifest_예시.md",
+      "file": "chapters/22-실무편-e-vault-manifest-예시.md",
+      "order": 22
+    },
+    {
+      "slug": "23-실무편-f-검증체크리스트",
+      "title": "실무편 F 검증체크리스트",
+      "sourceFile": "실무편_F_검증체크리스트.md",
+      "file": "chapters/23-실무편-f-검증체크리스트.md",
+      "order": 23
+    },
+    {
+      "slug": "24-실무편-g-적용전후비교-양식",
+      "title": "실무편 G 적용전후비교 양식",
+      "sourceFile": "실무편_G_적용전후비교_양식.md",
+      "file": "chapters/24-실무편-g-적용전후비교-양식.md",
+      "order": 24
+    }
+  ]
+}

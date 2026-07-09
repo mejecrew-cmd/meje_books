@@ -1,0 +1,903 @@
+{
+  "generatedAt": "2026-07-09T14:26:11.948Z",
+  "bookCount": 10,
+  "books": [
+    {
+      "slug": "meje-librarying",
+      "title": "MEJE 라이브러링 워크플로 백서",
+      "subtitle": "자료를 세계관 지식 구조로 묶는 제작 공정",
+      "line": "MEJE PROCESS",
+      "category": "Process 02",
+      "author": "MEJE Works",
+      "description": "흩어진 원천 자료에서 키워드, 개념, 관계, 장소, 사건을 추출해 세계관 지식 구조로 묶는 MEJE의 라이브러링 공정입니다.",
+      "order": 1,
+      "chapterCount": 24,
+      "cover": "/assets/books/meje-librarying/01-01-본문-제1장-글로서리에서-클라우드로.webp",
+      "assetCount": 22,
+      "assets": [
+        {
+          "title": "01 본문 제1장 글로서리에서 클라우드로.png",
+          "sourceFile": "01_본문_제1장_글로서리에서_클라우드로.png",
+          "url": "/assets/books/meje-librarying/01-01-본문-제1장-글로서리에서-클라우드로.webp"
+        },
+        {
+          "title": "02 본문 제2장 제작자와 AI작업동료.png",
+          "sourceFile": "02_본문_제2장_제작자와_AI작업동료.png",
+          "url": "/assets/books/meje-librarying/02-02-본문-제2장-제작자와-ai작업동료.webp"
+        },
+        {
+          "title": "03 본문 제3장 입력에서 Vault까지.png",
+          "sourceFile": "03_본문_제3장_입력에서_Vault까지.png",
+          "url": "/assets/books/meje-librarying/03-03-본문-제3장-입력에서-vault까지.webp"
+        },
+        {
+          "title": "04 본문 제4장 키워드 추출.png",
+          "sourceFile": "04_본문_제4장_키워드_추출.png",
+          "url": "/assets/books/meje-librarying/04-04-본문-제4장-키워드-추출.webp"
+        },
+        {
+          "title": "05 본문 제5장 Wiki표제어 통합.png",
+          "sourceFile": "05_본문_제5장_Wiki표제어_통합.png",
+          "url": "/assets/books/meje-librarying/05-05-본문-제5장-wiki표제어-통합.webp"
+        },
+        {
+          "title": "06 본문 제6장 두 분류기준.png",
+          "sourceFile": "06_본문_제6장_두_분류기준.png",
+          "url": "/assets/books/meje-librarying/06-06-본문-제6장-두-분류기준.webp"
+        },
+        {
+          "title": "07 본문 제7장 CSV에서 Obsidian파일로.png",
+          "sourceFile": "07_본문_제7장_CSV에서_Obsidian파일로.png",
+          "url": "/assets/books/meje-librarying/07-07-본문-제7장-csv에서-obsidian파일로.webp"
+        },
+        {
+          "title": "08 본문 제8장 hub와 leaf.png",
+          "sourceFile": "08_본문_제8장_hub와_leaf.png",
+          "url": "/assets/books/meje-librarying/08-08-본문-제8장-hub와-leaf.webp"
+        },
+        {
+          "title": "09 본문 제9장 서술집필과 Vault의 생명.png",
+          "sourceFile": "09_본문_제9장_서술집필과_Vault의_생명.png",
+          "url": "/assets/books/meje-librarying/09-09-본문-제9장-서술집필과-vault의-생명.webp"
+        },
+        {
+          "title": "10 본문 제10장 검증.png",
+          "sourceFile": "10_본문_제10장_검증.png",
+          "url": "/assets/books/meje-librarying/10-10-본문-제10장-검증.webp"
+        },
+        {
+          "title": "11 본문 제11장 역류와 운영사이클.png",
+          "sourceFile": "11_본문_제11장_역류와_운영사이클.png",
+          "url": "/assets/books/meje-librarying/11-11-본문-제11장-역류와-운영사이클.webp"
+        },
+        {
+          "title": "12 본문 제12장 Vault의 출구.png",
+          "sourceFile": "12_본문_제12장_Vault의_출구.png",
+          "url": "/assets/books/meje-librarying/12-12-본문-제12장-vault의-출구.webp"
+        },
+        {
+          "title": "13 본문 제13장 실전의 풍경.png",
+          "sourceFile": "13_본문_제13장_실전의_풍경.png",
+          "url": "/assets/books/meje-librarying/13-13-본문-제13장-실전의-풍경.webp"
+        },
+        {
+          "title": "14 본문 제14장 빈 Vault앞에서.png",
+          "sourceFile": "14_본문_제14장_빈_Vault앞에서.png",
+          "url": "/assets/books/meje-librarying/14-14-본문-제14장-빈-vault앞에서.webp"
+        },
+        {
+          "title": "15 실무편 00 실행패키지 설계.png",
+          "sourceFile": "15_실무편_00_실행패키지_설계.png",
+          "url": "/assets/books/meje-librarying/15-15-실무편-00-실행패키지-설계.webp"
+        },
+        {
+          "title": "16 실무편 A 프로젝트프로파일.png",
+          "sourceFile": "16_실무편_A_프로젝트프로파일.png",
+          "url": "/assets/books/meje-librarying/16-16-실무편-a-프로젝트프로파일.webp"
+        },
+        {
+          "title": "17 실무편 B 1차추출 CSV.png",
+          "sourceFile": "17_실무편_B_1차추출_CSV.png",
+          "url": "/assets/books/meje-librarying/17-17-실무편-b-1차추출-csv.webp"
+        },
+        {
+          "title": "18 실무편 C 2차통합 CSV.png",
+          "sourceFile": "18_실무편_C_2차통합_CSV.png",
+          "url": "/assets/books/meje-librarying/18-18-실무편-c-2차통합-csv.webp"
+        },
+        {
+          "title": "19 실무편 D Vault md 기준문서.png",
+          "sourceFile": "19_실무편_D_Vault_md_기준문서.png",
+          "url": "/assets/books/meje-librarying/19-19-실무편-d-vault-md-기준문서.webp"
+        },
+        {
+          "title": "20 실무편 E vault manifest.png",
+          "sourceFile": "20_실무편_E_vault_manifest.png",
+          "url": "/assets/books/meje-librarying/20-20-실무편-e-vault-manifest.webp"
+        },
+        {
+          "title": "21 실무편 F 검증체크리스트.png",
+          "sourceFile": "21_실무편_F_검증체크리스트.png",
+          "url": "/assets/books/meje-librarying/21-21-실무편-f-검증체크리스트.webp"
+        },
+        {
+          "title": "22 실무편 G 적용전후비교.png",
+          "sourceFile": "22_실무편_G_적용전후비교.png",
+          "url": "/assets/books/meje-librarying/22-22-실무편-g-적용전후비교.webp"
+        }
+      ]
+    },
+    {
+      "slug": "meje-seoyeongak",
+      "title": "MEJE 서연각 번역 프로세스",
+      "subtitle": "번역, 각색, 해설 자료집 제작 공정",
+      "line": "MEJE PROCESS",
+      "category": "Process 03",
+      "author": "MEJE Works",
+      "description": "MEJEworks 산하 번역 조직 서연각의 기획부터 납품까지, 다국어 콘텐츠 제작과 자료집화를 다루는 실무 원고입니다.",
+      "order": 2,
+      "chapterCount": 17,
+      "assetCount": 0,
+      "assets": []
+    },
+    {
+      "slug": "pride-and-prejudice-data",
+      "title": "Pride and Prejudice 세계관 데이터",
+      "subtitle": "서연각 공정의 기반 자료 예시",
+      "line": "MEJE PROCESS",
+      "category": "Reference",
+      "author": "MEJE Works",
+      "description": "서연각 번역 및 자료집 공정의 기반 예시로 정리된 Pride and Prejudice 세계관 데이터와 설정 시트 자료입니다.",
+      "order": 3,
+      "chapterCount": 3,
+      "assetCount": 0,
+      "assets": []
+    },
+    {
+      "slug": "meje-lorebook",
+      "title": "MEJE 설정 프로세스 로어북",
+      "subtitle": "세계관 설정집과 로어북 제작 공정",
+      "line": "MEJE PROCESS",
+      "category": "Process 04",
+      "author": "MEJE Works",
+      "description": "라이브러링된 지식을 공식 설정집, 로어북, 공개 위키, 책 구조로 편집하는 MEJE의 세계관 설정집 제작 공정입니다.",
+      "order": 4,
+      "chapterCount": 16,
+      "assetCount": 0,
+      "assets": []
+    },
+    {
+      "slug": "meje-character-process",
+      "title": "MEJE 캐릭터특화 프로세스",
+      "subtitle": "캐릭터 창작 및 시트 제작 디자인 가이드",
+      "line": "MEJE PROCESS",
+      "category": "Process 05",
+      "author": "MEJE Works",
+      "description": "캐릭터를 서사, 욕망, 결핍, 관계, 말투, 시각 요소, 운용 시트 단위로 제작하는 신규창작 공정입니다.",
+      "order": 5,
+      "chapterCount": 15,
+      "cover": "/assets/books/meje-character-process/01-캐릭터-표지.webp",
+      "assetCount": 1,
+      "assets": [
+        {
+          "title": "캐릭터 표지.png",
+          "sourceFile": "캐릭터 표지.png",
+          "url": "/assets/books/meje-character-process/01-캐릭터-표지.webp"
+        }
+      ]
+    },
+    {
+      "slug": "meje-storytelling-100",
+      "title": "MEJE 스토리텔링 100",
+      "subtitle": "세계관과 캐릭터에서 100개의 이야기 장면으로",
+      "line": "MEJE PROCESS",
+      "category": "Process 06",
+      "author": "MEJE Works",
+      "description": "세계관과 캐릭터 시트를 바탕으로 일상단면, 사건, 관계 변화, 참여형 장면 100개를 생산하는 스토리텔링 공정입니다.",
+      "order": 6,
+      "chapterCount": 15,
+      "assetCount": 0,
+      "assets": []
+    },
+    {
+      "slug": "atmosphere-engineering",
+      "title": "분위기공학",
+      "subtitle": "공간, 감각, 관계가 이야기를 만드는 방식",
+      "line": "KIM DONG-EUN",
+      "category": "Essay",
+      "author": "김동은WhtDrgon.",
+      "description": "MEJE 대표이자 세계관 제작자 김동은WhtDrgon.의 분위기, 감각, 공간, 관계에 관한 원고 라인입니다.",
+      "order": 7,
+      "chapterCount": 3,
+      "cover": "/assets/books/atmosphere-engineering/01-01-분위기공학-1-형용사대신-다이얼.webp",
+      "assetCount": 3,
+      "assets": [
+        {
+          "title": "01 분위기공학 1 형용사대신 다이얼.png",
+          "sourceFile": "01_분위기공학_1_형용사대신_다이얼.png",
+          "url": "/assets/books/atmosphere-engineering/01-01-분위기공학-1-형용사대신-다이얼.webp"
+        },
+        {
+          "title": "02 분위기공학 2 감정배합과 배정.png",
+          "sourceFile": "02_분위기공학_2_감정배합과_배정.png",
+          "url": "/assets/books/atmosphere-engineering/02-02-분위기공학-2-감정배합과-배정.webp"
+        },
+        {
+          "title": "03 분위기공학 3 형용사번역사전과 프리셋.png",
+          "sourceFile": "03_분위기공학_3_형용사번역사전과_프리셋.png",
+          "url": "/assets/books/atmosphere-engineering/03-03-분위기공학-3-형용사번역사전과-프리셋.webp"
+        }
+      ]
+    },
+    {
+      "slug": "new-content-ftue",
+      "title": "FTUE 최초 사용자 경험",
+      "subtitle": "뉴콘텐츠의 첫 장면과 진입 경험 설계",
+      "line": "KIM DONG-EUN",
+      "category": "FTUE",
+      "author": "김동은WhtDrgon.",
+      "description": "서비스와 콘텐츠의 첫 화면, 첫 감정, 첫 관계를 어떻게 설계할지 다루는 최초 사용자 경험 원고 묶음입니다.",
+      "order": 8,
+      "chapterCount": 30,
+      "cover": "/assets/books/new-content-ftue/01-00-전체표지.webp",
+      "assetCount": 31,
+      "assets": [
+        {
+          "title": "전체표지.png",
+          "sourceFile": "00_전체표지.png",
+          "url": "/assets/books/new-content-ftue/01-00-전체표지.webp"
+        },
+        {
+          "title": "01 게임은 안멋져.png",
+          "sourceFile": "01_게임은_안멋져.png",
+          "url": "/assets/books/new-content-ftue/02-01-게임은-안멋져.webp"
+        },
+        {
+          "title": "02 FTUE는튜토리얼이아니다.png",
+          "sourceFile": "02_FTUE는튜토리얼이아니다.png",
+          "url": "/assets/books/new-content-ftue/03-02-ftue는튜토리얼이아니다.webp"
+        },
+        {
+          "title": "03 최초란무엇인가.png",
+          "sourceFile": "03_최초란무엇인가.png",
+          "url": "/assets/books/new-content-ftue/04-03-최초란무엇인가.webp"
+        },
+        {
+          "title": "04 경험이란무엇인가.png",
+          "sourceFile": "04_경험이란무엇인가.png",
+          "url": "/assets/books/new-content-ftue/05-04-경험이란무엇인가.webp"
+        },
+        {
+          "title": "05 경험은경험을기반한다.png",
+          "sourceFile": "05_경험은경험을기반한다.png",
+          "url": "/assets/books/new-content-ftue/06-05-경험은경험을기반한다.webp"
+        },
+        {
+          "title": "06 사용자는한사람이아니다.png",
+          "sourceFile": "06_사용자는한사람이아니다.png",
+          "url": "/assets/books/new-content-ftue/07-06-사용자는한사람이아니다.webp"
+        },
+        {
+          "title": "07 극단적초보자와가짜초보자.png",
+          "sourceFile": "07_극단적초보자와가짜초보자.png",
+          "url": "/assets/books/new-content-ftue/08-07-극단적초보자와가짜초보자.webp"
+        },
+        {
+          "title": "08 고객안의고객들.png",
+          "sourceFile": "08_고객안의고객들.png",
+          "url": "/assets/books/new-content-ftue/09-08-고객안의고객들.webp"
+        },
+        {
+          "title": "09 주력세계관과인접세계관.png",
+          "sourceFile": "09_주력세계관과인접세계관.png",
+          "url": "/assets/books/new-content-ftue/10-09-주력세계관과인접세계관.webp"
+        },
+        {
+          "title": "10 캐릭터명단과감각명단.png",
+          "sourceFile": "10_캐릭터명단과감각명단.png",
+          "url": "/assets/books/new-content-ftue/11-10-캐릭터명단과감각명단.webp"
+        },
+        {
+          "title": "11 사용자의상태 경험의요금.png",
+          "sourceFile": "11_사용자의상태_경험의요금.png",
+          "url": "/assets/books/new-content-ftue/12-11-사용자의상태-경험의요금.webp"
+        },
+        {
+          "title": "12 콘텐츠별경험의유형.png",
+          "sourceFile": "12_콘텐츠별경험의유형.png",
+          "url": "/assets/books/new-content-ftue/13-12-콘텐츠별경험의유형.webp"
+        },
+        {
+          "title": "13 버튼이상징하는것.png",
+          "sourceFile": "13_버튼이상징하는것.png",
+          "url": "/assets/books/new-content-ftue/14-13-버튼이상징하는것.webp"
+        },
+        {
+          "title": "14 놀라움과익숙함의조화.png",
+          "sourceFile": "14_놀라움과익숙함의조화.png",
+          "url": "/assets/books/new-content-ftue/15-14-놀라움과익숙함의조화.webp"
+        },
+        {
+          "title": "15 피드백.png",
+          "sourceFile": "15_피드백.png",
+          "url": "/assets/books/new-content-ftue/16-15-피드백.webp"
+        },
+        {
+          "title": "16 비집중상태의설계.png",
+          "sourceFile": "16_비집중상태의설계.png",
+          "url": "/assets/books/new-content-ftue/17-16-비집중상태의설계.webp"
+        },
+        {
+          "title": "17 오류와복구.png",
+          "sourceFile": "17_오류와복구.png",
+          "url": "/assets/books/new-content-ftue/18-17-오류와복구.webp"
+        },
+        {
+          "title": "18 경험의예고와100개의첫인상.png",
+          "sourceFile": "18_경험의예고와100개의첫인상.png",
+          "url": "/assets/books/new-content-ftue/19-18-경험의예고와100개의첫인상.webp"
+        },
+        {
+          "title": "19 경험의충돌과레이어.png",
+          "sourceFile": "19_경험의충돌과레이어.png",
+          "url": "/assets/books/new-content-ftue/20-19-경험의충돌과레이어.webp"
+        },
+        {
+          "title": "20 FTUE의시작점과종료점.png",
+          "sourceFile": "20_FTUE의시작점과종료점.png",
+          "url": "/assets/books/new-content-ftue/21-20-ftue의시작점과종료점.webp"
+        },
+        {
+          "title": "21 첫30초3분30분하루.png",
+          "sourceFile": "21_첫30초3분30분하루.png",
+          "url": "/assets/books/new-content-ftue/22-21-첫30초3분30분하루.webp"
+        },
+        {
+          "title": "22 결과적계기판의정의.png",
+          "sourceFile": "22_결과적계기판의정의.png",
+          "url": "/assets/books/new-content-ftue/23-22-결과적계기판의정의.webp"
+        },
+        {
+          "title": "23 계기와계기판의인과.png",
+          "sourceFile": "23_계기와계기판의인과.png",
+          "url": "/assets/books/new-content-ftue/24-23-계기와계기판의인과.webp"
+        },
+        {
+          "title": "24 사업적목표와정량.png",
+          "sourceFile": "24_사업적목표와정량.png",
+          "url": "/assets/books/new-content-ftue/25-24-사업적목표와정량.webp"
+        },
+        {
+          "title": "25 측정과반복.png",
+          "sourceFile": "25_측정과반복.png",
+          "url": "/assets/books/new-content-ftue/26-25-측정과반복.webp"
+        },
+        {
+          "title": "26 경험의확장을유저에게.png",
+          "sourceFile": "26_경험의확장을유저에게.png",
+          "url": "/assets/books/new-content-ftue/27-26-경험의확장을유저에게.webp"
+        },
+        {
+          "title": "27 AI시대의FTUE.png",
+          "sourceFile": "27_AI시대의FTUE.png",
+          "url": "/assets/books/new-content-ftue/28-27-ai시대의ftue.webp"
+        },
+        {
+          "title": "28 부록A 설계와사용자.png",
+          "sourceFile": "28_부록A_설계와사용자.png",
+          "url": "/assets/books/new-content-ftue/29-28-부록a-설계와사용자.webp"
+        },
+        {
+          "title": "29 부록B 세계와경험.png",
+          "sourceFile": "29_부록B_세계와경험.png",
+          "url": "/assets/books/new-content-ftue/30-29-부록b-세계와경험.webp"
+        },
+        {
+          "title": "30 부록C 계기판과참조.png",
+          "sourceFile": "30_부록C_계기판과참조.png",
+          "url": "/assets/books/new-content-ftue/31-30-부록c-계기판과참조.webp"
+        }
+      ]
+    },
+    {
+      "slug": "mobile-game-bm-renewal",
+      "title": "모바일 게임 BM 리뉴얼",
+      "subtitle": "과금 기획, 설계, 데이터 분석과 운영",
+      "line": "KIM DONG-EUN",
+      "category": "Business Model",
+      "author": "김동은WhtDrgon.",
+      "description": "뉴콘텐츠 비즈니스 모델을 게임, 음악, 영상, 웹툰, IP 확장 경제와 연결해 읽는 BM북 리뉴얼 원고입니다.",
+      "order": 9,
+      "chapterCount": 30,
+      "cover": "/assets/books/mobile-game-bm-renewal/02-01-새로운것은어디서오는가-title.webp",
+      "assetCount": 63,
+      "assets": [
+        {
+          "title": "ig 0926ba6a160379b4016a14290fa604819185321be140e5baaf.png",
+          "sourceFile": "ig_0926ba6a160379b4016a14290fa604819185321be140e5baaf.png",
+          "url": "/assets/books/mobile-game-bm-renewal/01-ig-0926ba6a160379b4016a14290fa604819185321be140e5baaf.webp"
+        },
+        {
+          "title": "01 새로운것은어디서오는가 title.png",
+          "sourceFile": "01_새로운것은어디서오는가_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/02-01-새로운것은어디서오는가-title.webp"
+        },
+        {
+          "title": "02 BM이란무엇인가 title.png",
+          "sourceFile": "02_BM이란무엇인가_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/03-02-bm이란무엇인가-title.webp"
+        },
+        {
+          "title": "03 지불습관의탄생 title.png",
+          "sourceFile": "03_지불습관의탄생_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/04-03-지불습관의탄생-title.webp"
+        },
+        {
+          "title": "04 현대BM유형론 title.png",
+          "sourceFile": "04_현대BM유형론_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/05-04-현대bm유형론-title.webp"
+        },
+        {
+          "title": "05 디지털전환 title.png",
+          "sourceFile": "05_디지털전환_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/06-05-디지털전환-title.webp"
+        },
+        {
+          "title": "06 아케이드 title.png",
+          "sourceFile": "06_아케이드_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/07-06-아케이드-title.webp"
+        },
+        {
+          "title": "07 콘솔 title.png",
+          "sourceFile": "07_콘솔_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/08-07-콘솔-title.webp"
+        },
+        {
+          "title": "08 PC와온라인게임 title.png",
+          "sourceFile": "08_PC와온라인게임_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/09-08-pc와온라인게임-title.webp"
+        },
+        {
+          "title": "09 모바일게임 title.png",
+          "sourceFile": "09_모바일게임_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/10-09-모바일게임-title.webp"
+        },
+        {
+          "title": "10 GaaS title.png",
+          "sourceFile": "10_GaaS_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/11-10-gaas-title.webp"
+        },
+        {
+          "title": "11 e스포츠 title.png",
+          "sourceFile": "11_e스포츠_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/12-11-e스포츠-title.webp"
+        },
+        {
+          "title": "12 게임BM미래 title.png",
+          "sourceFile": "12_게임BM미래_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/13-12-게임bm미래-title.webp"
+        },
+        {
+          "title": "13 게임과금실무1 title.png",
+          "sourceFile": "13_게임과금실무1_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/14-13-게임과금실무1-title.webp"
+        },
+        {
+          "title": "14 게임과금실무2 title.png",
+          "sourceFile": "14_게임과금실무2_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/15-14-게임과금실무2-title.webp"
+        },
+        {
+          "title": "15 2권오프닝 title.png",
+          "sourceFile": "15_2권오프닝_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/16-15-2권오프닝-title.webp"
+        },
+        {
+          "title": "15 2권오프닝 title.svg",
+          "sourceFile": "15_2권오프닝_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/17-15-2권오프닝-title.svg"
+        },
+        {
+          "title": "15 2권오프닝 title.svg.png",
+          "sourceFile": "15_2권오프닝_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/18-15-2권오프닝-title-svg.webp"
+        },
+        {
+          "title": "16 음악의탄생 title.png",
+          "sourceFile": "16_음악의탄생_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/19-16-음악의탄생-title.webp"
+        },
+        {
+          "title": "16 음악의탄생 title.svg",
+          "sourceFile": "16_음악의탄생_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/20-16-음악의탄생-title.svg"
+        },
+        {
+          "title": "16 음악의탄생 title.svg.png",
+          "sourceFile": "16_음악의탄생_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/21-16-음악의탄생-title-svg.webp"
+        },
+        {
+          "title": "17 CD와MP3 title.png",
+          "sourceFile": "17_CD와MP3_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/22-17-cd와mp3-title.webp"
+        },
+        {
+          "title": "17 CD와MP3 title.svg",
+          "sourceFile": "17_CD와MP3_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/23-17-cd와mp3-title.svg"
+        },
+        {
+          "title": "17 CD와MP3 title.svg.png",
+          "sourceFile": "17_CD와MP3_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/24-17-cd와mp3-title-svg.webp"
+        },
+        {
+          "title": "18 스트리밍의역설 title.png",
+          "sourceFile": "18_스트리밍의역설_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/25-18-스트리밍의역설-title.webp"
+        },
+        {
+          "title": "18 스트리밍의역설 title.svg",
+          "sourceFile": "18_스트리밍의역설_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/26-18-스트리밍의역설-title.svg"
+        },
+        {
+          "title": "18 스트리밍의역설 title.svg.png",
+          "sourceFile": "18_스트리밍의역설_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/27-18-스트리밍의역설-title-svg.webp"
+        },
+        {
+          "title": "19 K팝 title.png",
+          "sourceFile": "19_K팝_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/28-19-k팝-title.webp"
+        },
+        {
+          "title": "19 K팝 title.svg",
+          "sourceFile": "19_K팝_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/29-19-k팝-title.svg"
+        },
+        {
+          "title": "19 K팝 title.svg.png",
+          "sourceFile": "19_K팝_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/30-19-k팝-title-svg.webp"
+        },
+        {
+          "title": "20 공연과레이블 title.png",
+          "sourceFile": "20_공연과레이블_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/31-20-공연과레이블-title.webp"
+        },
+        {
+          "title": "20 공연과레이블 title.svg",
+          "sourceFile": "20_공연과레이블_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/32-20-공연과레이블-title.svg"
+        },
+        {
+          "title": "20 공연과레이블 title.svg.png",
+          "sourceFile": "20_공연과레이블_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/33-20-공연과레이블-title-svg.webp"
+        },
+        {
+          "title": "21 노래방과음향디바이스 title.png",
+          "sourceFile": "21_노래방과음향디바이스_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/34-21-노래방과음향디바이스-title.webp"
+        },
+        {
+          "title": "21 노래방과음향디바이스 title.svg",
+          "sourceFile": "21_노래방과음향디바이스_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/35-21-노래방과음향디바이스-title.svg"
+        },
+        {
+          "title": "21 노래방과음향디바이스 title.svg.png",
+          "sourceFile": "21_노래방과음향디바이스_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/36-21-노래방과음향디바이스-title-svg.webp"
+        },
+        {
+          "title": "22 영상산업지형 title.png",
+          "sourceFile": "22_영상산업지형_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/37-22-영상산업지형-title.webp"
+        },
+        {
+          "title": "22 영상산업지형 title.svg",
+          "sourceFile": "22_영상산업지형_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/38-22-영상산업지형-title.svg"
+        },
+        {
+          "title": "22 영상산업지형 title.svg.png",
+          "sourceFile": "22_영상산업지형_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/39-22-영상산업지형-title-svg.webp"
+        },
+        {
+          "title": "23 OTT전쟁 title.png",
+          "sourceFile": "23_OTT전쟁_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/40-23-ott전쟁-title.webp"
+        },
+        {
+          "title": "23 OTT전쟁 title.svg",
+          "sourceFile": "23_OTT전쟁_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/41-23-ott전쟁-title.svg"
+        },
+        {
+          "title": "23 OTT전쟁 title.svg.png",
+          "sourceFile": "23_OTT전쟁_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/42-23-ott전쟁-title-svg.webp"
+        },
+        {
+          "title": "24 웹툰과웹소설 title.png",
+          "sourceFile": "24_웹툰과웹소설_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/43-24-웹툰과웹소설-title.webp"
+        },
+        {
+          "title": "24 웹툰과웹소설 title.svg",
+          "sourceFile": "24_웹툰과웹소설_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/44-24-웹툰과웹소설-title.svg"
+        },
+        {
+          "title": "24 웹툰과웹소설 title.svg.png",
+          "sourceFile": "24_웹툰과웹소설_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/45-24-웹툰과웹소설-title-svg.webp"
+        },
+        {
+          "title": "25 유튜브와숏폼 title.png",
+          "sourceFile": "25_유튜브와숏폼_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/46-25-유튜브와숏폼-title.webp"
+        },
+        {
+          "title": "25 유튜브와숏폼 title.svg",
+          "sourceFile": "25_유튜브와숏폼_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/47-25-유튜브와숏폼-title.svg"
+        },
+        {
+          "title": "25 유튜브와숏폼 title.svg.png",
+          "sourceFile": "25_유튜브와숏폼_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/48-25-유튜브와숏폼-title-svg.webp"
+        },
+        {
+          "title": "26 IP확장경제 title.png",
+          "sourceFile": "26_IP확장경제_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/49-26-ip확장경제-title.webp"
+        },
+        {
+          "title": "26 IP확장경제 title.svg",
+          "sourceFile": "26_IP확장경제_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/50-26-ip확장경제-title.svg"
+        },
+        {
+          "title": "26 IP확장경제 title.svg.png",
+          "sourceFile": "26_IP확장경제_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/51-26-ip확장경제-title-svg.webp"
+        },
+        {
+          "title": "27 데이팅앱과운세 title.png",
+          "sourceFile": "27_데이팅앱과운세_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/52-27-데이팅앱과운세-title.webp"
+        },
+        {
+          "title": "27 데이팅앱과운세 title.svg",
+          "sourceFile": "27_데이팅앱과운세_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/53-27-데이팅앱과운세-title.svg"
+        },
+        {
+          "title": "27 데이팅앱과운세 title.svg.png",
+          "sourceFile": "27_데이팅앱과운세_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/54-27-데이팅앱과운세-title-svg.webp"
+        },
+        {
+          "title": "28 BM설계프레임워크 title.png",
+          "sourceFile": "28_BM설계프레임워크_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/55-28-bm설계프레임워크-title.webp"
+        },
+        {
+          "title": "28 BM설계프레임워크 title.svg",
+          "sourceFile": "28_BM설계프레임워크_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/56-28-bm설계프레임워크-title.svg"
+        },
+        {
+          "title": "28 BM설계프레임워크 title.svg.png",
+          "sourceFile": "28_BM설계프레임워크_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/57-28-bm설계프레임워크-title-svg.webp"
+        },
+        {
+          "title": "29 오타쿠경제학 title.png",
+          "sourceFile": "29_오타쿠경제학_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/58-29-오타쿠경제학-title.webp"
+        },
+        {
+          "title": "29 오타쿠경제학 title.svg",
+          "sourceFile": "29_오타쿠경제학_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/59-29-오타쿠경제학-title.svg"
+        },
+        {
+          "title": "29 오타쿠경제학 title.svg.png",
+          "sourceFile": "29_오타쿠경제학_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/60-29-오타쿠경제학-title-svg.webp"
+        },
+        {
+          "title": "30 부록 title.png",
+          "sourceFile": "30_부록_title.png",
+          "url": "/assets/books/mobile-game-bm-renewal/61-30-부록-title.webp"
+        },
+        {
+          "title": "30 부록 title.svg",
+          "sourceFile": "30_부록_title.svg",
+          "url": "/assets/books/mobile-game-bm-renewal/62-30-부록-title.svg"
+        },
+        {
+          "title": "30 부록 title.svg.png",
+          "sourceFile": "30_부록_title.svg.png",
+          "url": "/assets/books/mobile-game-bm-renewal/63-30-부록-title-svg.webp"
+        }
+      ]
+    },
+    {
+      "slug": "reading-the-world-through-universe",
+      "title": "세계관으로 세계를 읽는 법",
+      "subtitle": "세계관을 설정집이 아니라 해석 렌즈로 읽기",
+      "line": "KIM DONG-EUN",
+      "category": "Worldview",
+      "author": "김동은WhtDrgon.",
+      "description": "세계관을 해석 렌즈, 조직 원리, 창작 공정, 사업 구조로 읽는 책의 집필 계획과 원고 보강 자료입니다.",
+      "order": 10,
+      "chapterCount": 31,
+      "cover": "/assets/books/reading-the-world-through-universe/01-00-전체-서적-커버.webp",
+      "assetCount": 31,
+      "assets": [
+        {
+          "title": "전체 서적 커버.png",
+          "sourceFile": "00_전체_서적_커버.png",
+          "url": "/assets/books/reading-the-world-through-universe/01-00-전체-서적-커버.webp"
+        },
+        {
+          "title": "01장 세계관은 설정집이 아니다.png",
+          "sourceFile": "01장_세계관은_설정집이_아니다.png",
+          "url": "/assets/books/reading-the-world-through-universe/02-01장-세계관은-설정집이-아니다.webp"
+        },
+        {
+          "title": "02장 세계관의 두 의미 관점과 구현.png",
+          "sourceFile": "02장_세계관의_두_의미_관점과_구현.png",
+          "url": "/assets/books/reading-the-world-through-universe/03-02장-세계관의-두-의미-관점과-구현.webp"
+        },
+        {
+          "title": "03장 장르는 세계관의 문법이다.png",
+          "sourceFile": "03장_장르는_세계관의_문법이다.png",
+          "url": "/assets/books/reading-the-world-through-universe/04-03장-장르는-세계관의-문법이다.webp"
+        },
+        {
+          "title": "04장 세계는 물리와 사회로 선명해진다.png",
+          "sourceFile": "04장_세계는_물리와_사회로_선명해진다.png",
+          "url": "/assets/books/reading-the-world-through-universe/05-04장-세계는-물리와-사회로-선명해진다.webp"
+        },
+        {
+          "title": "05장 캐논과 미관찰 영역.png",
+          "sourceFile": "05장_캐논과_미관찰_영역.png",
+          "url": "/assets/books/reading-the-world-through-universe/06-05장-캐논과-미관찰-영역.webp"
+        },
+        {
+          "title": "06장 인접세계관과 독자 렌즈.png",
+          "sourceFile": "06장_인접세계관과_독자_렌즈.png",
+          "url": "/assets/books/reading-the-world-through-universe/07-06장-인접세계관과-독자-렌즈.webp"
+        },
+        {
+          "title": "07장 커뮤니티는 작은 세계다.png",
+          "sourceFile": "07장_커뮤니티는_작은_세계다.png",
+          "url": "/assets/books/reading-the-world-through-universe/08-07장-커뮤니티는-작은-세계다.webp"
+        },
+        {
+          "title": "08장 팬덤은 해석 공동체다.png",
+          "sourceFile": "08장_팬덤은_해석_공동체다.png",
+          "url": "/assets/books/reading-the-world-through-universe/09-08장-팬덤은-해석-공동체다.webp"
+        },
+        {
+          "title": "09장 그룹핑과 조직화의 원리.png",
+          "sourceFile": "09장_그룹핑과_조직화의_원리.png",
+          "url": "/assets/books/reading-the-world-through-universe/10-09장-그룹핑과-조직화의-원리.webp"
+        },
+        {
+          "title": "10장 배타적 지식체계의 힘.png",
+          "sourceFile": "10장_배타적_지식체계의_힘.png",
+          "url": "/assets/books/reading-the-world-through-universe/11-10장-배타적-지식체계의-힘.webp"
+        },
+        {
+          "title": "11장 컬트 유사철학 음모론의 세계관 구조.png",
+          "sourceFile": "11장_컬트_유사철학_음모론의_세계관_구조.png",
+          "url": "/assets/books/reading-the-world-through-universe/12-11장-컬트-유사철학-음모론의-세계관-구조.webp"
+        },
+        {
+          "title": "12장 건강한 세계관과 위험한 세계관.png",
+          "sourceFile": "12장_건강한_세계관과_위험한_세계관.png",
+          "url": "/assets/books/reading-the-world-through-universe/13-12장-건강한-세계관과-위험한-세계관.webp"
+        },
+        {
+          "title": "13장 IP는 결과물이 아니라 파이프라인이다.png",
+          "sourceFile": "13장_IP는_결과물이_아니라_파이프라인이다.png",
+          "url": "/assets/books/reading-the-world-through-universe/14-13장-ip는-결과물이-아니라-파이프라인이다.webp"
+        },
+        {
+          "title": "14장 라이브러링 흩어진 자료를 지식체계로 바꾸기.png",
+          "sourceFile": "14장_라이브러링_흩어진_자료를_지식체계로_바꾸기.png",
+          "url": "/assets/books/reading-the-world-through-universe/15-14장-라이브러링-흩어진-자료를-지식체계로-바꾸기.webp"
+        },
+        {
+          "title": "15장 Vault와 살아있는 문서.png",
+          "sourceFile": "15장_Vault와_살아있는_문서.png",
+          "url": "/assets/books/reading-the-world-through-universe/16-15장-vault와-살아있는-문서.webp"
+        },
+        {
+          "title": "16장 LOREBOOK 세계관을 읽을 수 있게 만들기.png",
+          "sourceFile": "16장_LOREBOOK_세계관을_읽을_수_있게_만들기.png",
+          "url": "/assets/books/reading-the-world-through-universe/17-16장-lorebook-세계관을-읽을-수-있게-만들기.webp"
+        },
+        {
+          "title": "17장 캐릭터는 세계관의 인간 인터페이스다.png",
+          "sourceFile": "17장_캐릭터는_세계관의_인간_인터페이스다.png",
+          "url": "/assets/books/reading-the-world-through-universe/18-17장-캐릭터는-세계관의-인간-인터페이스다.webp"
+        },
+        {
+          "title": "18장 스토리텔링100 사전을 장면으로 바꾸기.png",
+          "sourceFile": "18장_스토리텔링100_사전을_장면으로_바꾸기.png",
+          "url": "/assets/books/reading-the-world-through-universe/19-18장-스토리텔링100-사전을-장면으로-바꾸기.webp"
+        },
+        {
+          "title": "19장 리얼 IP란 무엇인가.png",
+          "sourceFile": "19장_리얼_IP란_무엇인가.png",
+          "url": "/assets/books/reading-the-world-through-universe/20-19장-리얼-ip란-무엇인가.webp"
+        },
+        {
+          "title": "20장 아이돌 4계층 미디어 엔진.png",
+          "sourceFile": "20장_아이돌_4계층_미디어_엔진.png",
+          "url": "/assets/books/reading-the-world-through-universe/21-20장-아이돌-4계층-미디어-엔진.webp"
+        },
+        {
+          "title": "21장 패러독스 안전장치.png",
+          "sourceFile": "21장_패러독스_안전장치.png",
+          "url": "/assets/books/reading-the-world-through-universe/22-21장-패러독스-안전장치.webp"
+        },
+        {
+          "title": "22장 팬덤 액티비티의 8대 경험축.png",
+          "sourceFile": "22장_팬덤_액티비티의_8대_경험축.png",
+          "url": "/assets/books/reading-the-world-through-universe/23-22장-팬덤-액티비티의-8대-경험축.webp"
+        },
+        {
+          "title": "23장 게이지가 아니라 해석 성취가 아니라 동거.png",
+          "sourceFile": "23장_게이지가_아니라_해석_성취가_아니라_동거.png",
+          "url": "/assets/books/reading-the-world-through-universe/24-23장-게이지가-아니라-해석-성취가-아니라-동거.webp"
+        },
+        {
+          "title": "24장 팬덤경제 구독경제 창작경제의 결합.png",
+          "sourceFile": "24장_팬덤경제_구독경제_창작경제의_결합.png",
+          "url": "/assets/books/reading-the-world-through-universe/25-24장-팬덤경제-구독경제-창작경제의-결합.webp"
+        },
+        {
+          "title": "25장 뉴콘텐츠 비즈니스는 매체가 아니라 구조다.png",
+          "sourceFile": "25장_뉴콘텐츠_비즈니스는_매체가_아니라_구조다.png",
+          "url": "/assets/books/reading-the-world-through-universe/26-25장-뉴콘텐츠-비즈니스는-매체가-아니라-구조다.webp"
+        },
+        {
+          "title": "26장 AI 시대의 창작 아키텍트.png",
+          "sourceFile": "26장_AI_시대의_창작_아키텍트.png",
+          "url": "/assets/books/reading-the-world-through-universe/27-26장-ai-시대의-창작-아키텍트.webp"
+        },
+        {
+          "title": "27장 자동화 엔진과 지식체인.png",
+          "sourceFile": "27장_자동화_엔진과_지식체인.png",
+          "url": "/assets/books/reading-the-world-through-universe/28-27장-자동화-엔진과-지식체인.webp"
+        },
+        {
+          "title": "28장 부캐와 다층적 역할의 세계관.png",
+          "sourceFile": "28장_부캐와_다층적_역할의_세계관.png",
+          "url": "/assets/books/reading-the-world-through-universe/29-28장-부캐와-다층적-역할의-세계관.webp"
+        },
+        {
+          "title": "29장 라이선스와 커머스의 세계관 문법.png",
+          "sourceFile": "29장_라이선스와_커머스의_세계관_문법.png",
+          "url": "/assets/books/reading-the-world-through-universe/30-29장-라이선스와-커머스의-세계관-문법.webp"
+        },
+        {
+          "title": "30장 세계관으로 세계들을 해석하는 방법.png",
+          "sourceFile": "30장_세계관으로_세계들을_해석하는_방법.png",
+          "url": "/assets/books/reading-the-world-through-universe/31-30장-세계관으로-세계들을-해석하는-방법.webp"
+        }
+      ]
+    }
+  ]
+}
