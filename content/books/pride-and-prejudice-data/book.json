@@ -7,8 +7,268 @@
   "author": "MEJE Works",
   "description": "서연각 번역 및 자료집 공정의 기반 예시로 정리된 Pride and Prejudice 세계관 데이터와 설정 시트 자료입니다.",
   "order": 3,
-  "chapterCount": 0,
+  "chapterCount": 37,
   "assetCount": 0,
   "assets": [],
-  "chapters": []
+  "chapters": [
+    {
+      "slug": "01-p-p-profile-wikied",
+      "title": "Pride and Prejudice 작품 프로파일",
+      "sourceFile": "P&P_profile_wikied.md",
+      "file": "chapters/01-p-p-profile-wikied.md",
+      "order": 1
+    },
+    {
+      "slug": "02-인물관계도-wikied",
+      "title": "인물관계도",
+      "sourceFile": "[설정시트]/인물관계도_wikied.md",
+      "file": "chapters/02-인물관계도-wikied.md",
+      "order": 2
+    },
+    {
+      "slug": "03-연대기-wikied",
+      "title": "연대기",
+      "sourceFile": "[설정시트]/연대기_wikied.md",
+      "file": "chapters/03-연대기-wikied.md",
+      "order": 3
+    },
+    {
+      "slug": "04-전체인물리스트-wikied",
+      "title": "전체인물리스트",
+      "sourceFile": "[설정시트]/전체인물리스트_wikied.md",
+      "file": "chapters/04-전체인물리스트-wikied.md",
+      "order": 4
+    },
+    {
+      "slug": "05-전체장소리스트-wikied",
+      "title": "전체장소리스트",
+      "sourceFile": "[설정시트]/전체장소리스트_wikied.md",
+      "file": "chapters/05-전체장소리스트-wikied.md",
+      "order": 5
+    },
+    {
+      "slug": "06-전체사물리스트-wikied",
+      "title": "전체사물리스트",
+      "sourceFile": "[설정시트]/전체사물리스트_wikied.md",
+      "file": "chapters/06-전체사물리스트-wikied.md",
+      "order": 6
+    },
+    {
+      "slug": "07-장별-번역가이드-wikied",
+      "title": "장별 번역가이드",
+      "sourceFile": "[설정시트]/장별_번역가이드_wikied.md",
+      "file": "chapters/07-장별-번역가이드-wikied.md",
+      "order": 7
+    },
+    {
+      "slug": "08-시대어-오역방지-사전-wikied",
+      "title": "시대어 오역방지 사전",
+      "sourceFile": "[설정시트]/시대어_오역방지_사전_wikied.md",
+      "file": "chapters/08-시대어-오역방지-사전-wikied.md",
+      "order": 8
+    },
+    {
+      "slug": "09-경칭-어조-번역가이드-wikied",
+      "title": "경칭 어조 번역가이드",
+      "sourceFile": "[설정시트]/경칭_어조_번역가이드_wikied.md",
+      "file": "chapters/09-경칭-어조-번역가이드-wikied.md",
+      "order": 9
+    },
+    {
+      "slug": "10-서술자-가이드-wikied",
+      "title": "서술자 가이드",
+      "sourceFile": "[설정시트]/서술자_가이드_wikied.md",
+      "file": "chapters/10-서술자-가이드-wikied.md",
+      "order": 10
+    },
+    {
+      "slug": "11-뉘앙스리스트-wikied",
+      "title": "뉘앙스리스트",
+      "sourceFile": "[설정시트]/뉘앙스리스트_wikied.md",
+      "file": "chapters/11-뉘앙스리스트-wikied.md",
+      "order": 11
+    },
+    {
+      "slug": "12-반복모티프-추적표-wikied",
+      "title": "반복모티프 추적표",
+      "sourceFile": "[설정시트]/반복모티프_추적표_wikied.md",
+      "file": "chapters/12-반복모티프-추적표-wikied.md",
+      "order": 12
+    },
+    {
+      "slug": "13-서간체-모음집-wikied",
+      "title": "서간체 모음집",
+      "sourceFile": "[설정시트]/서간체_모음집_wikied.md",
+      "file": "chapters/13-서간체-모음집-wikied.md",
+      "order": 13
+    },
+    {
+      "slug": "14-인물-심리변화-곡선-wikied",
+      "title": "인물 심리변화 곡선",
+      "sourceFile": "[설정시트]/인물_심리변화_곡선_wikied.md",
+      "file": "chapters/14-인물-심리변화-곡선-wikied.md",
+      "order": 14
+    },
+    {
+      "slug": "15-리젠시-시대상-백과-wikied",
+      "title": "리젠시 시대상 백과",
+      "sourceFile": "[설정시트]/리젠시_시대상_백과_wikied.md",
+      "file": "chapters/15-리젠시-시대상-백과-wikied.md",
+      "order": 15
+    },
+    {
+      "slug": "16-사물-계급상징-사전-wikied",
+      "title": "사물 계급상징 사전",
+      "sourceFile": "[설정시트]/사물_계급상징_사전_wikied.md",
+      "file": "chapters/16-사물-계급상징-사전-wikied.md",
+      "order": 16
+    },
+    {
+      "slug": "17-제도-경제용어-관계도-wikied",
+      "title": "제도 경제용어 관계도",
+      "sourceFile": "[설정시트]/제도_경제용어_관계도_wikied.md",
+      "file": "chapters/17-제도-경제용어-관계도-wikied.md",
+      "order": 17
+    },
+    {
+      "slug": "18-하인-체계도-추정-wikied",
+      "title": "하인 체계도 추정",
+      "sourceFile": "[설정시트]/하인_체계도_추정_wikied.md",
+      "file": "chapters/18-하인-체계도-추정-wikied.md",
+      "order": 18
+    },
+    {
+      "slug": "19-메뉴-식문화-추정-wikied",
+      "title": "메뉴 식문화 추정",
+      "sourceFile": "[설정시트]/메뉴_식문화_추정_wikied.md",
+      "file": "chapters/19-메뉴-식문화-추정-wikied.md",
+      "order": 19
+    },
+    {
+      "slug": "20-의상-인벤토리-추정-wikied",
+      "title": "의상 인벤토리 추정",
+      "sourceFile": "[설정시트]/의상_인벤토리_추정_wikied.md",
+      "file": "chapters/20-의상-인벤토리-추정-wikied.md",
+      "order": 20
+    },
+    {
+      "slug": "21-음악-소리환경-추정-wikied",
+      "title": "음악 소리환경 추정",
+      "sourceFile": "[설정시트]/음악_소리환경_추정_wikied.md",
+      "file": "chapters/21-음악-소리환경-추정-wikied.md",
+      "order": 21
+    },
+    {
+      "slug": "22-신체언어-예법-사전-wikied",
+      "title": "신체언어 예법 사전",
+      "sourceFile": "[설정시트]/신체언어_예법_사전_wikied.md",
+      "file": "chapters/22-신체언어-예법-사전-wikied.md",
+      "order": 22
+    },
+    {
+      "slug": "23-감정어휘-한영대응표-wikied",
+      "title": "감정어휘 한영대응표",
+      "sourceFile": "[설정시트]/감정어휘_한영대응표_wikied.md",
+      "file": "chapters/23-감정어휘-한영대응표-wikied.md",
+      "order": 23
+    },
+    {
+      "slug": "24-외래어-프랑스어-사전-wikied",
+      "title": "외래어 프랑스어 사전",
+      "sourceFile": "[설정시트]/외래어_프랑스어_사전_wikied.md",
+      "file": "chapters/24-외래어-프랑스어-사전-wikied.md",
+      "order": 24
+    },
+    {
+      "slug": "25-건물-평면도-추정-wikied",
+      "title": "건물 평면도 추정",
+      "sourceFile": "[설정시트]/건물_평면도_추정_wikied.md",
+      "file": "chapters/25-건물-평면도-추정-wikied.md",
+      "order": 25
+    },
+    {
+      "slug": "26-씬-세트-구성도-wikied",
+      "title": "씬 세트 구성도",
+      "sourceFile": "[설정시트]/씬_세트_구성도_wikied.md",
+      "file": "chapters/26-씬-세트-구성도-wikied.md",
+      "order": 26
+    },
+    {
+      "slug": "27-정원-조경-추정-wikied",
+      "title": "정원 조경 추정",
+      "sourceFile": "[설정시트]/정원_조경_추정_wikied.md",
+      "file": "chapters/27-정원-조경-추정-wikied.md",
+      "order": 27
+    },
+    {
+      "slug": "28-메리턴-상점가-추정-wikied",
+      "title": "메리턴 상점가 추정",
+      "sourceFile": "[설정시트]/메리턴_상점가_추정_wikied.md",
+      "file": "chapters/28-메리턴-상점가-추정-wikied.md",
+      "order": 28
+    },
+    {
+      "slug": "29-종교-생활-추정-wikied",
+      "title": "종교 생활 추정",
+      "sourceFile": "[설정시트]/종교_생활_추정_wikied.md",
+      "file": "chapters/29-종교-생활-추정-wikied.md",
+      "order": 29
+    },
+    {
+      "slug": "30-인물-일과표-추정-wikied",
+      "title": "인물 일과표 추정",
+      "sourceFile": "[설정시트]/인물_일과표_추정_wikied.md",
+      "file": "chapters/30-인물-일과표-추정-wikied.md",
+      "order": 30
+    },
+    {
+      "slug": "31-전체집단리스트-wikied",
+      "title": "전체집단리스트",
+      "sourceFile": "[설정시트]/전체집단리스트_wikied.md",
+      "file": "chapters/31-전체집단리스트-wikied.md",
+      "order": 31
+    },
+    {
+      "slug": "32-전체기타리스트-wikied",
+      "title": "전체기타리스트",
+      "sourceFile": "[설정시트]/전체기타리스트_wikied.md",
+      "file": "chapters/32-전체기타리스트-wikied.md",
+      "order": 32
+    },
+    {
+      "slug": "33-전체불특정리스트-wikied",
+      "title": "전체불특정리스트",
+      "sourceFile": "[설정시트]/전체불특정리스트_wikied.md",
+      "file": "chapters/33-전체불특정리스트-wikied.md",
+      "order": 33
+    },
+    {
+      "slug": "34-시대착오-금기단어-wikied",
+      "title": "시대착오 금기단어",
+      "sourceFile": "[설정시트]/시대착오_금기단어_wikied.md",
+      "file": "chapters/34-시대착오-금기단어-wikied.md",
+      "order": 34
+    },
+    {
+      "slug": "35-인물-숨은-관계망-추정-wikied",
+      "title": "인물 숨은 관계망 추정",
+      "sourceFile": "[설정시트]/인물_숨은_관계망_추정_wikied.md",
+      "file": "chapters/35-인물-숨은-관계망-추정-wikied.md",
+      "order": 35
+    },
+    {
+      "slug": "36-인물별-사건별-장소관계도-wikied",
+      "title": "인물별 사건별 장소관계도",
+      "sourceFile": "[설정시트]/인물별_사건별_장소관계도_wikied.md",
+      "file": "chapters/36-인물별-사건별-장소관계도-wikied.md",
+      "order": 36
+    },
+    {
+      "slug": "37-각색-시나리오-가이드-wikied",
+      "title": "각색 시나리오 가이드",
+      "sourceFile": "[설정시트]/각색_시나리오_가이드_wikied.md",
+      "file": "chapters/37-각색-시나리오-가이드-wikied.md",
+      "order": 37
+    }
+  ]
 }
