@@ -82,13 +82,16 @@ export function getBook(slug: string): Book | undefined {
   return readJson<Book>(filePath);
 }
 
-export async function getChapter(bookSlug: string, chapterSlug: string) {
+export async function getChapter(bookSlug: string, chapterSlug: string, locale: "ko" | "en" = "ko") {
   const book = getBook(bookSlug);
   if (!book) return undefined;
   const chapter = book.chapters.find((item) => item.slug === chapterSlug);
   if (!chapter || chapter.externalUrl || !chapter.file) return undefined;
 
-  const filePath = path.join(contentRoot, book.slug, chapter.file);
+  const sourceFilePath = path.join(contentRoot, book.slug, chapter.file);
+  const translatedFilePath = path.join(contentRoot, book.slug, "translations", locale, `${chapter.slug}.md`);
+  const isTranslation = locale !== "ko" && fs.existsSync(translatedFilePath);
+  const filePath = isTranslation ? translatedFilePath : sourceFilePath;
   const source = fs.readFileSync(filePath, "utf8");
   const parsed = matter(source);
   const html = await marked.parse(parsed.content, {
@@ -102,6 +105,8 @@ export async function getChapter(bookSlug: string, chapterSlug: string) {
     book,
     chapter,
     html,
+    isTranslation,
+    translationTitle: isTranslation && typeof parsed.data.title === "string" ? parsed.data.title : undefined,
     prev: index > 0 ? book.chapters[index - 1] : undefined,
     next: index < book.chapters.length - 1 ? book.chapters[index + 1] : undefined
   };

@@ -1,0 +1,77 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { bookHref, bookTitleWithCount, chapterCountLabel, localizeBooks } from "../../lib/i18n";
+import { getBooks } from "../../lib/books";
+
+const books = localizeBooks(getBooks(), "en");
+const groups = [...books.reduce((result, book) => {
+  const current = result.get(book.line) ?? [];
+  current.push(book);
+  result.set(book.line, current);
+  return result;
+}, new Map<string, typeof books>()).entries()];
+---
+<BaseLayout
+  locale="en"
+  title="Books of MEJE Knowledge"
+  description="English catalogue for MEJE's production workflows, lecture manuscripts, worldbuilding, and business-model writing."
+>
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">MEJE BOOKS</p>
+      <h1>Books of MEJE Knowledge</h1>
+      <p>
+        An English catalogue of MEJE's production workflows and the writings of Kim Dong-eun WhtDrgon.,
+        organized by book, chapter, and source edition.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2 class="section-title">All books</h2>
+        <p class="section-meta">{books.length} books</p>
+      </div>
+      <div class="book-grid">
+        {books.map((book) => (
+          <a class="book-card" href={bookHref(book, "en")}>
+            {book.cover && <img class="book-thumb" src={book.cover} alt={`${book.title} cover`} loading="lazy" />}
+            <span class="line">{book.line} · {book.category}</span>
+            <h2>{bookTitleWithCount(book, "en")}</h2>
+            <p>{book.description}</p>
+            <span class="card-foot">
+              <span>{book.author}</span>
+              <span>{chapterCountLabel(book, "en")}</span>
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  {groups.map(([line, lineBooks]) => (
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <h2 class="section-title">{line}</h2>
+          <p class="section-meta">{lineBooks.length} books</p>
+        </div>
+        <div class="book-grid">
+          {lineBooks.map((book) => (
+            <a class="book-card" href={bookHref(book, "en")}>
+              {book.cover && <img class="book-thumb" src={book.cover} alt={`${book.title} cover`} loading="lazy" />}
+              <span class="line">{book.category}</span>
+              <h3>{bookTitleWithCount(book, "en")}</h3>
+              <p>{book.subtitle}</p>
+              <span class="card-foot">
+                <span>View contents</span>
+                <span>{chapterCountLabel(book, "en")}</span>
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  ))}
+</BaseLayout>

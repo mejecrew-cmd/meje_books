@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { bookHref, bookTitleWithCount, chapterCountLabel, localizeBooks } from "../../../lib/i18n";
+import { getBooks } from "../../../lib/books";
+
+const books = localizeBooks(getBooks(), "en");
+---
+<BaseLayout locale="en" title="Books · MEJE BOOKS" description="The complete English catalogue of MEJE BOOKS.">
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">CATALOG</p>
+      <h1>MEJE BOOKS</h1>
+      <p>The complete catalogue for Books of MEJE Knowledge.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="book-grid">
+        {books.map((book) => (
+          <a class="book-card" href={bookHref(book, "en")}>
+            {book.cover && <img class="book-thumb" src={book.cover} alt={`${book.title} cover`} loading="lazy" />}
+            <span class="line">{book.line} · {book.category}</span>
+            <h2>{bookTitleWithCount(book, "en")}</h2>
+            <p>{book.description}</p>
+            <span class="card-foot">
+              <span>{book.author}</span>
+              <span>{chapterCountLabel(book, "en")}</span>
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

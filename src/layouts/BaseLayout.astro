@@ -4,15 +4,21 @@ import "../styles/global.css";
 interface Props {
   title?: string;
   description?: string;
+  locale?: "ko" | "en";
 }
 
 const {
   title = "Books of MEJE Knowledge",
-  description = "Books of MEJE Knowledge는 MEJE의 제작 절차, 강연고, 세계관 원고를 책 단위로 정리한 공개 라이브러리입니다."
+  description = "Books of MEJE Knowledge는 MEJE의 제작 절차, 강연고, 세계관 원고를 책 단위로 정리한 공개 라이브러리입니다.",
+  locale = "ko"
 } = Astro.props;
+const koreanPath = Astro.url.pathname.replace(/^\/en(?=\/|$)/, "") || "/";
+const languageHref = locale === "en" ? koreanPath : `/en${Astro.url.pathname}`;
+const englishPath = locale === "en" ? Astro.url.pathname : `/en${Astro.url.pathname}`;
+const siteUrl = "https://books.meje.kr";
 ---
 <!doctype html>
-<html lang="ko">
+<html lang={locale}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -22,6 +28,10 @@ const {
     <meta property="og:type" content="website" />
     <meta property="og:url" content={Astro.url.href} />
     <meta name="twitter:card" content="summary" />
+    <link rel="canonical" href={Astro.url.href} />
+    <link rel="alternate" hreflang="ko" href={`${siteUrl}${koreanPath}`} />
+    <link rel="alternate" hreflang="en" href={`${siteUrl}${englishPath}`} />
+    <link rel="alternate" hreflang="x-default" href={`${siteUrl}${koreanPath}`} />
     <title>{title}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -32,9 +42,13 @@ const {
       <header class="topbar">
         <a class="brand" href="/">MEJE BOOKS <span>Knowledge Library</span></a>
         <nav class="nav" aria-label="Primary">
-          <a href="/">Home</a>
-          <a href="/books/">Books</a>
+          <a href={locale === "en" ? "/en/" : "/"}>Home</a>
+          <a href={locale === "en" ? "/en/books/" : "/books/"}>Books</a>
           <a href="https://meje.kr">MEJE.kr</a>
+          <span class="language-switch" aria-label="Language">
+            <a class={locale === "ko" ? "active" : ""} href={locale === "ko" ? Astro.url.pathname : languageHref}>KO</a>
+            <a class={locale === "en" ? "active" : ""} href={locale === "en" ? Astro.url.pathname : languageHref}>EN</a>
+          </span>
         </nav>
       </header>
       <main class="main">
