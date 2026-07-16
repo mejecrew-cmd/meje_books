@@ -1,0 +1,2308 @@
+{
+  "schemaVersion": 1,
+  "book": "pride-and-prejudice-data",
+  "sourceLocale": "ko",
+  "locales": [
+    "en",
+    "ja",
+    "zh-Hant",
+    "zh-Hans"
+  ],
+  "generatedAt": "2026-07-13T01:31:02.731Z",
+  "chapters": {
+    "01-p-p-profile-wikied": {
+      "title": "Pride and Prejudice 작품 프로파일",
+      "sourceFile": "P&P_profile_wikied.md",
+      "sourceHash": "sha256:8a304226ff932a9286eb0afbf9e61719fb4515bdb9ca3ab422dfe0066c1fb0c3",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/01-p-p-profile-wikied.md",
+          "sourceHash": "8a304226ff932a9286eb0afbf9e61719fb4515bdb9ca3ab422dfe0066c1fb0c3",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/01-p-p-profile-wikied.md",
+          "sourceHash": "8a304226ff932a9286eb0afbf9e61719fb4515bdb9ca3ab422dfe0066c1fb0c3",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/01-p-p-profile-wikied.md",
+          "sourceHash": "8a304226ff932a9286eb0afbf9e61719fb4515bdb9ca3ab422dfe0066c1fb0c3",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/01-p-p-profile-wikied.md",
+          "sourceHash": "8a304226ff932a9286eb0afbf9e61719fb4515bdb9ca3ab422dfe0066c1fb0c3",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "02-인물관계도-wikied": {
+      "title": "Pride and Prejudice\n인물관계도",
+      "sourceFile": "[설정시트]/인물관계도_wikied.md",
+      "sourceHash": "sha256:a5b9a96381b4f9999e2e96208d5a215ae036b3008c090b117008e301b978d70f",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/02-인물관계도-wikied.md",
+          "sourceHash": "a5b9a96381b4f9999e2e96208d5a215ae036b3008c090b117008e301b978d70f",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/02-인물관계도-wikied.md",
+          "sourceHash": "a5b9a96381b4f9999e2e96208d5a215ae036b3008c090b117008e301b978d70f",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/02-인물관계도-wikied.md",
+          "sourceHash": "a5b9a96381b4f9999e2e96208d5a215ae036b3008c090b117008e301b978d70f",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/02-인물관계도-wikied.md",
+          "sourceHash": "a5b9a96381b4f9999e2e96208d5a215ae036b3008c090b117008e301b978d70f",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "03-연대기-wikied": {
+      "title": "Pride and Prejudice\n연대기 (Chronology)",
+      "sourceFile": "[설정시트]/연대기_wikied.md",
+      "sourceHash": "sha256:4f390a0f8088c6c0dd2364094688e08a1b174a2a60de062cb696d0ad454b444d",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/03-연대기-wikied.md",
+          "sourceHash": "4f390a0f8088c6c0dd2364094688e08a1b174a2a60de062cb696d0ad454b444d",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/03-연대기-wikied.md",
+          "sourceHash": "4f390a0f8088c6c0dd2364094688e08a1b174a2a60de062cb696d0ad454b444d",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/03-연대기-wikied.md",
+          "sourceHash": "4f390a0f8088c6c0dd2364094688e08a1b174a2a60de062cb696d0ad454b444d",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/03-연대기-wikied.md",
+          "sourceHash": "4f390a0f8088c6c0dd2364094688e08a1b174a2a60de062cb696d0ad454b444d",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "04-전체인물리스트-wikied": {
+      "title": "Pride and Prejudice\n전체인물리스트",
+      "sourceFile": "[설정시트]/전체인물리스트_wikied.md",
+      "sourceHash": "sha256:ce8a1346b8e2aa8cdd8440f6d0f250c0f6cdb55b937a0bebb64257c856c76eae",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/04-전체인물리스트-wikied.md",
+          "sourceHash": "ce8a1346b8e2aa8cdd8440f6d0f250c0f6cdb55b937a0bebb64257c856c76eae",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/04-전체인물리스트-wikied.md",
+          "sourceHash": "ce8a1346b8e2aa8cdd8440f6d0f250c0f6cdb55b937a0bebb64257c856c76eae",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/04-전체인물리스트-wikied.md",
+          "sourceHash": "ce8a1346b8e2aa8cdd8440f6d0f250c0f6cdb55b937a0bebb64257c856c76eae",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/04-전체인물리스트-wikied.md",
+          "sourceHash": "ce8a1346b8e2aa8cdd8440f6d0f250c0f6cdb55b937a0bebb64257c856c76eae",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "05-전체장소리스트-wikied": {
+      "title": "Pride and Prejudice\n전체장소리스트",
+      "sourceFile": "[설정시트]/전체장소리스트_wikied.md",
+      "sourceHash": "sha256:9eb1d4b58f0147f3583bb3595c9e97c742af6eb5feeabac49262e0b39890065d",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/05-전체장소리스트-wikied.md",
+          "sourceHash": "9eb1d4b58f0147f3583bb3595c9e97c742af6eb5feeabac49262e0b39890065d",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/05-전체장소리스트-wikied.md",
+          "sourceHash": "9eb1d4b58f0147f3583bb3595c9e97c742af6eb5feeabac49262e0b39890065d",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/05-전체장소리스트-wikied.md",
+          "sourceHash": "9eb1d4b58f0147f3583bb3595c9e97c742af6eb5feeabac49262e0b39890065d",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/05-전체장소리스트-wikied.md",
+          "sourceHash": "9eb1d4b58f0147f3583bb3595c9e97c742af6eb5feeabac49262e0b39890065d",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "06-전체사물리스트-wikied": {
+      "title": "Pride and Prejudice\n전체사물리스트",
+      "sourceFile": "[설정시트]/전체사물리스트_wikied.md",
+      "sourceHash": "sha256:11d3c7e17bac54addd4d8dac1aa22fa08b6f299e0e40e4dd8d83a865e4ba11d0",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/06-전체사물리스트-wikied.md",
+          "sourceHash": "11d3c7e17bac54addd4d8dac1aa22fa08b6f299e0e40e4dd8d83a865e4ba11d0",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/06-전체사물리스트-wikied.md",
+          "sourceHash": "11d3c7e17bac54addd4d8dac1aa22fa08b6f299e0e40e4dd8d83a865e4ba11d0",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/06-전체사물리스트-wikied.md",
+          "sourceHash": "11d3c7e17bac54addd4d8dac1aa22fa08b6f299e0e40e4dd8d83a865e4ba11d0",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/06-전체사물리스트-wikied.md",
+          "sourceHash": "11d3c7e17bac54addd4d8dac1aa22fa08b6f299e0e40e4dd8d83a865e4ba11d0",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "07-장별-번역가이드-wikied": {
+      "title": "Pride and Prejudice\n장별 번역가이드",
+      "sourceFile": "[설정시트]/장별_번역가이드_wikied.md",
+      "sourceHash": "sha256:d99a7e21595d3ab8abb1219c7236ce0ba71dd097665dcf7fa54c584cc04c4be4",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/07-장별-번역가이드-wikied.md",
+          "sourceHash": "d99a7e21595d3ab8abb1219c7236ce0ba71dd097665dcf7fa54c584cc04c4be4",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/07-장별-번역가이드-wikied.md",
+          "sourceHash": "d99a7e21595d3ab8abb1219c7236ce0ba71dd097665dcf7fa54c584cc04c4be4",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/07-장별-번역가이드-wikied.md",
+          "sourceHash": "d99a7e21595d3ab8abb1219c7236ce0ba71dd097665dcf7fa54c584cc04c4be4",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/07-장별-번역가이드-wikied.md",
+          "sourceHash": "d99a7e21595d3ab8abb1219c7236ce0ba71dd097665dcf7fa54c584cc04c4be4",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "08-시대어-오역방지-사전-wikied": {
+      "title": "Pride and Prejudice\n시대어 오역방지 사전",
+      "sourceFile": "[설정시트]/시대어_오역방지_사전_wikied.md",
+      "sourceHash": "sha256:62d940028f0131a6147f04c10d5d2c7d8fabf910e9cb82ce281204a6b716955d",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/08-시대어-오역방지-사전-wikied.md",
+          "sourceHash": "62d940028f0131a6147f04c10d5d2c7d8fabf910e9cb82ce281204a6b716955d",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/08-시대어-오역방지-사전-wikied.md",
+          "sourceHash": "62d940028f0131a6147f04c10d5d2c7d8fabf910e9cb82ce281204a6b716955d",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/08-시대어-오역방지-사전-wikied.md",
+          "sourceHash": "62d940028f0131a6147f04c10d5d2c7d8fabf910e9cb82ce281204a6b716955d",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/08-시대어-오역방지-사전-wikied.md",
+          "sourceHash": "62d940028f0131a6147f04c10d5d2c7d8fabf910e9cb82ce281204a6b716955d",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "09-경칭-어조-번역가이드-wikied": {
+      "title": "Pride and Prejudice\n경칭 어조 번역가이드",
+      "sourceFile": "[설정시트]/경칭_어조_번역가이드_wikied.md",
+      "sourceHash": "sha256:bb461a15bb47e826665a9c9603a72b14aa156f84408f09422e5cd9716a78c376",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/09-경칭-어조-번역가이드-wikied.md",
+          "sourceHash": "bb461a15bb47e826665a9c9603a72b14aa156f84408f09422e5cd9716a78c376",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/09-경칭-어조-번역가이드-wikied.md",
+          "sourceHash": "bb461a15bb47e826665a9c9603a72b14aa156f84408f09422e5cd9716a78c376",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/09-경칭-어조-번역가이드-wikied.md",
+          "sourceHash": "bb461a15bb47e826665a9c9603a72b14aa156f84408f09422e5cd9716a78c376",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/09-경칭-어조-번역가이드-wikied.md",
+          "sourceHash": "bb461a15bb47e826665a9c9603a72b14aa156f84408f09422e5cd9716a78c376",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "10-서술자-가이드-wikied": {
+      "title": "Pride and Prejudice\n서술자(Narrator) 가이드",
+      "sourceFile": "[설정시트]/서술자_가이드_wikied.md",
+      "sourceHash": "sha256:7ee73325bb3395a287af5134396ec0b4437993b80d922f4f3eb0726310ff9db6",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/10-서술자-가이드-wikied.md",
+          "sourceHash": "7ee73325bb3395a287af5134396ec0b4437993b80d922f4f3eb0726310ff9db6",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/10-서술자-가이드-wikied.md",
+          "sourceHash": "7ee73325bb3395a287af5134396ec0b4437993b80d922f4f3eb0726310ff9db6",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/10-서술자-가이드-wikied.md",
+          "sourceHash": "7ee73325bb3395a287af5134396ec0b4437993b80d922f4f3eb0726310ff9db6",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/10-서술자-가이드-wikied.md",
+          "sourceHash": "7ee73325bb3395a287af5134396ec0b4437993b80d922f4f3eb0726310ff9db6",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "11-뉘앙스리스트-wikied": {
+      "title": "Pride and Prejudice\n뉘앙스리스트 (본문 번역 가이드)",
+      "sourceFile": "[설정시트]/뉘앙스리스트_wikied.md",
+      "sourceHash": "sha256:e97be29623f3f52b1c98f719c2c3a0d926851472c7bf09226c78a706b799ccda",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/11-뉘앙스리스트-wikied.md",
+          "sourceHash": "e97be29623f3f52b1c98f719c2c3a0d926851472c7bf09226c78a706b799ccda",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/11-뉘앙스리스트-wikied.md",
+          "sourceHash": "e97be29623f3f52b1c98f719c2c3a0d926851472c7bf09226c78a706b799ccda",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/11-뉘앙스리스트-wikied.md",
+          "sourceHash": "e97be29623f3f52b1c98f719c2c3a0d926851472c7bf09226c78a706b799ccda",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/11-뉘앙스리스트-wikied.md",
+          "sourceHash": "e97be29623f3f52b1c98f719c2c3a0d926851472c7bf09226c78a706b799ccda",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "12-반복모티프-추적표-wikied": {
+      "title": "Pride and Prejudice\n반복 모티프 추적표",
+      "sourceFile": "[설정시트]/반복모티프_추적표_wikied.md",
+      "sourceHash": "sha256:81d45583b454bc6a60828a7800e0a156dbab2de032add9eb1e20e79815cac3b8",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/12-반복모티프-추적표-wikied.md",
+          "sourceHash": "81d45583b454bc6a60828a7800e0a156dbab2de032add9eb1e20e79815cac3b8",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/12-반복모티프-추적표-wikied.md",
+          "sourceHash": "81d45583b454bc6a60828a7800e0a156dbab2de032add9eb1e20e79815cac3b8",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/12-반복모티프-추적표-wikied.md",
+          "sourceHash": "81d45583b454bc6a60828a7800e0a156dbab2de032add9eb1e20e79815cac3b8",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/12-반복모티프-추적표-wikied.md",
+          "sourceHash": "81d45583b454bc6a60828a7800e0a156dbab2de032add9eb1e20e79815cac3b8",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "13-서간체-모음집-wikied": {
+      "title": "Pride and Prejudice\n서간체 모음집",
+      "sourceFile": "[설정시트]/서간체_모음집_wikied.md",
+      "sourceHash": "sha256:2e3a40c95c5d46b042de0b696e68107d5d13882d59ca1141ae0cd093d93a5cc9",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/13-서간체-모음집-wikied.md",
+          "sourceHash": "2e3a40c95c5d46b042de0b696e68107d5d13882d59ca1141ae0cd093d93a5cc9",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/13-서간체-모음집-wikied.md",
+          "sourceHash": "2e3a40c95c5d46b042de0b696e68107d5d13882d59ca1141ae0cd093d93a5cc9",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/13-서간체-모음집-wikied.md",
+          "sourceHash": "2e3a40c95c5d46b042de0b696e68107d5d13882d59ca1141ae0cd093d93a5cc9",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/13-서간체-모음집-wikied.md",
+          "sourceHash": "2e3a40c95c5d46b042de0b696e68107d5d13882d59ca1141ae0cd093d93a5cc9",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "14-인물-심리변화-곡선-wikied": {
+      "title": "Pride and Prejudice\n인물 심리 변화 곡선 (분석/창작 지원)",
+      "sourceFile": "[설정시트]/인물_심리변화_곡선_wikied.md",
+      "sourceHash": "sha256:4daffae3b978e8c2105016af2246304a077e3298ba081b16799c1e3b6818e528",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/14-인물-심리변화-곡선-wikied.md",
+          "sourceHash": "4daffae3b978e8c2105016af2246304a077e3298ba081b16799c1e3b6818e528",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/14-인물-심리변화-곡선-wikied.md",
+          "sourceHash": "4daffae3b978e8c2105016af2246304a077e3298ba081b16799c1e3b6818e528",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/14-인물-심리변화-곡선-wikied.md",
+          "sourceHash": "4daffae3b978e8c2105016af2246304a077e3298ba081b16799c1e3b6818e528",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/14-인물-심리변화-곡선-wikied.md",
+          "sourceHash": "4daffae3b978e8c2105016af2246304a077e3298ba081b16799c1e3b6818e528",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "15-리젠시-시대상-백과-wikied": {
+      "title": "Pride and Prejudice\n리젠시 시대상 백과",
+      "sourceFile": "[설정시트]/리젠시_시대상_백과_wikied.md",
+      "sourceHash": "sha256:6ca39451f765dfd45ab29131efb063f4c756d3a29acf3e709ecfdfa05acf6b9f",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/15-리젠시-시대상-백과-wikied.md",
+          "sourceHash": "6ca39451f765dfd45ab29131efb063f4c756d3a29acf3e709ecfdfa05acf6b9f",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/15-리젠시-시대상-백과-wikied.md",
+          "sourceHash": "6ca39451f765dfd45ab29131efb063f4c756d3a29acf3e709ecfdfa05acf6b9f",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/15-리젠시-시대상-백과-wikied.md",
+          "sourceHash": "6ca39451f765dfd45ab29131efb063f4c756d3a29acf3e709ecfdfa05acf6b9f",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/15-리젠시-시대상-백과-wikied.md",
+          "sourceHash": "6ca39451f765dfd45ab29131efb063f4c756d3a29acf3e709ecfdfa05acf6b9f",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "16-사물-계급상징-사전-wikied": {
+      "title": "Pride and Prejudice\n사물 계급상징 사전",
+      "sourceFile": "[설정시트]/사물_계급상징_사전_wikied.md",
+      "sourceHash": "sha256:46d6f08f625a0446d9683ae112f7ee3d7674827543c702931edc4b5f6658d095",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/16-사물-계급상징-사전-wikied.md",
+          "sourceHash": "46d6f08f625a0446d9683ae112f7ee3d7674827543c702931edc4b5f6658d095",
+          "updatedAt": "2026-07-14"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/16-사물-계급상징-사전-wikied.md",
+          "sourceHash": "46d6f08f625a0446d9683ae112f7ee3d7674827543c702931edc4b5f6658d095",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/16-사물-계급상징-사전-wikied.md",
+          "sourceHash": "46d6f08f625a0446d9683ae112f7ee3d7674827543c702931edc4b5f6658d095",
+          "updatedAt": "2026-07-14"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/16-사물-계급상징-사전-wikied.md",
+          "sourceHash": "46d6f08f625a0446d9683ae112f7ee3d7674827543c702931edc4b5f6658d095",
+          "updatedAt": "2026-07-14"
+        }
+      }
+    },
+    "17-제도-경제용어-관계도-wikied": {
+      "title": "Pride and Prejudice\n제도 경제용어 관계도",
+      "sourceFile": "[설정시트]/제도_경제용어_관계도_wikied.md",
+      "sourceHash": "sha256:c8dadb8257d42d98fc4e95ff605b452266db8b9d2df859488e9008064c64cb77",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/17-제도-경제용어-관계도-wikied.md",
+          "sourceHash": "c8dadb8257d42d98fc4e95ff605b452266db8b9d2df859488e9008064c64cb77",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/17-제도-경제용어-관계도-wikied.md",
+          "sourceHash": "c8dadb8257d42d98fc4e95ff605b452266db8b9d2df859488e9008064c64cb77",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/17-제도-경제용어-관계도-wikied.md",
+          "sourceHash": "c8dadb8257d42d98fc4e95ff605b452266db8b9d2df859488e9008064c64cb77",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/17-제도-경제용어-관계도-wikied.md",
+          "sourceHash": "c8dadb8257d42d98fc4e95ff605b452266db8b9d2df859488e9008064c64cb77",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "18-하인-체계도-추정-wikied": {
+      "title": "Pride and Prejudice\n하인 체계도 (추정/창작)",
+      "sourceFile": "[설정시트]/하인_체계도_추정_wikied.md",
+      "sourceHash": "sha256:7bf2a5f2fa9de1eb07418122be9096198e93d9c226befb1a1dc018fb31d58547",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/18-하인-체계도-추정-wikied.md",
+          "sourceHash": "7bf2a5f2fa9de1eb07418122be9096198e93d9c226befb1a1dc018fb31d58547",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/18-하인-체계도-추정-wikied.md",
+          "sourceHash": "7bf2a5f2fa9de1eb07418122be9096198e93d9c226befb1a1dc018fb31d58547",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/18-하인-체계도-추정-wikied.md",
+          "sourceHash": "7bf2a5f2fa9de1eb07418122be9096198e93d9c226befb1a1dc018fb31d58547",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/18-하인-체계도-추정-wikied.md",
+          "sourceHash": "7bf2a5f2fa9de1eb07418122be9096198e93d9c226befb1a1dc018fb31d58547",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "19-메뉴-식문화-추정-wikied": {
+      "title": "Pride and Prejudice\n메뉴 및 식문화 (추정/창작)",
+      "sourceFile": "[설정시트]/메뉴_식문화_추정_wikied.md",
+      "sourceHash": "sha256:7e511475941b2965316fe791edba38785c31211eb1afa0593b4f58b8352f9b8e",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/19-메뉴-식문화-추정-wikied.md",
+          "sourceHash": "7e511475941b2965316fe791edba38785c31211eb1afa0593b4f58b8352f9b8e",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/19-메뉴-식문화-추정-wikied.md",
+          "sourceHash": "7e511475941b2965316fe791edba38785c31211eb1afa0593b4f58b8352f9b8e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/19-메뉴-식문화-추정-wikied.md",
+          "sourceHash": "7e511475941b2965316fe791edba38785c31211eb1afa0593b4f58b8352f9b8e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/19-메뉴-식문화-추정-wikied.md",
+          "sourceHash": "7e511475941b2965316fe791edba38785c31211eb1afa0593b4f58b8352f9b8e",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "20-의상-인벤토리-추정-wikied": {
+      "title": "Pride and Prejudice\n의상 인벤토리 (추정/창작)",
+      "sourceFile": "[설정시트]/의상_인벤토리_추정_wikied.md",
+      "sourceHash": "sha256:3233f4fd6b17364315688d8800cce95d495cab7b35b899ba13a8eaa5fb53ea91",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/20-의상-인벤토리-추정-wikied.md",
+          "sourceHash": "3233f4fd6b17364315688d8800cce95d495cab7b35b899ba13a8eaa5fb53ea91",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/20-의상-인벤토리-추정-wikied.md",
+          "sourceHash": "3233f4fd6b17364315688d8800cce95d495cab7b35b899ba13a8eaa5fb53ea91",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/20-의상-인벤토리-추정-wikied.md",
+          "sourceHash": "3233f4fd6b17364315688d8800cce95d495cab7b35b899ba13a8eaa5fb53ea91",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/20-의상-인벤토리-추정-wikied.md",
+          "sourceHash": "3233f4fd6b17364315688d8800cce95d495cab7b35b899ba13a8eaa5fb53ea91",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "21-음악-소리환경-추정-wikied": {
+      "title": "Pride and Prejudice\n음악 및 소리 환경 (추정/창작)",
+      "sourceFile": "[설정시트]/음악_소리환경_추정_wikied.md",
+      "sourceHash": "sha256:5de241dc6c5db550c78d274f24defa1520689494f4421599781da123a993c021",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/21-음악-소리환경-추정-wikied.md",
+          "sourceHash": "5de241dc6c5db550c78d274f24defa1520689494f4421599781da123a993c021",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/21-음악-소리환경-추정-wikied.md",
+          "sourceHash": "5de241dc6c5db550c78d274f24defa1520689494f4421599781da123a993c021",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/21-음악-소리환경-추정-wikied.md",
+          "sourceHash": "5de241dc6c5db550c78d274f24defa1520689494f4421599781da123a993c021",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/21-음악-소리환경-추정-wikied.md",
+          "sourceHash": "5de241dc6c5db550c78d274f24defa1520689494f4421599781da123a993c021",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "22-신체언어-예법-사전-wikied": {
+      "title": "Pride and Prejudice\n신체언어 예법 사전",
+      "sourceFile": "[설정시트]/신체언어_예법_사전_wikied.md",
+      "sourceHash": "sha256:59b84cb157e3cef05f07ea98515ac88d0aff1ecfeccc47508ef30eb8fbc57e12",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/22-신체언어-예법-사전-wikied.md",
+          "sourceHash": "59b84cb157e3cef05f07ea98515ac88d0aff1ecfeccc47508ef30eb8fbc57e12",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/22-신체언어-예법-사전-wikied.md",
+          "sourceHash": "59b84cb157e3cef05f07ea98515ac88d0aff1ecfeccc47508ef30eb8fbc57e12",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/22-신체언어-예법-사전-wikied.md",
+          "sourceHash": "59b84cb157e3cef05f07ea98515ac88d0aff1ecfeccc47508ef30eb8fbc57e12",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/22-신체언어-예법-사전-wikied.md",
+          "sourceHash": "59b84cb157e3cef05f07ea98515ac88d0aff1ecfeccc47508ef30eb8fbc57e12",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "23-감정어휘-한영대응표-wikied": {
+      "title": "Pride and Prejudice\n감정어휘 한영대응표",
+      "sourceFile": "[설정시트]/감정어휘_한영대응표_wikied.md",
+      "sourceHash": "sha256:048f343bc6694892f0694253bfff93dc09943107900602b06d5093286ef7f107",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/23-감정어휘-한영대응표-wikied.md",
+          "sourceHash": "048f343bc6694892f0694253bfff93dc09943107900602b06d5093286ef7f107",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/23-감정어휘-한영대응표-wikied.md",
+          "sourceHash": "048f343bc6694892f0694253bfff93dc09943107900602b06d5093286ef7f107",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/23-감정어휘-한영대응표-wikied.md",
+          "sourceHash": "048f343bc6694892f0694253bfff93dc09943107900602b06d5093286ef7f107",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/23-감정어휘-한영대응표-wikied.md",
+          "sourceHash": "048f343bc6694892f0694253bfff93dc09943107900602b06d5093286ef7f107",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "24-외래어-프랑스어-사전-wikied": {
+      "title": "Pride and Prejudice\n외래어 프랑스어 사전",
+      "sourceFile": "[설정시트]/외래어_프랑스어_사전_wikied.md",
+      "sourceHash": "sha256:1576cd1ab23acc4557fff2b9ce663b9e856d676fb4610371d5da77b641be6945",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/24-외래어-프랑스어-사전-wikied.md",
+          "sourceHash": "1576cd1ab23acc4557fff2b9ce663b9e856d676fb4610371d5da77b641be6945",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/24-외래어-프랑스어-사전-wikied.md",
+          "sourceHash": "1576cd1ab23acc4557fff2b9ce663b9e856d676fb4610371d5da77b641be6945",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/24-외래어-프랑스어-사전-wikied.md",
+          "sourceHash": "1576cd1ab23acc4557fff2b9ce663b9e856d676fb4610371d5da77b641be6945",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/24-외래어-프랑스어-사전-wikied.md",
+          "sourceHash": "1576cd1ab23acc4557fff2b9ce663b9e856d676fb4610371d5da77b641be6945",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "25-건물-평면도-추정-wikied": {
+      "title": "Pride and Prejudice\n건물 평면도 (추정/창작)",
+      "sourceFile": "[설정시트]/건물_평면도_추정_wikied.md",
+      "sourceHash": "sha256:2cd48cf611454a3bed9c2e698fbc51e279671f3f0b53a1d68a45214b1102d684",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/25-건물-평면도-추정-wikied.md",
+          "sourceHash": "2cd48cf611454a3bed9c2e698fbc51e279671f3f0b53a1d68a45214b1102d684",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/25-건물-평면도-추정-wikied.md",
+          "sourceHash": "2cd48cf611454a3bed9c2e698fbc51e279671f3f0b53a1d68a45214b1102d684",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/25-건물-평면도-추정-wikied.md",
+          "sourceHash": "2cd48cf611454a3bed9c2e698fbc51e279671f3f0b53a1d68a45214b1102d684",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/25-건물-평면도-추정-wikied.md",
+          "sourceHash": "2cd48cf611454a3bed9c2e698fbc51e279671f3f0b53a1d68a45214b1102d684",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "26-씬-세트-구성도-wikied": {
+      "title": "Pride and Prejudice\n씬 세트 구성도",
+      "sourceFile": "[설정시트]/씬_세트_구성도_wikied.md",
+      "sourceHash": "sha256:dbf8559bbff4427adb20db7dd956885691ee3c2f568b2683673021ba0b19d9b4",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/26-씬-세트-구성도-wikied.md",
+          "sourceHash": "dbf8559bbff4427adb20db7dd956885691ee3c2f568b2683673021ba0b19d9b4",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/26-씬-세트-구성도-wikied.md",
+          "sourceHash": "dbf8559bbff4427adb20db7dd956885691ee3c2f568b2683673021ba0b19d9b4",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/26-씬-세트-구성도-wikied.md",
+          "sourceHash": "dbf8559bbff4427adb20db7dd956885691ee3c2f568b2683673021ba0b19d9b4",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/26-씬-세트-구성도-wikied.md",
+          "sourceHash": "dbf8559bbff4427adb20db7dd956885691ee3c2f568b2683673021ba0b19d9b4",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "27-정원-조경-추정-wikied": {
+      "title": "Pride and Prejudice\n정원 및 조경 (추정/창작)",
+      "sourceFile": "[설정시트]/정원_조경_추정_wikied.md",
+      "sourceHash": "sha256:03efb5d54033f6a87078439e7c87c828aaf1e46238ba827dd25cb4f598fcc88f",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/27-정원-조경-추정-wikied.md",
+          "sourceHash": "03efb5d54033f6a87078439e7c87c828aaf1e46238ba827dd25cb4f598fcc88f",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/27-정원-조경-추정-wikied.md",
+          "sourceHash": "03efb5d54033f6a87078439e7c87c828aaf1e46238ba827dd25cb4f598fcc88f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/27-정원-조경-추정-wikied.md",
+          "sourceHash": "03efb5d54033f6a87078439e7c87c828aaf1e46238ba827dd25cb4f598fcc88f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/27-정원-조경-추정-wikied.md",
+          "sourceHash": "03efb5d54033f6a87078439e7c87c828aaf1e46238ba827dd25cb4f598fcc88f",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "28-메리턴-상점가-추정-wikied": {
+      "title": "Pride and Prejudice\n메리턴 상점가 (추정/창작)",
+      "sourceFile": "[설정시트]/메리턴_상점가_추정_wikied.md",
+      "sourceHash": "sha256:ca5cd96f62dafc5a551dfbbb1a01d257a26fc27a4154ebbe305dc4c0afe8221f",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/28-메리턴-상점가-추정-wikied.md",
+          "sourceHash": "ca5cd96f62dafc5a551dfbbb1a01d257a26fc27a4154ebbe305dc4c0afe8221f",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/28-메리턴-상점가-추정-wikied.md",
+          "sourceHash": "ca5cd96f62dafc5a551dfbbb1a01d257a26fc27a4154ebbe305dc4c0afe8221f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/28-메리턴-상점가-추정-wikied.md",
+          "sourceHash": "ca5cd96f62dafc5a551dfbbb1a01d257a26fc27a4154ebbe305dc4c0afe8221f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/28-메리턴-상점가-추정-wikied.md",
+          "sourceHash": "ca5cd96f62dafc5a551dfbbb1a01d257a26fc27a4154ebbe305dc4c0afe8221f",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "29-종교-생활-추정-wikied": {
+      "title": "Pride and Prejudice\n종교 생활 (추정/창작)",
+      "sourceFile": "[설정시트]/종교_생활_추정_wikied.md",
+      "sourceHash": "sha256:64e93ee29490b671fbb3ac068cc42225aa60480ee5fe8eabcb5c15bc2b5a463b",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/29-종교-생활-추정-wikied.md",
+          "sourceHash": "64e93ee29490b671fbb3ac068cc42225aa60480ee5fe8eabcb5c15bc2b5a463b",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/29-종교-생활-추정-wikied.md",
+          "sourceHash": "64e93ee29490b671fbb3ac068cc42225aa60480ee5fe8eabcb5c15bc2b5a463b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/29-종교-생활-추정-wikied.md",
+          "sourceHash": "64e93ee29490b671fbb3ac068cc42225aa60480ee5fe8eabcb5c15bc2b5a463b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/29-종교-생활-추정-wikied.md",
+          "sourceHash": "64e93ee29490b671fbb3ac068cc42225aa60480ee5fe8eabcb5c15bc2b5a463b",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "30-인물-일과표-추정-wikied": {
+      "title": "Pride and Prejudice\n인물 일과표 (추정/창작)",
+      "sourceFile": "[설정시트]/인물_일과표_추정_wikied.md",
+      "sourceHash": "sha256:01689d5ca2119fc8b6af1ed821d52b6c1b131e54fd58dd33cd0938659e7a9d63",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/30-인물-일과표-추정-wikied.md",
+          "sourceHash": "01689d5ca2119fc8b6af1ed821d52b6c1b131e54fd58dd33cd0938659e7a9d63",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/30-인물-일과표-추정-wikied.md",
+          "sourceHash": "01689d5ca2119fc8b6af1ed821d52b6c1b131e54fd58dd33cd0938659e7a9d63",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/30-인물-일과표-추정-wikied.md",
+          "sourceHash": "01689d5ca2119fc8b6af1ed821d52b6c1b131e54fd58dd33cd0938659e7a9d63",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/30-인물-일과표-추정-wikied.md",
+          "sourceHash": "01689d5ca2119fc8b6af1ed821d52b6c1b131e54fd58dd33cd0938659e7a9d63",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "31-전체집단리스트-wikied": {
+      "title": "Pride and Prejudice\n전체집단리스트",
+      "sourceFile": "[설정시트]/전체집단리스트_wikied.md",
+      "sourceHash": "sha256:22d63d2b56e10b25ba78f9e5e423988ef26d8b911d3a7fb01a36b888d83f1bb6",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/31-전체집단리스트-wikied.md",
+          "sourceHash": "22d63d2b56e10b25ba78f9e5e423988ef26d8b911d3a7fb01a36b888d83f1bb6",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/31-전체집단리스트-wikied.md",
+          "sourceHash": "22d63d2b56e10b25ba78f9e5e423988ef26d8b911d3a7fb01a36b888d83f1bb6",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/31-전체집단리스트-wikied.md",
+          "sourceHash": "22d63d2b56e10b25ba78f9e5e423988ef26d8b911d3a7fb01a36b888d83f1bb6",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/31-전체집단리스트-wikied.md",
+          "sourceHash": "22d63d2b56e10b25ba78f9e5e423988ef26d8b911d3a7fb01a36b888d83f1bb6",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "32-전체기타리스트-wikied": {
+      "title": "Pride and Prejudice\n전체기타리스트",
+      "sourceFile": "[설정시트]/전체기타리스트_wikied.md",
+      "sourceHash": "sha256:5aba17c3eafc33fb123fd685c17e309d72a16c75baaee9078c55f67198781be2",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/32-전체기타리스트-wikied.md",
+          "sourceHash": "5aba17c3eafc33fb123fd685c17e309d72a16c75baaee9078c55f67198781be2",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/32-전체기타리스트-wikied.md",
+          "sourceHash": "5aba17c3eafc33fb123fd685c17e309d72a16c75baaee9078c55f67198781be2",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/32-전체기타리스트-wikied.md",
+          "sourceHash": "5aba17c3eafc33fb123fd685c17e309d72a16c75baaee9078c55f67198781be2",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/32-전체기타리스트-wikied.md",
+          "sourceHash": "5aba17c3eafc33fb123fd685c17e309d72a16c75baaee9078c55f67198781be2",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "33-전체불특정리스트-wikied": {
+      "title": "Pride and Prejudice\n전체불특정리스트",
+      "sourceFile": "[설정시트]/전체불특정리스트_wikied.md",
+      "sourceHash": "sha256:3133280ddfe4efbc0edcacd14782919cac19520d767654c350f5bfc515f98a8f",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/33-전체불특정리스트-wikied.md",
+          "sourceHash": "3133280ddfe4efbc0edcacd14782919cac19520d767654c350f5bfc515f98a8f",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/33-전체불특정리스트-wikied.md",
+          "sourceHash": "3133280ddfe4efbc0edcacd14782919cac19520d767654c350f5bfc515f98a8f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/33-전체불특정리스트-wikied.md",
+          "sourceHash": "3133280ddfe4efbc0edcacd14782919cac19520d767654c350f5bfc515f98a8f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/33-전체불특정리스트-wikied.md",
+          "sourceHash": "3133280ddfe4efbc0edcacd14782919cac19520d767654c350f5bfc515f98a8f",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "34-시대착오-금기단어-wikied": {
+      "title": "Pride and Prejudice\n시대착오 금기단어 사전",
+      "sourceFile": "[설정시트]/시대착오_금기단어_wikied.md",
+      "sourceHash": "sha256:4fbdc08b623fb624e9ca7f641ef8fb340043befe373207dc3fda298e1a31eaf1",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/34-시대착오-금기단어-wikied.md",
+          "sourceHash": "4fbdc08b623fb624e9ca7f641ef8fb340043befe373207dc3fda298e1a31eaf1",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/34-시대착오-금기단어-wikied.md",
+          "sourceHash": "4fbdc08b623fb624e9ca7f641ef8fb340043befe373207dc3fda298e1a31eaf1",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/34-시대착오-금기단어-wikied.md",
+          "sourceHash": "4fbdc08b623fb624e9ca7f641ef8fb340043befe373207dc3fda298e1a31eaf1",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/34-시대착오-금기단어-wikied.md",
+          "sourceHash": "4fbdc08b623fb624e9ca7f641ef8fb340043befe373207dc3fda298e1a31eaf1",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "35-인물-숨은-관계망-추정-wikied": {
+      "title": "Pride and Prejudice\n인물 숨은 관계망 (추정/창작)",
+      "sourceFile": "[설정시트]/인물_숨은_관계망_추정_wikied.md",
+      "sourceHash": "sha256:aa4044758a1bf6c88773eace558cc0e52358ea6ae0a741fbfa82b888977bc0b0",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/35-인물-숨은-관계망-추정-wikied.md",
+          "sourceHash": "aa4044758a1bf6c88773eace558cc0e52358ea6ae0a741fbfa82b888977bc0b0",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/35-인물-숨은-관계망-추정-wikied.md",
+          "sourceHash": "aa4044758a1bf6c88773eace558cc0e52358ea6ae0a741fbfa82b888977bc0b0",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/35-인물-숨은-관계망-추정-wikied.md",
+          "sourceHash": "aa4044758a1bf6c88773eace558cc0e52358ea6ae0a741fbfa82b888977bc0b0",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/35-인물-숨은-관계망-추정-wikied.md",
+          "sourceHash": "aa4044758a1bf6c88773eace558cc0e52358ea6ae0a741fbfa82b888977bc0b0",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "36-인물별-사건별-장소관계도-wikied": {
+      "title": "Pride and Prejudice\n인물별 사건별 장소관계도",
+      "sourceFile": "[설정시트]/인물별_사건별_장소관계도_wikied.md",
+      "sourceHash": "sha256:136d393be3c313eadb4e33bf42fb258b5ad273ecf1b1b115d56e6db798c9fb42",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/36-인물별-사건별-장소관계도-wikied.md",
+          "sourceHash": "136d393be3c313eadb4e33bf42fb258b5ad273ecf1b1b115d56e6db798c9fb42",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/36-인물별-사건별-장소관계도-wikied.md",
+          "sourceHash": "136d393be3c313eadb4e33bf42fb258b5ad273ecf1b1b115d56e6db798c9fb42",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/36-인물별-사건별-장소관계도-wikied.md",
+          "sourceHash": "136d393be3c313eadb4e33bf42fb258b5ad273ecf1b1b115d56e6db798c9fb42",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/36-인물별-사건별-장소관계도-wikied.md",
+          "sourceHash": "136d393be3c313eadb4e33bf42fb258b5ad273ecf1b1b115d56e6db798c9fb42",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "37-각색-시나리오-가이드-wikied": {
+      "title": "Pride and Prejudice\n각색 시나리오 가이드 (창작 지원)",
+      "sourceFile": "[설정시트]/각색_시나리오_가이드_wikied.md",
+      "sourceHash": "sha256:f86702bd060332b14bdda3faf565e41a99bcf22e9cb25f9415d762d70ee2c13f",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/37-각색-시나리오-가이드-wikied.md",
+          "sourceHash": "f86702bd060332b14bdda3faf565e41a99bcf22e9cb25f9415d762d70ee2c13f",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/37-각색-시나리오-가이드-wikied.md",
+          "sourceHash": "f86702bd060332b14bdda3faf565e41a99bcf22e9cb25f9415d762d70ee2c13f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/37-각색-시나리오-가이드-wikied.md",
+          "sourceHash": "f86702bd060332b14bdda3faf565e41a99bcf22e9cb25f9415d762d70ee2c13f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/37-각색-시나리오-가이드-wikied.md",
+          "sourceHash": "f86702bd060332b14bdda3faf565e41a99bcf22e9cb25f9415d762d70ee2c13f",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "38-인물관계도-wikied": {
+      "title": "인물관계도 (Pride and Prejudice)",
+      "sourceFile": "[캐릭터시트]/인물관계도_wikied.md",
+      "sourceHash": "sha256:106cb2a76cf249606e2899e097e59e820469aa0b3c5fd1040b33d8f8a800e1ea",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/38-인물관계도-wikied.md",
+          "sourceHash": "106cb2a76cf249606e2899e097e59e820469aa0b3c5fd1040b33d8f8a800e1ea",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/38-인물관계도-wikied.md",
+          "sourceHash": "106cb2a76cf249606e2899e097e59e820469aa0b3c5fd1040b33d8f8a800e1ea",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/38-인물관계도-wikied.md",
+          "sourceHash": "106cb2a76cf249606e2899e097e59e820469aa0b3c5fd1040b33d8f8a800e1ea",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/38-인물관계도-wikied.md",
+          "sourceHash": "106cb2a76cf249606e2899e097e59e820469aa0b3c5fd1040b33d8f8a800e1ea",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "39-가디너-부부-wikied": {
+      "title": "Mr. & Mrs. Gardiner (가디너 부부)\n관계 통합 시트",
+      "sourceFile": "[캐릭터시트]/가디너 부부_wikied.md",
+      "sourceHash": "sha256:3ab3ae0e964c0a554cba9b581ce3433239698bfad950ce1140ed4e81d28659fe",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/39-가디너-부부-wikied.md",
+          "sourceHash": "3ab3ae0e964c0a554cba9b581ce3433239698bfad950ce1140ed4e81d28659fe",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/39-가디너-부부-wikied.md",
+          "sourceHash": "3ab3ae0e964c0a554cba9b581ce3433239698bfad950ce1140ed4e81d28659fe",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/39-가디너-부부-wikied.md",
+          "sourceHash": "3ab3ae0e964c0a554cba9b581ce3433239698bfad950ce1140ed4e81d28659fe",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/39-가디너-부부-wikied.md",
+          "sourceHash": "3ab3ae0e964c0a554cba9b581ce3433239698bfad950ce1140ed4e81d28659fe",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "40-포스터-부부-wikied": {
+      "title": "Colonel & Mrs. Forster (포스터 부부)\n관계 통합 시트",
+      "sourceFile": "[캐릭터시트]/포스터 부부_wikied.md",
+      "sourceHash": "sha256:9de6a5a9dbdda53051bc20248d7485b21b8f419df35e16fcf7a0e001e475eca8",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/40-포스터-부부-wikied.md",
+          "sourceHash": "9de6a5a9dbdda53051bc20248d7485b21b8f419df35e16fcf7a0e001e475eca8",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/40-포스터-부부-wikied.md",
+          "sourceHash": "9de6a5a9dbdda53051bc20248d7485b21b8f419df35e16fcf7a0e001e475eca8",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/40-포스터-부부-wikied.md",
+          "sourceHash": "9de6a5a9dbdda53051bc20248d7485b21b8f419df35e16fcf7a0e001e475eca8",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/40-포스터-부부-wikied.md",
+          "sourceHash": "9de6a5a9dbdda53051bc20248d7485b21b8f419df35e16fcf7a0e001e475eca8",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "41-captain-carter-wikied": {
+      "title": "Captain Carter (카터 대위)",
+      "sourceFile": "[캐릭터시트]/Captain Carter_wikied.md",
+      "sourceHash": "sha256:00577a18ca9698f21a2396caa5d98bb04887081317d4bcbcab159db4f1b6e429",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/41-captain-carter-wikied.md",
+          "sourceHash": "00577a18ca9698f21a2396caa5d98bb04887081317d4bcbcab159db4f1b6e429",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/41-captain-carter-wikied.md",
+          "sourceHash": "00577a18ca9698f21a2396caa5d98bb04887081317d4bcbcab159db4f1b6e429",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/41-captain-carter-wikied.md",
+          "sourceHash": "00577a18ca9698f21a2396caa5d98bb04887081317d4bcbcab159db4f1b6e429",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/41-captain-carter-wikied.md",
+          "sourceHash": "00577a18ca9698f21a2396caa5d98bb04887081317d4bcbcab159db4f1b6e429",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "42-charlotte-lucas-wikied": {
+      "title": "Charlotte Lucas (샬럿 루카스)",
+      "sourceFile": "[캐릭터시트]/Charlotte Lucas_wikied.md",
+      "sourceHash": "sha256:43c6c7b19c26755e2a45df8eb0494459734924bcb8cd1834ab22b9cf53fe6f12",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/42-charlotte-lucas-wikied.md",
+          "sourceHash": "43c6c7b19c26755e2a45df8eb0494459734924bcb8cd1834ab22b9cf53fe6f12",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/42-charlotte-lucas-wikied.md",
+          "sourceHash": "43c6c7b19c26755e2a45df8eb0494459734924bcb8cd1834ab22b9cf53fe6f12",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/42-charlotte-lucas-wikied.md",
+          "sourceHash": "43c6c7b19c26755e2a45df8eb0494459734924bcb8cd1834ab22b9cf53fe6f12",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/42-charlotte-lucas-wikied.md",
+          "sourceHash": "43c6c7b19c26755e2a45df8eb0494459734924bcb8cd1834ab22b9cf53fe6f12",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "43-colonel-fitzwilliam-wikied": {
+      "title": "Colonel Fitzwilliam (피츠윌리엄 대령)",
+      "sourceFile": "[캐릭터시트]/Colonel Fitzwilliam_wikied.md",
+      "sourceHash": "sha256:490db59cc00d9787c4050a10fbdc00b2dff6124add4b8026127aa3c894ade1c7",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/43-colonel-fitzwilliam-wikied.md",
+          "sourceHash": "490db59cc00d9787c4050a10fbdc00b2dff6124add4b8026127aa3c894ade1c7",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/43-colonel-fitzwilliam-wikied.md",
+          "sourceHash": "490db59cc00d9787c4050a10fbdc00b2dff6124add4b8026127aa3c894ade1c7",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/43-colonel-fitzwilliam-wikied.md",
+          "sourceHash": "490db59cc00d9787c4050a10fbdc00b2dff6124add4b8026127aa3c894ade1c7",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/43-colonel-fitzwilliam-wikied.md",
+          "sourceHash": "490db59cc00d9787c4050a10fbdc00b2dff6124add4b8026127aa3c894ade1c7",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "44-colonel-forster-wikied": {
+      "title": "Colonel Forster (포스터 대령)",
+      "sourceFile": "[캐릭터시트]/Colonel Forster_wikied.md",
+      "sourceHash": "sha256:779454efa9438ea5678726f8a69ba1dfb88962e97869ffbd52f2595c608ffa79",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/44-colonel-forster-wikied.md",
+          "sourceHash": "779454efa9438ea5678726f8a69ba1dfb88962e97869ffbd52f2595c608ffa79",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/44-colonel-forster-wikied.md",
+          "sourceHash": "779454efa9438ea5678726f8a69ba1dfb88962e97869ffbd52f2595c608ffa79",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/44-colonel-forster-wikied.md",
+          "sourceHash": "779454efa9438ea5678726f8a69ba1dfb88962e97869ffbd52f2595c608ffa79",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/44-colonel-forster-wikied.md",
+          "sourceHash": "779454efa9438ea5678726f8a69ba1dfb88962e97869ffbd52f2595c608ffa79",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "45-elizabeth-bennet-wikied": {
+      "title": "Elizabeth Bennet (엘리자베스 베넷 / 리지 Lizzy)",
+      "sourceFile": "[캐릭터시트]/Elizabeth Bennet_wikied.md",
+      "sourceHash": "sha256:e21b57ae6431707bbadc091f46277efa09167acb2fffdd6a17a08e5601b6b18e",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/45-elizabeth-bennet-wikied.md",
+          "sourceHash": "e21b57ae6431707bbadc091f46277efa09167acb2fffdd6a17a08e5601b6b18e",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/45-elizabeth-bennet-wikied.md",
+          "sourceHash": "e21b57ae6431707bbadc091f46277efa09167acb2fffdd6a17a08e5601b6b18e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/45-elizabeth-bennet-wikied.md",
+          "sourceHash": "e21b57ae6431707bbadc091f46277efa09167acb2fffdd6a17a08e5601b6b18e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/45-elizabeth-bennet-wikied.md",
+          "sourceHash": "e21b57ae6431707bbadc091f46277efa09167acb2fffdd6a17a08e5601b6b18e",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "46-georgiana-darcy-wikied": {
+      "title": "Georgiana Darcy (조지아나 다아시)",
+      "sourceFile": "[캐릭터시트]/Georgiana Darcy_wikied.md",
+      "sourceHash": "sha256:02160f822d496c1b1b3f336a70ad1f9eddb97cabe9a63e564478016de807ee93",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/46-georgiana-darcy-wikied.md",
+          "sourceHash": "02160f822d496c1b1b3f336a70ad1f9eddb97cabe9a63e564478016de807ee93",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/46-georgiana-darcy-wikied.md",
+          "sourceHash": "02160f822d496c1b1b3f336a70ad1f9eddb97cabe9a63e564478016de807ee93",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/46-georgiana-darcy-wikied.md",
+          "sourceHash": "02160f822d496c1b1b3f336a70ad1f9eddb97cabe9a63e564478016de807ee93",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/46-georgiana-darcy-wikied.md",
+          "sourceHash": "02160f822d496c1b1b3f336a70ad1f9eddb97cabe9a63e564478016de807ee93",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "47-jane-bennet-wikied": {
+      "title": "Jane Bennet (제인 베넷)",
+      "sourceFile": "[캐릭터시트]/Jane Bennet_wikied.md",
+      "sourceHash": "sha256:60f8ef5b9ea3a9f14e96e09b8cc58e65c2dd6ae2b191acce9787466a2c0efa1c",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/47-jane-bennet-wikied.md",
+          "sourceHash": "60f8ef5b9ea3a9f14e96e09b8cc58e65c2dd6ae2b191acce9787466a2c0efa1c",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/47-jane-bennet-wikied.md",
+          "sourceHash": "60f8ef5b9ea3a9f14e96e09b8cc58e65c2dd6ae2b191acce9787466a2c0efa1c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/47-jane-bennet-wikied.md",
+          "sourceHash": "60f8ef5b9ea3a9f14e96e09b8cc58e65c2dd6ae2b191acce9787466a2c0efa1c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/47-jane-bennet-wikied.md",
+          "sourceHash": "60f8ef5b9ea3a9f14e96e09b8cc58e65c2dd6ae2b191acce9787466a2c0efa1c",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "48-kitty-bennet-wikied": {
+      "title": "Kitty Bennet (키티 베넷 / 캐서린 베넷)",
+      "sourceFile": "[캐릭터시트]/Kitty Bennet_wikied.md",
+      "sourceHash": "sha256:39ca94cc794243031ab9ec0e49a770f24eca74eb9499a067ef6b909c23518ac3",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/48-kitty-bennet-wikied.md",
+          "sourceHash": "39ca94cc794243031ab9ec0e49a770f24eca74eb9499a067ef6b909c23518ac3",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/48-kitty-bennet-wikied.md",
+          "sourceHash": "39ca94cc794243031ab9ec0e49a770f24eca74eb9499a067ef6b909c23518ac3",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/48-kitty-bennet-wikied.md",
+          "sourceHash": "39ca94cc794243031ab9ec0e49a770f24eca74eb9499a067ef6b909c23518ac3",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/48-kitty-bennet-wikied.md",
+          "sourceHash": "39ca94cc794243031ab9ec0e49a770f24eca74eb9499a067ef6b909c23518ac3",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "49-lady-catherine-de-bourgh-wikied": {
+      "title": "Lady Catherine de Bourgh (레이디 캐서린 드 버그)",
+      "sourceFile": "[캐릭터시트]/Lady Catherine de Bourgh_wikied.md",
+      "sourceHash": "sha256:2e200fbfa31b0cbadf6cbf56daa9f0d02bd55cc40ff6c6454a09fc078d72fc85",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/49-lady-catherine-de-bourgh-wikied.md",
+          "sourceHash": "2e200fbfa31b0cbadf6cbf56daa9f0d02bd55cc40ff6c6454a09fc078d72fc85",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/49-lady-catherine-de-bourgh-wikied.md",
+          "sourceHash": "2e200fbfa31b0cbadf6cbf56daa9f0d02bd55cc40ff6c6454a09fc078d72fc85",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/49-lady-catherine-de-bourgh-wikied.md",
+          "sourceHash": "2e200fbfa31b0cbadf6cbf56daa9f0d02bd55cc40ff6c6454a09fc078d72fc85",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/49-lady-catherine-de-bourgh-wikied.md",
+          "sourceHash": "2e200fbfa31b0cbadf6cbf56daa9f0d02bd55cc40ff6c6454a09fc078d72fc85",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "50-lady-lucas-wikied": {
+      "title": "Lady Lucas (레이디 루카스)",
+      "sourceFile": "[캐릭터시트]/Lady Lucas_wikied.md",
+      "sourceHash": "sha256:58463fbe24e165984c00ecbe61805130d69290fe3141573d2f1b205558d73f3d",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/50-lady-lucas-wikied.md",
+          "sourceHash": "58463fbe24e165984c00ecbe61805130d69290fe3141573d2f1b205558d73f3d",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/50-lady-lucas-wikied.md",
+          "sourceHash": "58463fbe24e165984c00ecbe61805130d69290fe3141573d2f1b205558d73f3d",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/50-lady-lucas-wikied.md",
+          "sourceHash": "58463fbe24e165984c00ecbe61805130d69290fe3141573d2f1b205558d73f3d",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/50-lady-lucas-wikied.md",
+          "sourceHash": "58463fbe24e165984c00ecbe61805130d69290fe3141573d2f1b205558d73f3d",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "51-lydia-bennet-wikied": {
+      "title": "Lydia Bennet (리디아 베넷)",
+      "sourceFile": "[캐릭터시트]/Lydia Bennet_wikied.md",
+      "sourceHash": "sha256:eca98314b34ec3c3b95454c5f2fa87fb5bf3c3fec6752264a1c03d83a249d83c",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/51-lydia-bennet-wikied.md",
+          "sourceHash": "eca98314b34ec3c3b95454c5f2fa87fb5bf3c3fec6752264a1c03d83a249d83c",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/51-lydia-bennet-wikied.md",
+          "sourceHash": "eca98314b34ec3c3b95454c5f2fa87fb5bf3c3fec6752264a1c03d83a249d83c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/51-lydia-bennet-wikied.md",
+          "sourceHash": "eca98314b34ec3c3b95454c5f2fa87fb5bf3c3fec6752264a1c03d83a249d83c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/51-lydia-bennet-wikied.md",
+          "sourceHash": "eca98314b34ec3c3b95454c5f2fa87fb5bf3c3fec6752264a1c03d83a249d83c",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "52-maria-lucas-wikied": {
+      "title": "Maria Lucas (마리아 루카스)",
+      "sourceFile": "[캐릭터시트]/Maria Lucas_wikied.md",
+      "sourceHash": "sha256:30ffb9c8cb55c2a6f7a878fd384d1e250a44ac998d69df4320600ce2818c6d53",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/52-maria-lucas-wikied.md",
+          "sourceHash": "30ffb9c8cb55c2a6f7a878fd384d1e250a44ac998d69df4320600ce2818c6d53",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/52-maria-lucas-wikied.md",
+          "sourceHash": "30ffb9c8cb55c2a6f7a878fd384d1e250a44ac998d69df4320600ce2818c6d53",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/52-maria-lucas-wikied.md",
+          "sourceHash": "30ffb9c8cb55c2a6f7a878fd384d1e250a44ac998d69df4320600ce2818c6d53",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/52-maria-lucas-wikied.md",
+          "sourceHash": "30ffb9c8cb55c2a6f7a878fd384d1e250a44ac998d69df4320600ce2818c6d53",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "53-mary-bennet-wikied": {
+      "title": "Mary Bennet (메리 베넷)",
+      "sourceFile": "[캐릭터시트]/Mary Bennet_wikied.md",
+      "sourceHash": "sha256:6443c19d07c0f5461d62d25e7655350525aa5c2cad9785f978edf137088548f0",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/53-mary-bennet-wikied.md",
+          "sourceHash": "6443c19d07c0f5461d62d25e7655350525aa5c2cad9785f978edf137088548f0",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/53-mary-bennet-wikied.md",
+          "sourceHash": "6443c19d07c0f5461d62d25e7655350525aa5c2cad9785f978edf137088548f0",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/53-mary-bennet-wikied.md",
+          "sourceHash": "6443c19d07c0f5461d62d25e7655350525aa5c2cad9785f978edf137088548f0",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/53-mary-bennet-wikied.md",
+          "sourceHash": "6443c19d07c0f5461d62d25e7655350525aa5c2cad9785f978edf137088548f0",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "54-miss-bingley-wikied": {
+      "title": "Miss Bingley (빙리 양 / 캐롤라인 빙리)",
+      "sourceFile": "[캐릭터시트]/Miss Bingley_wikied.md",
+      "sourceHash": "sha256:3ebdede247058b4e9127e26d123cbe393deea2d4a4bfaebae5824c01d4b125e3",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/54-miss-bingley-wikied.md",
+          "sourceHash": "3ebdede247058b4e9127e26d123cbe393deea2d4a4bfaebae5824c01d4b125e3",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/54-miss-bingley-wikied.md",
+          "sourceHash": "3ebdede247058b4e9127e26d123cbe393deea2d4a4bfaebae5824c01d4b125e3",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/54-miss-bingley-wikied.md",
+          "sourceHash": "3ebdede247058b4e9127e26d123cbe393deea2d4a4bfaebae5824c01d4b125e3",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/54-miss-bingley-wikied.md",
+          "sourceHash": "3ebdede247058b4e9127e26d123cbe393deea2d4a4bfaebae5824c01d4b125e3",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "55-miss-de-bourgh-wikied": {
+      "title": "Miss de Bourgh (드 버그 양 / 앤 드 버그)",
+      "sourceFile": "[캐릭터시트]/Miss de Bourgh_wikied.md",
+      "sourceHash": "sha256:76022075776064f5be2c0f0db14786f5345067c71522a79e4f94ed1ab978b636",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/55-miss-de-bourgh-wikied.md",
+          "sourceHash": "76022075776064f5be2c0f0db14786f5345067c71522a79e4f94ed1ab978b636",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/55-miss-de-bourgh-wikied.md",
+          "sourceHash": "76022075776064f5be2c0f0db14786f5345067c71522a79e4f94ed1ab978b636",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/55-miss-de-bourgh-wikied.md",
+          "sourceHash": "76022075776064f5be2c0f0db14786f5345067c71522a79e4f94ed1ab978b636",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/55-miss-de-bourgh-wikied.md",
+          "sourceHash": "76022075776064f5be2c0f0db14786f5345067c71522a79e4f94ed1ab978b636",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "56-miss-king-wikied": {
+      "title": "Miss King (미스 킹)",
+      "sourceFile": "[캐릭터시트]/Miss King_wikied.md",
+      "sourceHash": "sha256:f7e769d072a1fa8631184b5ddb64bc92a2e0e3fc3eb845fd3c234b13682bd21a",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/56-miss-king-wikied.md",
+          "sourceHash": "f7e769d072a1fa8631184b5ddb64bc92a2e0e3fc3eb845fd3c234b13682bd21a",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/56-miss-king-wikied.md",
+          "sourceHash": "f7e769d072a1fa8631184b5ddb64bc92a2e0e3fc3eb845fd3c234b13682bd21a",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/56-miss-king-wikied.md",
+          "sourceHash": "f7e769d072a1fa8631184b5ddb64bc92a2e0e3fc3eb845fd3c234b13682bd21a",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/56-miss-king-wikied.md",
+          "sourceHash": "f7e769d072a1fa8631184b5ddb64bc92a2e0e3fc3eb845fd3c234b13682bd21a",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "57-mr-bennet-wikied": {
+      "title": "Mr. Bennet (베넷 씨)",
+      "sourceFile": "[캐릭터시트]/Mr Bennet_wikied.md",
+      "sourceHash": "sha256:b35410344de22d0017c88d127c8faff223fff1b17a0ec851997c2028d974673c",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/57-mr-bennet-wikied.md",
+          "sourceHash": "b35410344de22d0017c88d127c8faff223fff1b17a0ec851997c2028d974673c",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/57-mr-bennet-wikied.md",
+          "sourceHash": "b35410344de22d0017c88d127c8faff223fff1b17a0ec851997c2028d974673c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/57-mr-bennet-wikied.md",
+          "sourceHash": "b35410344de22d0017c88d127c8faff223fff1b17a0ec851997c2028d974673c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/57-mr-bennet-wikied.md",
+          "sourceHash": "b35410344de22d0017c88d127c8faff223fff1b17a0ec851997c2028d974673c",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "58-mr-bingley-wikied": {
+      "title": "Mr. Bingley (빙리 씨 / 찰스 빙리)",
+      "sourceFile": "[캐릭터시트]/Mr Bingley_wikied.md",
+      "sourceHash": "sha256:4b094721f5f69020d742a3e10b0bd643842ff90fe066b986fdd3b555d0b97b3b",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/58-mr-bingley-wikied.md",
+          "sourceHash": "4b094721f5f69020d742a3e10b0bd643842ff90fe066b986fdd3b555d0b97b3b",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/58-mr-bingley-wikied.md",
+          "sourceHash": "4b094721f5f69020d742a3e10b0bd643842ff90fe066b986fdd3b555d0b97b3b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/58-mr-bingley-wikied.md",
+          "sourceHash": "4b094721f5f69020d742a3e10b0bd643842ff90fe066b986fdd3b555d0b97b3b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/58-mr-bingley-wikied.md",
+          "sourceHash": "4b094721f5f69020d742a3e10b0bd643842ff90fe066b986fdd3b555d0b97b3b",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "59-mr-collins-wikied": {
+      "title": "Mr. Collins (콜린스 목사 / 윌리엄 콜린스)",
+      "sourceFile": "[캐릭터시트]/Mr Collins_wikied.md",
+      "sourceHash": "sha256:94a026624f5919ed1d4122969bca12acbe72f8c5bc06d18283a5992e3691243c",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/59-mr-collins-wikied.md",
+          "sourceHash": "94a026624f5919ed1d4122969bca12acbe72f8c5bc06d18283a5992e3691243c",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/59-mr-collins-wikied.md",
+          "sourceHash": "94a026624f5919ed1d4122969bca12acbe72f8c5bc06d18283a5992e3691243c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/59-mr-collins-wikied.md",
+          "sourceHash": "94a026624f5919ed1d4122969bca12acbe72f8c5bc06d18283a5992e3691243c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/59-mr-collins-wikied.md",
+          "sourceHash": "94a026624f5919ed1d4122969bca12acbe72f8c5bc06d18283a5992e3691243c",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "60-mr-darcy-wikied": {
+      "title": "Mr. Darcy (다아시 씨 / 피츠윌리엄 다아시)",
+      "sourceFile": "[캐릭터시트]/Mr Darcy_wikied.md",
+      "sourceHash": "sha256:5f0b4a3cd605d976593e1c42fcedd73d07e5fd387b589f9a2cbed67ead7b9767",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/60-mr-darcy-wikied.md",
+          "sourceHash": "5f0b4a3cd605d976593e1c42fcedd73d07e5fd387b589f9a2cbed67ead7b9767",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/60-mr-darcy-wikied.md",
+          "sourceHash": "5f0b4a3cd605d976593e1c42fcedd73d07e5fd387b589f9a2cbed67ead7b9767",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/60-mr-darcy-wikied.md",
+          "sourceHash": "5f0b4a3cd605d976593e1c42fcedd73d07e5fd387b589f9a2cbed67ead7b9767",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/60-mr-darcy-wikied.md",
+          "sourceHash": "5f0b4a3cd605d976593e1c42fcedd73d07e5fd387b589f9a2cbed67ead7b9767",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "61-mr-denny-wikied": {
+      "title": "Mr. Denny (미스터 데니)",
+      "sourceFile": "[캐릭터시트]/Mr Denny_wikied.md",
+      "sourceHash": "sha256:643236d81344b936fef1c5b7366eec8d0cd18ae8449b709e7bb6b0c8c760a1b3",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/61-mr-denny-wikied.md",
+          "sourceHash": "643236d81344b936fef1c5b7366eec8d0cd18ae8449b709e7bb6b0c8c760a1b3",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/61-mr-denny-wikied.md",
+          "sourceHash": "643236d81344b936fef1c5b7366eec8d0cd18ae8449b709e7bb6b0c8c760a1b3",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/61-mr-denny-wikied.md",
+          "sourceHash": "643236d81344b936fef1c5b7366eec8d0cd18ae8449b709e7bb6b0c8c760a1b3",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/61-mr-denny-wikied.md",
+          "sourceHash": "643236d81344b936fef1c5b7366eec8d0cd18ae8449b709e7bb6b0c8c760a1b3",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "62-mr-gardiner-wikied": {
+      "title": "Mr. Gardiner (가디너 씨 / 에드워드 가디너)",
+      "sourceFile": "[캐릭터시트]/Mr Gardiner_wikied.md",
+      "sourceHash": "sha256:367bc097192b907688b9930a8c804353b12930352146245151db1c5290f94974",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/62-mr-gardiner-wikied.md",
+          "sourceHash": "367bc097192b907688b9930a8c804353b12930352146245151db1c5290f94974",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/62-mr-gardiner-wikied.md",
+          "sourceHash": "367bc097192b907688b9930a8c804353b12930352146245151db1c5290f94974",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/62-mr-gardiner-wikied.md",
+          "sourceHash": "367bc097192b907688b9930a8c804353b12930352146245151db1c5290f94974",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/62-mr-gardiner-wikied.md",
+          "sourceHash": "367bc097192b907688b9930a8c804353b12930352146245151db1c5290f94974",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "63-mr-hurst-wikied": {
+      "title": "Mr. Hurst (미스터 허스트)",
+      "sourceFile": "[캐릭터시트]/Mr Hurst_wikied.md",
+      "sourceHash": "sha256:7247a6d465c94fbe874659aae4e277bfd30d65e63ce3eb5ade9aa297ebfe0afb",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/63-mr-hurst-wikied.md",
+          "sourceHash": "7247a6d465c94fbe874659aae4e277bfd30d65e63ce3eb5ade9aa297ebfe0afb",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/63-mr-hurst-wikied.md",
+          "sourceHash": "7247a6d465c94fbe874659aae4e277bfd30d65e63ce3eb5ade9aa297ebfe0afb",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/63-mr-hurst-wikied.md",
+          "sourceHash": "7247a6d465c94fbe874659aae4e277bfd30d65e63ce3eb5ade9aa297ebfe0afb",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/63-mr-hurst-wikied.md",
+          "sourceHash": "7247a6d465c94fbe874659aae4e277bfd30d65e63ce3eb5ade9aa297ebfe0afb",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "64-mr-jones-wikied": {
+      "title": "Mr. Jones (미스터 존스)",
+      "sourceFile": "[캐릭터시트]/Mr Jones_wikied.md",
+      "sourceHash": "sha256:a534e021995d260759a6d0f7b030cb79c268d2724c2b55945fd29bf15408307e",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/64-mr-jones-wikied.md",
+          "sourceHash": "a534e021995d260759a6d0f7b030cb79c268d2724c2b55945fd29bf15408307e",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/64-mr-jones-wikied.md",
+          "sourceHash": "a534e021995d260759a6d0f7b030cb79c268d2724c2b55945fd29bf15408307e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/64-mr-jones-wikied.md",
+          "sourceHash": "a534e021995d260759a6d0f7b030cb79c268d2724c2b55945fd29bf15408307e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/64-mr-jones-wikied.md",
+          "sourceHash": "a534e021995d260759a6d0f7b030cb79c268d2724c2b55945fd29bf15408307e",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "65-mr-wickham-wikied": {
+      "title": "Mr. Wickham (위컴 씨 / 조지 위컴)",
+      "sourceFile": "[캐릭터시트]/Mr Wickham_wikied.md",
+      "sourceHash": "sha256:5a05e95dcb7e115be80f473fd27638d35ae702e284afeccf19ecc25e1c3bc57e",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/65-mr-wickham-wikied.md",
+          "sourceHash": "5a05e95dcb7e115be80f473fd27638d35ae702e284afeccf19ecc25e1c3bc57e",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/65-mr-wickham-wikied.md",
+          "sourceHash": "5a05e95dcb7e115be80f473fd27638d35ae702e284afeccf19ecc25e1c3bc57e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/65-mr-wickham-wikied.md",
+          "sourceHash": "5a05e95dcb7e115be80f473fd27638d35ae702e284afeccf19ecc25e1c3bc57e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/65-mr-wickham-wikied.md",
+          "sourceHash": "5a05e95dcb7e115be80f473fd27638d35ae702e284afeccf19ecc25e1c3bc57e",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "66-mrs-bennet-wikied": {
+      "title": "Mrs. Bennet (베넷 부인)",
+      "sourceFile": "[캐릭터시트]/Mrs Bennet_wikied.md",
+      "sourceHash": "sha256:6a02cb4d463e92196306e76b7f61d2502fb76022878806ad0696541932216219",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/66-mrs-bennet-wikied.md",
+          "sourceHash": "6a02cb4d463e92196306e76b7f61d2502fb76022878806ad0696541932216219",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/66-mrs-bennet-wikied.md",
+          "sourceHash": "6a02cb4d463e92196306e76b7f61d2502fb76022878806ad0696541932216219",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/66-mrs-bennet-wikied.md",
+          "sourceHash": "6a02cb4d463e92196306e76b7f61d2502fb76022878806ad0696541932216219",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/66-mrs-bennet-wikied.md",
+          "sourceHash": "6a02cb4d463e92196306e76b7f61d2502fb76022878806ad0696541932216219",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "67-mrs-forster-wikied": {
+      "title": "Mrs. Forster (포스터 부인 / 해리엇)",
+      "sourceFile": "[캐릭터시트]/Mrs Forster_wikied.md",
+      "sourceHash": "sha256:3da5e4cc742de15c8b827c7c5c7bb07a6fa160e52e962f69e2cf2cea956918af",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/67-mrs-forster-wikied.md",
+          "sourceHash": "3da5e4cc742de15c8b827c7c5c7bb07a6fa160e52e962f69e2cf2cea956918af",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/67-mrs-forster-wikied.md",
+          "sourceHash": "3da5e4cc742de15c8b827c7c5c7bb07a6fa160e52e962f69e2cf2cea956918af",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/67-mrs-forster-wikied.md",
+          "sourceHash": "3da5e4cc742de15c8b827c7c5c7bb07a6fa160e52e962f69e2cf2cea956918af",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/67-mrs-forster-wikied.md",
+          "sourceHash": "3da5e4cc742de15c8b827c7c5c7bb07a6fa160e52e962f69e2cf2cea956918af",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "68-mrs-gardiner-wikied": {
+      "title": "Mrs. Gardiner (가디너 부인)",
+      "sourceFile": "[캐릭터시트]/Mrs Gardiner_wikied.md",
+      "sourceHash": "sha256:c7224a96225c0a006ed9f0910f6e7755a5a07626f801205392dc76e3deaacb0f",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/68-mrs-gardiner-wikied.md",
+          "sourceHash": "c7224a96225c0a006ed9f0910f6e7755a5a07626f801205392dc76e3deaacb0f",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/68-mrs-gardiner-wikied.md",
+          "sourceHash": "c7224a96225c0a006ed9f0910f6e7755a5a07626f801205392dc76e3deaacb0f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/68-mrs-gardiner-wikied.md",
+          "sourceHash": "c7224a96225c0a006ed9f0910f6e7755a5a07626f801205392dc76e3deaacb0f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/68-mrs-gardiner-wikied.md",
+          "sourceHash": "c7224a96225c0a006ed9f0910f6e7755a5a07626f801205392dc76e3deaacb0f",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "69-mrs-hurst-wikied": {
+      "title": "Mrs. Hurst (허스트 부인 / 루이자 빙리)",
+      "sourceFile": "[캐릭터시트]/Mrs Hurst_wikied.md",
+      "sourceHash": "sha256:b1e7c3f724bea785ce6d8c162d1d8168abe8af63a0af6fecd4c6c53355b7c307",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/69-mrs-hurst-wikied.md",
+          "sourceHash": "b1e7c3f724bea785ce6d8c162d1d8168abe8af63a0af6fecd4c6c53355b7c307",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/69-mrs-hurst-wikied.md",
+          "sourceHash": "b1e7c3f724bea785ce6d8c162d1d8168abe8af63a0af6fecd4c6c53355b7c307",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/69-mrs-hurst-wikied.md",
+          "sourceHash": "b1e7c3f724bea785ce6d8c162d1d8168abe8af63a0af6fecd4c6c53355b7c307",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/69-mrs-hurst-wikied.md",
+          "sourceHash": "b1e7c3f724bea785ce6d8c162d1d8168abe8af63a0af6fecd4c6c53355b7c307",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "70-mrs-jenkinson-wikied": {
+      "title": "Mrs. Jenkinson (미세스 젠킨슨)",
+      "sourceFile": "[캐릭터시트]/Mrs Jenkinson_wikied.md",
+      "sourceHash": "sha256:ccf1a48131343627a8ce3d4c39fbf368bedbde3f9961b6f1fe82a57a60ae8228",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/70-mrs-jenkinson-wikied.md",
+          "sourceHash": "ccf1a48131343627a8ce3d4c39fbf368bedbde3f9961b6f1fe82a57a60ae8228",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/70-mrs-jenkinson-wikied.md",
+          "sourceHash": "ccf1a48131343627a8ce3d4c39fbf368bedbde3f9961b6f1fe82a57a60ae8228",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/70-mrs-jenkinson-wikied.md",
+          "sourceHash": "ccf1a48131343627a8ce3d4c39fbf368bedbde3f9961b6f1fe82a57a60ae8228",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/70-mrs-jenkinson-wikied.md",
+          "sourceHash": "ccf1a48131343627a8ce3d4c39fbf368bedbde3f9961b6f1fe82a57a60ae8228",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "71-mrs-philips-wikied": {
+      "title": "Mrs. Philips (미세스 필립스)",
+      "sourceFile": "[캐릭터시트]/Mrs Philips_wikied.md",
+      "sourceHash": "sha256:5edcc571c2a3ffa39ab06974da98876701d9e7e88f9c043bca29960f9d843c0a",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/71-mrs-philips-wikied.md",
+          "sourceHash": "5edcc571c2a3ffa39ab06974da98876701d9e7e88f9c043bca29960f9d843c0a",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/71-mrs-philips-wikied.md",
+          "sourceHash": "5edcc571c2a3ffa39ab06974da98876701d9e7e88f9c043bca29960f9d843c0a",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/71-mrs-philips-wikied.md",
+          "sourceHash": "5edcc571c2a3ffa39ab06974da98876701d9e7e88f9c043bca29960f9d843c0a",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/71-mrs-philips-wikied.md",
+          "sourceHash": "5edcc571c2a3ffa39ab06974da98876701d9e7e88f9c043bca29960f9d843c0a",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "72-mrs-reynolds-wikied": {
+      "title": "Mrs. Reynolds (미세스 레이놀즈)",
+      "sourceFile": "[캐릭터시트]/Mrs Reynolds_wikied.md",
+      "sourceHash": "sha256:90555ff52b4891827fd834e19cd88a12003f1225bd7c886444937d2df3068d99",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/72-mrs-reynolds-wikied.md",
+          "sourceHash": "90555ff52b4891827fd834e19cd88a12003f1225bd7c886444937d2df3068d99",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/72-mrs-reynolds-wikied.md",
+          "sourceHash": "90555ff52b4891827fd834e19cd88a12003f1225bd7c886444937d2df3068d99",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/72-mrs-reynolds-wikied.md",
+          "sourceHash": "90555ff52b4891827fd834e19cd88a12003f1225bd7c886444937d2df3068d99",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/72-mrs-reynolds-wikied.md",
+          "sourceHash": "90555ff52b4891827fd834e19cd88a12003f1225bd7c886444937d2df3068d99",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "73-mrs-younge-wikied": {
+      "title": "Mrs. Younge (미세스 영)",
+      "sourceFile": "[캐릭터시트]/Mrs Younge_wikied.md",
+      "sourceHash": "sha256:31eaa6243ab25e494f1fc81091da797bc079f60f49042792c9f593e3a641faec",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/73-mrs-younge-wikied.md",
+          "sourceHash": "31eaa6243ab25e494f1fc81091da797bc079f60f49042792c9f593e3a641faec",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/73-mrs-younge-wikied.md",
+          "sourceHash": "31eaa6243ab25e494f1fc81091da797bc079f60f49042792c9f593e3a641faec",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/73-mrs-younge-wikied.md",
+          "sourceHash": "31eaa6243ab25e494f1fc81091da797bc079f60f49042792c9f593e3a641faec",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/73-mrs-younge-wikied.md",
+          "sourceHash": "31eaa6243ab25e494f1fc81091da797bc079f60f49042792c9f593e3a641faec",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "74-sir-william-lucas-wikied": {
+      "title": "Sir William Lucas (윌리엄 루카스 경)",
+      "sourceFile": "[캐릭터시트]/Sir William Lucas_wikied.md",
+      "sourceHash": "sha256:3b739f96d557f76ca73ff92e0377be473d3d253a9fd07ca447411ac008a92f4b",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/74-sir-william-lucas-wikied.md",
+          "sourceHash": "3b739f96d557f76ca73ff92e0377be473d3d253a9fd07ca447411ac008a92f4b",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/74-sir-william-lucas-wikied.md",
+          "sourceHash": "3b739f96d557f76ca73ff92e0377be473d3d253a9fd07ca447411ac008a92f4b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/74-sir-william-lucas-wikied.md",
+          "sourceHash": "3b739f96d557f76ca73ff92e0377be473d3d253a9fd07ca447411ac008a92f4b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/74-sir-william-lucas-wikied.md",
+          "sourceHash": "3b739f96d557f76ca73ff92e0377be473d3d253a9fd07ca447411ac008a92f4b",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    }
+  }
+}

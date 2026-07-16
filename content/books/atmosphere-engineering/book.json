@@ -32,6 +32,7 @@
       "slug": "01-분위기-공학-1",
       "title": "분위기 공학 1",
       "sourceFile": "분위기_공학_1.md",
+      "sourceHash": "c8f72e9e791ba7d5306ffa7215917c34a20e206c4169bb90957e19c91e4bf41f",
       "file": "chapters/01-분위기-공학-1.md",
       "order": 1
     },
@@ -39,6 +40,7 @@
       "slug": "02-분위기-공학-2",
       "title": "분위기 공학 2",
       "sourceFile": "분위기_공학_2.md",
+      "sourceHash": "bf61b1039a695a14a5952837c5f262239bd609f1743233581f2135e6d8f2d6d5",
       "file": "chapters/02-분위기-공학-2.md",
       "order": 2
     },
@@ -46,6 +48,7 @@
       "slug": "03-분위기-공학-3",
       "title": "분위기 공학 3",
       "sourceFile": "분위기_공학_3.md",
+      "sourceHash": "bf99707c33259f42c5ffa4bb8fef40e5fb516af84e4dbd4e0d9627dcb49f7d11",
       "file": "chapters/03-분위기-공학-3.md",
       "order": 3
     }

@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
-import { bookTitleWithCount, chapterCountLabel, chapterHref, localizeBook } from "../../../../lib/i18n";
-import { getBooks, groupedChapters } from "../../../../lib/books";
+import { bookTitleWithCount, chapterCountLabel, chapterHref, copy, localizeBook } from "../../../../lib/i18n";
+import { getBooks, groupedChapters, localizeChapters } from "../../../../lib/books";
 
 export function getStaticPaths() {
   return getBooks().map((book) => ({ params: { book: book.slug }, props: { book } }));
@@ -9,7 +9,8 @@ export function getStaticPaths() {
 
 const originalBook = Astro.props.book;
 const book = localizeBook(originalBook, "en");
-const chapterGroups = groupedChapters(originalBook);
+const ui = copy.en;
+const chapterGroups = groupedChapters({ chapters: localizeChapters(originalBook, "en") });
 ---
 <BaseLayout locale="en" title={`${bookTitleWithCount(book, "en")} · MEJE BOOKS`} description={book.description}>
   <section class="book-hero">
@@ -18,17 +19,15 @@ const chapterGroups = groupedChapters(originalBook);
         <p class="eyebrow">{book.line} · {book.category}</p>
         <h1>{bookTitleWithCount(book, "en")}</h1>
         <p class="subtitle">{book.subtitle}</p>
-        <p class="edition-note">
-          This English entry presents the book's scope and structure. The Korean manuscript remains the published source text.
-        </p>
+        <p class="edition-note">{ui.originalAvailable}</p>
       </div>
       <aside class="book-panel">
         {book.cover && <img class="book-panel-cover" src={book.cover} alt={`${book.title} cover`} />}
         <dl>
-          <dt>Author</dt><dd>{book.author}</dd>
-          <dt>Chapters</dt><dd>{chapterCountLabel(book, "en")}</dd>
-          <dt>Assets</dt><dd>{book.assetCount ?? 0}</dd>
-          <dt>Line</dt><dd>{book.line}</dd>
+          <dt>{ui.author}</dt><dd>{book.author}</dd>
+          <dt>{ui.chapters}</dt><dd>{chapterCountLabel(book, "en")}</dd>
+          <dt>{ui.assets}</dt><dd>{book.assetCount ?? 0}</dd>
+          <dt>{ui.line}</dt><dd>{book.line}</dd>
         </dl>
       </aside>
     </div>
@@ -37,7 +36,7 @@ const chapterGroups = groupedChapters(originalBook);
   <section class="section">
     <div class="container">
       <div class="section-head">
-        <h2 class="section-title">Contents</h2>
+        <h2 class="section-title">{ui.contents}</h2>
         <p class="section-meta">{chapterCountLabel(book, "en")}</p>
       </div>
       <div class="chapter-sections">
@@ -45,13 +44,13 @@ const chapterGroups = groupedChapters(originalBook);
           <section class="chapter-section" id={section.replace(/\s+/g, "-").toLowerCase()}>
             <div class="chapter-section-head">
               <h3>{section}</h3>
-              <p>{chapters.length} chapters</p>
+              <p>{chapters.length} {ui.chapters}</p>
             </div>
             <div class="chapter-list">
               {chapters.map((chapter) => (
                 <a class={`chapter-row${chapter.externalUrl ? " external" : ""}`} href={chapterHref(originalBook, chapter, "en")}>
                   <span class="num">{String(chapter.order).padStart(2, "0")}</span>
-                  <span class="title"><span class="original-title">{chapter.title}</span><small>Korean original</small></span>
+                  <span class="title">{chapter.title}</span>
                 </a>
               ))}
             </div>

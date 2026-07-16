@@ -127,6 +127,7 @@
       "slug": "03-본문-01-제1장",
       "title": "글로서리에서 클라우드로\n우리가 다루는 자료의 변화",
       "sourceFile": "본문_01_제1장.md",
+      "sourceHash": "c92bed54252f63679d6be8dfa917ff00634c357329379c6990cc2077bfbd59ff",
       "file": "chapters/03-본문-01-제1장.md",
       "order": 1
     },
@@ -134,6 +135,7 @@
       "slug": "04-본문-02-제2장",
       "title": "제작자와 AI 작업 동료\n두 손으로 짓는 위키",
       "sourceFile": "본문_02_제2장.md",
+      "sourceHash": "28f0f3047d0ab02117d5f5422ed5967cd2ab5ed80f2e826c910b6bda910296e9",
       "file": "chapters/04-본문-02-제2장.md",
       "order": 2
     },
@@ -141,6 +143,7 @@
       "slug": "05-본문-03-제3장",
       "title": "입력에서 Vault까지\n4단계의 흐름",
       "sourceFile": "본문_03_제3장.md",
+      "sourceHash": "4fbe3d775bf84c7fd3c5d3da59eb9258d0ccbfb5034d30e759f6fd33b6ee1443",
       "file": "chapters/05-본문-03-제3장.md",
       "order": 3
     },
@@ -148,6 +151,7 @@
       "slug": "06-본문-04-제4장",
       "title": "모든 키워드를 끌어내기\n1차 추출의 자세",
       "sourceFile": "본문_04_제4장.md",
+      "sourceHash": "8cada3be0b2ee963a6f0acbd7a5e2e35f0bf9e0357c3339828c375cd07a57d55",
       "file": "chapters/06-본문-04-제4장.md",
       "order": 4
     },
@@ -155,6 +159,7 @@
       "slug": "07-본문-05-제5장",
       "title": "Wiki 표제어로 묶기\n2차 통합의 결정들",
       "sourceFile": "본문_05_제5장.md",
+      "sourceHash": "eb59cfe0e5900641d29546075ca938f7b7bc713ed3f7e596f7a2d455de25175b",
       "file": "chapters/07-본문-05-제5장.md",
       "order": 5
     },
@@ -162,6 +167,7 @@
       "slug": "08-본문-06-제6장",
       "title": "두 분류 기준\n9분류와 세계관축",
       "sourceFile": "본문_06_제6장.md",
+      "sourceHash": "440d73bb9aea899e32334bcaca62c76ddf2638a3c4b427ec83b8087f537b3c7b",
       "file": "chapters/08-본문-06-제6장.md",
       "order": 6
     },
@@ -169,6 +175,7 @@
       "slug": "09-본문-07-제7장",
       "title": "골격 빌드, CSV가 옵시디안 파일이 되는 과정",
       "sourceFile": "본문_07_제7장.md",
+      "sourceHash": "27c878f897f5be9b0ec06850137272c81bcca518a12cd4a4eb44c4da89dfcda1",
       "file": "chapters/09-본문-07-제7장.md",
       "order": 7
     },
@@ -176,6 +183,7 @@
       "slug": "10-본문-08-제8장",
       "title": "hub와 leaf\n표제어의 비중을 결정하는 일",
       "sourceFile": "본문_08_제8장.md",
+      "sourceHash": "a404ad0261a1fb958bfbbb7a456d34300e80ace1c0c3e7bc91865cdb03604874",
       "file": "chapters/10-본문-08-제8장.md",
       "order": 8
     },
@@ -183,6 +191,7 @@
       "slug": "11-본문-09-제9장",
       "title": "4차 서술 집필\nVault에 생명을 불어넣기",
       "sourceFile": "본문_09_제9장.md",
+      "sourceHash": "ab06ed8c1836f8c9d505aa8442f7b0d50c1035adcabf67658f2c1c27ad95cfbe",
       "file": "chapters/11-본문-09-제9장.md",
       "order": 9
     },
@@ -190,6 +199,7 @@
       "slug": "12-본문-10-제10장",
       "title": "검증\n세 단계로 합격을 담보하는 과정",
       "sourceFile": "본문_10_제10장.md",
+      "sourceHash": "550eb80dafb0e8e31013908cc109c3cfbfdd79c7543679abdfa685c5e54e0e28",
       "file": "chapters/12-본문-10-제10장.md",
       "order": 10
     },
@@ -197,6 +207,7 @@
       "slug": "13-본문-11-제11장",
       "title": "Vault의 평생\n역류와 운영 사이클",
       "sourceFile": "본문_11_제11장.md",
+      "sourceHash": "57a2cdc545721877b386bc6565cea036954588942faf81eff4f84a3ac9e9facb",
       "file": "chapters/13-본문-11-제11장.md",
       "order": 11
     },
@@ -204,6 +215,7 @@
       "slug": "14-본문-12-제12장",
       "title": "Vault의 출구\n다음 작업이 가져가는 것",
       "sourceFile": "본문_12_제12장.md",
+      "sourceHash": "ea36387c9d654d0d3d38e662c361928b34f7e8291a1d65a22cdc5d1c34fc374f",
       "file": "chapters/14-본문-12-제12장.md",
       "order": 12
     },
@@ -211,6 +223,7 @@
       "slug": "15-본문-13-제13장",
       "title": "1,500을 빚으며 알게 된 것\n실전의 풍경",
       "sourceFile": "본문_13_제13장.md",
+      "sourceHash": "009c9204f3622a9d15f78eea70d91dfaa7541a169dc568bf0777fed36318f90e",
       "file": "chapters/15-본문-13-제13장.md",
       "order": 13
     },
@@ -218,6 +231,7 @@
       "slug": "16-본문-14-제14장",
       "title": "빈 Vault 앞에서\n이 글이 전하려 한 것",
       "sourceFile": "본문_14_제14장.md",
+      "sourceHash": "b81b0d02e7a9a183a9d39e4b6d37399855995a3902fba2963193ff348026b5f3",
       "file": "chapters/16-본문-14-제14장.md",
       "order": 14
     },
@@ -225,6 +239,7 @@
       "slug": "18-실무편-b-1차추출-csv-샘플",
       "title": "실무편 B. 1차 추출 CSV 샘플",
       "sourceFile": "실무편_B_1차추출_CSV_샘플.md",
+      "sourceHash": "731e5b56009a0b65acd423331e5e45c07f17be63037d4158566baf0f2d6a4690",
       "file": "chapters/18-실무편-b-1차추출-csv-샘플.md",
       "order": 15
     },
@@ -232,6 +247,7 @@
       "slug": "19-실무편-c-2차통합-csv-샘플",
       "title": "실무편 C. 2차 통합 CSV 샘플",
       "sourceFile": "실무편_C_2차통합_CSV_샘플.md",
+      "sourceHash": "b82ae8931a2832d55e2cb66c30f8c0a401484bba480056275917902550623fc3",
       "file": "chapters/19-실무편-c-2차통합-csv-샘플.md",
       "order": 16
     },
@@ -239,6 +255,7 @@
       "slug": "20-실무편-a-프로젝트프로파일-템플릿",
       "title": "실무편 A. 프로젝트 프로파일 템플릿",
       "sourceFile": "실무편_A_프로젝트프로파일_템플릿.md",
+      "sourceHash": "abb8af37fee8ff63cf320fba53376e7e511f7de243e4ae3a9145b0bb7a564319",
       "file": "chapters/20-실무편-a-프로젝트프로파일-템플릿.md",
       "order": 17
     },
@@ -246,6 +263,7 @@
       "slug": "21-실무편-d-vault-md-기준문서-예시",
       "title": "실무편 D. Vault .md 기준 문서 예시",
       "sourceFile": "실무편_D_Vault_md_기준문서_예시.md",
+      "sourceHash": "41e2c66b8cc721b2aba03d49397cc566e89c71a08317260590800466753e21fa",
       "file": "chapters/21-실무편-d-vault-md-기준문서-예시.md",
       "order": 18
     },
@@ -253,6 +271,7 @@
       "slug": "22-실무편-e-vault-manifest-예시",
       "title": "실무편 E. vaultmanifest.json 예시",
       "sourceFile": "실무편_E_vault_manifest_예시.md",
+      "sourceHash": "cfd9a8db6dcfe5d83f5d208b5740c6242f4b094dd28b5c0ef3296fcbb73de594",
       "file": "chapters/22-실무편-e-vault-manifest-예시.md",
       "order": 19
     },
@@ -260,6 +279,7 @@
       "slug": "23-실무편-f-검증체크리스트",
       "title": "실무편 F. 검증 체크리스트",
       "sourceFile": "실무편_F_검증체크리스트.md",
+      "sourceHash": "6ad13900b33464caddae67a248e2674a8575c1c985c27b312cd175c00b2bc393",
       "file": "chapters/23-실무편-f-검증체크리스트.md",
       "order": 20
     },
@@ -267,6 +287,7 @@
       "slug": "24-실무편-g-적용전후비교-양식",
       "title": "실무편 G. 적용 전후 비교 양식",
       "sourceFile": "실무편_G_적용전후비교_양식.md",
+      "sourceHash": "3d991df21d819020464d101839c2f784ae34d12a9265e4759f294394cfff0ce7",
       "file": "chapters/24-실무편-g-적용전후비교-양식.md",
       "order": 21
     }

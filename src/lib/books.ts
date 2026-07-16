@@ -2,11 +2,13 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import { marked } from "marked";
+import type { Locale } from "./i18n";
 
 export type Chapter = {
   slug: string;
   title: string;
   sourceFile: string;
+  sourceHash?: string;
   file?: string;
   order: number;
   section?: string;
@@ -36,6 +38,40 @@ export type Book = {
 };
 
 const contentRoot = path.resolve(process.cwd(), "content/books");
+
+const localizedChapterSections: Record<Exclude<Locale, "ko">, Record<string, string>> = {
+  en: {
+    "목차": "Contents",
+    "배경 섹션": "Background",
+    "산출물 샘플": "Deliverable Sample",
+    "캐릭터 섹션": "Characters"
+  },
+  ja: {
+    "목차": "目次",
+    "배경 섹션": "背景設定",
+    "산출물 샘플": "成果物サンプル",
+    "캐릭터 섹션": "キャラクター"
+  },
+  "zh-Hant": {
+    "목차": "目錄",
+    "배경 섹션": "背景設定",
+    "산출물 샘플": "成果範例",
+    "캐릭터 섹션": "角色"
+  },
+  "zh-Hans": {
+    "목차": "目录",
+    "배경 섹션": "背景设定",
+    "산출물 샘플": "成果示例",
+    "캐릭터 섹션": "角色"
+  }
+};
+
+const localizedExternalChapterTitles: Record<Exclude<Locale, "ko">, Record<string, string>> = {
+  en: { "15-pride-and-prejudice-sample": "Deliverable Sample: Pride and Prejudice" },
+  ja: { "15-pride-and-prejudice-sample": "成果物サンプル：『高慢と偏見』" },
+  "zh-Hant": { "15-pride-and-prejudice-sample": "成果範例：《傲慢與偏見》" },
+  "zh-Hans": { "15-pride-and-prejudice-sample": "成果示例：《傲慢与偏见》" }
+};
 
 function readJson<T>(filePath: string): T {
   return JSON.parse(fs.readFileSync(filePath, "utf8")) as T;
@@ -76,13 +112,36 @@ export function groupedChapters(book: Pick<Book, "chapters">): Array<[string, Ch
   return [...groups.entries()];
 }
 
+/** Localize chapter labels without changing their stable Korean URL slugs. */
+export function localizeChapters(book: Book, locale: Locale): Chapter[] {
+  if (locale === "ko") return book.chapters;
+  return book.chapters.map((chapter) => {
+    const localizedChapter = {
+      ...chapter,
+      section: chapter.section
+        ? (localizedChapterSections[locale][chapter.section] ?? chapter.section)
+        : localizedChapterSections[locale]["목차"]
+    };
+    const externalTitle = localizedExternalChapterTitles[locale][chapter.slug];
+    if (externalTitle) return { ...localizedChapter, title: externalTitle };
+    if (chapter.externalUrl || !chapter.file) return localizedChapter;
+    const filePath = path.join(contentRoot, book.slug, "translations", locale, `${chapter.slug}.md`);
+    if (!fs.existsSync(filePath)) return localizedChapter;
+    const parsed = matter(fs.readFileSync(filePath, "utf8"));
+    const title = typeof parsed.data.title === "string"
+      ? parsed.data.title
+      : parsed.content.match(/^#\s+(.+)\s*$/m)?.[1]?.trim();
+    return title ? { ...localizedChapter, title } : localizedChapter;
+  });
+}
+
 export function getBook(slug: string): Book | undefined {
   const filePath = path.join(contentRoot, slug, "book.json");
   if (!fs.existsSync(filePath)) return undefined;
   return readJson<Book>(filePath);
 }
 
-export async function getChapter(bookSlug: string, chapterSlug: string, locale: "ko" | "en" = "ko") {
+export async function getChapter(bookSlug: string, chapterSlug: string, locale: Locale = "ko") {
   const book = getBook(bookSlug);
   if (!book) return undefined;
   const chapter = book.chapters.find((item) => item.slug === chapterSlug);
@@ -94,6 +153,7 @@ export async function getChapter(bookSlug: string, chapterSlug: string, locale: 
   const filePath = isTranslation ? translatedFilePath : sourceFilePath;
   const source = fs.readFileSync(filePath, "utf8");
   const parsed = matter(source);
+  const markdownTitle = parsed.content.match(/^#\s+(.+)\s*$/m)?.[1]?.trim();
   const html = await marked.parse(parsed.content, {
     async: true,
     gfm: true,
@@ -106,7 +166,12 @@ export async function getChapter(bookSlug: string, chapterSlug: string, locale: 
     chapter,
     html,
     isTranslation,
-    translationTitle: isTranslation && typeof parsed.data.title === "string" ? parsed.data.title : undefined,
+    // Translated manuscripts generally use their first H1 as the title.  Falling
+    // back to it prevents a localized reader page from retaining a Korean title
+    // simply because a legacy translation lacks a `title` frontmatter field.
+    translationTitle: isTranslation
+      ? (typeof parsed.data.title === "string" ? parsed.data.title : markdownTitle)
+      : undefined,
     prev: index > 0 ? book.chapters[index - 1] : undefined,
     next: index < book.chapters.length - 1 ? book.chapters[index + 1] : undefined
   };

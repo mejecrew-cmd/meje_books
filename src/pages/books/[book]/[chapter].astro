@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import { bookTitleWithCount, chapterHref, getBooks, getChapter, groupedChapters } from "../../../lib/books";
+import { copy } from "../../../lib/i18n";
 
 export async function getStaticPaths() {
   const paths = [];
@@ -22,6 +23,7 @@ if (!data) {
 }
 const { book, chapter, html, prev, next } = data;
 const chapterGroups = groupedChapters(book);
+const ui = copy.ko;
 ---
 <BaseLayout title={`${chapter.title} · ${bookTitleWithCount(book)}`} description={book.description}>
   <div class="reader-wrap">
@@ -49,16 +51,16 @@ const chapterGroups = groupedChapters(book);
         <div class="reader-meta">{book.author} · {chapter.order}편</div>
       </header>
       <div class="prose" set:html={html} />
-      <nav class="reader-nav" aria-label="Chapter navigation">
+      <nav class="reader-nav" aria-label={ui.chapterNavigation}>
         {prev ? (
           <a href={chapterHref(book, prev)}>
-            <span>Previous</span>
+            <span>{ui.previous}</span>
             {prev.title}
           </a>
         ) : <span></span>}
         {next ? (
           <a href={chapterHref(book, next)}>
-            <span>Next</span>
+            <span>{ui.next}</span>
             {next.title}
           </a>
         ) : <span></span>}

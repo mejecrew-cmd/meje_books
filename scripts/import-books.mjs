@@ -3,12 +3,14 @@ import path from "node:path";
 import crypto from "node:crypto";
 import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
+import matter from "gray-matter";
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const defaultSourceRoot = path.resolve(repoRoot, "../..");
 const sourceRoot = process.env.MEJE_SOURCE_ROOT ?? defaultSourceRoot;
 const targetRoot = path.join(repoRoot, "content/books");
 const privateReportRoot = path.join(repoRoot, ".meje-reports");
+const translationLocales = ["en", "ja", "zh-Hant", "zh-Hans"];
 
 const bookDefs = [
   {
@@ -132,7 +134,7 @@ const bookDefs = [
       "MEJE 대표이자 세계관 제작자 김동은WhtDrgon.의 분위기, 감각, 공간, 관계에 관한 원고 라인입니다.",
     sourceDir: "김동은 세계관 통합 지식체계 정리/강연고_김동은_분위기공학 3편 260709",
     assetDirs: ["_강연고 삽화"],
-    include: [/\.md$/]
+    include: [/^분위기_공학_[1-3]\.md$/]
   },
   {
     slug: "new-content-ftue",
@@ -493,6 +495,54 @@ function sha256(filePath) {
   return crypto.createHash("sha256").update(fs.readFileSync(filePath)).digest("hex");
 }
 
+function translationState(targetDir, chapter, locale) {
+  const translationFile = path.join(targetDir, "translations", locale, `${chapter.slug}.md`);
+  if (!fs.existsSync(translationFile)) {
+    return { status: "missing", file: `translations/${locale}/${chapter.slug}.md` };
+  }
+  const parsed = matter(fs.readFileSync(translationFile, "utf8"));
+  const recordedHash = typeof parsed.data.sourceHash === "string"
+    ? parsed.data.sourceHash.replace(/^sha256:/, "")
+    : "";
+  const declaredStatus = typeof parsed.data.translationStatus === "string"
+    ? parsed.data.translationStatus
+    : "translated";
+  return {
+    status: recordedHash === chapter.sourceHash ? declaredStatus : "stale",
+    file: `translations/${locale}/${chapter.slug}.md`,
+    sourceHash: recordedHash || null,
+    updatedAt: typeof parsed.data.updatedAt === "string" ? parsed.data.updatedAt : null
+  };
+}
+
+function writeTranslationManifest(book, targetDir, chapters) {
+  const translatable = chapters.filter((chapter) => !chapter.externalUrl && chapter.sourceHash);
+  const manifest = {
+    schemaVersion: 1,
+    book: book.slug,
+    sourceLocale: "ko",
+    locales: translationLocales,
+    generatedAt: new Date().toISOString(),
+    chapters: Object.fromEntries(translatable.map((chapter) => [
+      chapter.slug,
+      {
+        title: chapter.title,
+        sourceFile: chapter.sourceFile,
+        sourceHash: `sha256:${chapter.sourceHash}`,
+        translations: Object.fromEntries(translationLocales.map((locale) => [
+          locale,
+          translationState(targetDir, chapter, locale)
+        ]))
+      }
+    ]))
+  };
+  fs.writeFileSync(
+    path.join(targetDir, "translation-manifest.json"),
+    `${JSON.stringify(manifest, null, 2)}\n`,
+    "utf8"
+  );
+}
+
 function writePrivateAssetManifest(book, sourceDir, targetDir) {
   if (!book.privateAssetManifest) return;
   const reportDir = path.join(privateReportRoot, book.slug);
@@ -629,6 +679,7 @@ function copyBook(book, bookIndex) {
     throw new Error(`source not found: ${sourceDir}`);
   }
 
+  fs.rmSync(chapterDir, { recursive: true, force: true });
   fs.mkdirSync(chapterDir, { recursive: true });
   const sourceFiles = listFiles(sourceDir, book.recursive)
     .filter((fileName) => fileName.endsWith(".md"))
@@ -658,6 +709,7 @@ function copyBook(book, bookIndex) {
       slug,
       title: extractChapterTitle(sourcePath, fileName),
       sourceFile: fileName,
+      sourceHash: sha256(sourcePath),
       file: `chapters/${outputName}`,
       order: chapterIndex + 1,
       section: chapterSection(book, fileName)
@@ -688,11 +740,11 @@ function copyBook(book, bookIndex) {
   };
 
   writePrivateAssetManifest(book, sourceDir, targetDir);
+  writeTranslationManifest(book, targetDir, chapters);
   fs.writeFileSync(path.join(targetDir, "book.json"), `${JSON.stringify(metadata, null, 2)}\n`, "utf8");
   return metadata;
 }
 
-fs.rmSync(targetRoot, { recursive: true, force: true });
 fs.mkdirSync(targetRoot, { recursive: true });
 
 const imported = bookDefs.map(copyBook);

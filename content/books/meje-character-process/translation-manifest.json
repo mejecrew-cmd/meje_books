@@ -1,0 +1,448 @@
+{
+  "schemaVersion": 1,
+  "book": "meje-character-process",
+  "sourceLocale": "ko",
+  "locales": [
+    "en",
+    "ja",
+    "zh-Hant",
+    "zh-Hans"
+  ],
+  "generatedAt": "2026-07-13T01:31:03.075Z",
+  "chapters": {
+    "02-본문-01-제1장-wikied": {
+      "title": "충분히 호흡하는 존재: 캐릭터를 한 인간으로, 그리고 제작자는 누구인가",
+      "sourceFile": "본문_01_제1장_wikied.md",
+      "sourceHash": "sha256:57483ae40ee1d9e4593e41d326b55eae3a0fec8c00c4c1ff7c3568f4510bb7c5",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/02-본문-01-제1장-wikied.md",
+          "sourceHash": "57483ae40ee1d9e4593e41d326b55eae3a0fec8c00c4c1ff7c3568f4510bb7c5",
+          "updatedAt": "2026-07-13"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/02-본문-01-제1장-wikied.md",
+          "sourceHash": "57483ae40ee1d9e4593e41d326b55eae3a0fec8c00c4c1ff7c3568f4510bb7c5",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/02-본문-01-제1장-wikied.md",
+          "sourceHash": "57483ae40ee1d9e4593e41d326b55eae3a0fec8c00c4c1ff7c3568f4510bb7c5",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/02-본문-01-제1장-wikied.md",
+          "sourceHash": "57483ae40ee1d9e4593e41d326b55eae3a0fec8c00c4c1ff7c3568f4510bb7c5",
+          "updatedAt": "2026-07-13"
+        }
+      }
+    },
+    "03-본문-02-제2장-wikied": {
+      "title": "시드에서 출력까지: 12 단계의 흐름",
+      "sourceFile": "본문_02_제2장_wikied.md",
+      "sourceHash": "sha256:12b1e7e7e180d074b27ca5050536a096910c1066ad5ecdfdb7a639084b623241",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/03-본문-02-제2장-wikied.md",
+          "sourceHash": "12b1e7e7e180d074b27ca5050536a096910c1066ad5ecdfdb7a639084b623241",
+          "updatedAt": "2026-07-13"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/03-본문-02-제2장-wikied.md",
+          "sourceHash": "12b1e7e7e180d074b27ca5050536a096910c1066ad5ecdfdb7a639084b623241",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/03-본문-02-제2장-wikied.md",
+          "sourceHash": "12b1e7e7e180d074b27ca5050536a096910c1066ad5ecdfdb7a639084b623241",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/03-본문-02-제2장-wikied.md",
+          "sourceHash": "12b1e7e7e180d074b27ca5050536a096910c1066ad5ecdfdb7a639084b623241",
+          "updatedAt": "2026-07-13"
+        }
+      }
+    },
+    "04-본문-03-제3장-wikied": {
+      "title": "무엇을 켜고 무엇을 끌까: 4계층과 사전 준비 5 모듈",
+      "sourceFile": "본문_03_제3장_wikied.md",
+      "sourceHash": "sha256:50aed2026055ec3793cbc1c772d7b5c78052d1505d538c73ea0d8361025671a9",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/04-본문-03-제3장-wikied.md",
+          "sourceHash": "50aed2026055ec3793cbc1c772d7b5c78052d1505d538c73ea0d8361025671a9",
+          "updatedAt": "2026-07-12"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/04-본문-03-제3장-wikied.md",
+          "sourceHash": "50aed2026055ec3793cbc1c772d7b5c78052d1505d538c73ea0d8361025671a9",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/04-본문-03-제3장-wikied.md",
+          "sourceHash": "50aed2026055ec3793cbc1c772d7b5c78052d1505d538c73ea0d8361025671a9",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/04-본문-03-제3장-wikied.md",
+          "sourceHash": "50aed2026055ec3793cbc1c772d7b5c78052d1505d538c73ea0d8361025671a9",
+          "updatedAt": "2026-07-12"
+        }
+      }
+    },
+    "05-본문-04-제4장-wikied": {
+      "title": "시드 결정: 30카드와 약식 시드의 갈래",
+      "sourceFile": "본문_04_제4장_wikied.md",
+      "sourceHash": "sha256:7b652f00df3bd9705f04f2ded39deaf228d79eeb5e4302423493191f96566af6",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/05-본문-04-제4장-wikied.md",
+          "sourceHash": "7b652f00df3bd9705f04f2ded39deaf228d79eeb5e4302423493191f96566af6",
+          "updatedAt": "2026-07-12"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/05-본문-04-제4장-wikied.md",
+          "sourceHash": "7b652f00df3bd9705f04f2ded39deaf228d79eeb5e4302423493191f96566af6",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/05-본문-04-제4장-wikied.md",
+          "sourceHash": "7b652f00df3bd9705f04f2ded39deaf228d79eeb5e4302423493191f96566af6",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/05-본문-04-제4장-wikied.md",
+          "sourceHash": "7b652f00df3bd9705f04f2ded39deaf228d79eeb5e4302423493191f96566af6",
+          "updatedAt": "2026-07-12"
+        }
+      }
+    },
+    "06-본문-05-제5장-wikied": {
+      "title": "자기 객관화의 거울: 척도들이 한 사람을 추상화하는 단계",
+      "sourceFile": "본문_05_제5장_wikied.md",
+      "sourceHash": "sha256:8af40dd05203fd60a50d27c65f8b23b28a88b2afa20183ce20259a34cf4e5c2e",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/06-본문-05-제5장-wikied.md",
+          "sourceHash": "8af40dd05203fd60a50d27c65f8b23b28a88b2afa20183ce20259a34cf4e5c2e",
+          "updatedAt": "2026-07-13"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/06-본문-05-제5장-wikied.md",
+          "sourceHash": "8af40dd05203fd60a50d27c65f8b23b28a88b2afa20183ce20259a34cf4e5c2e",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/06-본문-05-제5장-wikied.md",
+          "sourceHash": "8af40dd05203fd60a50d27c65f8b23b28a88b2afa20183ce20259a34cf4e5c2e",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/06-본문-05-제5장-wikied.md",
+          "sourceHash": "8af40dd05203fd60a50d27c65f8b23b28a88b2afa20183ce20259a34cf4e5c2e",
+          "updatedAt": "2026-07-13"
+        }
+      }
+    },
+    "07-본문-06-제6장-wikied": {
+      "title": "일상단면 시나리오: 캐릭터가 자기 자신을 쓰다",
+      "sourceFile": "본문_06_제6장_wikied.md",
+      "sourceHash": "sha256:9c4e834f13a40712ce271896c2076c7b6d20a15c968719c93488c769e1c0ed87",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/07-본문-06-제6장-wikied.md",
+          "sourceHash": "9c4e834f13a40712ce271896c2076c7b6d20a15c968719c93488c769e1c0ed87",
+          "updatedAt": "2026-07-12"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/07-본문-06-제6장-wikied.md",
+          "sourceHash": "9c4e834f13a40712ce271896c2076c7b6d20a15c968719c93488c769e1c0ed87",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/07-본문-06-제6장-wikied.md",
+          "sourceHash": "9c4e834f13a40712ce271896c2076c7b6d20a15c968719c93488c769e1c0ed87",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/07-본문-06-제6장-wikied.md",
+          "sourceHash": "9c4e834f13a40712ce271896c2076c7b6d20a15c968719c93488c769e1c0ed87",
+          "updatedAt": "2026-07-12"
+        }
+      }
+    },
+    "08-본문-07-제7장-wikied": {
+      "title": "비틀기와 드라마: 클리셰의 거꾸로, 그리고 신체 앵커",
+      "sourceFile": "본문_07_제7장_wikied.md",
+      "sourceHash": "sha256:4be3dc02b875a755d287f30d4dcfdb45706b894b1b4463d0e6f3a822245c3b80",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/08-본문-07-제7장-wikied.md",
+          "sourceHash": "4be3dc02b875a755d287f30d4dcfdb45706b894b1b4463d0e6f3a822245c3b80",
+          "updatedAt": "2026-07-13"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/08-본문-07-제7장-wikied.md",
+          "sourceHash": "4be3dc02b875a755d287f30d4dcfdb45706b894b1b4463d0e6f3a822245c3b80",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/08-본문-07-제7장-wikied.md",
+          "sourceHash": "4be3dc02b875a755d287f30d4dcfdb45706b894b1b4463d0e6f3a822245c3b80",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/08-본문-07-제7장-wikied.md",
+          "sourceHash": "4be3dc02b875a755d287f30d4dcfdb45706b894b1b4463d0e6f3a822245c3b80",
+          "updatedAt": "2026-07-13"
+        }
+      }
+    },
+    "09-본문-08-제8장-wikied": {
+      "title": "결점·결핍·트라우마: 도덕적 회색의 영역까지",
+      "sourceFile": "본문_08_제8장_wikied.md",
+      "sourceHash": "sha256:fc5ded3bc77e19de79facfd473f94e5645b5322ba478166ddd449127db051887",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/09-본문-08-제8장-wikied.md",
+          "sourceHash": "fc5ded3bc77e19de79facfd473f94e5645b5322ba478166ddd449127db051887",
+          "updatedAt": "2026-07-13"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/09-본문-08-제8장-wikied.md",
+          "sourceHash": "fc5ded3bc77e19de79facfd473f94e5645b5322ba478166ddd449127db051887",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/09-본문-08-제8장-wikied.md",
+          "sourceHash": "fc5ded3bc77e19de79facfd473f94e5645b5322ba478166ddd449127db051887",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/09-본문-08-제8장-wikied.md",
+          "sourceHash": "fc5ded3bc77e19de79facfd473f94e5645b5322ba478166ddd449127db051887",
+          "updatedAt": "2026-07-13"
+        }
+      }
+    },
+    "10-본문-09-제9장-wikied": {
+      "title": "목표와 갈등: 원하는 것·필요한 것·믿는 거짓",
+      "sourceFile": "본문_09_제9장_wikied.md",
+      "sourceHash": "sha256:e37b665ac94068c203b48dd8ebfa7391539456224e1224dbad092d8bb9527341",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/10-본문-09-제9장-wikied.md",
+          "sourceHash": "e37b665ac94068c203b48dd8ebfa7391539456224e1224dbad092d8bb9527341",
+          "updatedAt": "2026-07-13"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/10-본문-09-제9장-wikied.md",
+          "sourceHash": "e37b665ac94068c203b48dd8ebfa7391539456224e1224dbad092d8bb9527341",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/10-본문-09-제9장-wikied.md",
+          "sourceHash": "e37b665ac94068c203b48dd8ebfa7391539456224e1224dbad092d8bb9527341",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/10-본문-09-제9장-wikied.md",
+          "sourceHash": "e37b665ac94068c203b48dd8ebfa7391539456224e1224dbad092d8bb9527341",
+          "updatedAt": "2026-07-13"
+        }
+      }
+    },
+    "11-본문-10-제10장-wikied": {
+      "title": "관계망과 캐스트: 캐릭터 옆의 다섯 사람",
+      "sourceFile": "본문_10_제10장_wikied.md",
+      "sourceHash": "sha256:39d5105a3971189e950e77735b4b344d5abfc14017a6d6308499457501fe40e2",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/11-본문-10-제10장-wikied.md",
+          "sourceHash": "39d5105a3971189e950e77735b4b344d5abfc14017a6d6308499457501fe40e2",
+          "updatedAt": "2026-07-13"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/11-본문-10-제10장-wikied.md",
+          "sourceHash": "39d5105a3971189e950e77735b4b344d5abfc14017a6d6308499457501fe40e2",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/11-본문-10-제10장-wikied.md",
+          "sourceHash": "39d5105a3971189e950e77735b4b344d5abfc14017a6d6308499457501fe40e2",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/11-본문-10-제10장-wikied.md",
+          "sourceHash": "39d5105a3971189e950e77735b4b344d5abfc14017a6d6308499457501fe40e2",
+          "updatedAt": "2026-07-13"
+        }
+      }
+    },
+    "12-본문-11-제11장-wikied": {
+      "title": "몰입 운용: 프루스트·편지·일기·5막 변천",
+      "sourceFile": "본문_11_제11장_wikied.md",
+      "sourceHash": "sha256:72f6d8f75128c293a4d37e021a5092597951de575383cea89f92fc9cb25aa044",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/12-본문-11-제11장-wikied.md",
+          "sourceHash": "72f6d8f75128c293a4d37e021a5092597951de575383cea89f92fc9cb25aa044",
+          "updatedAt": "2026-07-13"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/12-본문-11-제11장-wikied.md",
+          "sourceHash": "72f6d8f75128c293a4d37e021a5092597951de575383cea89f92fc9cb25aa044",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/12-본문-11-제11장-wikied.md",
+          "sourceHash": "72f6d8f75128c293a4d37e021a5092597951de575383cea89f92fc9cb25aa044",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/12-본문-11-제11장-wikied.md",
+          "sourceHash": "72f6d8f75128c293a4d37e021a5092597951de575383cea89f92fc9cb25aa044",
+          "updatedAt": "2026-07-13"
+        }
+      }
+    },
+    "13-본문-12-제12장-wikied": {
+      "title": "다섯 매체로 출력하기: 옵시디안·TRPG·시나리오·애니·웹소설",
+      "sourceFile": "본문_12_제12장_wikied.md",
+      "sourceHash": "sha256:01b48a0d65db7dbd06660a1a3a34341f8ba4163b2a355e88b521d03dfb0c14dd",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/13-본문-12-제12장-wikied.md",
+          "sourceHash": "01b48a0d65db7dbd06660a1a3a34341f8ba4163b2a355e88b521d03dfb0c14dd",
+          "updatedAt": "2026-07-13"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/13-본문-12-제12장-wikied.md",
+          "sourceHash": "01b48a0d65db7dbd06660a1a3a34341f8ba4163b2a355e88b521d03dfb0c14dd",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/13-본문-12-제12장-wikied.md",
+          "sourceHash": "01b48a0d65db7dbd06660a1a3a34341f8ba4163b2a355e88b521d03dfb0c14dd",
+          "updatedAt": "2026-07-13"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/13-본문-12-제12장-wikied.md",
+          "sourceHash": "01b48a0d65db7dbd06660a1a3a34341f8ba4163b2a355e88b521d03dfb0c14dd",
+          "updatedAt": "2026-07-13"
+        }
+      }
+    },
+    "14-본문-13-제13장-wikied": {
+      "title": "비전형 캐릭터와 작품의 다양성",
+      "sourceFile": "본문_13_제13장_wikied.md",
+      "sourceHash": "sha256:cfc951b18d7b5b28a76222075892f84dd3694d8fe1b6213913dcfb81d98e05d7",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/14-본문-13-제13장-wikied.md",
+          "sourceHash": "cfc951b18d7b5b28a76222075892f84dd3694d8fe1b6213913dcfb81d98e05d7",
+          "updatedAt": "2026-07-12"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/14-본문-13-제13장-wikied.md",
+          "sourceHash": "cfc951b18d7b5b28a76222075892f84dd3694d8fe1b6213913dcfb81d98e05d7",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/14-본문-13-제13장-wikied.md",
+          "sourceHash": "cfc951b18d7b5b28a76222075892f84dd3694d8fe1b6213913dcfb81d98e05d7",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/14-본문-13-제13장-wikied.md",
+          "sourceHash": "cfc951b18d7b5b28a76222075892f84dd3694d8fe1b6213913dcfb81d98e05d7",
+          "updatedAt": "2026-07-12"
+        }
+      }
+    },
+    "15-본문-14-제14장-wikied": {
+      "title": "다섯 가지 진단, 그리고 마지막 인사",
+      "sourceFile": "본문_14_제14장_wikied.md",
+      "sourceHash": "sha256:a0b2b2159a7c1d6b3372aeb9a21dda3ab9bcb05e35d0023bdc3a6c92d88c1c22",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/15-본문-14-제14장-wikied.md",
+          "sourceHash": "a0b2b2159a7c1d6b3372aeb9a21dda3ab9bcb05e35d0023bdc3a6c92d88c1c22",
+          "updatedAt": "2026-07-12"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/15-본문-14-제14장-wikied.md",
+          "sourceHash": "a0b2b2159a7c1d6b3372aeb9a21dda3ab9bcb05e35d0023bdc3a6c92d88c1c22",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/15-본문-14-제14장-wikied.md",
+          "sourceHash": "a0b2b2159a7c1d6b3372aeb9a21dda3ab9bcb05e35d0023bdc3a6c92d88c1c22",
+          "updatedAt": "2026-07-12"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/15-본문-14-제14장-wikied.md",
+          "sourceHash": "a0b2b2159a7c1d6b3372aeb9a21dda3ab9bcb05e35d0023bdc3a6c92d88c1c22",
+          "updatedAt": "2026-07-12"
+        }
+      }
+    }
+  }
+}

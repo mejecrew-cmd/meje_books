@@ -1,0 +1,12 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { bookHref, bookTitleWithCount, chapterCountLabel, copy, localizeBooks, routedLocales, type RoutedLocale } from "../../../lib/i18n";
+import { getBooks } from "../../../lib/books";
+export function getStaticPaths() { return routedLocales.map((locale) => ({ params: { locale: locale.toLowerCase() }, props: { locale } })); }
+const locale = Astro.props.locale as RoutedLocale;
+const books = localizeBooks(getBooks(), locale); const ui = copy[locale];
+---
+<BaseLayout locale={locale} title={`${ui.books} · MEJE BOOKS`} description="MEJE BOOKS">
+  <section class="hero"><div class="container"><p class="eyebrow">{ui.catalog}</p><h1>MEJE BOOKS</h1><p>{ui.allBooks}</p></div></section>
+  <section class="section"><div class="container"><div class="book-grid">{books.map((book) => <a class="book-card" href={bookHref(book, locale)}>{book.cover && <img class="book-thumb" src={book.cover} alt={book.title} loading="lazy" />}<span class="line">{book.line} · {book.category}</span><h2>{bookTitleWithCount(book, locale)}</h2><p>{book.description}</p><span class="card-foot"><span>{book.author}</span><span>{chapterCountLabel(book, locale)}</span></span></a>)}</div></div></section>
+</BaseLayout>

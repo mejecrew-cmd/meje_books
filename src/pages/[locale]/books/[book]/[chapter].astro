@@ -1,0 +1,14 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import { bookHref, bookTitleWithCount, chapterHref, copy, localizeBook, routedLocales, type RoutedLocale } from "../../../../lib/i18n";
+import { getBooks, getChapter, groupedChapters, localizeChapters } from "../../../../lib/books";
+export function getStaticPaths() { return routedLocales.flatMap((locale) => getBooks().flatMap((book) => book.chapters.filter((chapter) => !chapter.externalUrl).map((chapter) => ({ params: { locale: locale.toLowerCase(), book: book.slug, chapter: chapter.slug }, props: { locale, bookSlug: book.slug, chapterSlug: chapter.slug } })))); }
+const locale = Astro.props.locale as RoutedLocale; const data = await getChapter(Astro.props.bookSlug, Astro.props.chapterSlug, locale); if (!data) throw new Error("Chapter not found");
+const { book: originalBook, chapter, html, isTranslation, translationTitle, prev, next } = data; const book = localizeBook(originalBook, locale); const ui = copy[locale]; const localizedChapters = localizeChapters(originalBook, locale); const groups = groupedChapters({ chapters: localizedChapters }); const title = translationTitle ?? chapter.title; const localizedTitle = (item: typeof chapter | undefined) => item ? (localizedChapters.find((candidate) => candidate.slug === item.slug)?.title ?? item.title) : "";
+---
+<BaseLayout locale={locale} title={`${title} · ${bookTitleWithCount(book, locale)}`} description={book.description}>
+  <div class="reader-wrap"><aside class="reader-aside" aria-label={ui.contents}><a href={bookHref(originalBook, locale)}>← {bookTitleWithCount(book, locale)}</a>{groups.map(([section, chapters]) => <div class="reader-section"><p>{section}</p>{chapters.map((item) => <a class={item.slug === chapter.slug ? "active" : ""} href={chapterHref(originalBook, item, locale)}>{String(item.order).padStart(2,"0")}. {item.title}</a>)}</div>)}</aside>
+  <article class="reader"><header class="reader-head"><p class="crumb">{book.line} · {bookTitleWithCount(book, locale)}</p><h1>{title}</h1><div class="reader-meta">{book.author} · {ui.chapter} {chapter.order}</div></header>
+  {isTranslation ? <div class="prose" set:html={html} /> : <section class="translation-notice"><p class="eyebrow">{ui.originalTitle}</p><h2>{ui.translationPendingTitle}</h2><p>{ui.translationPendingBody}</p><a class="original-link" href={`/books/${originalBook.slug}/${chapter.slug}/`}>{ui.readOriginal}</a></section>}
+  <nav class="reader-nav" aria-label={ui.chapterNavigation}>{prev ? <a href={chapterHref(originalBook, prev, locale)}><span>{ui.previous}</span>{localizedTitle(prev)}</a> : <span></span>}{next ? <a href={chapterHref(originalBook, next, locale)}><span>{ui.next}</span>{localizedTitle(next)}</a> : <span></span>}</nav></article></div>
+</BaseLayout>

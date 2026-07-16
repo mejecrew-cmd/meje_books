@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "../../../../layouts/BaseLayout.astro";
-import { bookHref, bookTitleWithCount, chapterHref, localizeBook } from "../../../../lib/i18n";
-import { getBooks, getChapter, groupedChapters } from "../../../../lib/books";
+import { bookHref, bookTitleWithCount, chapterHref, copy, localizeBook } from "../../../../lib/i18n";
+import { getBooks, getChapter, groupedChapters, localizeChapters } from "../../../../lib/books";
 
 export async function getStaticPaths() {
   const paths = [];
@@ -18,8 +18,13 @@ const data = await getChapter(Astro.props.bookSlug, Astro.props.chapterSlug, "en
 if (!data) throw new Error("Chapter not found");
 const { book: originalBook, chapter, html, isTranslation, translationTitle, prev, next } = data;
 const book = localizeBook(originalBook, "en");
-const chapterGroups = groupedChapters(originalBook);
-const chapterTitle = translationTitle ?? chapter.title;
+const ui = copy.en;
+const localizedChapters = localizeChapters(originalBook, "en");
+const chapterGroups = groupedChapters({ chapters: localizedChapters });
+const localizedTitle = (item: typeof chapter | undefined) => item
+  ? (localizedChapters.find((candidate) => candidate.slug === item.slug)?.title ?? item.title)
+  : "";
+const chapterTitle = translationTitle ?? localizedTitle(chapter);
 ---
 <BaseLayout locale="en" title={`${chapterTitle} · ${bookTitleWithCount(book, "en")}`} description={book.description}>
   <div class="reader-wrap">
@@ -50,12 +55,12 @@ const chapterTitle = translationTitle ?? chapter.title;
           <p class="eyebrow">KOREAN ORIGINAL</p>
           <h2>This chapter is currently published in Korean.</h2>
           <p>Open the Korean source manuscript to read the complete chapter.</p>
-          <a class="original-link" href={`/books/${originalBook.slug}/${chapter.slug}/`}>Read the Korean original</a>
+          <a class="original-link" href={`/books/${originalBook.slug}/${chapter.slug}/`}>{ui.readOriginal}</a>
         </section>
       )}
-      <nav class="reader-nav" aria-label="Chapter navigation">
-        {prev ? <a href={chapterHref(originalBook, prev, "en")}><span>Previous</span>{prev.title}</a> : <span></span>}
-        {next ? <a href={chapterHref(originalBook, next, "en")}><span>Next</span>{next.title}</a> : <span></span>}
+      <nav class="reader-nav" aria-label={ui.chapterNavigation}>
+        {prev ? <a href={chapterHref(originalBook, prev, "en")}><span>{ui.previous}</span>{localizedTitle(prev)}</a> : <span></span>}
+        {next ? <a href={chapterHref(originalBook, next, "en")}><span>{ui.next}</span>{localizedTitle(next)}</a> : <span></span>}
       </nav>
     </article>
   </div>

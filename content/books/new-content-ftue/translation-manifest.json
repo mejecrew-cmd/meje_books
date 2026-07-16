@@ -1,0 +1,944 @@
+{
+  "schemaVersion": 1,
+  "book": "new-content-ftue",
+  "sourceLocale": "ko",
+  "locales": [
+    "en",
+    "ja",
+    "zh-Hant",
+    "zh-Hans"
+  ],
+  "generatedAt": "2026-07-13T01:31:06.684Z",
+  "chapters": {
+    "01-01-게임은-안멋져": {
+      "title": "1장. 게임은 안 멋져",
+      "sourceFile": "01_게임은_안멋져.md",
+      "sourceHash": "sha256:68af1ca200558799c89ebc891b7d1643037677cedbcd2c55b5e481dcff942650",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/01-01-게임은-안멋져.md",
+          "sourceHash": "68af1ca200558799c89ebc891b7d1643037677cedbcd2c55b5e481dcff942650",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/01-01-게임은-안멋져.md",
+          "sourceHash": "68af1ca200558799c89ebc891b7d1643037677cedbcd2c55b5e481dcff942650",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/01-01-게임은-안멋져.md",
+          "sourceHash": "68af1ca200558799c89ebc891b7d1643037677cedbcd2c55b5e481dcff942650",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/01-01-게임은-안멋져.md",
+          "sourceHash": "68af1ca200558799c89ebc891b7d1643037677cedbcd2c55b5e481dcff942650",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "02-02-ftue는튜토리얼이아니다": {
+      "title": "2장. FTUE는 튜토리얼이 아니다",
+      "sourceFile": "02_FTUE는튜토리얼이아니다.md",
+      "sourceHash": "sha256:d06b29bcd682119535a8733d4692aa45ea3b82b6d0220dca5f53babe026b6b78",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/02-02-ftue는튜토리얼이아니다.md",
+          "sourceHash": "d06b29bcd682119535a8733d4692aa45ea3b82b6d0220dca5f53babe026b6b78",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/02-02-ftue는튜토리얼이아니다.md",
+          "sourceHash": "d06b29bcd682119535a8733d4692aa45ea3b82b6d0220dca5f53babe026b6b78",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/02-02-ftue는튜토리얼이아니다.md",
+          "sourceHash": "d06b29bcd682119535a8733d4692aa45ea3b82b6d0220dca5f53babe026b6b78",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/02-02-ftue는튜토리얼이아니다.md",
+          "sourceHash": "d06b29bcd682119535a8733d4692aa45ea3b82b6d0220dca5f53babe026b6b78",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "03-03-최초란무엇인가": {
+      "title": "3장. 최초란 무엇인가",
+      "sourceFile": "03_최초란무엇인가.md",
+      "sourceHash": "sha256:69ef38d473250b992cba0bb180b975a3b472e35a5e24198cf96e29b33279e077",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/03-03-최초란무엇인가.md",
+          "sourceHash": "69ef38d473250b992cba0bb180b975a3b472e35a5e24198cf96e29b33279e077",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/03-03-최초란무엇인가.md",
+          "sourceHash": "69ef38d473250b992cba0bb180b975a3b472e35a5e24198cf96e29b33279e077",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/03-03-최초란무엇인가.md",
+          "sourceHash": "69ef38d473250b992cba0bb180b975a3b472e35a5e24198cf96e29b33279e077",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/03-03-최초란무엇인가.md",
+          "sourceHash": "69ef38d473250b992cba0bb180b975a3b472e35a5e24198cf96e29b33279e077",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "04-04-경험이란무엇인가": {
+      "title": "4장. 경험이란 무엇인가",
+      "sourceFile": "04_경험이란무엇인가.md",
+      "sourceHash": "sha256:4874b77ff41e8903f5da1f551075b6c368c508fb9352cc85e51e5d1ee8daed90",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/04-04-경험이란무엇인가.md",
+          "sourceHash": "4874b77ff41e8903f5da1f551075b6c368c508fb9352cc85e51e5d1ee8daed90",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/04-04-경험이란무엇인가.md",
+          "sourceHash": "4874b77ff41e8903f5da1f551075b6c368c508fb9352cc85e51e5d1ee8daed90",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/04-04-경험이란무엇인가.md",
+          "sourceHash": "4874b77ff41e8903f5da1f551075b6c368c508fb9352cc85e51e5d1ee8daed90",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/04-04-경험이란무엇인가.md",
+          "sourceHash": "4874b77ff41e8903f5da1f551075b6c368c508fb9352cc85e51e5d1ee8daed90",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "05-05-경험은경험을기반한다": {
+      "title": "5장. 경험은 경험에 기반한다: 선행 유사경험",
+      "sourceFile": "05_경험은경험을기반한다.md",
+      "sourceHash": "sha256:e7cc07c378c21df0791726eb3612ea6d7e6b484f89e42fd1fa5ca16b895e3cd0",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/05-05-경험은경험을기반한다.md",
+          "sourceHash": "e7cc07c378c21df0791726eb3612ea6d7e6b484f89e42fd1fa5ca16b895e3cd0",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/05-05-경험은경험을기반한다.md",
+          "sourceHash": "e7cc07c378c21df0791726eb3612ea6d7e6b484f89e42fd1fa5ca16b895e3cd0",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/05-05-경험은경험을기반한다.md",
+          "sourceHash": "e7cc07c378c21df0791726eb3612ea6d7e6b484f89e42fd1fa5ca16b895e3cd0",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/05-05-경험은경험을기반한다.md",
+          "sourceHash": "e7cc07c378c21df0791726eb3612ea6d7e6b484f89e42fd1fa5ca16b895e3cd0",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "06-06-사용자는한사람이아니다": {
+      "title": "6장. 사용자는 한 사람이 아니다: 정체성 8계층",
+      "sourceFile": "06_사용자는한사람이아니다.md",
+      "sourceHash": "sha256:f8bec1c06e42dc444e2ac0d6b9d350da80575873ef6fee3a85104c49fe5406d0",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/06-06-사용자는한사람이아니다.md",
+          "sourceHash": "f8bec1c06e42dc444e2ac0d6b9d350da80575873ef6fee3a85104c49fe5406d0",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/06-06-사용자는한사람이아니다.md",
+          "sourceHash": "f8bec1c06e42dc444e2ac0d6b9d350da80575873ef6fee3a85104c49fe5406d0",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/06-06-사용자는한사람이아니다.md",
+          "sourceHash": "f8bec1c06e42dc444e2ac0d6b9d350da80575873ef6fee3a85104c49fe5406d0",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/06-06-사용자는한사람이아니다.md",
+          "sourceHash": "f8bec1c06e42dc444e2ac0d6b9d350da80575873ef6fee3a85104c49fe5406d0",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "07-07-극단적초보자와가짜초보자": {
+      "title": "7장. 극단적 초보자와 가짜 초보자: 체험자 8종",
+      "sourceFile": "07_극단적초보자와가짜초보자.md",
+      "sourceHash": "sha256:5c20072de356eb81af417a01d5765e15352b722c9e304f22480f6f9021c689eb",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/07-07-극단적초보자와가짜초보자.md",
+          "sourceHash": "5c20072de356eb81af417a01d5765e15352b722c9e304f22480f6f9021c689eb",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/07-07-극단적초보자와가짜초보자.md",
+          "sourceHash": "5c20072de356eb81af417a01d5765e15352b722c9e304f22480f6f9021c689eb",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/07-07-극단적초보자와가짜초보자.md",
+          "sourceHash": "5c20072de356eb81af417a01d5765e15352b722c9e304f22480f6f9021c689eb",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/07-07-극단적초보자와가짜초보자.md",
+          "sourceHash": "5c20072de356eb81af417a01d5765e15352b722c9e304f22480f6f9021c689eb",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "08-08-고객안의고객들": {
+      "title": "8장. 고객 안의 고객들: 페르소나에서 이민 후보자로",
+      "sourceFile": "08_고객안의고객들.md",
+      "sourceHash": "sha256:cb7d9f5d9b1b24d470fad643427fe4998470f020206dbd23d3defbf326bddb59",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/08-08-고객안의고객들.md",
+          "sourceHash": "cb7d9f5d9b1b24d470fad643427fe4998470f020206dbd23d3defbf326bddb59",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/08-08-고객안의고객들.md",
+          "sourceHash": "cb7d9f5d9b1b24d470fad643427fe4998470f020206dbd23d3defbf326bddb59",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/08-08-고객안의고객들.md",
+          "sourceHash": "cb7d9f5d9b1b24d470fad643427fe4998470f020206dbd23d3defbf326bddb59",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/08-08-고객안의고객들.md",
+          "sourceHash": "cb7d9f5d9b1b24d470fad643427fe4998470f020206dbd23d3defbf326bddb59",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "09-09-주력세계관과인접세계관": {
+      "title": "9장. 주력 세계관과 인접 세계관: 세계는 주민을 입주시킬 수 있어야 한다",
+      "sourceFile": "09_주력세계관과인접세계관.md",
+      "sourceHash": "sha256:d943af70c4c2e2375318c27ad6c166294e1920b609d1347be28658361cef47bb",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/09-09-주력세계관과인접세계관.md",
+          "sourceHash": "d943af70c4c2e2375318c27ad6c166294e1920b609d1347be28658361cef47bb",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/09-09-주력세계관과인접세계관.md",
+          "sourceHash": "d943af70c4c2e2375318c27ad6c166294e1920b609d1347be28658361cef47bb",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/09-09-주력세계관과인접세계관.md",
+          "sourceHash": "d943af70c4c2e2375318c27ad6c166294e1920b609d1347be28658361cef47bb",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/09-09-주력세계관과인접세계관.md",
+          "sourceHash": "d943af70c4c2e2375318c27ad6c166294e1920b609d1347be28658361cef47bb",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "10-10-캐릭터명단과감각명단": {
+      "title": "10장. 캐릭터 명단과 감각 명단",
+      "sourceFile": "10_캐릭터명단과감각명단.md",
+      "sourceHash": "sha256:6a0948171b0bed45ce45dde144c71332bb27cd522772bfbee07beff9dd75dd2b",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/10-10-캐릭터명단과감각명단.md",
+          "sourceHash": "6a0948171b0bed45ce45dde144c71332bb27cd522772bfbee07beff9dd75dd2b",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/10-10-캐릭터명단과감각명단.md",
+          "sourceHash": "6a0948171b0bed45ce45dde144c71332bb27cd522772bfbee07beff9dd75dd2b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/10-10-캐릭터명단과감각명단.md",
+          "sourceHash": "6a0948171b0bed45ce45dde144c71332bb27cd522772bfbee07beff9dd75dd2b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/10-10-캐릭터명단과감각명단.md",
+          "sourceHash": "6a0948171b0bed45ce45dde144c71332bb27cd522772bfbee07beff9dd75dd2b",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "11-11-사용자의상태-경험의요금": {
+      "title": "11장. 사용자의 상태: 산만함과 경험의 요금",
+      "sourceFile": "11_사용자의상태_경험의요금.md",
+      "sourceHash": "sha256:8d7b88cd838744cfa36fd9e44e017d5d59eab985651ee4167d6b08056acabbd7",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/11-11-사용자의상태-경험의요금.md",
+          "sourceHash": "8d7b88cd838744cfa36fd9e44e017d5d59eab985651ee4167d6b08056acabbd7",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/11-11-사용자의상태-경험의요금.md",
+          "sourceHash": "8d7b88cd838744cfa36fd9e44e017d5d59eab985651ee4167d6b08056acabbd7",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/11-11-사용자의상태-경험의요금.md",
+          "sourceHash": "8d7b88cd838744cfa36fd9e44e017d5d59eab985651ee4167d6b08056acabbd7",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/11-11-사용자의상태-경험의요금.md",
+          "sourceHash": "8d7b88cd838744cfa36fd9e44e017d5d59eab985651ee4167d6b08056acabbd7",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "12-12-콘텐츠별경험의유형": {
+      "title": "12장. 콘텐츠별 경험의 유형",
+      "sourceFile": "12_콘텐츠별경험의유형.md",
+      "sourceHash": "sha256:2a392caa20fab9d61e4f924f7e811455bfff3a621594fe1d6bba674b8e10dfb8",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/12-12-콘텐츠별경험의유형.md",
+          "sourceHash": "2a392caa20fab9d61e4f924f7e811455bfff3a621594fe1d6bba674b8e10dfb8",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/12-12-콘텐츠별경험의유형.md",
+          "sourceHash": "2a392caa20fab9d61e4f924f7e811455bfff3a621594fe1d6bba674b8e10dfb8",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/12-12-콘텐츠별경험의유형.md",
+          "sourceHash": "2a392caa20fab9d61e4f924f7e811455bfff3a621594fe1d6bba674b8e10dfb8",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/12-12-콘텐츠별경험의유형.md",
+          "sourceHash": "2a392caa20fab9d61e4f924f7e811455bfff3a621594fe1d6bba674b8e10dfb8",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "13-13-버튼이상징하는것": {
+      "title": "13장. 버튼이 상징하는 것: 경험모사 해부",
+      "sourceFile": "13_버튼이상징하는것.md",
+      "sourceHash": "sha256:efc49b5356fa751288fb2842f038078b3e2e5d050ad50d47bf52622e821cb479",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/13-13-버튼이상징하는것.md",
+          "sourceHash": "efc49b5356fa751288fb2842f038078b3e2e5d050ad50d47bf52622e821cb479",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/13-13-버튼이상징하는것.md",
+          "sourceHash": "efc49b5356fa751288fb2842f038078b3e2e5d050ad50d47bf52622e821cb479",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/13-13-버튼이상징하는것.md",
+          "sourceHash": "efc49b5356fa751288fb2842f038078b3e2e5d050ad50d47bf52622e821cb479",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/13-13-버튼이상징하는것.md",
+          "sourceHash": "efc49b5356fa751288fb2842f038078b3e2e5d050ad50d47bf52622e821cb479",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "14-14-놀라움과익숙함의조화": {
+      "title": "14장. 놀라움과 익숙함의 조화: 4원칙과 플로우",
+      "sourceFile": "14_놀라움과익숙함의조화.md",
+      "sourceHash": "sha256:732f06e3f8d661ffd6f0f7562b0e999e3f99eee67818fe956f7f5a910112945c",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/14-14-놀라움과익숙함의조화.md",
+          "sourceHash": "732f06e3f8d661ffd6f0f7562b0e999e3f99eee67818fe956f7f5a910112945c",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/14-14-놀라움과익숙함의조화.md",
+          "sourceHash": "732f06e3f8d661ffd6f0f7562b0e999e3f99eee67818fe956f7f5a910112945c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/14-14-놀라움과익숙함의조화.md",
+          "sourceHash": "732f06e3f8d661ffd6f0f7562b0e999e3f99eee67818fe956f7f5a910112945c",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/14-14-놀라움과익숙함의조화.md",
+          "sourceHash": "732f06e3f8d661ffd6f0f7562b0e999e3f99eee67818fe956f7f5a910112945c",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "15-15-피드백": {
+      "title": "15장. 피드백: 버튼 뒤에 세계가 반응한다",
+      "sourceFile": "15_피드백.md",
+      "sourceHash": "sha256:d9c032b8ec117088508745218beac26fdae89adaab0a3133315bb0a166cf015e",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/15-15-피드백.md",
+          "sourceHash": "d9c032b8ec117088508745218beac26fdae89adaab0a3133315bb0a166cf015e",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/15-15-피드백.md",
+          "sourceHash": "d9c032b8ec117088508745218beac26fdae89adaab0a3133315bb0a166cf015e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/15-15-피드백.md",
+          "sourceHash": "d9c032b8ec117088508745218beac26fdae89adaab0a3133315bb0a166cf015e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/15-15-피드백.md",
+          "sourceHash": "d9c032b8ec117088508745218beac26fdae89adaab0a3133315bb0a166cf015e",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "16-16-비집중상태의설계": {
+      "title": "16장. 비집중 상태의 설계: 소음·오염 속의 버튼과 LED",
+      "sourceFile": "16_비집중상태의설계.md",
+      "sourceHash": "sha256:db9dd86f26e651a777f44585b2a84652899be218383b004e1eee296c775b6d2e",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/16-16-비집중상태의설계.md",
+          "sourceHash": "db9dd86f26e651a777f44585b2a84652899be218383b004e1eee296c775b6d2e",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/16-16-비집중상태의설계.md",
+          "sourceHash": "db9dd86f26e651a777f44585b2a84652899be218383b004e1eee296c775b6d2e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/16-16-비집중상태의설계.md",
+          "sourceHash": "db9dd86f26e651a777f44585b2a84652899be218383b004e1eee296c775b6d2e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/16-16-비집중상태의설계.md",
+          "sourceHash": "db9dd86f26e651a777f44585b2a84652899be218383b004e1eee296c775b6d2e",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "17-17-오류와복구": {
+      "title": "17장. 오류와 복구: 통제감을 빼앗지 않는 법",
+      "sourceFile": "17_오류와복구.md",
+      "sourceHash": "sha256:0280906d667151af68479cad4946eb1a5ec112c1ffb9d225d14ef2d73358b1c8",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/17-17-오류와복구.md",
+          "sourceHash": "0280906d667151af68479cad4946eb1a5ec112c1ffb9d225d14ef2d73358b1c8",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/17-17-오류와복구.md",
+          "sourceHash": "0280906d667151af68479cad4946eb1a5ec112c1ffb9d225d14ef2d73358b1c8",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/17-17-오류와복구.md",
+          "sourceHash": "0280906d667151af68479cad4946eb1a5ec112c1ffb9d225d14ef2d73358b1c8",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/17-17-오류와복구.md",
+          "sourceHash": "0280906d667151af68479cad4946eb1a5ec112c1ffb9d225d14ef2d73358b1c8",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "18-18-경험의예고와100개의첫인상": {
+      "title": "18장. 경험의 예고와 100개의 첫인상",
+      "sourceFile": "18_경험의예고와100개의첫인상.md",
+      "sourceHash": "sha256:d201978726a19ed75ee244067c83c28e170bbe2ad141ec7ac80a3f660f028b8f",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/18-18-경험의예고와100개의첫인상.md",
+          "sourceHash": "d201978726a19ed75ee244067c83c28e170bbe2ad141ec7ac80a3f660f028b8f",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/18-18-경험의예고와100개의첫인상.md",
+          "sourceHash": "d201978726a19ed75ee244067c83c28e170bbe2ad141ec7ac80a3f660f028b8f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/18-18-경험의예고와100개의첫인상.md",
+          "sourceHash": "d201978726a19ed75ee244067c83c28e170bbe2ad141ec7ac80a3f660f028b8f",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/18-18-경험의예고와100개의첫인상.md",
+          "sourceHash": "d201978726a19ed75ee244067c83c28e170bbe2ad141ec7ac80a3f660f028b8f",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "19-19-경험의충돌과레이어": {
+      "title": "19장. 경험의 충돌과 레이어",
+      "sourceFile": "19_경험의충돌과레이어.md",
+      "sourceHash": "sha256:eb68bb09f381468901b5af17f77c1610ffa28560d29befaf63a3f527f4696743",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/19-19-경험의충돌과레이어.md",
+          "sourceHash": "eb68bb09f381468901b5af17f77c1610ffa28560d29befaf63a3f527f4696743",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/19-19-경험의충돌과레이어.md",
+          "sourceHash": "eb68bb09f381468901b5af17f77c1610ffa28560d29befaf63a3f527f4696743",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/19-19-경험의충돌과레이어.md",
+          "sourceHash": "eb68bb09f381468901b5af17f77c1610ffa28560d29befaf63a3f527f4696743",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/19-19-경험의충돌과레이어.md",
+          "sourceHash": "eb68bb09f381468901b5af17f77c1610ffa28560d29befaf63a3f527f4696743",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "20-20-ftue의시작점과종료점": {
+      "title": "20장. FTUE의 시작점과 종료점",
+      "sourceFile": "20_FTUE의시작점과종료점.md",
+      "sourceHash": "sha256:f47d3e062cc77b349b0da93d2535003d3f1b4705b5adc88c82e4107d90c37806",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/20-20-ftue의시작점과종료점.md",
+          "sourceHash": "f47d3e062cc77b349b0da93d2535003d3f1b4705b5adc88c82e4107d90c37806",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/20-20-ftue의시작점과종료점.md",
+          "sourceHash": "f47d3e062cc77b349b0da93d2535003d3f1b4705b5adc88c82e4107d90c37806",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/20-20-ftue의시작점과종료점.md",
+          "sourceHash": "f47d3e062cc77b349b0da93d2535003d3f1b4705b5adc88c82e4107d90c37806",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/20-20-ftue의시작점과종료점.md",
+          "sourceHash": "f47d3e062cc77b349b0da93d2535003d3f1b4705b5adc88c82e4107d90c37806",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "21-21-첫30초3분30분하루": {
+      "title": "21장. 첫 30초·3분·30분·하루",
+      "sourceFile": "21_첫30초3분30분하루.md",
+      "sourceHash": "sha256:0186fd57c6f1996f63f143b49a492bf644b0c77472c05d87e2be7197497f82cc",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/21-21-첫30초3분30분하루.md",
+          "sourceHash": "0186fd57c6f1996f63f143b49a492bf644b0c77472c05d87e2be7197497f82cc",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/21-21-첫30초3분30분하루.md",
+          "sourceHash": "0186fd57c6f1996f63f143b49a492bf644b0c77472c05d87e2be7197497f82cc",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/21-21-첫30초3분30분하루.md",
+          "sourceHash": "0186fd57c6f1996f63f143b49a492bf644b0c77472c05d87e2be7197497f82cc",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/21-21-첫30초3분30분하루.md",
+          "sourceHash": "0186fd57c6f1996f63f143b49a492bf644b0c77472c05d87e2be7197497f82cc",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "22-22-결과적계기판의정의": {
+      "title": "22장. 결과적 계기판의 정의",
+      "sourceFile": "22_결과적계기판의정의.md",
+      "sourceHash": "sha256:11710aa1439d85b8721989788e72d9152a9718aebe3c18edc73aeb6fe3ec3516",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/22-22-결과적계기판의정의.md",
+          "sourceHash": "11710aa1439d85b8721989788e72d9152a9718aebe3c18edc73aeb6fe3ec3516",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/22-22-결과적계기판의정의.md",
+          "sourceHash": "11710aa1439d85b8721989788e72d9152a9718aebe3c18edc73aeb6fe3ec3516",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/22-22-결과적계기판의정의.md",
+          "sourceHash": "11710aa1439d85b8721989788e72d9152a9718aebe3c18edc73aeb6fe3ec3516",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/22-22-결과적계기판의정의.md",
+          "sourceHash": "11710aa1439d85b8721989788e72d9152a9718aebe3c18edc73aeb6fe3ec3516",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "23-23-계기와계기판의인과": {
+      "title": "23장. 계기와 계기판의 인과",
+      "sourceFile": "23_계기와계기판의인과.md",
+      "sourceHash": "sha256:724821068eacc1d30e2669b1d6bef15943b47f3bf818dcea5418a4e8af3351d2",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/23-23-계기와계기판의인과.md",
+          "sourceHash": "724821068eacc1d30e2669b1d6bef15943b47f3bf818dcea5418a4e8af3351d2",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/23-23-계기와계기판의인과.md",
+          "sourceHash": "724821068eacc1d30e2669b1d6bef15943b47f3bf818dcea5418a4e8af3351d2",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/23-23-계기와계기판의인과.md",
+          "sourceHash": "724821068eacc1d30e2669b1d6bef15943b47f3bf818dcea5418a4e8af3351d2",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/23-23-계기와계기판의인과.md",
+          "sourceHash": "724821068eacc1d30e2669b1d6bef15943b47f3bf818dcea5418a4e8af3351d2",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "24-24-사업적목표와정량": {
+      "title": "24장. 사업적 목표와 정량",
+      "sourceFile": "24_사업적목표와정량.md",
+      "sourceHash": "sha256:1de9aa9a88d03c19cac1dde0559c65317a6cae1efa9ab1c1dfff18dba38dd6c8",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/24-24-사업적목표와정량.md",
+          "sourceHash": "1de9aa9a88d03c19cac1dde0559c65317a6cae1efa9ab1c1dfff18dba38dd6c8",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/24-24-사업적목표와정량.md",
+          "sourceHash": "1de9aa9a88d03c19cac1dde0559c65317a6cae1efa9ab1c1dfff18dba38dd6c8",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/24-24-사업적목표와정량.md",
+          "sourceHash": "1de9aa9a88d03c19cac1dde0559c65317a6cae1efa9ab1c1dfff18dba38dd6c8",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/24-24-사업적목표와정량.md",
+          "sourceHash": "1de9aa9a88d03c19cac1dde0559c65317a6cae1efa9ab1c1dfff18dba38dd6c8",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "25-25-측정과반복": {
+      "title": "25장. 측정과 반복",
+      "sourceFile": "25_측정과반복.md",
+      "sourceHash": "sha256:38496542affbc7d2655195a209fcd9b393c37b808f135d2769e6c8dad6195a5a",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/25-25-측정과반복.md",
+          "sourceHash": "38496542affbc7d2655195a209fcd9b393c37b808f135d2769e6c8dad6195a5a",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/25-25-측정과반복.md",
+          "sourceHash": "38496542affbc7d2655195a209fcd9b393c37b808f135d2769e6c8dad6195a5a",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/25-25-측정과반복.md",
+          "sourceHash": "38496542affbc7d2655195a209fcd9b393c37b808f135d2769e6c8dad6195a5a",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/25-25-측정과반복.md",
+          "sourceHash": "38496542affbc7d2655195a209fcd9b393c37b808f135d2769e6c8dad6195a5a",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "26-26-경험의확장을유저에게": {
+      "title": "26장. 경험의 확장을 유저에게 맡길 수 있는가",
+      "sourceFile": "26_경험의확장을유저에게.md",
+      "sourceHash": "sha256:22bbac5ffe204f167cbece5140b3007e6e0b049bcdbe9c653db9eef748a2b984",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/26-26-경험의확장을유저에게.md",
+          "sourceHash": "22bbac5ffe204f167cbece5140b3007e6e0b049bcdbe9c653db9eef748a2b984",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/26-26-경험의확장을유저에게.md",
+          "sourceHash": "22bbac5ffe204f167cbece5140b3007e6e0b049bcdbe9c653db9eef748a2b984",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/26-26-경험의확장을유저에게.md",
+          "sourceHash": "22bbac5ffe204f167cbece5140b3007e6e0b049bcdbe9c653db9eef748a2b984",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/26-26-경험의확장을유저에게.md",
+          "sourceHash": "22bbac5ffe204f167cbece5140b3007e6e0b049bcdbe9c653db9eef748a2b984",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "27-27-ai시대의ftue": {
+      "title": "27장. AI 시대의 FTUE",
+      "sourceFile": "27_AI시대의FTUE.md",
+      "sourceHash": "sha256:d86848b7fb33f511fb7c93de8d78cca5dcf714e94592867dbaea6883185074fa",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/27-27-ai시대의ftue.md",
+          "sourceHash": "d86848b7fb33f511fb7c93de8d78cca5dcf714e94592867dbaea6883185074fa",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/27-27-ai시대의ftue.md",
+          "sourceHash": "d86848b7fb33f511fb7c93de8d78cca5dcf714e94592867dbaea6883185074fa",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/27-27-ai시대의ftue.md",
+          "sourceHash": "d86848b7fb33f511fb7c93de8d78cca5dcf714e94592867dbaea6883185074fa",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/27-27-ai시대의ftue.md",
+          "sourceHash": "d86848b7fb33f511fb7c93de8d78cca5dcf714e94592867dbaea6883185074fa",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "28-28-정리a-설계도구": {
+      "title": "28. 정리 A: 설계 도구",
+      "sourceFile": "28_정리A_설계도구.md",
+      "sourceHash": "sha256:04a7e2a269bf284727d318e912fc129108611b8f188f4deb21f0c3d1f5b29860",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/28-28-정리a-설계도구.md",
+          "sourceHash": "04a7e2a269bf284727d318e912fc129108611b8f188f4deb21f0c3d1f5b29860",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/28-28-정리a-설계도구.md",
+          "sourceHash": "04a7e2a269bf284727d318e912fc129108611b8f188f4deb21f0c3d1f5b29860",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/28-28-정리a-설계도구.md",
+          "sourceHash": "04a7e2a269bf284727d318e912fc129108611b8f188f4deb21f0c3d1f5b29860",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/28-28-정리a-설계도구.md",
+          "sourceHash": "04a7e2a269bf284727d318e912fc129108611b8f188f4deb21f0c3d1f5b29860",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "29-30-정리c-장별참고사례": {
+      "title": "30. 정리 C: 장별 참고 사례",
+      "sourceFile": "30_정리C_장별참고사례.md",
+      "sourceHash": "sha256:746b8dba757ac32954cfeaf69554fb5810d1cb39a124b0db39ac60c0e57d8bca",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/29-30-정리c-장별참고사례.md",
+          "sourceHash": "746b8dba757ac32954cfeaf69554fb5810d1cb39a124b0db39ac60c0e57d8bca",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/29-30-정리c-장별참고사례.md",
+          "sourceHash": "746b8dba757ac32954cfeaf69554fb5810d1cb39a124b0db39ac60c0e57d8bca",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/29-30-정리c-장별참고사례.md",
+          "sourceHash": "746b8dba757ac32954cfeaf69554fb5810d1cb39a124b0db39ac60c0e57d8bca",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/29-30-정리c-장별참고사례.md",
+          "sourceHash": "746b8dba757ac32954cfeaf69554fb5810d1cb39a124b0db39ac60c0e57d8bca",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    },
+    "30-29-정리b-측정과점검과참조": {
+      "title": "29. 정리 B: 측정·점검·참조",
+      "sourceFile": "29_정리B_측정과점검과참조.md",
+      "sourceHash": "sha256:b33806a6f3af4b4a9bb72e63d013f6e1b53ccffc27990d1e332b2235113251fb",
+      "translations": {
+        "en": {
+          "status": "translated",
+          "file": "translations/en/30-29-정리b-측정과점검과참조.md",
+          "sourceHash": "b33806a6f3af4b4a9bb72e63d013f6e1b53ccffc27990d1e332b2235113251fb",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "translated",
+          "file": "translations/ja/30-29-정리b-측정과점검과참조.md",
+          "sourceHash": "b33806a6f3af4b4a9bb72e63d013f6e1b53ccffc27990d1e332b2235113251fb",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "translated",
+          "file": "translations/zh-Hant/30-29-정리b-측정과점검과참조.md",
+          "sourceHash": "b33806a6f3af4b4a9bb72e63d013f6e1b53ccffc27990d1e332b2235113251fb",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "translated",
+          "file": "translations/zh-Hans/30-29-정리b-측정과점검과참조.md",
+          "sourceHash": "b33806a6f3af4b4a9bb72e63d013f6e1b53ccffc27990d1e332b2235113251fb",
+          "updatedAt": "2026-07-15"
+        }
+      }
+    }
+  }
+}

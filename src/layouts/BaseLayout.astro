@@ -1,10 +1,11 @@
 ---
 import "../styles/global.css";
+import { copy, localeLabels, locales, localeSegments, localizePath, type Locale } from "../lib/i18n";
 
 interface Props {
   title?: string;
   description?: string;
-  locale?: "ko" | "en";
+  locale?: Locale;
 }
 
 const {
@@ -12,10 +13,11 @@ const {
   description = "Books of MEJE Knowledge는 MEJE의 제작 절차, 강연고, 세계관 원고를 책 단위로 정리한 공개 라이브러리입니다.",
   locale = "ko"
 } = Astro.props;
-const koreanPath = Astro.url.pathname.replace(/^\/en(?=\/|$)/, "") || "/";
-const languageHref = locale === "en" ? koreanPath : `/en${Astro.url.pathname}`;
-const englishPath = locale === "en" ? Astro.url.pathname : `/en${Astro.url.pathname}`;
 const siteUrl = "https://books.meje.kr";
+const ui = copy[locale];
+const alternatePaths = locales.map((item) => ({ locale: item, path: localizePath(Astro.url.pathname, item) }));
+const homeHref = localeSegments[locale] ? `/${localeSegments[locale]}/` : "/";
+const booksHref = localeSegments[locale] ? `/${localeSegments[locale]}/books/` : "/books/";
 ---
 <!doctype html>
 <html lang={locale}>
@@ -29,9 +31,8 @@ const siteUrl = "https://books.meje.kr";
     <meta property="og:url" content={Astro.url.href} />
     <meta name="twitter:card" content="summary" />
     <link rel="canonical" href={Astro.url.href} />
-    <link rel="alternate" hreflang="ko" href={`${siteUrl}${koreanPath}`} />
-    <link rel="alternate" hreflang="en" href={`${siteUrl}${englishPath}`} />
-    <link rel="alternate" hreflang="x-default" href={`${siteUrl}${koreanPath}`} />
+    {alternatePaths.map((item) => <link rel="alternate" hreflang={item.locale} href={`${siteUrl}${item.path}`} />)}
+    <link rel="alternate" hreflang="x-default" href={`${siteUrl}${localizePath(Astro.url.pathname, "ko")}`} />
     <title>{title}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -40,14 +41,15 @@ const siteUrl = "https://books.meje.kr";
   <body>
     <div class="site-shell">
       <header class="topbar">
-        <a class="brand" href="/">MEJE BOOKS <span>Knowledge Library</span></a>
-        <nav class="nav" aria-label="Primary">
-          <a href={locale === "en" ? "/en/" : "/"}>Home</a>
-          <a href={locale === "en" ? "/en/books/" : "/books/"}>Books</a>
+        <a class="brand" href={homeHref}>MEJE BOOKS <span>Knowledge Library</span></a>
+        <nav class="nav" aria-label={ui.primaryNav}>
+          <a href={homeHref}>{ui.home}</a>
+          <a href={booksHref}>{ui.books}</a>
           <a href="https://meje.kr">MEJE.kr</a>
-          <span class="language-switch" aria-label="Language">
-            <a class={locale === "ko" ? "active" : ""} href={locale === "ko" ? Astro.url.pathname : languageHref}>KO</a>
-            <a class={locale === "en" ? "active" : ""} href={locale === "en" ? Astro.url.pathname : languageHref}>EN</a>
+          <span class="language-switch" aria-label={ui.languageLabel}>
+            {locales.map((item) => (
+              <a class={locale === item ? "active" : ""} href={localizePath(Astro.url.pathname, item)}>{localeLabels[item]}</a>
+            ))}
           </span>
         </nav>
       </header>

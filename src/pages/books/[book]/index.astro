@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import { bookTitleWithCount, chapterCountLabel, chapterHref, getBooks, groupedChapters } from "../../../lib/books";
+import { copy } from "../../../lib/i18n";
 
 export function getStaticPaths() {
   return getBooks().map((book) => ({
@@ -11,6 +12,7 @@ export function getStaticPaths() {
 
 const { book } = Astro.props;
 const chapterGroups = groupedChapters(book);
+const ui = copy.ko;
 ---
 <BaseLayout title={`${bookTitleWithCount(book)} · MEJE BOOKS`} description={book.description}>
   <section class="book-hero">
@@ -25,13 +27,13 @@ const chapterGroups = groupedChapters(book);
           <img class="book-panel-cover" src={book.cover} alt={`${book.title} 표지`} />
         )}
         <dl>
-          <dt>Author</dt>
+          <dt>{ui.author}</dt>
           <dd>{book.author}</dd>
-          <dt>Pieces</dt>
+          <dt>{ui.chapters}</dt>
           <dd>{chapterCountLabel(book)}</dd>
-          <dt>Assets</dt>
+          <dt>{ui.assets}</dt>
           <dd>{book.assetCount ?? 0}</dd>
-          <dt>Line</dt>
+          <dt>{ui.line}</dt>
           <dd>{book.line}</dd>
         </dl>
       </aside>
@@ -41,7 +43,7 @@ const chapterGroups = groupedChapters(book);
   <section class="section">
     <div class="container">
       <div class="section-head">
-        <h2 class="section-title">목차</h2>
+        <h2 class="section-title">{ui.contents}</h2>
         <p class="section-meta">{chapterCountLabel(book)}</p>
       </div>
       {book.chapters.length === 0 ? (

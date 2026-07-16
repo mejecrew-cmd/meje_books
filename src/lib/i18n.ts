@@ -1,8 +1,28 @@
 import type { Book, Chapter } from "./books";
 
-export type Locale = "ko" | "en";
+export const locales = ["ko", "en", "ja", "zh-Hant", "zh-Hans"] as const;
+export type Locale = (typeof locales)[number];
+export type RoutedLocale = Exclude<Locale, "ko" | "en">;
 
-type BookTranslation = Pick<Book, "title" | "subtitle" | "line" | "category" | "author" | "description">;
+export const routedLocales: RoutedLocale[] = ["ja", "zh-Hant", "zh-Hans"];
+
+export const localeSegments: Record<Locale, string> = {
+  ko: "",
+  en: "en",
+  ja: "ja",
+  "zh-Hant": "zh-hant",
+  "zh-Hans": "zh-hans"
+};
+
+export const localeLabels: Record<Locale, string> = {
+  ko: "KO",
+  en: "EN",
+  ja: "JA",
+  "zh-Hant": "繁體",
+  "zh-Hans": "简体"
+};
+
+type BookTranslation = Partial<Pick<Book, "title" | "subtitle" | "line" | "category" | "author" | "description">>;
 
 const englishBooks: Record<string, BookTranslation> = {
   "meje-librarying": {
@@ -87,22 +107,196 @@ const englishBooks: Record<string, BookTranslation> = {
   }
 };
 
+const localizedBookTitles: Partial<Record<Locale, Record<string, BookTranslation>>> = {
+  ja: {
+    "meje-librarying": {
+      title: "MEJE ライブラリング・ワークフロー白書",
+      subtitle: "資料を世界観の知識構造へまとめる制作工程",
+      line: "MEJE PROCESS", category: "プロセス 02", author: "MEJE Works",
+      description: "散在する原資料からキーワード、概念、関係、場所、事件を抽出し、利用可能な世界観の知識構造へまとめるMEJEのライブラリング工程です。"
+    },
+    "meje-seoyeongak": {
+      title: "MEJE ソヨンガク翻訳ワークフロー",
+      subtitle: "翻訳・翻案・解説資料集の制作工程",
+      line: "MEJE PROCESS", category: "プロセス 03", author: "MEJE Works",
+      description: "MEJE Worksの翻訳組織ソヨンガクにおける、企画から納品までの多言語コンテンツ制作、翻訳、翻案、資料集制作を扱う実務原稿です。"
+    },
+    "pride-and-prejudice-data": {
+      title: "『高慢と偏見』世界観データ",
+      subtitle: "設定シートとキャラクターシートで見るソヨンガク成果物サンプル",
+      line: "MEJE PROCESS", category: "参考資料", author: "MEJE Works",
+      description: "ソヨンガクの翻訳・資料集工程の成果物サンプルとして、『高慢と偏見』の設定シートとキャラクターシートをまとめた資料です。"
+    },
+    "meje-lorebook": {
+      title: "MEJE ロアブック制作ワークフロー",
+      subtitle: "世界観設定集とロアブックの制作工程",
+      line: "MEJE PROCESS", category: "プロセス 04", author: "MEJE Works",
+      description: "ライブラリングされた知識を公式設定集、ロアブック、公開Wiki、書籍構造へ編集するMEJEの世界観設定集制作工程です。"
+    },
+    "meje-character-process": {
+      title: "MEJE キャラクター創作ワークフロー",
+      subtitle: "キャラクター創作とシート制作のデザインガイド",
+      line: "MEJE PROCESS", category: "プロセス 05", author: "MEJE Works",
+      description: "物語、欲望、欠如、関係、話し方、視覚要素、運用シートを通じて新しいキャラクターを制作する工程です。"
+    },
+    "meje-storytelling-100": {
+      title: "MEJE ストーリーテリング100",
+      subtitle: "世界観とキャラクターから100の物語場面へ",
+      line: "MEJE PROCESS", category: "プロセス 06", author: "MEJE Works",
+      description: "世界観とキャラクターシートを基に、日常の断面、事件、関係の変化、参加型場面からなる100のシーンを生み出すストーリーテリング工程です。"
+    },
+    "atmosphere-engineering": {
+      title: "雰囲気工学", subtitle: "空間、感覚、関係が物語を作る方法",
+      line: "KIM DONG-EUN", category: "エッセイ", author: "キム・ドンウン WhtDrgon.",
+      description: "MEJE代表で世界観制作者のキム・ドンウン WhtDrgon.による、雰囲気、感覚、空間、関係をめぐる原稿シリーズです。"
+    },
+    "mobile-game-bm-renewal": {
+      title: "ニューコンテンツ・ビジネスモデルとIP拡張経済",
+      subtitle: "ゲーム、音楽、映像、ウェブトゥーンを結ぶ支払い習慣と課金構造",
+      line: "KIM DONG-EUN", category: "ビジネスモデル", author: "キム・ドンウン WhtDrgon.",
+      description: "支払い習慣の歴史から、ゲーム、音楽、映像、ウェブトゥーン、IP拡張経済までをたどるニューコンテンツのビジネスモデル原稿です。"
+    },
+    "new-content-ftue": {
+      title: "FTUE：初回ユーザー体験", subtitle: "ニューコンテンツの最初の場面と導入体験の設計",
+      line: "KIM DONG-EUN", category: "FTUE", author: "キム・ドンウン WhtDrgon.",
+      description: "サービスとコンテンツの最初の画面、最初の感情、最初の関係をどう設計するかを扱う初回ユーザー体験の原稿集です。"
+    },
+    "reading-the-world-through-universe": {
+      title: "世界観から世界を読む", subtitle: "世界観を設定集ではなく解釈レンズとして読む",
+      line: "KIM DONG-EUN", category: "世界観", author: "キム・ドンウン WhtDrgon.",
+      description: "世界観を解釈レンズ、組織原理、創作工程、事業構造として読む書籍の原稿です。"
+    }
+  },
+  "zh-Hant": {
+    "meje-librarying": {
+      title: "MEJE 知識庫化工作流程白皮書", subtitle: "將資料整合為世界觀知識結構的製作流程",
+      line: "MEJE PROCESS", category: "流程 02", author: "MEJE Works",
+      description: "MEJE的Librarying流程從分散的原始資料中提取關鍵字、概念、關係、場所與事件，再整理為可運用的世界觀知識結構。"
+    },
+    "meje-seoyeongak": {
+      title: "MEJE 西詠閣翻譯工作流程", subtitle: "翻譯、改編與解說資料集的製作流程",
+      line: "MEJE PROCESS", category: "流程 03", author: "MEJE Works",
+      description: "這份實務原稿介紹MEJE Works旗下翻譯組織西詠閣從企劃到交付的多語內容製作、翻譯、改編與資料集製作流程。"
+    },
+    "pride-and-prejudice-data": {
+      title: "《傲慢與偏見》世界觀資料", subtitle: "以設定表與角色表呈現的西詠閣成果範例",
+      line: "MEJE PROCESS", category: "參考資料", author: "MEJE Works",
+      description: "西詠閣翻譯與資料集流程的成果範例，彙整《傲慢與偏見》的背景設定表與角色表。"
+    },
+    "meje-lorebook": {
+      title: "MEJE Lorebook 製作工作流程", subtitle: "世界觀設定集與Lorebook的製作流程",
+      line: "MEJE PROCESS", category: "流程 04", author: "MEJE Works",
+      description: "MEJE將Librarying後的知識編輯為官方設定集、Lorebook、公開Wiki與書籍結構的世界觀設定集製作流程。"
+    },
+    "meje-character-process": {
+      title: "MEJE 角色創作工作流程", subtitle: "角色創作與角色表製作設計指南",
+      line: "MEJE PROCESS", category: "流程 05", author: "MEJE Works",
+      description: "以敘事、慾望、缺失、關係、語氣、視覺元素與營運表單來製作新角色的創作流程。"
+    },
+    "meje-storytelling-100": {
+      title: "MEJE 敘事100", subtitle: "從世界觀與角色走向一百個故事場景",
+      line: "MEJE PROCESS", category: "流程 06", author: "MEJE Works",
+      description: "以世界觀與角色表為基礎，製作一百個日常片段、事件、關係變化與參與式場景的敘事流程。"
+    },
+    "atmosphere-engineering": {
+      title: "氛圍工程", subtitle: "空間、感官與關係如何創造故事",
+      line: "KIM DONG-EUN", category: "隨筆", author: "Kim Dong-eun WhtDrgon.",
+      description: "MEJE代表暨世界觀創作者Kim Dong-eun WhtDrgon.關於氛圍、感官、空間與關係的系列原稿。"
+    },
+    "mobile-game-bm-renewal": {
+      title: "新內容商業模式與IP擴張經濟", subtitle: "串連遊戲、音樂、影像與網路漫畫的支付習慣和付費結構",
+      line: "KIM DONG-EUN", category: "商業模式", author: "Kim Dong-eun WhtDrgon.",
+      description: "從支付習慣的歷史出發，延伸至遊戲、音樂、影像、網路漫畫與IP擴張經濟的新內容商業模式原稿。"
+    },
+    "new-content-ftue": {
+      title: "FTUE：首次使用者體驗", subtitle: "新內容的第一個場景與進入體驗設計",
+      line: "KIM DONG-EUN", category: "FTUE", author: "Kim Dong-eun WhtDrgon.",
+      description: "探討如何設計服務與內容的第一個畫面、第一份感受與第一段關係的首次使用者體驗原稿集。"
+    },
+    "reading-the-world-through-universe": {
+      title: "透過世界觀閱讀世界", subtitle: "把世界觀視為解讀鏡頭，而非設定集",
+      line: "KIM DONG-EUN", category: "世界觀", author: "Kim Dong-eun WhtDrgon.",
+      description: "將世界觀視為解讀鏡頭、組織原理、創作流程與商業結構的書籍原稿。"
+    }
+  },
+  "zh-Hans": {
+    "meje-librarying": {
+      title: "MEJE 知识库化工作流程白皮书", subtitle: "将资料整合为世界观知识结构的制作流程",
+      line: "MEJE PROCESS", category: "流程 02", author: "MEJE Works",
+      description: "MEJE的Librarying流程从分散的原始资料中提取关键词、概念、关系、地点与事件，再整理为可使用的世界观知识结构。"
+    },
+    "meje-seoyeongak": {
+      title: "MEJE 西咏阁翻译工作流程", subtitle: "翻译、改编与解说资料集的制作流程",
+      line: "MEJE PROCESS", category: "流程 03", author: "MEJE Works",
+      description: "这份实务原稿介绍MEJE Works旗下翻译组织西咏阁从策划到交付的多语言内容制作、翻译、改编与资料集制作流程。"
+    },
+    "pride-and-prejudice-data": {
+      title: "《傲慢与偏见》世界观资料", subtitle: "以设定表与角色表呈现的西咏阁成果示例",
+      line: "MEJE PROCESS", category: "参考资料", author: "MEJE Works",
+      description: "西咏阁翻译与资料集流程的成果示例，汇总《傲慢与偏见》的背景设定表与角色表。"
+    },
+    "meje-lorebook": {
+      title: "MEJE Lorebook 制作工作流程", subtitle: "世界观设定集与Lorebook的制作流程",
+      line: "MEJE PROCESS", category: "流程 04", author: "MEJE Works",
+      description: "MEJE将Librarying后的知识编辑为官方设定集、Lorebook、公开Wiki与书籍结构的世界观设定集制作流程。"
+    },
+    "meje-character-process": {
+      title: "MEJE 角色创作工作流程", subtitle: "角色创作与角色表制作设计指南",
+      line: "MEJE PROCESS", category: "流程 05", author: "MEJE Works",
+      description: "以叙事、欲望、缺失、关系、语气、视觉元素与运营表单来制作新角色的创作流程。"
+    },
+    "meje-storytelling-100": {
+      title: "MEJE 叙事100", subtitle: "从世界观与角色走向一百个故事场景",
+      line: "MEJE PROCESS", category: "流程 06", author: "MEJE Works",
+      description: "以世界观与角色表为基础，制作一百个日常片段、事件、关系变化与参与式场景的叙事流程。"
+    },
+    "atmosphere-engineering": {
+      title: "氛围工程", subtitle: "空间、感官与关系如何创造故事",
+      line: "KIM DONG-EUN", category: "随笔", author: "Kim Dong-eun WhtDrgon.",
+      description: "MEJE代表兼世界观创作者Kim Dong-eun WhtDrgon.关于氛围、感官、空间与关系的系列原稿。"
+    },
+    "mobile-game-bm-renewal": {
+      title: "新内容商业模式与IP扩张经济", subtitle: "串联游戏、音乐、影像与网络漫画的支付习惯和付费结构",
+      line: "KIM DONG-EUN", category: "商业模式", author: "Kim Dong-eun WhtDrgon.",
+      description: "从支付习惯的历史出发，延伸至游戏、音乐、影像、网络漫画与IP扩张经济的新内容商业模式原稿。"
+    },
+    "new-content-ftue": {
+      title: "FTUE：首次用户体验", subtitle: "新内容的第一个场景与进入体验设计",
+      line: "KIM DONG-EUN", category: "FTUE", author: "Kim Dong-eun WhtDrgon.",
+      description: "探讨如何设计服务与内容的第一个画面、第一份感受与第一段关系的首次用户体验原稿集。"
+    },
+    "reading-the-world-through-universe": {
+      title: "通过世界观阅读世界", subtitle: "把世界观视为解读镜头，而非设定集",
+      line: "KIM DONG-EUN", category: "世界观", author: "Kim Dong-eun WhtDrgon.",
+      description: "将世界观视为解读镜头、组织原理、创作流程与商业结构的书籍原稿。"
+    }
+  }
+};
+
 export const copy = {
   ko: {
-    home: "Home",
-    books: "Books",
+    home: "홈",
+    books: "책",
     allBooks: "전체 책",
     catalog: "전체 목록",
     contents: "목차",
     chapters: "편",
     chapter: "편",
-    author: "Author",
-    assets: "Assets",
-    line: "Line",
+    author: "저자",
+    assets: "자료",
+    line: "시리즈",
     readOriginal: "한국어 원문 보기",
     originalAvailable: "한국어 원문 공개",
     languageLabel: "언어 선택",
-    englishEdition: "English edition"
+    primaryNav: "주요 탐색",
+    chapterNavigation: "장 이동",
+    englishEdition: "영문판",
+    previous: "이전",
+    next: "다음",
+    originalTitle: "한국어 원제",
+    translationPendingTitle: "이 장은 현재 한국어로 공개되어 있습니다.",
+    translationPendingBody: "전체 본문은 한국어 원문에서 읽을 수 있습니다.",
+    booksCount: "권"
   },
   en: {
     home: "Home",
@@ -118,13 +312,40 @@ export const copy = {
     readOriginal: "Read the Korean original",
     originalAvailable: "Korean original available",
     languageLabel: "Language",
-    englishEdition: "English edition"
+    primaryNav: "Primary navigation",
+    chapterNavigation: "Chapter navigation",
+    englishEdition: "English edition",
+    previous: "Previous",
+    next: "Next",
+    originalTitle: "Korean original",
+    translationPendingTitle: "This chapter is currently published in Korean.",
+    translationPendingBody: "Open the Korean source manuscript to read the complete chapter.",
+    booksCount: "books"
+  },
+  ja: {
+    home: "ホーム", books: "ブックス", allBooks: "すべての本", catalog: "カタログ", contents: "目次",
+    chapters: "章", chapter: "章", author: "著者", assets: "資料", line: "ライン", readOriginal: "韓国語原文を読む",
+    originalAvailable: "韓国語原文あり", languageLabel: "言語", primaryNav: "メインナビゲーション", chapterNavigation: "章の移動", englishEdition: "英語版", previous: "前へ", next: "次へ",
+    originalTitle: "韓国語原題", translationPendingTitle: "この章は現在、韓国語で公開されています。",
+    translationPendingBody: "全文は韓国語の原文でお読みいただけます。", booksCount: "冊"
+  },
+  "zh-Hant": {
+    home: "首頁", books: "書籍", allBooks: "全部書籍", catalog: "目錄", contents: "目錄", chapters: "章", chapter: "章",
+    author: "作者", assets: "資源", line: "系列", readOriginal: "閱讀韓文原文", originalAvailable: "提供韓文原文",
+    languageLabel: "語言", primaryNav: "主要導覽", chapterNavigation: "章節導覽", englishEdition: "英文版", previous: "上一章", next: "下一章", originalTitle: "韓文原標題",
+    translationPendingTitle: "本章目前以韓文發布。", translationPendingBody: "請前往韓文原文閱讀完整內容。", booksCount: "本"
+  },
+  "zh-Hans": {
+    home: "首页", books: "书籍", allBooks: "全部书籍", catalog: "目录", contents: "目录", chapters: "章", chapter: "章",
+    author: "作者", assets: "资源", line: "系列", readOriginal: "阅读韩文原文", originalAvailable: "提供韩文原文",
+    languageLabel: "语言", primaryNav: "主要导航", chapterNavigation: "章节导航", englishEdition: "英文版", previous: "上一章", next: "下一章", originalTitle: "韩文原标题",
+    translationPendingTitle: "本章目前以韩文发布。", translationPendingBody: "请前往韩文原文阅读完整内容。", booksCount: "本"
   }
 } as const;
 
 export function localizeBook(book: Book, locale: Locale): Book {
-  if (locale === "ko") return book;
-  return { ...book, ...(englishBooks[book.slug] ?? {}) };
+  const translation = locale === "en" ? englishBooks[book.slug] : localizedBookTitles[locale]?.[book.slug];
+  return { ...book, ...(translation ?? {}) };
 }
 
 export function localizeBooks(books: Book[], locale: Locale): Book[] {
@@ -132,15 +353,16 @@ export function localizeBooks(books: Book[], locale: Locale): Book[] {
 }
 
 export function bookTitleWithCount(book: Pick<Book, "title" | "chapterCount">, locale: Locale): string {
-  return locale === "en" ? `${book.title} (${book.chapterCount} chapters)` : `${book.title} (${book.chapterCount}편)`;
+  return `${book.title} (${chapterCountLabel(book, locale)})`;
 }
 
 export function chapterCountLabel(book: Pick<Book, "chapterCount">, locale: Locale): string {
-  return locale === "en" ? `${book.chapterCount} chapters` : `${book.chapterCount}편`;
+  return locale === "ko" ? `${book.chapterCount}편` : `${book.chapterCount} ${copy[locale].chapters}`;
 }
 
 export function localePrefix(locale: Locale): string {
-  return locale === "en" ? "/en" : "";
+  const segment = localeSegments[locale];
+  return segment ? `/${segment}` : "";
 }
 
 export function bookHref(book: Pick<Book, "slug">, locale: Locale): string {
@@ -153,6 +375,7 @@ export function chapterHref(book: Pick<Book, "slug">, chapter: Chapter, locale: 
 }
 
 export function localizePath(pathname: string, locale: Locale): string {
-  const koreanPath = pathname.replace(/^\/en(?=\/|$)/, "") || "/";
-  return locale === "en" ? `/en${koreanPath}` : koreanPath;
+  const localizedPrefix = /^\/(en|ja|zh-hant|zh-hans)(?=\/|$)/;
+  const koreanPath = pathname.replace(localizedPrefix, "") || "/";
+  return `${localePrefix(locale)}${koreanPath}` || "/";
 }
