@@ -179,6 +179,32 @@ const bookDefs = [
     orderInclude: [/\.md$/],
     include: [/\.md$/],
     exclude: [/(^|\/)00_색인\.md$/]
+  },
+  {
+    slug: "fifth-cult-community",
+    title: "AI가 여는 제5차 컬트 커뮤니티의 시대",
+    subtitle: "다섯 번째 물결의 관측 보고와 세계관 설계 도구",
+    line: "KIM DONG-EUN",
+    category: "Fifth Wave",
+    author: "김동은WhtDrgon.",
+    description:
+      "새 매체가 올 때마다 일었던 신념 공동체의 물결을 지도로 그리고, 시청자를 거주자로 바꾸는 세계관 설계 도구를 백 년의 종교사에서 거둬 정리한 관측 보고입니다. 본편 15장과 별책 케이스 파일 6편, 부록으로 구성됩니다.",
+    sourceDir: "AI 5차 컬트 커뮤니티 시대/_북스입고",
+    assetDirs: ["../_삽화"],
+    include: [/^\d+_.+\.md$/]
+  },
+  {
+    slug: "worldview-designer",
+    title: "세계관설계자",
+    subtitle: "세계관을 만드는 일을 직업의 기술로 정리한 15편의 지식체계",
+    line: "KIM DONG-EUN",
+    category: "Worldbuilding",
+    author: "김동은WhtDrgon.",
+    description:
+      "세계관을 만드는 일을 하나의 직업 기술로 정리한 완결형 지식체계입니다. 총론에서 개념과 핍진성과 효용을 확정하고, 유형론에서 시간·공간·전통·SF·괴물과 영웅으로 세계의 갈래를 나누며, 실무론에서 설계 요소와 키워드론, 정의와 네이밍, 데이터 파이프라인, 매체별 스토리텔링, 자가동력의 세계까지 다루는 본편 15편으로 구성됩니다.",
+    sourceDir: "세계관설계자 원고 260720/_북스입고",
+    assetDirs: ["../_삽화"],
+    include: [/^\d+_.+\.md$/]
   }
 ];
 

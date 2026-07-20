@@ -1,0 +1,303 @@
+{
+  "slug": "fifth-cult-community",
+  "title": "AI가 여는 제5차 컬트 커뮤니티의 시대",
+  "subtitle": "다섯 번째 물결의 관측 보고와 세계관 설계 도구",
+  "line": "KIM DONG-EUN",
+  "category": "Fifth Wave",
+  "author": "김동은WhtDrgon.",
+  "description": "새 매체가 올 때마다 일었던 신념 공동체의 물결을 지도로 그리고, 시청자를 거주자로 바꾸는 세계관 설계 도구를 백 년의 종교사에서 거둬 정리한 관측 보고입니다. 본편 15장과 별책 케이스 파일 6편, 부록으로 구성됩니다.",
+  "order": 11,
+  "chapterCount": 22,
+  "cover": "/assets/books/fifth-cult-community/01-00-표지-제5차물결-금속부조.webp",
+  "assetCount": 22,
+  "assets": [
+    {
+      "title": "표지 제5차물결 금속부조.png",
+      "sourceFile": "00_표지_제5차물결_금속부조.png",
+      "url": "/assets/books/fifth-cult-community/01-00-표지-제5차물결-금속부조.webp"
+    },
+    {
+      "title": "01 선언 하우스카 목판화.png",
+      "sourceFile": "01_선언_하우스카_목판화.png",
+      "url": "/assets/books/fifth-cult-community/02-01-선언-하우스카-목판화.webp"
+    },
+    {
+      "title": "02 렌더링 문맹의독서 스테인드글라스.png",
+      "sourceFile": "02_렌더링_문맹의독서_스테인드글라스.png",
+      "url": "/assets/books/fifth-cult-community/03-02-렌더링-문맹의독서-스테인드글라스.webp"
+    },
+    {
+      "title": "03 세계관화 렌즈의문법 태피스트리.png",
+      "sourceFile": "03_세계관화_렌즈의문법_태피스트리.png",
+      "url": "/assets/books/fifth-cult-community/04-03-세계관화-렌즈의문법-태피스트리.webp"
+    },
+    {
+      "title": "04 DOM 거주의객석 세라믹부조.png",
+      "sourceFile": "04_DOM_거주의객석_세라믹부조.png",
+      "url": "/assets/books/fifth-cult-community/05-04-dom-거주의객석-세라믹부조.webp"
+    },
+    {
+      "title": "05 내부의회 관객없는통치 프레스코.png",
+      "sourceFile": "05_내부의회_관객없는통치_프레스코.png",
+      "url": "/assets/books/fifth-cult-community/06-05-내부의회-관객없는통치-프레스코.webp"
+    },
+    {
+      "title": "06 코드 여백의시간표 채색필사본.png",
+      "sourceFile": "06_코드_여백의시간표_채색필사본.png",
+      "url": "/assets/books/fifth-cult-community/07-06-코드-여백의시간표-채색필사본.webp"
+    },
+    {
+      "title": "07 원형 강건너의이집트 석조부조.png",
+      "sourceFile": "07_원형_강건너의이집트_석조부조.png",
+      "url": "/assets/books/fifth-cult-community/08-07-원형-강건너의이집트-석조부조.webp"
+    },
+    {
+      "title": "08 리추얼 몸의저장 프로세스설치.png",
+      "sourceFile": "08_리추얼_몸의저장_프로세스설치.png",
+      "url": "/assets/books/fifth-cult-community/09-08-리추얼-몸의저장-프로세스설치.webp"
+    },
+    {
+      "title": "09 아지트 바퀴달린성소 공간조각.png",
+      "sourceFile": "09_아지트_바퀴달린성소_공간조각.png",
+      "url": "/assets/books/fifth-cult-community/10-09-아지트-바퀴달린성소-공간조각.webp"
+    },
+    {
+      "title": "10 AI선지자 새벽세시의신탁 홀로그램.png",
+      "sourceFile": "10_AI선지자_새벽세시의신탁_홀로그램.png",
+      "url": "/assets/books/fifth-cult-community/11-10-ai선지자-새벽세시의신탁-홀로그램.webp"
+    },
+    {
+      "title": "11 오피셜과로어 미서술의깊이 골각패널.png",
+      "sourceFile": "11_오피셜과로어_미서술의깊이_골각패널.png",
+      "url": "/assets/books/fifth-cult-community/12-11-오피셜과로어-미서술의깊이-골각패널.webp"
+    },
+    {
+      "title": "12 입주퍼널 열린상승통로 얼음조각.png",
+      "sourceFile": "12_입주퍼널_열린상승통로_얼음조각.png",
+      "url": "/assets/books/fifth-cult-community/13-12-입주퍼널-열린상승통로-얼음조각.webp"
+    },
+    {
+      "title": "13 포크 열린경계 생목조각.png",
+      "sourceFile": "13_포크_열린경계_생목조각.png",
+      "url": "/assets/books/fifth-cult-community/14-13-포크-열린경계-생목조각.webp"
+    },
+    {
+      "title": "14 디데이 오지않은아침 설탕조각.png",
+      "sourceFile": "14_디데이_오지않은아침_설탕조각.png",
+      "url": "/assets/books/fifth-cult-community/15-14-디데이-오지않은아침-설탕조각.webp"
+    },
+    {
+      "title": "15 개간워크북 무한한땅 생성전자회화.png",
+      "sourceFile": "15_개간워크북_무한한땅_생성전자회화.png",
+      "url": "/assets/books/fifth-cult-community/16-15-개간워크북-무한한땅-생성전자회화.webp"
+    },
+    {
+      "title": "CF0 서문 부검대위의세계들 방사선사진.png",
+      "sourceFile": "CF0_서문_부검대위의세계들_방사선사진.png",
+      "url": "/assets/books/fifth-cult-community/17-cf0-서문-부검대위의세계들-방사선사진.webp"
+    },
+    {
+      "title": "CF1 황혼의고고학 비누조각.png",
+      "sourceFile": "CF1_황혼의고고학_비누조각.png",
+      "url": "/assets/books/fifth-cult-community/18-cf1-황혼의고고학-비누조각.webp"
+    },
+    {
+      "title": "CF2 성물텍스트 배양생체책.png",
+      "sourceFile": "CF2_성물텍스트_배양생체책.png",
+      "url": "/assets/books/fifth-cult-community/19-cf2-성물텍스트-배양생체책.webp"
+    },
+    {
+      "title": "CF3 스타트업 팽창과붕괴 발포조각.png",
+      "sourceFile": "CF3_스타트업_팽창과붕괴_발포조각.png",
+      "url": "/assets/books/fifth-cult-community/20-cf3-스타트업-팽창과붕괴-발포조각.webp"
+    },
+    {
+      "title": "CF4 교주없는교단 자기정렬 사이매틱설치.png",
+      "sourceFile": "CF4_교주없는교단_자기정렬_사이매틱설치.png",
+      "url": "/assets/books/fifth-cult-community/21-cf4-교주없는교단-자기정렬-사이매틱설치.webp"
+    },
+    {
+      "title": "CF5 버전애도 이전상태의잔상 광변색회화.png",
+      "sourceFile": "CF5_버전애도_이전상태의잔상_광변색회화.png",
+      "url": "/assets/books/fifth-cult-community/22-cf5-버전애도-이전상태의잔상-광변색회화.webp"
+    }
+  ],
+  "chapters": [
+    {
+      "slug": "01-01-선언",
+      "title": "1. 선언\n다섯 번째 물결은 도착해 있다",
+      "sourceFile": "01_선언.md",
+      "sourceHash": "c28e31cb59d72cd998e25f19191bbac9cc649b5af826ee4f1d4e3862918901e7",
+      "file": "chapters/01-01-선언.md",
+      "order": 1
+    },
+    {
+      "slug": "02-02-렌더링",
+      "title": "2. 사상은 렌더링된다\n문맹의 순례자가 성당에서 읽은 것",
+      "sourceFile": "02_렌더링.md",
+      "sourceHash": "8dc7ac8a9f2c0282afb545359e19ff3b99ee7cce541a723b35fc1fe2d00a0615",
+      "file": "chapters/02-02-렌더링.md",
+      "order": 2
+    },
+    {
+      "slug": "03-03-세계관화",
+      "title": "3. 세계관화\n설정집이 아니라 프롬프트다",
+      "sourceFile": "03_세계관화.md",
+      "sourceHash": "c96857832a2c958518ca17df61b3a6341220398be9fb974c5acb0ceb38f7edb9",
+      "file": "chapters/03-03-세계관화.md",
+      "order": 3
+    },
+    {
+      "slug": "04-04-dom",
+      "title": "4. DOM\n시청자는 어떻게 거주자가 되는가",
+      "sourceFile": "04_DOM.md",
+      "sourceHash": "22f77f2508717e2dd90f256cb1c7f04ab47d459688b8606babc09545bbae02c6",
+      "file": "chapters/04-04-dom.md",
+      "order": 4
+    },
+    {
+      "slug": "05-05-내부의회",
+      "title": "5. 내부 의회\n나라는 집단의 주도권",
+      "sourceFile": "05_내부의회.md",
+      "sourceHash": "69b788067cbac1716dd31585ce5b7f7ae74b3c458cd82ef3e767cc162cbf5990",
+      "file": "chapters/05-05-내부의회.md",
+      "order": 5
+    },
+    {
+      "slug": "06-06-코드",
+      "title": "6. 코드\n믿으면 세계가 달리 보이는 명제",
+      "sourceFile": "06_코드.md",
+      "sourceHash": "868a9008ddf3a11256d54c4c667a8f6933c2aa0aa75f89a45a74169be456fd62",
+      "file": "chapters/06-06-코드.md",
+      "order": 6
+    },
+    {
+      "slug": "07-07-원형",
+      "title": "7. 원형\n신화는 폐기되지 않고 인수된다",
+      "sourceFile": "07_원형.md",
+      "sourceHash": "bfbe54e6ee63068692f4fcc7df5c20c2bedd822f40099fe0aed77155a18b5539",
+      "file": "chapters/07-07-원형.md",
+      "order": 7
+    },
+    {
+      "slug": "08-08-리추얼",
+      "title": "8. 리추얼\n믿음은 몸에 저장된다",
+      "sourceFile": "08_리추얼.md",
+      "sourceHash": "d71ef1ca00d946ab484eb2a5385a377ad3421e5af9ed134eb508e0093ecc6b13",
+      "file": "chapters/08-08-리추얼.md",
+      "order": 8
+    },
+    {
+      "slug": "09-09-아지트",
+      "title": "9. 아지트\n성소와 성물",
+      "sourceFile": "09_아지트.md",
+      "sourceHash": "f64ecc8f184b890072bd1419f969e979d875ff6309265d6486c79054a66d9088",
+      "file": "chapters/09-09-아지트.md",
+      "order": 9
+    },
+    {
+      "slug": "10-10-ai선지자",
+      "title": "10. AI 선지자\n개인화된 계시",
+      "sourceFile": "10_AI선지자.md",
+      "sourceHash": "603a4de2bcd422627e4c2bf3ff5f6da6846d1891cdf3620d02c0123f91c86588",
+      "file": "chapters/10-10-ai선지자.md",
+      "order": 10
+    },
+    {
+      "slug": "11-11-오피셜과로어",
+      "title": "11. 오피셜과 로어\n세계는 서술되지 않은 곳에서 깊어진다",
+      "sourceFile": "11_오피셜과로어.md",
+      "sourceHash": "750e46551bf204371c6910810a1959889035cefa63e1a7d682a7bb0eb5481c82",
+      "file": "chapters/11-11-오피셜과로어.md",
+      "order": 11
+    },
+    {
+      "slug": "12-12-입주퍼널",
+      "title": "12. 입주 퍼널\n문턱은 낮게, 사다리는 높게",
+      "sourceFile": "12_입주퍼널.md",
+      "sourceHash": "778ff275f038d0258fb2bc854e9e41b3633810c1f0c6da7bd0b8ff89e74d0dff",
+      "file": "chapters/12-12-입주퍼널.md",
+      "order": 12
+    },
+    {
+      "slug": "13-13-포크",
+      "title": "13. 포크\n갈등은 세계를 부수지 않고 조인다",
+      "sourceFile": "13_포크.md",
+      "sourceHash": "7406df50c4a032bb86b838a6d04c452dcb38d0750b3074f0b86e4ea309a7fd0f",
+      "file": "chapters/13-13-포크.md",
+      "order": 13
+    },
+    {
+      "slug": "14-14-디데이",
+      "title": "14. 디데이\n오지 않은 날이 세계를 무너뜨리지 않는 법",
+      "sourceFile": "14_디데이.md",
+      "sourceHash": "f1f8c3c8b98c5f56aa86c9764d3cbbd0822fcd6bac55e6611b675640cc3ab3f4",
+      "file": "chapters/14-14-디데이.md",
+      "order": 14
+    },
+    {
+      "slug": "15-15-개간워크북",
+      "title": "15. 개간 워크북\n당신의 땅은 처음으로 무한하다",
+      "sourceFile": "15_개간워크북.md",
+      "sourceHash": "0dd7f96154fce2e07449eee4937e8eb9b00d284a6cfd322f877046776d17b1b4",
+      "file": "chapters/15-15-개간워크북.md",
+      "order": 15
+    },
+    {
+      "slug": "16-16-cf0-서문",
+      "title": "CF-0. 서문\n황혼의 세계들",
+      "sourceFile": "16_CF0_서문.md",
+      "sourceHash": "ef3b314549cc060497ff18385daa2239e1c6286be7f312a55073aaf569f6a3e6",
+      "file": "chapters/16-16-cf0-서문.md",
+      "order": 16
+    },
+    {
+      "slug": "17-17-cf1-황혼의고고학",
+      "title": "CF-1. 황혼의 고고학\n다섯 가지 붕괴 원인과 살아남은 수확",
+      "sourceFile": "17_CF1_황혼의고고학.md",
+      "sourceHash": "7c78cde605fbd70e21055eeadb57f3a0f97356c75cedc0ee837bb5cab6acc9f0",
+      "file": "chapters/17-17-cf1-황혼의고고학.md",
+      "order": 17
+    },
+    {
+      "slug": "18-18-cf2-성물텍스트",
+      "title": "CF-2. 책이 성물이 된 세계\n받아쓴 텍스트의 구조",
+      "sourceFile": "18_CF2_성물텍스트.md",
+      "sourceHash": "f2e9bf19abd573a35b4e121bbae35ddd5b93bba832912f22f8e8cefebf428348",
+      "file": "chapters/18-18-cf2-성물텍스트.md",
+      "order": 18
+    },
+    {
+      "slug": "19-19-cf3-스타트업",
+      "title": "CF-3. 컬트풍 스타트업의 흥망\n세계관과 회계의 혼동",
+      "sourceFile": "19_CF3_스타트업.md",
+      "sourceHash": "0ed8e7e5741a03faf04fdbeae201d4193f150523bbdbab722e91f774bb0b8db5",
+      "file": "chapters/19-19-cf3-스타트업.md",
+      "order": 19
+    },
+    {
+      "slug": "20-20-cf4-교주없는교단",
+      "title": "CF-4. 교주 없는 교단\n화자를 텍스트로 바꾼 부족",
+      "sourceFile": "20_CF4_교주없는교단.md",
+      "sourceHash": "a76d15aa9450c78950c97e60eb5e21f77720fb5394f3b7fb7ad73e52734913f2",
+      "file": "chapters/20-20-cf4-교주없는교단.md",
+      "order": 20
+    },
+    {
+      "slug": "21-21-cf5-버전애도",
+      "title": "CF-5. 버전 업데이트의 애도\n다섯 번째 물결의 실측",
+      "sourceFile": "21_CF5_버전애도.md",
+      "sourceHash": "e3aecdb89402e27f0e59be19704ad77a2a80c7e97c27b416d9928f05ca743dfd",
+      "file": "chapters/21-21-cf5-버전애도.md",
+      "order": 21
+    },
+    {
+      "slug": "22-22-부록-연표용어집색인",
+      "title": "부록\n연표, 용어집, 색인",
+      "sourceFile": "22_부록_연표용어집색인.md",
+      "sourceHash": "7efaa2e4860f25916296fede090061216ba2c4c8f99e24682840e28369d69a00",
+      "file": "chapters/22-22-부록-연표용어집색인.md",
+      "order": 22
+    }
+  ]
+}

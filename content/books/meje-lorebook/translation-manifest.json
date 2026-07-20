@@ -8,192 +8,192 @@
     "zh-Hant",
     "zh-Hans"
   ],
-  "generatedAt": "2026-07-13T01:31:02.746Z",
+  "generatedAt": "2026-07-20T16:47:38.876Z",
   "chapters": {
-  "02-본문-01-제1장-wikied": {
+    "02-본문-01-제1장-wikied": {
       "title": "한 IP의 백과사전\nLOREBOOK이란 무엇인가",
       "sourceFile": "본문_01_제1장_wikied.md",
       "sourceHash": "sha256:d44eb817854345b661951a92b8ddfe2d798393f0832f48aee6394a7db30293d4",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/02-본문-01-제1장-wikied.md",
-        "sourceHash": "d44eb817854345b661951a92b8ddfe2d798393f0832f48aee6394a7db30293d4",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/02-본문-01-제1장-wikied.md",
-        "sourceHash": "d44eb817854345b661951a92b8ddfe2d798393f0832f48aee6394a7db30293d4",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/02-본문-01-제1장-wikied.md",
-        "sourceHash": "d44eb817854345b661951a92b8ddfe2d798393f0832f48aee6394a7db30293d4",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/02-본문-01-제1장-wikied.md",
-        "sourceHash": "d44eb817854345b661951a92b8ddfe2d798393f0832f48aee6394a7db30293d4",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/02-본문-01-제1장-wikied.md",
+          "sourceHash": "d44eb817854345b661951a92b8ddfe2d798393f0832f48aee6394a7db30293d4",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/02-본문-01-제1장-wikied.md",
+          "sourceHash": "d44eb817854345b661951a92b8ddfe2d798393f0832f48aee6394a7db30293d4",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/02-본문-01-제1장-wikied.md",
+          "sourceHash": "d44eb817854345b661951a92b8ddfe2d798393f0832f48aee6394a7db30293d4",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/02-본문-01-제1장-wikied.md",
+          "sourceHash": "d44eb817854345b661951a92b8ddfe2d798393f0832f48aee6394a7db30293d4",
+          "updatedAt": null
+        }
       }
     },
-  "03-본문-02-제2장-wikied": {
+    "03-본문-02-제2장-wikied": {
       "title": "다섯 가지 LOREBOOK",
       "sourceFile": "본문_02_제2장_wikied.md",
       "sourceHash": "sha256:6d97b9be8dbaa758f2b9a6a684a0bfd69bea49aade74b64e398a003e3fcfd8b4",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/03-본문-02-제2장-wikied.md",
-        "sourceHash": "6d97b9be8dbaa758f2b9a6a684a0bfd69bea49aade74b64e398a003e3fcfd8b4",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/03-본문-02-제2장-wikied.md",
-        "sourceHash": "6d97b9be8dbaa758f2b9a6a684a0bfd69bea49aade74b64e398a003e3fcfd8b4",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/03-본문-02-제2장-wikied.md",
-        "sourceHash": "6d97b9be8dbaa758f2b9a6a684a0bfd69bea49aade74b64e398a003e3fcfd8b4",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/03-본문-02-제2장-wikied.md",
-        "sourceHash": "6d97b9be8dbaa758f2b9a6a684a0bfd69bea49aade74b64e398a003e3fcfd8b4",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/03-본문-02-제2장-wikied.md",
+          "sourceHash": "6d97b9be8dbaa758f2b9a6a684a0bfd69bea49aade74b64e398a003e3fcfd8b4",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/03-본문-02-제2장-wikied.md",
+          "sourceHash": "6d97b9be8dbaa758f2b9a6a684a0bfd69bea49aade74b64e398a003e3fcfd8b4",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/03-본문-02-제2장-wikied.md",
+          "sourceHash": "6d97b9be8dbaa758f2b9a6a684a0bfd69bea49aade74b64e398a003e3fcfd8b4",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/03-본문-02-제2장-wikied.md",
+          "sourceHash": "6d97b9be8dbaa758f2b9a6a684a0bfd69bea49aade74b64e398a003e3fcfd8b4",
+          "updatedAt": null
+        }
       }
     },
-  "04-본문-03-제3장-wikied": {
+    "04-본문-03-제3장-wikied": {
       "title": "라이브러링이 끝난 다음\nVault에서 LOREBOOK으로",
       "sourceFile": "본문_03_제3장_wikied.md",
       "sourceHash": "sha256:9d7711a5ef240e82316b42f62263943bba9006f5faeb4a83261eca4077461897",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/04-본문-03-제3장-wikied.md",
-        "sourceHash": "9d7711a5ef240e82316b42f62263943bba9006f5faeb4a83261eca4077461897",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/04-본문-03-제3장-wikied.md",
-        "sourceHash": "9d7711a5ef240e82316b42f62263943bba9006f5faeb4a83261eca4077461897",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/04-본문-03-제3장-wikied.md",
-        "sourceHash": "9d7711a5ef240e82316b42f62263943bba9006f5faeb4a83261eca4077461897",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/04-본문-03-제3장-wikied.md",
-        "sourceHash": "9d7711a5ef240e82316b42f62263943bba9006f5faeb4a83261eca4077461897",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/04-본문-03-제3장-wikied.md",
+          "sourceHash": "9d7711a5ef240e82316b42f62263943bba9006f5faeb4a83261eca4077461897",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/04-본문-03-제3장-wikied.md",
+          "sourceHash": "9d7711a5ef240e82316b42f62263943bba9006f5faeb4a83261eca4077461897",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/04-본문-03-제3장-wikied.md",
+          "sourceHash": "9d7711a5ef240e82316b42f62263943bba9006f5faeb4a83261eca4077461897",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/04-본문-03-제3장-wikied.md",
+          "sourceHash": "9d7711a5ef240e82316b42f62263943bba9006f5faeb4a83261eca4077461897",
+          "updatedAt": null
+        }
       }
     },
-  "05-본문-04-제4장-wikied": {
+    "05-본문-04-제4장-wikied": {
       "title": "거시 6 섹션과 12부형\n책의 골격이 정해지는 곳",
       "sourceFile": "본문_04_제4장_wikied.md",
       "sourceHash": "sha256:bb5bc3303773000c9eaec03c1eb18705fb5c0bc84d30b73c11d969b68d5afd0c",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/05-본문-04-제4장-wikied.md",
-        "sourceHash": "bb5bc3303773000c9eaec03c1eb18705fb5c0bc84d30b73c11d969b68d5afd0c",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/05-본문-04-제4장-wikied.md",
-        "sourceHash": "bb5bc3303773000c9eaec03c1eb18705fb5c0bc84d30b73c11d969b68d5afd0c",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/05-본문-04-제4장-wikied.md",
-        "sourceHash": "bb5bc3303773000c9eaec03c1eb18705fb5c0bc84d30b73c11d969b68d5afd0c",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/05-본문-04-제4장-wikied.md",
-        "sourceHash": "bb5bc3303773000c9eaec03c1eb18705fb5c0bc84d30b73c11d969b68d5afd0c",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/05-본문-04-제4장-wikied.md",
+          "sourceHash": "bb5bc3303773000c9eaec03c1eb18705fb5c0bc84d30b73c11d969b68d5afd0c",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/05-본문-04-제4장-wikied.md",
+          "sourceHash": "bb5bc3303773000c9eaec03c1eb18705fb5c0bc84d30b73c11d969b68d5afd0c",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/05-본문-04-제4장-wikied.md",
+          "sourceHash": "bb5bc3303773000c9eaec03c1eb18705fb5c0bc84d30b73c11d969b68d5afd0c",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/05-본문-04-제4장-wikied.md",
+          "sourceHash": "bb5bc3303773000c9eaec03c1eb18705fb5c0bc84d30b73c11d969b68d5afd0c",
+          "updatedAt": null
+        }
       }
     },
-  "06-본문-05-제5장-wikied": {
+    "06-본문-05-제5장-wikied": {
       "title": "한 항목의 모양\n표준 템플릿과 frontmatter",
       "sourceFile": "본문_05_제5장_wikied.md",
       "sourceHash": "sha256:811044369b63c756519c1cec59c5c166043d3f1361691fccb069b5fd2c97ca57",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/06-본문-05-제5장-wikied.md",
-        "sourceHash": "811044369b63c756519c1cec59c5c166043d3f1361691fccb069b5fd2c97ca57",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/06-본문-05-제5장-wikied.md",
-        "sourceHash": "811044369b63c756519c1cec59c5c166043d3f1361691fccb069b5fd2c97ca57",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/06-본문-05-제5장-wikied.md",
-        "sourceHash": "811044369b63c756519c1cec59c5c166043d3f1361691fccb069b5fd2c97ca57",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/06-본문-05-제5장-wikied.md",
-        "sourceHash": "811044369b63c756519c1cec59c5c166043d3f1361691fccb069b5fd2c97ca57",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/06-본문-05-제5장-wikied.md",
+          "sourceHash": "811044369b63c756519c1cec59c5c166043d3f1361691fccb069b5fd2c97ca57",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/06-본문-05-제5장-wikied.md",
+          "sourceHash": "811044369b63c756519c1cec59c5c166043d3f1361691fccb069b5fd2c97ca57",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/06-본문-05-제5장-wikied.md",
+          "sourceHash": "811044369b63c756519c1cec59c5c166043d3f1361691fccb069b5fd2c97ca57",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/06-본문-05-제5장-wikied.md",
+          "sourceHash": "811044369b63c756519c1cec59c5c166043d3f1361691fccb069b5fd2c97ca57",
+          "updatedAt": null
+        }
       }
     },
-  "07-본문-06-제6장-wikied": {
+    "07-본문-06-제6장-wikied": {
       "title": "9분류와 세계관축\n두 좌표가 부 구성을 결정한다",
       "sourceFile": "본문_06_제6장_wikied.md",
       "sourceHash": "sha256:e416039e2a7ac1b64f57bb4f994762c535f8d4058777bbc77f3dfd1797319f4a",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/07-본문-06-제6장-wikied.md",
-        "sourceHash": "e416039e2a7ac1b64f57bb4f994762c535f8d4058777bbc77f3dfd1797319f4a",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/07-본문-06-제6장-wikied.md",
-        "sourceHash": "e416039e2a7ac1b64f57bb4f994762c535f8d4058777bbc77f3dfd1797319f4a",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/07-본문-06-제6장-wikied.md",
-        "sourceHash": "e416039e2a7ac1b64f57bb4f994762c535f8d4058777bbc77f3dfd1797319f4a",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/07-본문-06-제6장-wikied.md",
-        "sourceHash": "e416039e2a7ac1b64f57bb4f994762c535f8d4058777bbc77f3dfd1797319f4a",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/07-본문-06-제6장-wikied.md",
+          "sourceHash": "e416039e2a7ac1b64f57bb4f994762c535f8d4058777bbc77f3dfd1797319f4a",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/07-본문-06-제6장-wikied.md",
+          "sourceHash": "e416039e2a7ac1b64f57bb4f994762c535f8d4058777bbc77f3dfd1797319f4a",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/07-본문-06-제6장-wikied.md",
+          "sourceHash": "e416039e2a7ac1b64f57bb4f994762c535f8d4058777bbc77f3dfd1797319f4a",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/07-본문-06-제6장-wikied.md",
+          "sourceHash": "e416039e2a7ac1b64f57bb4f994762c535f8d4058777bbc77f3dfd1797319f4a",
+          "updatedAt": null
+        }
       }
     },
     "08-본문-07-제7장-wikied": {
@@ -201,30 +201,30 @@
       "sourceFile": "본문_07_제7장_wikied.md",
       "sourceHash": "sha256:492c8f8901f6d114e041b4574186526c8de28c07da8cfd3b37843d4ab091be65",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/08-본문-07-제7장-wikied.md",
-        "sourceHash": "492c8f8901f6d114e041b4574186526c8de28c07da8cfd3b37843d4ab091be65",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/08-본문-07-제7장-wikied.md",
-        "sourceHash": "492c8f8901f6d114e041b4574186526c8de28c07da8cfd3b37843d4ab091be65",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/08-본문-07-제7장-wikied.md",
-        "sourceHash": "492c8f8901f6d114e041b4574186526c8de28c07da8cfd3b37843d4ab091be65",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/08-본문-07-제7장-wikied.md",
-        "sourceHash": "492c8f8901f6d114e041b4574186526c8de28c07da8cfd3b37843d4ab091be65",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/08-본문-07-제7장-wikied.md",
+          "sourceHash": "492c8f8901f6d114e041b4574186526c8de28c07da8cfd3b37843d4ab091be65",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/08-본문-07-제7장-wikied.md",
+          "sourceHash": "492c8f8901f6d114e041b4574186526c8de28c07da8cfd3b37843d4ab091be65",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/08-본문-07-제7장-wikied.md",
+          "sourceHash": "492c8f8901f6d114e041b4574186526c8de28c07da8cfd3b37843d4ab091be65",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/08-본문-07-제7장-wikied.md",
+          "sourceHash": "492c8f8901f6d114e041b4574186526c8de28c07da8cfd3b37843d4ab091be65",
+          "updatedAt": null
+        }
       }
     },
     "09-본문-08-제8장-wikied": {
@@ -232,29 +232,29 @@
       "sourceFile": "본문_08_제8장_wikied.md",
       "sourceHash": "sha256:dab58864f39000463eda5399e2bfd083aee83fa2231532383f38fd11a0ca175e",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/09-본문-08-제8장-wikied.md",
-        "sourceHash": "dab58864f39000463eda5399e2bfd083aee83fa2231532383f38fd11a0ca175e",
-        "updatedAt": "2026-07-14"
+        "en": {
+          "status": "draft",
+          "file": "translations/en/09-본문-08-제8장-wikied.md",
+          "sourceHash": "dab58864f39000463eda5399e2bfd083aee83fa2231532383f38fd11a0ca175e",
+          "updatedAt": null
         },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/09-본문-08-제8장-wikied.md",
-        "sourceHash": "dab58864f39000463eda5399e2bfd083aee83fa2231532383f38fd11a0ca175e",
-        "updatedAt": "2026-07-14"
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/09-본문-08-제8장-wikied.md",
+          "sourceHash": "dab58864f39000463eda5399e2bfd083aee83fa2231532383f38fd11a0ca175e",
+          "updatedAt": null
         },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/09-본문-08-제8장-wikied.md",
-        "sourceHash": "dab58864f39000463eda5399e2bfd083aee83fa2231532383f38fd11a0ca175e",
-        "updatedAt": "2026-07-14"
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/09-본문-08-제8장-wikied.md",
+          "sourceHash": "dab58864f39000463eda5399e2bfd083aee83fa2231532383f38fd11a0ca175e",
+          "updatedAt": null
         },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/09-본문-08-제8장-wikied.md",
-        "sourceHash": "dab58864f39000463eda5399e2bfd083aee83fa2231532383f38fd11a0ca175e",
-        "updatedAt": "2026-07-14"
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/09-본문-08-제8장-wikied.md",
+          "sourceHash": "dab58864f39000463eda5399e2bfd083aee83fa2231532383f38fd11a0ca175e",
+          "updatedAt": null
         }
       }
     },
@@ -263,30 +263,30 @@
       "sourceFile": "본문_09_제9장_wikied.md",
       "sourceHash": "sha256:1a35f9b698fd6f81905a3e11c5aa4bbfcf7fa655c5fd2d586533118d8527bc95",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/10-본문-09-제9장-wikied.md",
-        "sourceHash": "1a35f9b698fd6f81905a3e11c5aa4bbfcf7fa655c5fd2d586533118d8527bc95",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/10-본문-09-제9장-wikied.md",
-        "sourceHash": "1a35f9b698fd6f81905a3e11c5aa4bbfcf7fa655c5fd2d586533118d8527bc95",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/10-본문-09-제9장-wikied.md",
-        "sourceHash": "1a35f9b698fd6f81905a3e11c5aa4bbfcf7fa655c5fd2d586533118d8527bc95",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/10-본문-09-제9장-wikied.md",
-        "sourceHash": "1a35f9b698fd6f81905a3e11c5aa4bbfcf7fa655c5fd2d586533118d8527bc95",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/10-본문-09-제9장-wikied.md",
+          "sourceHash": "1a35f9b698fd6f81905a3e11c5aa4bbfcf7fa655c5fd2d586533118d8527bc95",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/10-본문-09-제9장-wikied.md",
+          "sourceHash": "1a35f9b698fd6f81905a3e11c5aa4bbfcf7fa655c5fd2d586533118d8527bc95",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/10-본문-09-제9장-wikied.md",
+          "sourceHash": "1a35f9b698fd6f81905a3e11c5aa4bbfcf7fa655c5fd2d586533118d8527bc95",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/10-본문-09-제9장-wikied.md",
+          "sourceHash": "1a35f9b698fd6f81905a3e11c5aa4bbfcf7fa655c5fd2d586533118d8527bc95",
+          "updatedAt": null
+        }
       }
     },
     "11-본문-10-제10장-wikied": {
@@ -294,30 +294,30 @@
       "sourceFile": "본문_10_제10장_wikied.md",
       "sourceHash": "sha256:bca40cff3140361bde3ee1f1af8f19039771b16305b24577ab483290f8baf8d0",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/11-본문-10-제10장-wikied.md",
-        "sourceHash": "bca40cff3140361bde3ee1f1af8f19039771b16305b24577ab483290f8baf8d0",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/11-본문-10-제10장-wikied.md",
-        "sourceHash": "bca40cff3140361bde3ee1f1af8f19039771b16305b24577ab483290f8baf8d0",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/11-본문-10-제10장-wikied.md",
-        "sourceHash": "bca40cff3140361bde3ee1f1af8f19039771b16305b24577ab483290f8baf8d0",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/11-본문-10-제10장-wikied.md",
-        "sourceHash": "bca40cff3140361bde3ee1f1af8f19039771b16305b24577ab483290f8baf8d0",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/11-본문-10-제10장-wikied.md",
+          "sourceHash": "bca40cff3140361bde3ee1f1af8f19039771b16305b24577ab483290f8baf8d0",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/11-본문-10-제10장-wikied.md",
+          "sourceHash": "bca40cff3140361bde3ee1f1af8f19039771b16305b24577ab483290f8baf8d0",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/11-본문-10-제10장-wikied.md",
+          "sourceHash": "bca40cff3140361bde3ee1f1af8f19039771b16305b24577ab483290f8baf8d0",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/11-본문-10-제10장-wikied.md",
+          "sourceHash": "bca40cff3140361bde3ee1f1af8f19039771b16305b24577ab483290f8baf8d0",
+          "updatedAt": null
+        }
       }
     },
     "12-본문-11-제11장-wikied": {
@@ -325,30 +325,30 @@
       "sourceFile": "본문_11_제11장_wikied.md",
       "sourceHash": "sha256:1289fe8458544938b891f9f288d4fcf8d76beb753d309f8400cef8134b3de4d7",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/12-본문-11-제11장-wikied.md",
-        "sourceHash": "1289fe8458544938b891f9f288d4fcf8d76beb753d309f8400cef8134b3de4d7",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/12-본문-11-제11장-wikied.md",
-        "sourceHash": "1289fe8458544938b891f9f288d4fcf8d76beb753d309f8400cef8134b3de4d7",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/12-본문-11-제11장-wikied.md",
-        "sourceHash": "1289fe8458544938b891f9f288d4fcf8d76beb753d309f8400cef8134b3de4d7",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/12-본문-11-제11장-wikied.md",
-        "sourceHash": "1289fe8458544938b891f9f288d4fcf8d76beb753d309f8400cef8134b3de4d7",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/12-본문-11-제11장-wikied.md",
+          "sourceHash": "1289fe8458544938b891f9f288d4fcf8d76beb753d309f8400cef8134b3de4d7",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/12-본문-11-제11장-wikied.md",
+          "sourceHash": "1289fe8458544938b891f9f288d4fcf8d76beb753d309f8400cef8134b3de4d7",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/12-본문-11-제11장-wikied.md",
+          "sourceHash": "1289fe8458544938b891f9f288d4fcf8d76beb753d309f8400cef8134b3de4d7",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/12-본문-11-제11장-wikied.md",
+          "sourceHash": "1289fe8458544938b891f9f288d4fcf8d76beb753d309f8400cef8134b3de4d7",
+          "updatedAt": null
+        }
       }
     },
     "13-본문-12-제12장-wikied": {
@@ -356,29 +356,29 @@
       "sourceFile": "본문_12_제12장_wikied.md",
       "sourceHash": "sha256:e9ff58c6875f54c17747724978b9f838817983e208e0fc422242f33796df0cf6",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/13-본문-12-제12장-wikied.md",
-        "sourceHash": "e9ff58c6875f54c17747724978b9f838817983e208e0fc422242f33796df0cf6",
-        "updatedAt": "2026-07-14"
+        "en": {
+          "status": "draft",
+          "file": "translations/en/13-본문-12-제12장-wikied.md",
+          "sourceHash": "e9ff58c6875f54c17747724978b9f838817983e208e0fc422242f33796df0cf6",
+          "updatedAt": null
         },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/13-본문-12-제12장-wikied.md",
-        "sourceHash": "e9ff58c6875f54c17747724978b9f838817983e208e0fc422242f33796df0cf6",
-        "updatedAt": "2026-07-14"
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/13-본문-12-제12장-wikied.md",
+          "sourceHash": "e9ff58c6875f54c17747724978b9f838817983e208e0fc422242f33796df0cf6",
+          "updatedAt": null
         },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/13-본문-12-제12장-wikied.md",
-        "sourceHash": "e9ff58c6875f54c17747724978b9f838817983e208e0fc422242f33796df0cf6",
-        "updatedAt": "2026-07-14"
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/13-본문-12-제12장-wikied.md",
+          "sourceHash": "e9ff58c6875f54c17747724978b9f838817983e208e0fc422242f33796df0cf6",
+          "updatedAt": null
         },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/13-본문-12-제12장-wikied.md",
-        "sourceHash": "e9ff58c6875f54c17747724978b9f838817983e208e0fc422242f33796df0cf6",
-        "updatedAt": "2026-07-14"
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/13-본문-12-제12장-wikied.md",
+          "sourceHash": "e9ff58c6875f54c17747724978b9f838817983e208e0fc422242f33796df0cf6",
+          "updatedAt": null
         }
       }
     },
@@ -387,61 +387,61 @@
       "sourceFile": "본문_13_제13장_wikied.md",
       "sourceHash": "sha256:f36b65d7bc80054f28c9d5a954963ce595b4edef59669295a2dbb3fdbe507946",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/14-본문-13-제13장-wikied.md",
-        "sourceHash": "f36b65d7bc80054f28c9d5a954963ce595b4edef59669295a2dbb3fdbe507946",
-        "updatedAt": "2026-07-14"
+        "en": {
+          "status": "draft",
+          "file": "translations/en/14-본문-13-제13장-wikied.md",
+          "sourceHash": "f36b65d7bc80054f28c9d5a954963ce595b4edef59669295a2dbb3fdbe507946",
+          "updatedAt": null
         },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/14-본문-13-제13장-wikied.md",
-        "sourceHash": "f36b65d7bc80054f28c9d5a954963ce595b4edef59669295a2dbb3fdbe507946",
-        "updatedAt": "2026-07-14"
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/14-본문-13-제13장-wikied.md",
+          "sourceHash": "f36b65d7bc80054f28c9d5a954963ce595b4edef59669295a2dbb3fdbe507946",
+          "updatedAt": null
         },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/14-본문-13-제13장-wikied.md",
-        "sourceHash": "f36b65d7bc80054f28c9d5a954963ce595b4edef59669295a2dbb3fdbe507946",
-        "updatedAt": "2026-07-14"
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/14-본문-13-제13장-wikied.md",
+          "sourceHash": "f36b65d7bc80054f28c9d5a954963ce595b4edef59669295a2dbb3fdbe507946",
+          "updatedAt": null
         },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/14-본문-13-제13장-wikied.md",
-        "sourceHash": "f36b65d7bc80054f28c9d5a954963ce595b4edef59669295a2dbb3fdbe507946",
-        "updatedAt": "2026-07-14"
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/14-본문-13-제13장-wikied.md",
+          "sourceHash": "f36b65d7bc80054f28c9d5a954963ce595b4edef59669295a2dbb3fdbe507946",
+          "updatedAt": null
         }
       }
     },
-  "15-본문-14-제14장-wikied": {
+    "15-본문-14-제14장-wikied": {
       "title": "5종 변주, 그리고 마지막 인사",
       "sourceFile": "본문_14_제14장_wikied.md",
       "sourceHash": "sha256:ccf2c98d5f0838f2d133b8b7392b929a53db82a227e60dd13d4853f3dc857603",
-    "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/15-본문-14-제14장-wikied.md",
-        "sourceHash": "ccf2c98d5f0838f2d133b8b7392b929a53db82a227e60dd13d4853f3dc857603",
-        "updatedAt": "2026-07-14"
+      "translations": {
+        "en": {
+          "status": "draft",
+          "file": "translations/en/15-본문-14-제14장-wikied.md",
+          "sourceHash": "ccf2c98d5f0838f2d133b8b7392b929a53db82a227e60dd13d4853f3dc857603",
+          "updatedAt": null
         },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/15-본문-14-제14장-wikied.md",
-        "sourceHash": "ccf2c98d5f0838f2d133b8b7392b929a53db82a227e60dd13d4853f3dc857603",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/15-본문-14-제14장-wikied.md",
-        "sourceHash": "ccf2c98d5f0838f2d133b8b7392b929a53db82a227e60dd13d4853f3dc857603",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/15-본문-14-제14장-wikied.md",
-        "sourceHash": "ccf2c98d5f0838f2d133b8b7392b929a53db82a227e60dd13d4853f3dc857603",
-        "updatedAt": "2026-07-14"
-      }
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/15-본문-14-제14장-wikied.md",
+          "sourceHash": "ccf2c98d5f0838f2d133b8b7392b929a53db82a227e60dd13d4853f3dc857603",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/15-본문-14-제14장-wikied.md",
+          "sourceHash": "ccf2c98d5f0838f2d133b8b7392b929a53db82a227e60dd13d4853f3dc857603",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/15-본문-14-제14장-wikied.md",
+          "sourceHash": "ccf2c98d5f0838f2d133b8b7392b929a53db82a227e60dd13d4853f3dc857603",
+          "updatedAt": null
+        }
       }
     },
     "16-본문-15-부록-wikied": {
@@ -449,30 +449,30 @@
       "sourceFile": "본문_15_부록_wikied.md",
       "sourceHash": "sha256:baf3d9708db4f463bec63174697e25f505152df4e1bb8d2caaedf56de8966dba",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/16-본문-15-부록-wikied.md",
-        "sourceHash": "baf3d9708db4f463bec63174697e25f505152df4e1bb8d2caaedf56de8966dba",
-        "updatedAt": "2026-07-14"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/16-본문-15-부록-wikied.md",
-        "sourceHash": "baf3d9708db4f463bec63174697e25f505152df4e1bb8d2caaedf56de8966dba",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/16-본문-15-부록-wikied.md",
-        "sourceHash": "baf3d9708db4f463bec63174697e25f505152df4e1bb8d2caaedf56de8966dba",
-        "updatedAt": "2026-07-14"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/16-본문-15-부록-wikied.md",
-        "sourceHash": "baf3d9708db4f463bec63174697e25f505152df4e1bb8d2caaedf56de8966dba",
-        "updatedAt": "2026-07-14"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/16-본문-15-부록-wikied.md",
+          "sourceHash": "baf3d9708db4f463bec63174697e25f505152df4e1bb8d2caaedf56de8966dba",
+          "updatedAt": null
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/16-본문-15-부록-wikied.md",
+          "sourceHash": "baf3d9708db4f463bec63174697e25f505152df4e1bb8d2caaedf56de8966dba",
+          "updatedAt": null
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/16-본문-15-부록-wikied.md",
+          "sourceHash": "baf3d9708db4f463bec63174697e25f505152df4e1bb8d2caaedf56de8966dba",
+          "updatedAt": null
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/16-본문-15-부록-wikied.md",
+          "sourceHash": "baf3d9708db4f463bec63174697e25f505152df4e1bb8d2caaedf56de8966dba",
+          "updatedAt": null
+        }
       }
     }
   }

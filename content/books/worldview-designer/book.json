@@ -1,0 +1,287 @@
+{
+  "slug": "worldview-designer",
+  "title": "세계관설계자",
+  "subtitle": "세계관을 만드는 일을 직업의 기술로 정리한 15편의 지식체계",
+  "line": "KIM DONG-EUN",
+  "category": "Worldbuilding",
+  "author": "김동은WhtDrgon.",
+  "description": "세계관을 만드는 일을 하나의 직업 기술로 정리한 완결형 지식체계입니다. 총론에서 개념과 핍진성과 효용을 확정하고, 유형론에서 시간·공간·전통·SF·괴물과 영웅으로 세계의 갈래를 나누며, 실무론에서 설계 요소와 키워드론, 정의와 네이밍, 데이터 파이프라인, 매체별 스토리텔링, 자가동력의 세계까지 다루는 본편 15편으로 구성됩니다.",
+  "order": 12,
+  "chapterCount": 15,
+  "cover": "/assets/books/worldview-designer/01-01-세계관이란무엇인가.webp",
+  "assetCount": 30,
+  "assets": [
+    {
+      "title": "01 세계관이란무엇인가.webp",
+      "sourceFile": "01_세계관이란무엇인가.webp",
+      "url": "/assets/books/worldview-designer/01-01-세계관이란무엇인가.webp"
+    },
+    {
+      "title": "02 핍진성 허락의메커니즘.webp",
+      "sourceFile": "02_핍진성_허락의메커니즘.webp",
+      "url": "/assets/books/worldview-designer/02-02-핍진성-허락의메커니즘.webp"
+    },
+    {
+      "title": "03 왜세계관인가.webp",
+      "sourceFile": "03_왜세계관인가.webp",
+      "url": "/assets/books/worldview-designer/03-03-왜세계관인가.webp"
+    },
+    {
+      "title": "04 설계자라는직업.webp",
+      "sourceFile": "04_설계자라는직업.webp",
+      "url": "/assets/books/worldview-designer/04-04-설계자라는직업.webp"
+    },
+    {
+      "title": "05 세계의유형1 시간.webp",
+      "sourceFile": "05_세계의유형1_시간.webp",
+      "url": "/assets/books/worldview-designer/05-05-세계의유형1-시간.webp"
+    },
+    {
+      "title": "06 세계의유형2 공간과크기.webp",
+      "sourceFile": "06_세계의유형2_공간과크기.webp",
+      "url": "/assets/books/worldview-designer/06-06-세계의유형2-공간과크기.webp"
+    },
+    {
+      "title": "07 세계의유형3 전통과장르물.webp",
+      "sourceFile": "07_세계의유형3_전통과장르물.webp",
+      "url": "/assets/books/worldview-designer/07-07-세계의유형3-전통과장르물.webp"
+    },
+    {
+      "title": "08 세계의유형4 SF와미래.webp",
+      "sourceFile": "08_세계의유형4_SF와미래.webp",
+      "url": "/assets/books/worldview-designer/08-08-세계의유형4-sf와미래.webp"
+    },
+    {
+      "title": "09 세계의유형5 괴물과영웅과규칙.webp",
+      "sourceFile": "09_세계의유형5_괴물과영웅과규칙.webp",
+      "url": "/assets/books/worldview-designer/09-09-세계의유형5-괴물과영웅과규칙.webp"
+    },
+    {
+      "title": "10 설계의요소와작업원리.webp",
+      "sourceFile": "10_설계의요소와작업원리.webp",
+      "url": "/assets/books/worldview-designer/10-10-설계의요소와작업원리.webp"
+    },
+    {
+      "title": "11 키워드론.webp",
+      "sourceFile": "11_키워드론.webp",
+      "url": "/assets/books/worldview-designer/11-11-키워드론.webp"
+    },
+    {
+      "title": "12 정의와네이밍.webp",
+      "sourceFile": "12_정의와네이밍.webp",
+      "url": "/assets/books/worldview-designer/12-12-정의와네이밍.webp"
+    },
+    {
+      "title": "13 데이터파이프라인.webp",
+      "sourceFile": "13_데이터파이프라인.webp",
+      "url": "/assets/books/worldview-designer/13-13-데이터파이프라인.webp"
+    },
+    {
+      "title": "14 매체와세계관스토리텔링.webp",
+      "sourceFile": "14_매체와세계관스토리텔링.webp",
+      "url": "/assets/books/worldview-designer/14-14-매체와세계관스토리텔링.webp"
+    },
+    {
+      "title": "15 자가동력의세계.webp",
+      "sourceFile": "15_자가동력의세계.webp",
+      "url": "/assets/books/worldview-designer/15-15-자가동력의세계.webp"
+    },
+    {
+      "title": "생성된 이미지 1.png",
+      "sourceFile": "생성된 이미지 1.png",
+      "url": "/assets/books/worldview-designer/16-생성된-이미지-1.webp"
+    },
+    {
+      "title": "생성된 이미지 10.png",
+      "sourceFile": "생성된 이미지 10.png",
+      "url": "/assets/books/worldview-designer/17-생성된-이미지-10.webp"
+    },
+    {
+      "title": "생성된 이미지 11.png",
+      "sourceFile": "생성된 이미지 11.png",
+      "url": "/assets/books/worldview-designer/18-생성된-이미지-11.webp"
+    },
+    {
+      "title": "생성된 이미지 12.png",
+      "sourceFile": "생성된 이미지 12.png",
+      "url": "/assets/books/worldview-designer/19-생성된-이미지-12.webp"
+    },
+    {
+      "title": "생성된 이미지 13.png",
+      "sourceFile": "생성된 이미지 13.png",
+      "url": "/assets/books/worldview-designer/20-생성된-이미지-13.webp"
+    },
+    {
+      "title": "생성된 이미지 14.png",
+      "sourceFile": "생성된 이미지 14.png",
+      "url": "/assets/books/worldview-designer/21-생성된-이미지-14.webp"
+    },
+    {
+      "title": "생성된 이미지 15.png",
+      "sourceFile": "생성된 이미지 15.png",
+      "url": "/assets/books/worldview-designer/22-생성된-이미지-15.webp"
+    },
+    {
+      "title": "생성된 이미지 2.png",
+      "sourceFile": "생성된 이미지 2.png",
+      "url": "/assets/books/worldview-designer/23-생성된-이미지-2.webp"
+    },
+    {
+      "title": "생성된 이미지 3.png",
+      "sourceFile": "생성된 이미지 3.png",
+      "url": "/assets/books/worldview-designer/24-생성된-이미지-3.webp"
+    },
+    {
+      "title": "생성된 이미지 4.png",
+      "sourceFile": "생성된 이미지 4.png",
+      "url": "/assets/books/worldview-designer/25-생성된-이미지-4.webp"
+    },
+    {
+      "title": "생성된 이미지 5.png",
+      "sourceFile": "생성된 이미지 5.png",
+      "url": "/assets/books/worldview-designer/26-생성된-이미지-5.webp"
+    },
+    {
+      "title": "생성된 이미지 6.png",
+      "sourceFile": "생성된 이미지 6.png",
+      "url": "/assets/books/worldview-designer/27-생성된-이미지-6.webp"
+    },
+    {
+      "title": "생성된 이미지 7.png",
+      "sourceFile": "생성된 이미지 7.png",
+      "url": "/assets/books/worldview-designer/28-생성된-이미지-7.webp"
+    },
+    {
+      "title": "생성된 이미지 8.png",
+      "sourceFile": "생성된 이미지 8.png",
+      "url": "/assets/books/worldview-designer/29-생성된-이미지-8.webp"
+    },
+    {
+      "title": "생성된 이미지 9.png",
+      "sourceFile": "생성된 이미지 9.png",
+      "url": "/assets/books/worldview-designer/30-생성된-이미지-9.webp"
+    }
+  ],
+  "chapters": [
+    {
+      "slug": "01-01-세계관이란무엇인가",
+      "title": "세계관이란 무엇인가",
+      "sourceFile": "01_세계관이란무엇인가.md",
+      "sourceHash": "0e5774191a34dcb201bdae10abc481370f1a1eaefd9dd6bbda2f4d232263c1b4",
+      "file": "chapters/01-01-세계관이란무엇인가.md",
+      "order": 1
+    },
+    {
+      "slug": "02-02-핍진성허락의메커니즘",
+      "title": "핍진성, 허락의 메커니즘",
+      "sourceFile": "02_핍진성허락의메커니즘.md",
+      "sourceHash": "4468940c29eb72363d4db11a146926298f7e88ed79b6d4b98337757375fbad86",
+      "file": "chapters/02-02-핍진성허락의메커니즘.md",
+      "order": 2
+    },
+    {
+      "slug": "03-03-왜세계관인가",
+      "title": "왜 세계관인가",
+      "sourceFile": "03_왜세계관인가.md",
+      "sourceHash": "abdce420cdf4875cda6218a4e6e489cf7ce360561b45d7a0ffc2b2a1f9ac7489",
+      "file": "chapters/03-03-왜세계관인가.md",
+      "order": 3
+    },
+    {
+      "slug": "04-04-설계자라는직업",
+      "title": "설계자라는 직업",
+      "sourceFile": "04_설계자라는직업.md",
+      "sourceHash": "c87830f0f8d88b1e591fa620c71f4ac04f51669ece02357f09ca051f3e47be17",
+      "file": "chapters/04-04-설계자라는직업.md",
+      "order": 4
+    },
+    {
+      "slug": "05-05-세계의유형1-시간",
+      "title": "세계의 유형 1, 시간",
+      "sourceFile": "05_세계의유형1_시간.md",
+      "sourceHash": "d45d79e0128f1cc58b87145bdefd233b6b29e302638511c9acd4d0238b0c9fe6",
+      "file": "chapters/05-05-세계의유형1-시간.md",
+      "order": 5
+    },
+    {
+      "slug": "06-06-세계의유형2-공간과크기",
+      "title": "세계의 유형 2, 공간과 크기",
+      "sourceFile": "06_세계의유형2_공간과크기.md",
+      "sourceHash": "e3ce7e9303fa69f20b90cf743dcde932b114d55fdb05271118b62da8532b737f",
+      "file": "chapters/06-06-세계의유형2-공간과크기.md",
+      "order": 6
+    },
+    {
+      "slug": "07-07-세계의유형3-전통과장르물",
+      "title": "세계의 유형 3, 전통과 장르물",
+      "sourceFile": "07_세계의유형3_전통과장르물.md",
+      "sourceHash": "0e94296a2920284d8731918bbe96e75328d6b8a9ca99783784dca0617d1bfe54",
+      "file": "chapters/07-07-세계의유형3-전통과장르물.md",
+      "order": 7
+    },
+    {
+      "slug": "08-08-세계의유형4-sf와미래",
+      "title": "세계의 유형 4, SF와 미래",
+      "sourceFile": "08_세계의유형4_SF와미래.md",
+      "sourceHash": "729d82e4e3ed741367e7a8efd6e6e77eba3f4a11a83f5956ef486330439301f1",
+      "file": "chapters/08-08-세계의유형4-sf와미래.md",
+      "order": 8
+    },
+    {
+      "slug": "09-09-세계의유형5-괴물과영웅과규칙",
+      "title": "세계의 유형 5, 괴물과 영웅과 규칙",
+      "sourceFile": "09_세계의유형5_괴물과영웅과규칙.md",
+      "sourceHash": "d706af58b59979d76e3fc6cdbce3a3481d1ffd1457a173b11f3e06d380b1158d",
+      "file": "chapters/09-09-세계의유형5-괴물과영웅과규칙.md",
+      "order": 9
+    },
+    {
+      "slug": "10-10-설계의요소와작업원리",
+      "title": "설계의 요소와 작업 원리",
+      "sourceFile": "10_설계의요소와작업원리.md",
+      "sourceHash": "bc49cf3753046825a7900350ecb05f5b283e07e81f4d5e9cca3d07b3db0c23d4",
+      "file": "chapters/10-10-설계의요소와작업원리.md",
+      "order": 10
+    },
+    {
+      "slug": "11-11-키워드론",
+      "title": "키워드론",
+      "sourceFile": "11_키워드론.md",
+      "sourceHash": "f9c049a739b762198ccce0f18c6898953a64bba41ec4c8e2a5f9284a37cda18b",
+      "file": "chapters/11-11-키워드론.md",
+      "order": 11
+    },
+    {
+      "slug": "12-12-정의와네이밍",
+      "title": "정의와 네이밍",
+      "sourceFile": "12_정의와네이밍.md",
+      "sourceHash": "33a2f179e538da25ccfbf0a496f1dc99e5fdf67be5584fc62f80e82790a8cc04",
+      "file": "chapters/12-12-정의와네이밍.md",
+      "order": 12
+    },
+    {
+      "slug": "13-13-데이터파이프라인",
+      "title": "데이터 파이프라인",
+      "sourceFile": "13_데이터파이프라인.md",
+      "sourceHash": "9f9e4514e7857e919be43adead8bead1d78a77e0bf20f2285442e5081bd263fc",
+      "file": "chapters/13-13-데이터파이프라인.md",
+      "order": 13
+    },
+    {
+      "slug": "14-14-매체와세계관스토리텔링",
+      "title": "매체와 세계관 스토리텔링",
+      "sourceFile": "14_매체와세계관스토리텔링.md",
+      "sourceHash": "815da6afb7307bebccd5db237a8be32edc3ea9ea10bbefffb013524affe935a3",
+      "file": "chapters/14-14-매체와세계관스토리텔링.md",
+      "order": 14
+    },
+    {
+      "slug": "15-15-자가동력의세계",
+      "title": "자가동력의 세계",
+      "sourceFile": "15_자가동력의세계.md",
+      "sourceHash": "701e69277cb41af6cbf4054869dec0fcc63e6b48e94e0aeb8349657cfe0eb278",
+      "file": "chapters/15-15-자가동력의세계.md",
+      "order": 15
+    }
+  ]
+}

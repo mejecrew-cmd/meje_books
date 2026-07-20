@@ -8,7 +8,7 @@
     "zh-Hant",
     "zh-Hans"
   ],
-  "generatedAt": "2026-07-13T06:07:55.573Z",
+  "generatedAt": "2026-07-20T16:47:38.679Z",
   "chapters": {
     "03-본문-01-제1장": {
       "title": "글로서리에서 클라우드로\n우리가 다루는 자료의 변화",
@@ -19,25 +19,25 @@
           "status": "translated",
           "file": "translations/en/03-본문-01-제1장.md",
           "sourceHash": "c92bed54252f63679d6be8dfa917ff00634c357329379c6990cc2077bfbd59ff",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/03-본문-01-제1장.md",
           "sourceHash": "c92bed54252f63679d6be8dfa917ff00634c357329379c6990cc2077bfbd59ff",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/03-본문-01-제1장.md",
           "sourceHash": "c92bed54252f63679d6be8dfa917ff00634c357329379c6990cc2077bfbd59ff",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/03-본문-01-제1장.md",
           "sourceHash": "c92bed54252f63679d6be8dfa917ff00634c357329379c6990cc2077bfbd59ff",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -50,25 +50,25 @@
           "status": "translated",
           "file": "translations/en/04-본문-02-제2장.md",
           "sourceHash": "28f0f3047d0ab02117d5f5422ed5967cd2ab5ed80f2e826c910b6bda910296e9",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/04-본문-02-제2장.md",
           "sourceHash": "28f0f3047d0ab02117d5f5422ed5967cd2ab5ed80f2e826c910b6bda910296e9",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/04-본문-02-제2장.md",
           "sourceHash": "28f0f3047d0ab02117d5f5422ed5967cd2ab5ed80f2e826c910b6bda910296e9",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/04-본문-02-제2장.md",
           "sourceHash": "28f0f3047d0ab02117d5f5422ed5967cd2ab5ed80f2e826c910b6bda910296e9",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -81,25 +81,25 @@
           "status": "translated",
           "file": "translations/en/05-본문-03-제3장.md",
           "sourceHash": "4fbe3d775bf84c7fd3c5d3da59eb9258d0ccbfb5034d30e759f6fd33b6ee1443",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/05-본문-03-제3장.md",
           "sourceHash": "4fbe3d775bf84c7fd3c5d3da59eb9258d0ccbfb5034d30e759f6fd33b6ee1443",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/05-본문-03-제3장.md",
           "sourceHash": "4fbe3d775bf84c7fd3c5d3da59eb9258d0ccbfb5034d30e759f6fd33b6ee1443",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/05-본문-03-제3장.md",
           "sourceHash": "4fbe3d775bf84c7fd3c5d3da59eb9258d0ccbfb5034d30e759f6fd33b6ee1443",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -112,25 +112,25 @@
           "status": "translated",
           "file": "translations/en/06-본문-04-제4장.md",
           "sourceHash": "8cada3be0b2ee963a6f0acbd7a5e2e35f0bf9e0357c3339828c375cd07a57d55",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/06-본문-04-제4장.md",
           "sourceHash": "8cada3be0b2ee963a6f0acbd7a5e2e35f0bf9e0357c3339828c375cd07a57d55",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/06-본문-04-제4장.md",
           "sourceHash": "8cada3be0b2ee963a6f0acbd7a5e2e35f0bf9e0357c3339828c375cd07a57d55",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/06-본문-04-제4장.md",
           "sourceHash": "8cada3be0b2ee963a6f0acbd7a5e2e35f0bf9e0357c3339828c375cd07a57d55",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -143,25 +143,25 @@
           "status": "translated",
           "file": "translations/en/07-본문-05-제5장.md",
           "sourceHash": "eb59cfe0e5900641d29546075ca938f7b7bc713ed3f7e596f7a2d455de25175b",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/07-본문-05-제5장.md",
           "sourceHash": "eb59cfe0e5900641d29546075ca938f7b7bc713ed3f7e596f7a2d455de25175b",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/07-본문-05-제5장.md",
           "sourceHash": "eb59cfe0e5900641d29546075ca938f7b7bc713ed3f7e596f7a2d455de25175b",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/07-본문-05-제5장.md",
           "sourceHash": "eb59cfe0e5900641d29546075ca938f7b7bc713ed3f7e596f7a2d455de25175b",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -174,25 +174,25 @@
           "status": "translated",
           "file": "translations/en/08-본문-06-제6장.md",
           "sourceHash": "440d73bb9aea899e32334bcaca62c76ddf2638a3c4b427ec83b8087f537b3c7b",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
-       "ja": {
+        "ja": {
           "status": "translated",
           "file": "translations/ja/08-본문-06-제6장.md",
           "sourceHash": "440d73bb9aea899e32334bcaca62c76ddf2638a3c4b427ec83b8087f537b3c7b",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
-       "zh-Hant": {
+        "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/08-본문-06-제6장.md",
           "sourceHash": "440d73bb9aea899e32334bcaca62c76ddf2638a3c4b427ec83b8087f537b3c7b",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/08-본문-06-제6장.md",
           "sourceHash": "440d73bb9aea899e32334bcaca62c76ddf2638a3c4b427ec83b8087f537b3c7b",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -203,27 +203,27 @@
       "translations": {
         "en": {
           "status": "translated",
-          "file": "translations/en/09-본문-07-제7장.md"
-          ,"sourceHash": "27c878f897f5be9b0ec06850137272c81bcca518a12cd4a4eb44c4da89dfcda1",
-          "updatedAt": "2026-07-13"
+          "file": "translations/en/09-본문-07-제7장.md",
+          "sourceHash": "27c878f897f5be9b0ec06850137272c81bcca518a12cd4a4eb44c4da89dfcda1",
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/09-본문-07-제7장.md",
           "sourceHash": "27c878f897f5be9b0ec06850137272c81bcca518a12cd4a4eb44c4da89dfcda1",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/09-본문-07-제7장.md",
           "sourceHash": "27c878f897f5be9b0ec06850137272c81bcca518a12cd4a4eb44c4da89dfcda1",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/09-본문-07-제7장.md",
           "sourceHash": "27c878f897f5be9b0ec06850137272c81bcca518a12cd4a4eb44c4da89dfcda1",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -236,25 +236,25 @@
           "status": "translated",
           "file": "translations/en/10-본문-08-제8장.md",
           "sourceHash": "a404ad0261a1fb958bfbbb7a456d34300e80ace1c0c3e7bc91865cdb03604874",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/10-본문-08-제8장.md",
           "sourceHash": "a404ad0261a1fb958bfbbb7a456d34300e80ace1c0c3e7bc91865cdb03604874",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/10-본문-08-제8장.md",
           "sourceHash": "a404ad0261a1fb958bfbbb7a456d34300e80ace1c0c3e7bc91865cdb03604874",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/10-본문-08-제8장.md",
           "sourceHash": "a404ad0261a1fb958bfbbb7a456d34300e80ace1c0c3e7bc91865cdb03604874",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -267,25 +267,25 @@
           "status": "translated",
           "file": "translations/en/11-본문-09-제9장.md",
           "sourceHash": "ab06ed8c1836f8c9d505aa8442f7b0d50c1035adcabf67658f2c1c27ad95cfbe",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/11-본문-09-제9장.md",
           "sourceHash": "ab06ed8c1836f8c9d505aa8442f7b0d50c1035adcabf67658f2c1c27ad95cfbe",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/11-본문-09-제9장.md",
           "sourceHash": "ab06ed8c1836f8c9d505aa8442f7b0d50c1035adcabf67658f2c1c27ad95cfbe",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/11-본문-09-제9장.md",
           "sourceHash": "ab06ed8c1836f8c9d505aa8442f7b0d50c1035adcabf67658f2c1c27ad95cfbe",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -298,25 +298,25 @@
           "status": "translated",
           "file": "translations/en/12-본문-10-제10장.md",
           "sourceHash": "550eb80dafb0e8e31013908cc109c3cfbfdd79c7543679abdfa685c5e54e0e28",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/12-본문-10-제10장.md",
           "sourceHash": "550eb80dafb0e8e31013908cc109c3cfbfdd79c7543679abdfa685c5e54e0e28",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
           "status": "translated",
           "file": "translations/zh-Hant/12-본문-10-제10장.md",
           "sourceHash": "550eb80dafb0e8e31013908cc109c3cfbfdd79c7543679abdfa685c5e54e0e28",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
           "status": "translated",
           "file": "translations/zh-Hans/12-본문-10-제10장.md",
           "sourceHash": "550eb80dafb0e8e31013908cc109c3cfbfdd79c7543679abdfa685c5e54e0e28",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -329,25 +329,25 @@
           "status": "translated",
           "file": "translations/en/13-본문-11-제11장.md",
           "sourceHash": "57a2cdc545721877b386bc6565cea036954588942faf81eff4f84a3ac9e9facb",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
           "status": "translated",
           "file": "translations/ja/13-본문-11-제11장.md",
           "sourceHash": "57a2cdc545721877b386bc6565cea036954588942faf81eff4f84a3ac9e9facb",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/13-본문-11-제11장.md",
           "sourceHash": "57a2cdc545721877b386bc6565cea036954588942faf81eff4f84a3ac9e9facb",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/13-본문-11-제11장.md",
           "sourceHash": "57a2cdc545721877b386bc6565cea036954588942faf81eff4f84a3ac9e9facb",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -357,28 +357,28 @@
       "sourceHash": "sha256:ea36387c9d654d0d3d38e662c361928b34f7e8291a1d65a22cdc5d1c34fc374f",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/14-본문-12-제12장.md",
           "sourceHash": "ea36387c9d654d0d3d38e662c361928b34f7e8291a1d65a22cdc5d1c34fc374f",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/14-본문-12-제12장.md",
           "sourceHash": "ea36387c9d654d0d3d38e662c361928b34f7e8291a1d65a22cdc5d1c34fc374f",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/14-본문-12-제12장.md",
           "sourceHash": "ea36387c9d654d0d3d38e662c361928b34f7e8291a1d65a22cdc5d1c34fc374f",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/14-본문-12-제12장.md",
           "sourceHash": "ea36387c9d654d0d3d38e662c361928b34f7e8291a1d65a22cdc5d1c34fc374f",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -388,28 +388,28 @@
       "sourceHash": "sha256:009c9204f3622a9d15f78eea70d91dfaa7541a169dc568bf0777fed36318f90e",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/15-본문-13-제13장.md",
           "sourceHash": "009c9204f3622a9d15f78eea70d91dfaa7541a169dc568bf0777fed36318f90e",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/15-본문-13-제13장.md",
           "sourceHash": "009c9204f3622a9d15f78eea70d91dfaa7541a169dc568bf0777fed36318f90e",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/15-본문-13-제13장.md",
           "sourceHash": "009c9204f3622a9d15f78eea70d91dfaa7541a169dc568bf0777fed36318f90e",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/15-본문-13-제13장.md",
           "sourceHash": "009c9204f3622a9d15f78eea70d91dfaa7541a169dc568bf0777fed36318f90e",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -419,28 +419,28 @@
       "sourceHash": "sha256:b81b0d02e7a9a183a9d39e4b6d37399855995a3902fba2963193ff348026b5f3",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/16-본문-14-제14장.md",
           "sourceHash": "b81b0d02e7a9a183a9d39e4b6d37399855995a3902fba2963193ff348026b5f3",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/16-본문-14-제14장.md",
           "sourceHash": "b81b0d02e7a9a183a9d39e4b6d37399855995a3902fba2963193ff348026b5f3",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/16-본문-14-제14장.md",
           "sourceHash": "b81b0d02e7a9a183a9d39e4b6d37399855995a3902fba2963193ff348026b5f3",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/16-본문-14-제14장.md",
           "sourceHash": "b81b0d02e7a9a183a9d39e4b6d37399855995a3902fba2963193ff348026b5f3",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -450,28 +450,28 @@
       "sourceHash": "sha256:731e5b56009a0b65acd423331e5e45c07f17be63037d4158566baf0f2d6a4690",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/18-실무편-b-1차추출-csv-샘플.md",
           "sourceHash": "731e5b56009a0b65acd423331e5e45c07f17be63037d4158566baf0f2d6a4690",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/18-실무편-b-1차추출-csv-샘플.md",
           "sourceHash": "731e5b56009a0b65acd423331e5e45c07f17be63037d4158566baf0f2d6a4690",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/18-실무편-b-1차추출-csv-샘플.md",
           "sourceHash": "731e5b56009a0b65acd423331e5e45c07f17be63037d4158566baf0f2d6a4690",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/18-실무편-b-1차추출-csv-샘플.md",
           "sourceHash": "731e5b56009a0b65acd423331e5e45c07f17be63037d4158566baf0f2d6a4690",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -481,28 +481,28 @@
       "sourceHash": "sha256:b82ae8931a2832d55e2cb66c30f8c0a401484bba480056275917902550623fc3",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/19-실무편-c-2차통합-csv-샘플.md",
           "sourceHash": "b82ae8931a2832d55e2cb66c30f8c0a401484bba480056275917902550623fc3",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/19-실무편-c-2차통합-csv-샘플.md",
           "sourceHash": "b82ae8931a2832d55e2cb66c30f8c0a401484bba480056275917902550623fc3",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/19-실무편-c-2차통합-csv-샘플.md",
           "sourceHash": "b82ae8931a2832d55e2cb66c30f8c0a401484bba480056275917902550623fc3",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/19-실무편-c-2차통합-csv-샘플.md",
           "sourceHash": "b82ae8931a2832d55e2cb66c30f8c0a401484bba480056275917902550623fc3",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -512,28 +512,28 @@
       "sourceHash": "sha256:abb8af37fee8ff63cf320fba53376e7e511f7de243e4ae3a9145b0bb7a564319",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/20-실무편-a-프로젝트프로파일-템플릿.md",
           "sourceHash": "abb8af37fee8ff63cf320fba53376e7e511f7de243e4ae3a9145b0bb7a564319",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/20-실무편-a-프로젝트프로파일-템플릿.md",
           "sourceHash": "abb8af37fee8ff63cf320fba53376e7e511f7de243e4ae3a9145b0bb7a564319",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/20-실무편-a-프로젝트프로파일-템플릿.md",
           "sourceHash": "abb8af37fee8ff63cf320fba53376e7e511f7de243e4ae3a9145b0bb7a564319",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/20-실무편-a-프로젝트프로파일-템플릿.md",
           "sourceHash": "abb8af37fee8ff63cf320fba53376e7e511f7de243e4ae3a9145b0bb7a564319",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -543,28 +543,28 @@
       "sourceHash": "sha256:41e2c66b8cc721b2aba03d49397cc566e89c71a08317260590800466753e21fa",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/21-실무편-d-vault-md-기준문서-예시.md",
           "sourceHash": "41e2c66b8cc721b2aba03d49397cc566e89c71a08317260590800466753e21fa",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/21-실무편-d-vault-md-기준문서-예시.md",
           "sourceHash": "41e2c66b8cc721b2aba03d49397cc566e89c71a08317260590800466753e21fa",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/21-실무편-d-vault-md-기준문서-예시.md",
           "sourceHash": "41e2c66b8cc721b2aba03d49397cc566e89c71a08317260590800466753e21fa",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/21-실무편-d-vault-md-기준문서-예시.md",
           "sourceHash": "41e2c66b8cc721b2aba03d49397cc566e89c71a08317260590800466753e21fa",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -574,28 +574,28 @@
       "sourceHash": "sha256:cfd9a8db6dcfe5d83f5d208b5740c6242f4b094dd28b5c0ef3296fcbb73de594",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/22-실무편-e-vault-manifest-예시.md",
           "sourceHash": "cfd9a8db6dcfe5d83f5d208b5740c6242f4b094dd28b5c0ef3296fcbb73de594",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/22-실무편-e-vault-manifest-예시.md",
           "sourceHash": "cfd9a8db6dcfe5d83f5d208b5740c6242f4b094dd28b5c0ef3296fcbb73de594",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/22-실무편-e-vault-manifest-예시.md",
           "sourceHash": "cfd9a8db6dcfe5d83f5d208b5740c6242f4b094dd28b5c0ef3296fcbb73de594",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/22-실무편-e-vault-manifest-예시.md",
           "sourceHash": "cfd9a8db6dcfe5d83f5d208b5740c6242f4b094dd28b5c0ef3296fcbb73de594",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -605,28 +605,28 @@
       "sourceHash": "sha256:6ad13900b33464caddae67a248e2674a8575c1c985c27b312cd175c00b2bc393",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/23-실무편-f-검증체크리스트.md",
           "sourceHash": "6ad13900b33464caddae67a248e2674a8575c1c985c27b312cd175c00b2bc393",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/23-실무편-f-검증체크리스트.md",
           "sourceHash": "6ad13900b33464caddae67a248e2674a8575c1c985c27b312cd175c00b2bc393",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/23-실무편-f-검증체크리스트.md",
           "sourceHash": "6ad13900b33464caddae67a248e2674a8575c1c985c27b312cd175c00b2bc393",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/23-실무편-f-검증체크리스트.md",
           "sourceHash": "6ad13900b33464caddae67a248e2674a8575c1c985c27b312cd175c00b2bc393",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     },
@@ -636,28 +636,28 @@
       "sourceHash": "sha256:3d991df21d819020464d101839c2f784ae34d12a9265e4759f294394cfff0ce7",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/24-실무편-g-적용전후비교-양식.md",
           "sourceHash": "3d991df21d819020464d101839c2f784ae34d12a9265e4759f294394cfff0ce7",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/24-실무편-g-적용전후비교-양식.md",
           "sourceHash": "3d991df21d819020464d101839c2f784ae34d12a9265e4759f294394cfff0ce7",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/24-실무편-g-적용전후비교-양식.md",
           "sourceHash": "3d991df21d819020464d101839c2f784ae34d12a9265e4759f294394cfff0ce7",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/24-실무편-g-적용전후비교-양식.md",
           "sourceHash": "3d991df21d819020464d101839c2f784ae34d12a9265e4759f294394cfff0ce7",
-          "updatedAt": "2026-07-13"
+          "updatedAt": null
         }
       }
     }

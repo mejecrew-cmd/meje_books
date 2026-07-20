@@ -8,7 +8,7 @@
     "zh-Hant",
     "zh-Hans"
   ],
-  "generatedAt": "2026-07-13T01:31:14.380Z",
+  "generatedAt": "2026-07-20T16:58:46.437Z",
   "chapters": {
     "02-01장-세계관은-설정집이-아니다": {
       "title": "01장. 세계관은 설정집이 아니다",
@@ -16,25 +16,25 @@
       "sourceHash": "sha256:01bbf8b7afb7fa914bca63169b4cca32da4e0b31f38098fe3b18048bab2598f0",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/02-01장-세계관은-설정집이-아니다.md",
           "sourceHash": "01bbf8b7afb7fa914bca63169b4cca32da4e0b31f38098fe3b18048bab2598f0",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/02-01장-세계관은-설정집이-아니다.md",
           "sourceHash": "01bbf8b7afb7fa914bca63169b4cca32da4e0b31f38098fe3b18048bab2598f0",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/02-01장-세계관은-설정집이-아니다.md",
           "sourceHash": "01bbf8b7afb7fa914bca63169b4cca32da4e0b31f38098fe3b18048bab2598f0",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/02-01장-세계관은-설정집이-아니다.md",
           "sourceHash": "01bbf8b7afb7fa914bca63169b4cca32da4e0b31f38098fe3b18048bab2598f0",
           "updatedAt": "2026-07-15"
@@ -47,25 +47,25 @@
       "sourceHash": "sha256:16154ea9523bd11b4e60fdb7a257f0f0c42311d7359eff72f8b533cfb5d80adb",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/03-02장-세계관의-두-의미-관점과-구현.md",
           "sourceHash": "16154ea9523bd11b4e60fdb7a257f0f0c42311d7359eff72f8b533cfb5d80adb",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/03-02장-세계관의-두-의미-관점과-구현.md",
           "sourceHash": "16154ea9523bd11b4e60fdb7a257f0f0c42311d7359eff72f8b533cfb5d80adb",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/03-02장-세계관의-두-의미-관점과-구현.md",
           "sourceHash": "16154ea9523bd11b4e60fdb7a257f0f0c42311d7359eff72f8b533cfb5d80adb",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/03-02장-세계관의-두-의미-관점과-구현.md",
           "sourceHash": "16154ea9523bd11b4e60fdb7a257f0f0c42311d7359eff72f8b533cfb5d80adb",
           "updatedAt": "2026-07-15"
@@ -78,25 +78,25 @@
       "sourceHash": "sha256:54ebffa2d88ab4c445cc012118013d49cbbbece224ab4a87d2f1cceaa19ad544",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/04-03장-장르는-세계관의-문법이다.md",
           "sourceHash": "54ebffa2d88ab4c445cc012118013d49cbbbece224ab4a87d2f1cceaa19ad544",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/04-03장-장르는-세계관의-문법이다.md",
           "sourceHash": "54ebffa2d88ab4c445cc012118013d49cbbbece224ab4a87d2f1cceaa19ad544",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/04-03장-장르는-세계관의-문법이다.md",
           "sourceHash": "54ebffa2d88ab4c445cc012118013d49cbbbece224ab4a87d2f1cceaa19ad544",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/04-03장-장르는-세계관의-문법이다.md",
           "sourceHash": "54ebffa2d88ab4c445cc012118013d49cbbbece224ab4a87d2f1cceaa19ad544",
           "updatedAt": "2026-07-15"
@@ -109,25 +109,25 @@
       "sourceHash": "sha256:22c302a340bb4c868dbf02966e4b984b5d453bef84cd3d8b2d84539bdbabc0b3",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/05-04장-세계는-물리와-사회로-선명해진다.md",
           "sourceHash": "22c302a340bb4c868dbf02966e4b984b5d453bef84cd3d8b2d84539bdbabc0b3",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/05-04장-세계는-물리와-사회로-선명해진다.md",
           "sourceHash": "22c302a340bb4c868dbf02966e4b984b5d453bef84cd3d8b2d84539bdbabc0b3",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/05-04장-세계는-물리와-사회로-선명해진다.md",
           "sourceHash": "22c302a340bb4c868dbf02966e4b984b5d453bef84cd3d8b2d84539bdbabc0b3",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/05-04장-세계는-물리와-사회로-선명해진다.md",
           "sourceHash": "22c302a340bb4c868dbf02966e4b984b5d453bef84cd3d8b2d84539bdbabc0b3",
           "updatedAt": "2026-07-15"
@@ -140,25 +140,25 @@
       "sourceHash": "sha256:94be26e71dd0c045231720b7f07a4b55a721bfe8d67717512527649f1949b61a",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/06-05장-캐논과-미관찰-영역.md",
           "sourceHash": "94be26e71dd0c045231720b7f07a4b55a721bfe8d67717512527649f1949b61a",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/06-05장-캐논과-미관찰-영역.md",
           "sourceHash": "94be26e71dd0c045231720b7f07a4b55a721bfe8d67717512527649f1949b61a",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/06-05장-캐논과-미관찰-영역.md",
           "sourceHash": "94be26e71dd0c045231720b7f07a4b55a721bfe8d67717512527649f1949b61a",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/06-05장-캐논과-미관찰-영역.md",
           "sourceHash": "94be26e71dd0c045231720b7f07a4b55a721bfe8d67717512527649f1949b61a",
           "updatedAt": "2026-07-15"
@@ -171,25 +171,25 @@
       "sourceHash": "sha256:cb52b30d95c9d7c98a8d649efd6facb747beefb0aa08987c598f08595d2e5987",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/07-06장-인접세계관과-독자-렌즈.md",
           "sourceHash": "cb52b30d95c9d7c98a8d649efd6facb747beefb0aa08987c598f08595d2e5987",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/07-06장-인접세계관과-독자-렌즈.md",
           "sourceHash": "cb52b30d95c9d7c98a8d649efd6facb747beefb0aa08987c598f08595d2e5987",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/07-06장-인접세계관과-독자-렌즈.md",
           "sourceHash": "cb52b30d95c9d7c98a8d649efd6facb747beefb0aa08987c598f08595d2e5987",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/07-06장-인접세계관과-독자-렌즈.md",
           "sourceHash": "cb52b30d95c9d7c98a8d649efd6facb747beefb0aa08987c598f08595d2e5987",
           "updatedAt": "2026-07-15"
@@ -202,25 +202,25 @@
       "sourceHash": "sha256:2adf210ec5cb3086f5d82158fa129204a0499a18fd446c5356822cf322d5f6c1",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/08-07장-커뮤니티는-작은-세계다.md",
           "sourceHash": "2adf210ec5cb3086f5d82158fa129204a0499a18fd446c5356822cf322d5f6c1",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/08-07장-커뮤니티는-작은-세계다.md",
           "sourceHash": "2adf210ec5cb3086f5d82158fa129204a0499a18fd446c5356822cf322d5f6c1",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/08-07장-커뮤니티는-작은-세계다.md",
           "sourceHash": "2adf210ec5cb3086f5d82158fa129204a0499a18fd446c5356822cf322d5f6c1",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/08-07장-커뮤니티는-작은-세계다.md",
           "sourceHash": "2adf210ec5cb3086f5d82158fa129204a0499a18fd446c5356822cf322d5f6c1",
           "updatedAt": "2026-07-15"
@@ -233,25 +233,25 @@
       "sourceHash": "sha256:b64366fc20352436aae914d965e94d6cc5ecaac3ce53fb42218f797853b52e47",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/09-08장-팬덤은-해석-공동체다.md",
           "sourceHash": "b64366fc20352436aae914d965e94d6cc5ecaac3ce53fb42218f797853b52e47",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/09-08장-팬덤은-해석-공동체다.md",
           "sourceHash": "b64366fc20352436aae914d965e94d6cc5ecaac3ce53fb42218f797853b52e47",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/09-08장-팬덤은-해석-공동체다.md",
           "sourceHash": "b64366fc20352436aae914d965e94d6cc5ecaac3ce53fb42218f797853b52e47",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/09-08장-팬덤은-해석-공동체다.md",
           "sourceHash": "b64366fc20352436aae914d965e94d6cc5ecaac3ce53fb42218f797853b52e47",
           "updatedAt": "2026-07-15"
@@ -264,25 +264,25 @@
       "sourceHash": "sha256:30606f1b53b11b9354a072a893c230ee9f53791210490f1c37ce291e357b4bcd",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/10-09장-그룹핑과-조직화의-원리.md",
           "sourceHash": "30606f1b53b11b9354a072a893c230ee9f53791210490f1c37ce291e357b4bcd",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/10-09장-그룹핑과-조직화의-원리.md",
           "sourceHash": "30606f1b53b11b9354a072a893c230ee9f53791210490f1c37ce291e357b4bcd",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/10-09장-그룹핑과-조직화의-원리.md",
           "sourceHash": "30606f1b53b11b9354a072a893c230ee9f53791210490f1c37ce291e357b4bcd",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/10-09장-그룹핑과-조직화의-원리.md",
           "sourceHash": "30606f1b53b11b9354a072a893c230ee9f53791210490f1c37ce291e357b4bcd",
           "updatedAt": "2026-07-15"
@@ -295,25 +295,25 @@
       "sourceHash": "sha256:c49902ee5c9ffa4296460c71b236a1d395bae9ad91b1f9b8d938c2b58f7b8651",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/11-10장-배타적-지식체계의-힘.md",
           "sourceHash": "c49902ee5c9ffa4296460c71b236a1d395bae9ad91b1f9b8d938c2b58f7b8651",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/11-10장-배타적-지식체계의-힘.md",
           "sourceHash": "c49902ee5c9ffa4296460c71b236a1d395bae9ad91b1f9b8d938c2b58f7b8651",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/11-10장-배타적-지식체계의-힘.md",
           "sourceHash": "c49902ee5c9ffa4296460c71b236a1d395bae9ad91b1f9b8d938c2b58f7b8651",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/11-10장-배타적-지식체계의-힘.md",
           "sourceHash": "c49902ee5c9ffa4296460c71b236a1d395bae9ad91b1f9b8d938c2b58f7b8651",
           "updatedAt": "2026-07-15"
@@ -326,25 +326,25 @@
       "sourceHash": "sha256:1189107d2b0033ee4fccf19e549fa90c7d0403dfc04515d949291e2c3bceb315",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/12-11장-컬트-유사철학-음모론의-세계관-구조.md",
           "sourceHash": "1189107d2b0033ee4fccf19e549fa90c7d0403dfc04515d949291e2c3bceb315",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/12-11장-컬트-유사철학-음모론의-세계관-구조.md",
           "sourceHash": "1189107d2b0033ee4fccf19e549fa90c7d0403dfc04515d949291e2c3bceb315",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/12-11장-컬트-유사철학-음모론의-세계관-구조.md",
           "sourceHash": "1189107d2b0033ee4fccf19e549fa90c7d0403dfc04515d949291e2c3bceb315",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/12-11장-컬트-유사철학-음모론의-세계관-구조.md",
           "sourceHash": "1189107d2b0033ee4fccf19e549fa90c7d0403dfc04515d949291e2c3bceb315",
           "updatedAt": "2026-07-15"
@@ -357,25 +357,25 @@
       "sourceHash": "sha256:9b73428710e537ec7fc11f7af1ec5322a2cc840df00b482484a74d7e3cf1f04f",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/13-12장-건강한-세계관과-위험한-세계관.md",
           "sourceHash": "9b73428710e537ec7fc11f7af1ec5322a2cc840df00b482484a74d7e3cf1f04f",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/13-12장-건강한-세계관과-위험한-세계관.md",
           "sourceHash": "9b73428710e537ec7fc11f7af1ec5322a2cc840df00b482484a74d7e3cf1f04f",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/13-12장-건강한-세계관과-위험한-세계관.md",
           "sourceHash": "9b73428710e537ec7fc11f7af1ec5322a2cc840df00b482484a74d7e3cf1f04f",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/13-12장-건강한-세계관과-위험한-세계관.md",
           "sourceHash": "9b73428710e537ec7fc11f7af1ec5322a2cc840df00b482484a74d7e3cf1f04f",
           "updatedAt": "2026-07-15"
@@ -388,25 +388,25 @@
       "sourceHash": "sha256:682bf91fe8d9d39d930316bf8117a2530c6890229d2ef5003bafe5f994aa3e02",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/14-13장-ip는-결과물이-아니라-파이프라인이다.md",
           "sourceHash": "682bf91fe8d9d39d930316bf8117a2530c6890229d2ef5003bafe5f994aa3e02",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/14-13장-ip는-결과물이-아니라-파이프라인이다.md",
           "sourceHash": "682bf91fe8d9d39d930316bf8117a2530c6890229d2ef5003bafe5f994aa3e02",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/14-13장-ip는-결과물이-아니라-파이프라인이다.md",
           "sourceHash": "682bf91fe8d9d39d930316bf8117a2530c6890229d2ef5003bafe5f994aa3e02",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/14-13장-ip는-결과물이-아니라-파이프라인이다.md",
           "sourceHash": "682bf91fe8d9d39d930316bf8117a2530c6890229d2ef5003bafe5f994aa3e02",
           "updatedAt": "2026-07-15"
@@ -419,25 +419,25 @@
       "sourceHash": "sha256:2360995be1689e8ff6df711d143baa0b352643128556bbfbbe268dcb798ef9d3",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/15-14장-라이브러링-흩어진-자료를-지식체계로-바꾸기.md",
           "sourceHash": "2360995be1689e8ff6df711d143baa0b352643128556bbfbbe268dcb798ef9d3",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/15-14장-라이브러링-흩어진-자료를-지식체계로-바꾸기.md",
           "sourceHash": "2360995be1689e8ff6df711d143baa0b352643128556bbfbbe268dcb798ef9d3",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/15-14장-라이브러링-흩어진-자료를-지식체계로-바꾸기.md",
           "sourceHash": "2360995be1689e8ff6df711d143baa0b352643128556bbfbbe268dcb798ef9d3",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/15-14장-라이브러링-흩어진-자료를-지식체계로-바꾸기.md",
           "sourceHash": "2360995be1689e8ff6df711d143baa0b352643128556bbfbbe268dcb798ef9d3",
           "updatedAt": "2026-07-15"
@@ -450,25 +450,25 @@
       "sourceHash": "sha256:a46d8685a403d723903428896e91f9ba2be078f83bb575edd6c86a66b7a492d4",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/16-15장-vault와-살아있는-문서.md",
           "sourceHash": "a46d8685a403d723903428896e91f9ba2be078f83bb575edd6c86a66b7a492d4",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/16-15장-vault와-살아있는-문서.md",
           "sourceHash": "a46d8685a403d723903428896e91f9ba2be078f83bb575edd6c86a66b7a492d4",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/16-15장-vault와-살아있는-문서.md",
           "sourceHash": "a46d8685a403d723903428896e91f9ba2be078f83bb575edd6c86a66b7a492d4",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/16-15장-vault와-살아있는-문서.md",
           "sourceHash": "a46d8685a403d723903428896e91f9ba2be078f83bb575edd6c86a66b7a492d4",
           "updatedAt": "2026-07-15"
@@ -481,25 +481,25 @@
       "sourceHash": "sha256:a7bc7b8695b8c31802dfa1e1d388d2d87e3ca69fc4c20010f65af9502253d3c2",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/17-16장-lorebook-세계관을-읽을-수-있게-만들기.md",
           "sourceHash": "a7bc7b8695b8c31802dfa1e1d388d2d87e3ca69fc4c20010f65af9502253d3c2",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/17-16장-lorebook-세계관을-읽을-수-있게-만들기.md",
           "sourceHash": "a7bc7b8695b8c31802dfa1e1d388d2d87e3ca69fc4c20010f65af9502253d3c2",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/17-16장-lorebook-세계관을-읽을-수-있게-만들기.md",
           "sourceHash": "a7bc7b8695b8c31802dfa1e1d388d2d87e3ca69fc4c20010f65af9502253d3c2",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/17-16장-lorebook-세계관을-읽을-수-있게-만들기.md",
           "sourceHash": "a7bc7b8695b8c31802dfa1e1d388d2d87e3ca69fc4c20010f65af9502253d3c2",
           "updatedAt": "2026-07-15"
@@ -512,25 +512,25 @@
       "sourceHash": "sha256:d90bfdfc333b2555e9eeb283d4b86962c1a737801a4e488efaaac4bf1cae7626",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/18-17장-캐릭터는-세계관의-인간-인터페이스다.md",
           "sourceHash": "d90bfdfc333b2555e9eeb283d4b86962c1a737801a4e488efaaac4bf1cae7626",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/18-17장-캐릭터는-세계관의-인간-인터페이스다.md",
           "sourceHash": "d90bfdfc333b2555e9eeb283d4b86962c1a737801a4e488efaaac4bf1cae7626",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/18-17장-캐릭터는-세계관의-인간-인터페이스다.md",
           "sourceHash": "d90bfdfc333b2555e9eeb283d4b86962c1a737801a4e488efaaac4bf1cae7626",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/18-17장-캐릭터는-세계관의-인간-인터페이스다.md",
           "sourceHash": "d90bfdfc333b2555e9eeb283d4b86962c1a737801a4e488efaaac4bf1cae7626",
           "updatedAt": "2026-07-15"
@@ -543,25 +543,25 @@
       "sourceHash": "sha256:f999ab72c8faf65286425c8e48abdc2435fe113fb0b85b2efc1f77a418ae7d46",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/19-18장-스토리텔링100-사전을-장면으로-바꾸기.md",
           "sourceHash": "f999ab72c8faf65286425c8e48abdc2435fe113fb0b85b2efc1f77a418ae7d46",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/19-18장-스토리텔링100-사전을-장면으로-바꾸기.md",
           "sourceHash": "f999ab72c8faf65286425c8e48abdc2435fe113fb0b85b2efc1f77a418ae7d46",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/19-18장-스토리텔링100-사전을-장면으로-바꾸기.md",
           "sourceHash": "f999ab72c8faf65286425c8e48abdc2435fe113fb0b85b2efc1f77a418ae7d46",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/19-18장-스토리텔링100-사전을-장면으로-바꾸기.md",
           "sourceHash": "f999ab72c8faf65286425c8e48abdc2435fe113fb0b85b2efc1f77a418ae7d46",
           "updatedAt": "2026-07-15"
@@ -573,30 +573,30 @@
       "sourceFile": "4부_리얼 IP와 팬덤 경제의 세계관화/19장_리얼 IP란 무엇인가.md",
       "sourceHash": "sha256:b5dda70f911dc2a62953e2959244ca2aee939570beb14dcdc00afe8f7b31f72e",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/20-19장-리얼-ip란-무엇인가.md",
-        "sourceHash": "b5dda70f911dc2a62953e2959244ca2aee939570beb14dcdc00afe8f7b31f72e",
-        "updatedAt": "2026-07-15"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/20-19장-리얼-ip란-무엇인가.md",
-        "sourceHash": "b5dda70f911dc2a62953e2959244ca2aee939570beb14dcdc00afe8f7b31f72e",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/20-19장-리얼-ip란-무엇인가.md",
-        "sourceHash": "b5dda70f911dc2a62953e2959244ca2aee939570beb14dcdc00afe8f7b31f72e",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/20-19장-리얼-ip란-무엇인가.md",
-        "sourceHash": "b5dda70f911dc2a62953e2959244ca2aee939570beb14dcdc00afe8f7b31f72e",
-        "updatedAt": "2026-07-15"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/20-19장-리얼-ip란-무엇인가.md",
+          "sourceHash": "b5dda70f911dc2a62953e2959244ca2aee939570beb14dcdc00afe8f7b31f72e",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/20-19장-리얼-ip란-무엇인가.md",
+          "sourceHash": "b5dda70f911dc2a62953e2959244ca2aee939570beb14dcdc00afe8f7b31f72e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/20-19장-리얼-ip란-무엇인가.md",
+          "sourceHash": "b5dda70f911dc2a62953e2959244ca2aee939570beb14dcdc00afe8f7b31f72e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/20-19장-리얼-ip란-무엇인가.md",
+          "sourceHash": "b5dda70f911dc2a62953e2959244ca2aee939570beb14dcdc00afe8f7b31f72e",
+          "updatedAt": "2026-07-15"
+        }
       }
     },
     "21-20장-아이돌-4계층-미디어-엔진": {
@@ -604,30 +604,30 @@
       "sourceFile": "4부_리얼 IP와 팬덤 경제의 세계관화/20장_아이돌 4계층 미디어 엔진.md",
       "sourceHash": "sha256:6bf4d77ce58e42cb18283de92003f38a8416abdc1386481bf63d4e3b615f688e",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/21-20장-아이돌-4계층-미디어-엔진.md",
-        "sourceHash": "6bf4d77ce58e42cb18283de92003f38a8416abdc1386481bf63d4e3b615f688e",
-        "updatedAt": "2026-07-15"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/21-20장-아이돌-4계층-미디어-엔진.md",
-        "sourceHash": "6bf4d77ce58e42cb18283de92003f38a8416abdc1386481bf63d4e3b615f688e",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/21-20장-아이돌-4계층-미디어-엔진.md",
-        "sourceHash": "6bf4d77ce58e42cb18283de92003f38a8416abdc1386481bf63d4e3b615f688e",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/21-20장-아이돌-4계층-미디어-엔진.md",
-        "sourceHash": "6bf4d77ce58e42cb18283de92003f38a8416abdc1386481bf63d4e3b615f688e",
-        "updatedAt": "2026-07-15"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/21-20장-아이돌-4계층-미디어-엔진.md",
+          "sourceHash": "6bf4d77ce58e42cb18283de92003f38a8416abdc1386481bf63d4e3b615f688e",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/21-20장-아이돌-4계층-미디어-엔진.md",
+          "sourceHash": "6bf4d77ce58e42cb18283de92003f38a8416abdc1386481bf63d4e3b615f688e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/21-20장-아이돌-4계층-미디어-엔진.md",
+          "sourceHash": "6bf4d77ce58e42cb18283de92003f38a8416abdc1386481bf63d4e3b615f688e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/21-20장-아이돌-4계층-미디어-엔진.md",
+          "sourceHash": "6bf4d77ce58e42cb18283de92003f38a8416abdc1386481bf63d4e3b615f688e",
+          "updatedAt": "2026-07-15"
+        }
       }
     },
     "22-21장-패러독스-안전장치": {
@@ -635,30 +635,30 @@
       "sourceFile": "4부_리얼 IP와 팬덤 경제의 세계관화/21장_패러독스 안전장치.md",
       "sourceHash": "sha256:aa04e313d6b18b8da05de04323bc27d122cc24e3ca2b3176a0382b87250c557b",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/22-21장-패러독스-안전장치.md",
-        "sourceHash": "aa04e313d6b18b8da05de04323bc27d122cc24e3ca2b3176a0382b87250c557b",
-        "updatedAt": "2026-07-15"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/22-21장-패러독스-안전장치.md",
-        "sourceHash": "aa04e313d6b18b8da05de04323bc27d122cc24e3ca2b3176a0382b87250c557b",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/22-21장-패러독스-안전장치.md",
-        "sourceHash": "aa04e313d6b18b8da05de04323bc27d122cc24e3ca2b3176a0382b87250c557b",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/22-21장-패러독스-안전장치.md",
-        "sourceHash": "aa04e313d6b18b8da05de04323bc27d122cc24e3ca2b3176a0382b87250c557b",
-        "updatedAt": "2026-07-15"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/22-21장-패러독스-안전장치.md",
+          "sourceHash": "aa04e313d6b18b8da05de04323bc27d122cc24e3ca2b3176a0382b87250c557b",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/22-21장-패러독스-안전장치.md",
+          "sourceHash": "aa04e313d6b18b8da05de04323bc27d122cc24e3ca2b3176a0382b87250c557b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/22-21장-패러독스-안전장치.md",
+          "sourceHash": "aa04e313d6b18b8da05de04323bc27d122cc24e3ca2b3176a0382b87250c557b",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/22-21장-패러독스-안전장치.md",
+          "sourceHash": "aa04e313d6b18b8da05de04323bc27d122cc24e3ca2b3176a0382b87250c557b",
+          "updatedAt": "2026-07-15"
+        }
       }
     },
     "23-22장-팬덤-액티비티의-8대-경험축": {
@@ -666,30 +666,30 @@
       "sourceFile": "4부_리얼 IP와 팬덤 경제의 세계관화/22장_팬덤 액티비티의 8대 경험축.md",
       "sourceHash": "sha256:e4fff65825427625abd27bf5333b356ca7e360c37e50cb96ea6a284e2d72880e",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/23-22장-팬덤-액티비티의-8대-경험축.md",
-        "sourceHash": "e4fff65825427625abd27bf5333b356ca7e360c37e50cb96ea6a284e2d72880e",
-        "updatedAt": "2026-07-15"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/23-22장-팬덤-액티비티의-8대-경험축.md",
-        "sourceHash": "e4fff65825427625abd27bf5333b356ca7e360c37e50cb96ea6a284e2d72880e",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/23-22장-팬덤-액티비티의-8대-경험축.md",
-        "sourceHash": "e4fff65825427625abd27bf5333b356ca7e360c37e50cb96ea6a284e2d72880e",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/23-22장-팬덤-액티비티의-8대-경험축.md",
-        "sourceHash": "e4fff65825427625abd27bf5333b356ca7e360c37e50cb96ea6a284e2d72880e",
-        "updatedAt": "2026-07-15"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/23-22장-팬덤-액티비티의-8대-경험축.md",
+          "sourceHash": "e4fff65825427625abd27bf5333b356ca7e360c37e50cb96ea6a284e2d72880e",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/23-22장-팬덤-액티비티의-8대-경험축.md",
+          "sourceHash": "e4fff65825427625abd27bf5333b356ca7e360c37e50cb96ea6a284e2d72880e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/23-22장-팬덤-액티비티의-8대-경험축.md",
+          "sourceHash": "e4fff65825427625abd27bf5333b356ca7e360c37e50cb96ea6a284e2d72880e",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/23-22장-팬덤-액티비티의-8대-경험축.md",
+          "sourceHash": "e4fff65825427625abd27bf5333b356ca7e360c37e50cb96ea6a284e2d72880e",
+          "updatedAt": "2026-07-15"
+        }
       }
     },
     "24-23장-게이지가-아니라-해석-성취가-아니라-동거": {
@@ -697,30 +697,30 @@
       "sourceFile": "4부_리얼 IP와 팬덤 경제의 세계관화/23장_게이지가 아니라 해석 성취가 아니라 동거.md",
       "sourceHash": "sha256:14bc49a9842ca6f5fe2326b4f35080963782bfdfd25bbe30c2df289d5c748e00",
       "translations": {
-      "en": {
-        "status": "translated",
-        "file": "translations/en/24-23장-게이지가-아니라-해석-성취가-아니라-동거.md",
-        "sourceHash": "14bc49a9842ca6f5fe2326b4f35080963782bfdfd25bbe30c2df289d5c748e00",
-        "updatedAt": "2026-07-15"
-      },
-      "ja": {
-        "status": "translated",
-        "file": "translations/ja/24-23장-게이지가-아니라-해석-성취가-아니라-동거.md",
-        "sourceHash": "14bc49a9842ca6f5fe2326b4f35080963782bfdfd25bbe30c2df289d5c748e00",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hant": {
-        "status": "translated",
-        "file": "translations/zh-Hant/24-23장-게이지가-아니라-해석-성취가-아니라-동거.md",
-        "sourceHash": "14bc49a9842ca6f5fe2326b4f35080963782bfdfd25bbe30c2df289d5c748e00",
-        "updatedAt": "2026-07-15"
-      },
-      "zh-Hans": {
-        "status": "translated",
-        "file": "translations/zh-Hans/24-23장-게이지가-아니라-해석-성취가-아니라-동거.md",
-        "sourceHash": "14bc49a9842ca6f5fe2326b4f35080963782bfdfd25bbe30c2df289d5c748e00",
-        "updatedAt": "2026-07-15"
-      }
+        "en": {
+          "status": "draft",
+          "file": "translations/en/24-23장-게이지가-아니라-해석-성취가-아니라-동거.md",
+          "sourceHash": "14bc49a9842ca6f5fe2326b4f35080963782bfdfd25bbe30c2df289d5c748e00",
+          "updatedAt": "2026-07-15"
+        },
+        "ja": {
+          "status": "draft",
+          "file": "translations/ja/24-23장-게이지가-아니라-해석-성취가-아니라-동거.md",
+          "sourceHash": "14bc49a9842ca6f5fe2326b4f35080963782bfdfd25bbe30c2df289d5c748e00",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hant": {
+          "status": "draft",
+          "file": "translations/zh-Hant/24-23장-게이지가-아니라-해석-성취가-아니라-동거.md",
+          "sourceHash": "14bc49a9842ca6f5fe2326b4f35080963782bfdfd25bbe30c2df289d5c748e00",
+          "updatedAt": "2026-07-15"
+        },
+        "zh-Hans": {
+          "status": "draft",
+          "file": "translations/zh-Hans/24-23장-게이지가-아니라-해석-성취가-아니라-동거.md",
+          "sourceHash": "14bc49a9842ca6f5fe2326b4f35080963782bfdfd25bbe30c2df289d5c748e00",
+          "updatedAt": "2026-07-15"
+        }
       }
     },
     "25-24장-팬덤경제-구독경제-창작경제의-결합": {
@@ -729,25 +729,25 @@
       "sourceHash": "sha256:7f1ce8170e0c34c3a783a54ab8dd51a2cc89041b72eb16b9f5acc2c04e1a708b",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/25-24장-팬덤경제-구독경제-창작경제의-결합.md",
           "sourceHash": "7f1ce8170e0c34c3a783a54ab8dd51a2cc89041b72eb16b9f5acc2c04e1a708b",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/25-24장-팬덤경제-구독경제-창작경제의-결합.md",
           "sourceHash": "7f1ce8170e0c34c3a783a54ab8dd51a2cc89041b72eb16b9f5acc2c04e1a708b",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/25-24장-팬덤경제-구독경제-창작경제의-결합.md",
           "sourceHash": "7f1ce8170e0c34c3a783a54ab8dd51a2cc89041b72eb16b9f5acc2c04e1a708b",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/25-24장-팬덤경제-구독경제-창작경제의-결합.md",
           "sourceHash": "7f1ce8170e0c34c3a783a54ab8dd51a2cc89041b72eb16b9f5acc2c04e1a708b",
           "updatedAt": "2026-07-15"
@@ -760,25 +760,25 @@
       "sourceHash": "sha256:8bab36dc36d5648b76b95e224590f9129f400c66562676ee2e75d27c98a67cac",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/26-25장-뉴콘텐츠-비즈니스는-매체가-아니라-구조다.md",
           "sourceHash": "8bab36dc36d5648b76b95e224590f9129f400c66562676ee2e75d27c98a67cac",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/26-25장-뉴콘텐츠-비즈니스는-매체가-아니라-구조다.md",
           "sourceHash": "8bab36dc36d5648b76b95e224590f9129f400c66562676ee2e75d27c98a67cac",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/26-25장-뉴콘텐츠-비즈니스는-매체가-아니라-구조다.md",
           "sourceHash": "8bab36dc36d5648b76b95e224590f9129f400c66562676ee2e75d27c98a67cac",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/26-25장-뉴콘텐츠-비즈니스는-매체가-아니라-구조다.md",
           "sourceHash": "8bab36dc36d5648b76b95e224590f9129f400c66562676ee2e75d27c98a67cac",
           "updatedAt": "2026-07-15"
@@ -791,25 +791,25 @@
       "sourceHash": "sha256:ddb0da62477565803c7da6c9230b285ad038501d5bf48761823083037c348c7c",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/27-26장-ai-시대의-창작-아키텍트.md",
           "sourceHash": "ddb0da62477565803c7da6c9230b285ad038501d5bf48761823083037c348c7c",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/27-26장-ai-시대의-창작-아키텍트.md",
           "sourceHash": "ddb0da62477565803c7da6c9230b285ad038501d5bf48761823083037c348c7c",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/27-26장-ai-시대의-창작-아키텍트.md",
           "sourceHash": "ddb0da62477565803c7da6c9230b285ad038501d5bf48761823083037c348c7c",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/27-26장-ai-시대의-창작-아키텍트.md",
           "sourceHash": "ddb0da62477565803c7da6c9230b285ad038501d5bf48761823083037c348c7c",
           "updatedAt": "2026-07-15"
@@ -822,25 +822,25 @@
       "sourceHash": "sha256:1ebaa9b299ac305b3bd9449a3d599d3cd1fcbbf0f28be39c3f548c3fbfa7767f",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/28-27장-자동화-엔진과-지식체인.md",
           "sourceHash": "1ebaa9b299ac305b3bd9449a3d599d3cd1fcbbf0f28be39c3f548c3fbfa7767f",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/28-27장-자동화-엔진과-지식체인.md",
           "sourceHash": "1ebaa9b299ac305b3bd9449a3d599d3cd1fcbbf0f28be39c3f548c3fbfa7767f",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/28-27장-자동화-엔진과-지식체인.md",
           "sourceHash": "1ebaa9b299ac305b3bd9449a3d599d3cd1fcbbf0f28be39c3f548c3fbfa7767f",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/28-27장-자동화-엔진과-지식체인.md",
           "sourceHash": "1ebaa9b299ac305b3bd9449a3d599d3cd1fcbbf0f28be39c3f548c3fbfa7767f",
           "updatedAt": "2026-07-15"
@@ -853,25 +853,25 @@
       "sourceHash": "sha256:897967fee13555e6dd3e1c8f282232bac83cc89d20a5f5c12b0e3df0e0eb12ff",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/29-28장-부캐와-다층적-역할의-세계관.md",
           "sourceHash": "897967fee13555e6dd3e1c8f282232bac83cc89d20a5f5c12b0e3df0e0eb12ff",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/29-28장-부캐와-다층적-역할의-세계관.md",
           "sourceHash": "897967fee13555e6dd3e1c8f282232bac83cc89d20a5f5c12b0e3df0e0eb12ff",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/29-28장-부캐와-다층적-역할의-세계관.md",
           "sourceHash": "897967fee13555e6dd3e1c8f282232bac83cc89d20a5f5c12b0e3df0e0eb12ff",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/29-28장-부캐와-다층적-역할의-세계관.md",
           "sourceHash": "897967fee13555e6dd3e1c8f282232bac83cc89d20a5f5c12b0e3df0e0eb12ff",
           "updatedAt": "2026-07-15"
@@ -884,25 +884,25 @@
       "sourceHash": "sha256:144e9aa11a02aca865394641e849c75edecd3002a0551aad73692b76cab0f260",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/30-29장-라이선스와-커머스의-세계관-문법.md",
           "sourceHash": "144e9aa11a02aca865394641e849c75edecd3002a0551aad73692b76cab0f260",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/30-29장-라이선스와-커머스의-세계관-문법.md",
           "sourceHash": "144e9aa11a02aca865394641e849c75edecd3002a0551aad73692b76cab0f260",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/30-29장-라이선스와-커머스의-세계관-문법.md",
           "sourceHash": "144e9aa11a02aca865394641e849c75edecd3002a0551aad73692b76cab0f260",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/30-29장-라이선스와-커머스의-세계관-문법.md",
           "sourceHash": "144e9aa11a02aca865394641e849c75edecd3002a0551aad73692b76cab0f260",
           "updatedAt": "2026-07-15"
@@ -915,25 +915,25 @@
       "sourceHash": "sha256:18fc724e83285de1017798a3bfeb1628a1ba5872a6c796bf703aecffd716c68f",
       "translations": {
         "en": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/en/31-30장-세계관으로-세계들을-해석하는-방법.md",
           "sourceHash": "18fc724e83285de1017798a3bfeb1628a1ba5872a6c796bf703aecffd716c68f",
           "updatedAt": "2026-07-15"
         },
         "ja": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/ja/31-30장-세계관으로-세계들을-해석하는-방법.md",
           "sourceHash": "18fc724e83285de1017798a3bfeb1628a1ba5872a6c796bf703aecffd716c68f",
           "updatedAt": "2026-07-15"
         },
         "zh-Hant": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hant/31-30장-세계관으로-세계들을-해석하는-방법.md",
           "sourceHash": "18fc724e83285de1017798a3bfeb1628a1ba5872a6c796bf703aecffd716c68f",
           "updatedAt": "2026-07-15"
         },
         "zh-Hans": {
-          "status": "translated",
+          "status": "draft",
           "file": "translations/zh-Hans/31-30장-세계관으로-세계들을-해석하는-방법.md",
           "sourceHash": "18fc724e83285de1017798a3bfeb1628a1ba5872a6c796bf703aecffd716c68f",
           "updatedAt": "2026-07-15"

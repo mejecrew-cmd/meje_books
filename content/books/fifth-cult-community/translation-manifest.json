@@ -1,0 +1,696 @@
+{
+  "schemaVersion": 1,
+  "book": "fifth-cult-community",
+  "sourceLocale": "ko",
+  "locales": [
+    "en",
+    "ja",
+    "zh-Hant",
+    "zh-Hans"
+  ],
+  "generatedAt": "2026-07-20T17:02:07.094Z",
+  "chapters": {
+    "01-01-선언": {
+      "title": "1. 선언\n다섯 번째 물결은 도착해 있다",
+      "sourceFile": "01_선언.md",
+      "sourceHash": "sha256:c28e31cb59d72cd998e25f19191bbac9cc649b5af826ee4f1d4e3862918901e7",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/01-01-선언.md",
+          "sourceHash": "c28e31cb59d72cd998e25f19191bbac9cc649b5af826ee4f1d4e3862918901e7",
+          "updatedAt": "2026-07-18"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/01-01-선언.md",
+          "sourceHash": "c28e31cb59d72cd998e25f19191bbac9cc649b5af826ee4f1d4e3862918901e7",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/01-01-선언.md",
+          "sourceHash": "c28e31cb59d72cd998e25f19191bbac9cc649b5af826ee4f1d4e3862918901e7",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/01-01-선언.md",
+          "sourceHash": "c28e31cb59d72cd998e25f19191bbac9cc649b5af826ee4f1d4e3862918901e7",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "02-02-렌더링": {
+      "title": "2. 사상은 렌더링된다\n문맹의 순례자가 성당에서 읽은 것",
+      "sourceFile": "02_렌더링.md",
+      "sourceHash": "sha256:8dc7ac8a9f2c0282afb545359e19ff3b99ee7cce541a723b35fc1fe2d00a0615",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/02-02-렌더링.md",
+          "sourceHash": "8dc7ac8a9f2c0282afb545359e19ff3b99ee7cce541a723b35fc1fe2d00a0615",
+          "updatedAt": "2026-07-18"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/02-02-렌더링.md",
+          "sourceHash": "8dc7ac8a9f2c0282afb545359e19ff3b99ee7cce541a723b35fc1fe2d00a0615",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/02-02-렌더링.md",
+          "sourceHash": "8dc7ac8a9f2c0282afb545359e19ff3b99ee7cce541a723b35fc1fe2d00a0615",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/02-02-렌더링.md",
+          "sourceHash": "8dc7ac8a9f2c0282afb545359e19ff3b99ee7cce541a723b35fc1fe2d00a0615",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "03-03-세계관화": {
+      "title": "3. 세계관화\n설정집이 아니라 프롬프트다",
+      "sourceFile": "03_세계관화.md",
+      "sourceHash": "sha256:c96857832a2c958518ca17df61b3a6341220398be9fb974c5acb0ceb38f7edb9",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/03-03-세계관화.md",
+          "sourceHash": "c96857832a2c958518ca17df61b3a6341220398be9fb974c5acb0ceb38f7edb9",
+          "updatedAt": "2026-07-18"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/03-03-세계관화.md",
+          "sourceHash": "c96857832a2c958518ca17df61b3a6341220398be9fb974c5acb0ceb38f7edb9",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/03-03-세계관화.md",
+          "sourceHash": "c96857832a2c958518ca17df61b3a6341220398be9fb974c5acb0ceb38f7edb9",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/03-03-세계관화.md",
+          "sourceHash": "c96857832a2c958518ca17df61b3a6341220398be9fb974c5acb0ceb38f7edb9",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "04-04-dom": {
+      "title": "4. DOM\n시청자는 어떻게 거주자가 되는가",
+      "sourceFile": "04_DOM.md",
+      "sourceHash": "sha256:22f77f2508717e2dd90f256cb1c7f04ab47d459688b8606babc09545bbae02c6",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/04-04-dom.md",
+          "sourceHash": "22f77f2508717e2dd90f256cb1c7f04ab47d459688b8606babc09545bbae02c6",
+          "updatedAt": "2026-07-18"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/04-04-dom.md",
+          "sourceHash": "22f77f2508717e2dd90f256cb1c7f04ab47d459688b8606babc09545bbae02c6",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/04-04-dom.md",
+          "sourceHash": "22f77f2508717e2dd90f256cb1c7f04ab47d459688b8606babc09545bbae02c6",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/04-04-dom.md",
+          "sourceHash": "22f77f2508717e2dd90f256cb1c7f04ab47d459688b8606babc09545bbae02c6",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "05-05-내부의회": {
+      "title": "5. 내부 의회\n나라는 집단의 주도권",
+      "sourceFile": "05_내부의회.md",
+      "sourceHash": "sha256:69b788067cbac1716dd31585ce5b7f7ae74b3c458cd82ef3e767cc162cbf5990",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/05-05-내부의회.md",
+          "sourceHash": "69b788067cbac1716dd31585ce5b7f7ae74b3c458cd82ef3e767cc162cbf5990",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/05-05-내부의회.md",
+          "sourceHash": "69b788067cbac1716dd31585ce5b7f7ae74b3c458cd82ef3e767cc162cbf5990",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/05-05-내부의회.md",
+          "sourceHash": "69b788067cbac1716dd31585ce5b7f7ae74b3c458cd82ef3e767cc162cbf5990",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/05-05-내부의회.md",
+          "sourceHash": "69b788067cbac1716dd31585ce5b7f7ae74b3c458cd82ef3e767cc162cbf5990",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "06-06-코드": {
+      "title": "6. 코드\n믿으면 세계가 달리 보이는 명제",
+      "sourceFile": "06_코드.md",
+      "sourceHash": "sha256:868a9008ddf3a11256d54c4c667a8f6933c2aa0aa75f89a45a74169be456fd62",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/06-06-코드.md",
+          "sourceHash": "868a9008ddf3a11256d54c4c667a8f6933c2aa0aa75f89a45a74169be456fd62",
+          "updatedAt": "2026-07-18"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/06-06-코드.md",
+          "sourceHash": "868a9008ddf3a11256d54c4c667a8f6933c2aa0aa75f89a45a74169be456fd62",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/06-06-코드.md",
+          "sourceHash": "868a9008ddf3a11256d54c4c667a8f6933c2aa0aa75f89a45a74169be456fd62",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/06-06-코드.md",
+          "sourceHash": "868a9008ddf3a11256d54c4c667a8f6933c2aa0aa75f89a45a74169be456fd62",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "07-07-원형": {
+      "title": "7. 원형\n신화는 폐기되지 않고 인수된다",
+      "sourceFile": "07_원형.md",
+      "sourceHash": "sha256:bfbe54e6ee63068692f4fcc7df5c20c2bedd822f40099fe0aed77155a18b5539",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/07-07-원형.md",
+          "sourceHash": "bfbe54e6ee63068692f4fcc7df5c20c2bedd822f40099fe0aed77155a18b5539",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/07-07-원형.md",
+          "sourceHash": "bfbe54e6ee63068692f4fcc7df5c20c2bedd822f40099fe0aed77155a18b5539",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/07-07-원형.md",
+          "sourceHash": "bfbe54e6ee63068692f4fcc7df5c20c2bedd822f40099fe0aed77155a18b5539",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/07-07-원형.md",
+          "sourceHash": "bfbe54e6ee63068692f4fcc7df5c20c2bedd822f40099fe0aed77155a18b5539",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "08-08-리추얼": {
+      "title": "8. 리추얼\n믿음은 몸에 저장된다",
+      "sourceFile": "08_리추얼.md",
+      "sourceHash": "sha256:d71ef1ca00d946ab484eb2a5385a377ad3421e5af9ed134eb508e0093ecc6b13",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/08-08-리추얼.md",
+          "sourceHash": "d71ef1ca00d946ab484eb2a5385a377ad3421e5af9ed134eb508e0093ecc6b13",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/08-08-리추얼.md",
+          "sourceHash": "d71ef1ca00d946ab484eb2a5385a377ad3421e5af9ed134eb508e0093ecc6b13",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/08-08-리추얼.md",
+          "sourceHash": "d71ef1ca00d946ab484eb2a5385a377ad3421e5af9ed134eb508e0093ecc6b13",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/08-08-리추얼.md",
+          "sourceHash": "d71ef1ca00d946ab484eb2a5385a377ad3421e5af9ed134eb508e0093ecc6b13",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "09-09-아지트": {
+      "title": "9. 아지트\n성소와 성물",
+      "sourceFile": "09_아지트.md",
+      "sourceHash": "sha256:f64ecc8f184b890072bd1419f969e979d875ff6309265d6486c79054a66d9088",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/09-09-아지트.md",
+          "sourceHash": "f64ecc8f184b890072bd1419f969e979d875ff6309265d6486c79054a66d9088",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/09-09-아지트.md",
+          "sourceHash": "f64ecc8f184b890072bd1419f969e979d875ff6309265d6486c79054a66d9088",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/09-09-아지트.md",
+          "sourceHash": "f64ecc8f184b890072bd1419f969e979d875ff6309265d6486c79054a66d9088",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/09-09-아지트.md",
+          "sourceHash": "f64ecc8f184b890072bd1419f969e979d875ff6309265d6486c79054a66d9088",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "10-10-ai선지자": {
+      "title": "10. AI 선지자\n개인화된 계시",
+      "sourceFile": "10_AI선지자.md",
+      "sourceHash": "sha256:603a4de2bcd422627e4c2bf3ff5f6da6846d1891cdf3620d02c0123f91c86588",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/10-10-ai선지자.md",
+          "sourceHash": "603a4de2bcd422627e4c2bf3ff5f6da6846d1891cdf3620d02c0123f91c86588",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/10-10-ai선지자.md",
+          "sourceHash": "603a4de2bcd422627e4c2bf3ff5f6da6846d1891cdf3620d02c0123f91c86588",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/10-10-ai선지자.md",
+          "sourceHash": "603a4de2bcd422627e4c2bf3ff5f6da6846d1891cdf3620d02c0123f91c86588",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/10-10-ai선지자.md",
+          "sourceHash": "603a4de2bcd422627e4c2bf3ff5f6da6846d1891cdf3620d02c0123f91c86588",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "11-11-오피셜과로어": {
+      "title": "11. 오피셜과 로어\n세계는 서술되지 않은 곳에서 깊어진다",
+      "sourceFile": "11_오피셜과로어.md",
+      "sourceHash": "sha256:750e46551bf204371c6910810a1959889035cefa63e1a7d682a7bb0eb5481c82",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/11-11-오피셜과로어.md",
+          "sourceHash": "750e46551bf204371c6910810a1959889035cefa63e1a7d682a7bb0eb5481c82",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/11-11-오피셜과로어.md",
+          "sourceHash": "750e46551bf204371c6910810a1959889035cefa63e1a7d682a7bb0eb5481c82",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/11-11-오피셜과로어.md",
+          "sourceHash": "750e46551bf204371c6910810a1959889035cefa63e1a7d682a7bb0eb5481c82",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/11-11-오피셜과로어.md",
+          "sourceHash": "750e46551bf204371c6910810a1959889035cefa63e1a7d682a7bb0eb5481c82",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "12-12-입주퍼널": {
+      "title": "12. 입주 퍼널\n문턱은 낮게, 사다리는 높게",
+      "sourceFile": "12_입주퍼널.md",
+      "sourceHash": "sha256:778ff275f038d0258fb2bc854e9e41b3633810c1f0c6da7bd0b8ff89e74d0dff",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/12-12-입주퍼널.md",
+          "sourceHash": "778ff275f038d0258fb2bc854e9e41b3633810c1f0c6da7bd0b8ff89e74d0dff",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/12-12-입주퍼널.md",
+          "sourceHash": "778ff275f038d0258fb2bc854e9e41b3633810c1f0c6da7bd0b8ff89e74d0dff",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/12-12-입주퍼널.md",
+          "sourceHash": "778ff275f038d0258fb2bc854e9e41b3633810c1f0c6da7bd0b8ff89e74d0dff",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/12-12-입주퍼널.md",
+          "sourceHash": "778ff275f038d0258fb2bc854e9e41b3633810c1f0c6da7bd0b8ff89e74d0dff",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "13-13-포크": {
+      "title": "13. 포크\n갈등은 세계를 부수지 않고 조인다",
+      "sourceFile": "13_포크.md",
+      "sourceHash": "sha256:7406df50c4a032bb86b838a6d04c452dcb38d0750b3074f0b86e4ea309a7fd0f",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/13-13-포크.md",
+          "sourceHash": "7406df50c4a032bb86b838a6d04c452dcb38d0750b3074f0b86e4ea309a7fd0f",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/13-13-포크.md",
+          "sourceHash": "7406df50c4a032bb86b838a6d04c452dcb38d0750b3074f0b86e4ea309a7fd0f",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/13-13-포크.md",
+          "sourceHash": "7406df50c4a032bb86b838a6d04c452dcb38d0750b3074f0b86e4ea309a7fd0f",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/13-13-포크.md",
+          "sourceHash": "7406df50c4a032bb86b838a6d04c452dcb38d0750b3074f0b86e4ea309a7fd0f",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "14-14-디데이": {
+      "title": "14. 디데이\n오지 않은 날이 세계를 무너뜨리지 않는 법",
+      "sourceFile": "14_디데이.md",
+      "sourceHash": "sha256:f1f8c3c8b98c5f56aa86c9764d3cbbd0822fcd6bac55e6611b675640cc3ab3f4",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/14-14-디데이.md",
+          "sourceHash": "f1f8c3c8b98c5f56aa86c9764d3cbbd0822fcd6bac55e6611b675640cc3ab3f4",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/14-14-디데이.md",
+          "sourceHash": "f1f8c3c8b98c5f56aa86c9764d3cbbd0822fcd6bac55e6611b675640cc3ab3f4",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/14-14-디데이.md",
+          "sourceHash": "f1f8c3c8b98c5f56aa86c9764d3cbbd0822fcd6bac55e6611b675640cc3ab3f4",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/14-14-디데이.md",
+          "sourceHash": "f1f8c3c8b98c5f56aa86c9764d3cbbd0822fcd6bac55e6611b675640cc3ab3f4",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "15-15-개간워크북": {
+      "title": "15. 개간 워크북\n당신의 땅은 처음으로 무한하다",
+      "sourceFile": "15_개간워크북.md",
+      "sourceHash": "sha256:0dd7f96154fce2e07449eee4937e8eb9b00d284a6cfd322f877046776d17b1b4",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/15-15-개간워크북.md",
+          "sourceHash": "0dd7f96154fce2e07449eee4937e8eb9b00d284a6cfd322f877046776d17b1b4",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/15-15-개간워크북.md",
+          "sourceHash": "0dd7f96154fce2e07449eee4937e8eb9b00d284a6cfd322f877046776d17b1b4",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/15-15-개간워크북.md",
+          "sourceHash": "0dd7f96154fce2e07449eee4937e8eb9b00d284a6cfd322f877046776d17b1b4",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/15-15-개간워크북.md",
+          "sourceHash": "0dd7f96154fce2e07449eee4937e8eb9b00d284a6cfd322f877046776d17b1b4",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "16-16-cf0-서문": {
+      "title": "CF-0. 서문\n황혼의 세계들",
+      "sourceFile": "16_CF0_서문.md",
+      "sourceHash": "sha256:ef3b314549cc060497ff18385daa2239e1c6286be7f312a55073aaf569f6a3e6",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/16-16-cf0-서문.md",
+          "sourceHash": "ef3b314549cc060497ff18385daa2239e1c6286be7f312a55073aaf569f6a3e6",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/16-16-cf0-서문.md",
+          "sourceHash": "ef3b314549cc060497ff18385daa2239e1c6286be7f312a55073aaf569f6a3e6",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/16-16-cf0-서문.md",
+          "sourceHash": "ef3b314549cc060497ff18385daa2239e1c6286be7f312a55073aaf569f6a3e6",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/16-16-cf0-서문.md",
+          "sourceHash": "ef3b314549cc060497ff18385daa2239e1c6286be7f312a55073aaf569f6a3e6",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "17-17-cf1-황혼의고고학": {
+      "title": "CF-1. 황혼의 고고학\n다섯 가지 붕괴 원인과 살아남은 수확",
+      "sourceFile": "17_CF1_황혼의고고학.md",
+      "sourceHash": "sha256:7c78cde605fbd70e21055eeadb57f3a0f97356c75cedc0ee837bb5cab6acc9f0",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/17-17-cf1-황혼의고고학.md",
+          "sourceHash": "7c78cde605fbd70e21055eeadb57f3a0f97356c75cedc0ee837bb5cab6acc9f0",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/17-17-cf1-황혼의고고학.md",
+          "sourceHash": "7c78cde605fbd70e21055eeadb57f3a0f97356c75cedc0ee837bb5cab6acc9f0",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/17-17-cf1-황혼의고고학.md",
+          "sourceHash": "7c78cde605fbd70e21055eeadb57f3a0f97356c75cedc0ee837bb5cab6acc9f0",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/17-17-cf1-황혼의고고학.md",
+          "sourceHash": "7c78cde605fbd70e21055eeadb57f3a0f97356c75cedc0ee837bb5cab6acc9f0",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "18-18-cf2-성물텍스트": {
+      "title": "CF-2. 책이 성물이 된 세계\n받아쓴 텍스트의 구조",
+      "sourceFile": "18_CF2_성물텍스트.md",
+      "sourceHash": "sha256:f2e9bf19abd573a35b4e121bbae35ddd5b93bba832912f22f8e8cefebf428348",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/18-18-cf2-성물텍스트.md",
+          "sourceHash": "f2e9bf19abd573a35b4e121bbae35ddd5b93bba832912f22f8e8cefebf428348",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/18-18-cf2-성물텍스트.md",
+          "sourceHash": "f2e9bf19abd573a35b4e121bbae35ddd5b93bba832912f22f8e8cefebf428348",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/18-18-cf2-성물텍스트.md",
+          "sourceHash": "f2e9bf19abd573a35b4e121bbae35ddd5b93bba832912f22f8e8cefebf428348",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/18-18-cf2-성물텍스트.md",
+          "sourceHash": "f2e9bf19abd573a35b4e121bbae35ddd5b93bba832912f22f8e8cefebf428348",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "19-19-cf3-스타트업": {
+      "title": "CF-3. 컬트풍 스타트업의 흥망\n세계관과 회계의 혼동",
+      "sourceFile": "19_CF3_스타트업.md",
+      "sourceHash": "sha256:0ed8e7e5741a03faf04fdbeae201d4193f150523bbdbab722e91f774bb0b8db5",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/19-19-cf3-스타트업.md",
+          "sourceHash": "0ed8e7e5741a03faf04fdbeae201d4193f150523bbdbab722e91f774bb0b8db5",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/19-19-cf3-스타트업.md",
+          "sourceHash": "0ed8e7e5741a03faf04fdbeae201d4193f150523bbdbab722e91f774bb0b8db5",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/19-19-cf3-스타트업.md",
+          "sourceHash": "0ed8e7e5741a03faf04fdbeae201d4193f150523bbdbab722e91f774bb0b8db5",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/19-19-cf3-스타트업.md",
+          "sourceHash": "0ed8e7e5741a03faf04fdbeae201d4193f150523bbdbab722e91f774bb0b8db5",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "20-20-cf4-교주없는교단": {
+      "title": "CF-4. 교주 없는 교단\n화자를 텍스트로 바꾼 부족",
+      "sourceFile": "20_CF4_교주없는교단.md",
+      "sourceHash": "sha256:a76d15aa9450c78950c97e60eb5e21f77720fb5394f3b7fb7ad73e52734913f2",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/20-20-cf4-교주없는교단.md",
+          "sourceHash": "a76d15aa9450c78950c97e60eb5e21f77720fb5394f3b7fb7ad73e52734913f2",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/20-20-cf4-교주없는교단.md",
+          "sourceHash": "a76d15aa9450c78950c97e60eb5e21f77720fb5394f3b7fb7ad73e52734913f2",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/20-20-cf4-교주없는교단.md",
+          "sourceHash": "a76d15aa9450c78950c97e60eb5e21f77720fb5394f3b7fb7ad73e52734913f2",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/20-20-cf4-교주없는교단.md",
+          "sourceHash": "a76d15aa9450c78950c97e60eb5e21f77720fb5394f3b7fb7ad73e52734913f2",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "21-21-cf5-버전애도": {
+      "title": "CF-5. 버전 업데이트의 애도\n다섯 번째 물결의 실측",
+      "sourceFile": "21_CF5_버전애도.md",
+      "sourceHash": "sha256:e3aecdb89402e27f0e59be19704ad77a2a80c7e97c27b416d9928f05ca743dfd",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/21-21-cf5-버전애도.md",
+          "sourceHash": "e3aecdb89402e27f0e59be19704ad77a2a80c7e97c27b416d9928f05ca743dfd",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/21-21-cf5-버전애도.md",
+          "sourceHash": "e3aecdb89402e27f0e59be19704ad77a2a80c7e97c27b416d9928f05ca743dfd",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/21-21-cf5-버전애도.md",
+          "sourceHash": "e3aecdb89402e27f0e59be19704ad77a2a80c7e97c27b416d9928f05ca743dfd",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/21-21-cf5-버전애도.md",
+          "sourceHash": "e3aecdb89402e27f0e59be19704ad77a2a80c7e97c27b416d9928f05ca743dfd",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    },
+    "22-22-부록-연표용어집색인": {
+      "title": "부록\n연표, 용어집, 색인",
+      "sourceFile": "22_부록_연표용어집색인.md",
+      "sourceHash": "sha256:7efaa2e4860f25916296fede090061216ba2c4c8f99e24682840e28369d69a00",
+      "translations": {
+        "en": {
+          "status": "reviewed",
+          "file": "translations/en/22-22-부록-연표용어집색인.md",
+          "sourceHash": "7efaa2e4860f25916296fede090061216ba2c4c8f99e24682840e28369d69a00",
+          "updatedAt": "2026-07-19"
+        },
+        "ja": {
+          "status": "reviewed",
+          "file": "translations/ja/22-22-부록-연표용어집색인.md",
+          "sourceHash": "7efaa2e4860f25916296fede090061216ba2c4c8f99e24682840e28369d69a00",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hant": {
+          "status": "reviewed",
+          "file": "translations/zh-Hant/22-22-부록-연표용어집색인.md",
+          "sourceHash": "7efaa2e4860f25916296fede090061216ba2c4c8f99e24682840e28369d69a00",
+          "updatedAt": "2026-07-19"
+        },
+        "zh-Hans": {
+          "status": "reviewed",
+          "file": "translations/zh-Hans/22-22-부록-연표용어집색인.md",
+          "sourceHash": "7efaa2e4860f25916296fede090061216ba2c4c8f99e24682840e28369d69a00",
+          "updatedAt": "2026-07-19"
+        }
+      }
+    }
+  }
+}

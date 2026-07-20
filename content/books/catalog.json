@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T01:31:14.381Z",
-  "bookCount": 10,
+  "generatedAt": "2026-07-20T17:02:59.364Z",
+  "bookCount": 12,
   "books": [
     {
       "slug": "meje-librarying",
@@ -924,6 +924,296 @@
           "title": "30장 세계관으로 세계들을 해석하는 방법.png",
           "sourceFile": "30장_세계관으로_세계들을_해석하는_방법.png",
           "url": "/assets/books/reading-the-world-through-universe/31-30장-세계관으로-세계들을-해석하는-방법.webp"
+        }
+      ]
+    },
+    {
+      "slug": "fifth-cult-community",
+      "title": "AI가 여는 제5차 컬트 커뮤니티의 시대",
+      "subtitle": "다섯 번째 물결의 관측 보고와 세계관 설계 도구",
+      "line": "KIM DONG-EUN",
+      "category": "Fifth Wave",
+      "author": "김동은WhtDrgon.",
+      "description": "새 매체가 올 때마다 일었던 신념 공동체의 물결을 지도로 그리고, 시청자를 거주자로 바꾸는 세계관 설계 도구를 백 년의 종교사에서 거둬 정리한 관측 보고입니다. 본편 15장과 별책 케이스 파일 6편, 부록으로 구성됩니다.",
+      "order": 11,
+      "chapterCount": 22,
+      "cover": "/assets/books/fifth-cult-community/01-00-표지-제5차물결-금속부조.webp",
+      "assetCount": 22,
+      "assets": [
+        {
+          "title": "표지 제5차물결 금속부조.png",
+          "sourceFile": "00_표지_제5차물결_금속부조.png",
+          "url": "/assets/books/fifth-cult-community/01-00-표지-제5차물결-금속부조.webp"
+        },
+        {
+          "title": "01 선언 하우스카 목판화.png",
+          "sourceFile": "01_선언_하우스카_목판화.png",
+          "url": "/assets/books/fifth-cult-community/02-01-선언-하우스카-목판화.webp"
+        },
+        {
+          "title": "02 렌더링 문맹의독서 스테인드글라스.png",
+          "sourceFile": "02_렌더링_문맹의독서_스테인드글라스.png",
+          "url": "/assets/books/fifth-cult-community/03-02-렌더링-문맹의독서-스테인드글라스.webp"
+        },
+        {
+          "title": "03 세계관화 렌즈의문법 태피스트리.png",
+          "sourceFile": "03_세계관화_렌즈의문법_태피스트리.png",
+          "url": "/assets/books/fifth-cult-community/04-03-세계관화-렌즈의문법-태피스트리.webp"
+        },
+        {
+          "title": "04 DOM 거주의객석 세라믹부조.png",
+          "sourceFile": "04_DOM_거주의객석_세라믹부조.png",
+          "url": "/assets/books/fifth-cult-community/05-04-dom-거주의객석-세라믹부조.webp"
+        },
+        {
+          "title": "05 내부의회 관객없는통치 프레스코.png",
+          "sourceFile": "05_내부의회_관객없는통치_프레스코.png",
+          "url": "/assets/books/fifth-cult-community/06-05-내부의회-관객없는통치-프레스코.webp"
+        },
+        {
+          "title": "06 코드 여백의시간표 채색필사본.png",
+          "sourceFile": "06_코드_여백의시간표_채색필사본.png",
+          "url": "/assets/books/fifth-cult-community/07-06-코드-여백의시간표-채색필사본.webp"
+        },
+        {
+          "title": "07 원형 강건너의이집트 석조부조.png",
+          "sourceFile": "07_원형_강건너의이집트_석조부조.png",
+          "url": "/assets/books/fifth-cult-community/08-07-원형-강건너의이집트-석조부조.webp"
+        },
+        {
+          "title": "08 리추얼 몸의저장 프로세스설치.png",
+          "sourceFile": "08_리추얼_몸의저장_프로세스설치.png",
+          "url": "/assets/books/fifth-cult-community/09-08-리추얼-몸의저장-프로세스설치.webp"
+        },
+        {
+          "title": "09 아지트 바퀴달린성소 공간조각.png",
+          "sourceFile": "09_아지트_바퀴달린성소_공간조각.png",
+          "url": "/assets/books/fifth-cult-community/10-09-아지트-바퀴달린성소-공간조각.webp"
+        },
+        {
+          "title": "10 AI선지자 새벽세시의신탁 홀로그램.png",
+          "sourceFile": "10_AI선지자_새벽세시의신탁_홀로그램.png",
+          "url": "/assets/books/fifth-cult-community/11-10-ai선지자-새벽세시의신탁-홀로그램.webp"
+        },
+        {
+          "title": "11 오피셜과로어 미서술의깊이 골각패널.png",
+          "sourceFile": "11_오피셜과로어_미서술의깊이_골각패널.png",
+          "url": "/assets/books/fifth-cult-community/12-11-오피셜과로어-미서술의깊이-골각패널.webp"
+        },
+        {
+          "title": "12 입주퍼널 열린상승통로 얼음조각.png",
+          "sourceFile": "12_입주퍼널_열린상승통로_얼음조각.png",
+          "url": "/assets/books/fifth-cult-community/13-12-입주퍼널-열린상승통로-얼음조각.webp"
+        },
+        {
+          "title": "13 포크 열린경계 생목조각.png",
+          "sourceFile": "13_포크_열린경계_생목조각.png",
+          "url": "/assets/books/fifth-cult-community/14-13-포크-열린경계-생목조각.webp"
+        },
+        {
+          "title": "14 디데이 오지않은아침 설탕조각.png",
+          "sourceFile": "14_디데이_오지않은아침_설탕조각.png",
+          "url": "/assets/books/fifth-cult-community/15-14-디데이-오지않은아침-설탕조각.webp"
+        },
+        {
+          "title": "15 개간워크북 무한한땅 생성전자회화.png",
+          "sourceFile": "15_개간워크북_무한한땅_생성전자회화.png",
+          "url": "/assets/books/fifth-cult-community/16-15-개간워크북-무한한땅-생성전자회화.webp"
+        },
+        {
+          "title": "CF0 서문 부검대위의세계들 방사선사진.png",
+          "sourceFile": "CF0_서문_부검대위의세계들_방사선사진.png",
+          "url": "/assets/books/fifth-cult-community/17-cf0-서문-부검대위의세계들-방사선사진.webp"
+        },
+        {
+          "title": "CF1 황혼의고고학 비누조각.png",
+          "sourceFile": "CF1_황혼의고고학_비누조각.png",
+          "url": "/assets/books/fifth-cult-community/18-cf1-황혼의고고학-비누조각.webp"
+        },
+        {
+          "title": "CF2 성물텍스트 배양생체책.png",
+          "sourceFile": "CF2_성물텍스트_배양생체책.png",
+          "url": "/assets/books/fifth-cult-community/19-cf2-성물텍스트-배양생체책.webp"
+        },
+        {
+          "title": "CF3 스타트업 팽창과붕괴 발포조각.png",
+          "sourceFile": "CF3_스타트업_팽창과붕괴_발포조각.png",
+          "url": "/assets/books/fifth-cult-community/20-cf3-스타트업-팽창과붕괴-발포조각.webp"
+        },
+        {
+          "title": "CF4 교주없는교단 자기정렬 사이매틱설치.png",
+          "sourceFile": "CF4_교주없는교단_자기정렬_사이매틱설치.png",
+          "url": "/assets/books/fifth-cult-community/21-cf4-교주없는교단-자기정렬-사이매틱설치.webp"
+        },
+        {
+          "title": "CF5 버전애도 이전상태의잔상 광변색회화.png",
+          "sourceFile": "CF5_버전애도_이전상태의잔상_광변색회화.png",
+          "url": "/assets/books/fifth-cult-community/22-cf5-버전애도-이전상태의잔상-광변색회화.webp"
+        }
+      ]
+    },
+    {
+      "slug": "worldview-designer",
+      "title": "세계관설계자",
+      "subtitle": "세계관을 만드는 일을 직업의 기술로 정리한 15편의 지식체계",
+      "line": "KIM DONG-EUN",
+      "category": "Worldbuilding",
+      "author": "김동은WhtDrgon.",
+      "description": "세계관을 만드는 일을 하나의 직업 기술로 정리한 완결형 지식체계입니다. 총론에서 개념과 핍진성과 효용을 확정하고, 유형론에서 시간·공간·전통·SF·괴물과 영웅으로 세계의 갈래를 나누며, 실무론에서 설계 요소와 키워드론, 정의와 네이밍, 데이터 파이프라인, 매체별 스토리텔링, 자가동력의 세계까지 다루는 본편 15편으로 구성됩니다.",
+      "order": 12,
+      "chapterCount": 15,
+      "cover": "/assets/books/worldview-designer/01-01-세계관이란무엇인가.webp",
+      "assetCount": 30,
+      "assets": [
+        {
+          "title": "01 세계관이란무엇인가.webp",
+          "sourceFile": "01_세계관이란무엇인가.webp",
+          "url": "/assets/books/worldview-designer/01-01-세계관이란무엇인가.webp"
+        },
+        {
+          "title": "02 핍진성 허락의메커니즘.webp",
+          "sourceFile": "02_핍진성_허락의메커니즘.webp",
+          "url": "/assets/books/worldview-designer/02-02-핍진성-허락의메커니즘.webp"
+        },
+        {
+          "title": "03 왜세계관인가.webp",
+          "sourceFile": "03_왜세계관인가.webp",
+          "url": "/assets/books/worldview-designer/03-03-왜세계관인가.webp"
+        },
+        {
+          "title": "04 설계자라는직업.webp",
+          "sourceFile": "04_설계자라는직업.webp",
+          "url": "/assets/books/worldview-designer/04-04-설계자라는직업.webp"
+        },
+        {
+          "title": "05 세계의유형1 시간.webp",
+          "sourceFile": "05_세계의유형1_시간.webp",
+          "url": "/assets/books/worldview-designer/05-05-세계의유형1-시간.webp"
+        },
+        {
+          "title": "06 세계의유형2 공간과크기.webp",
+          "sourceFile": "06_세계의유형2_공간과크기.webp",
+          "url": "/assets/books/worldview-designer/06-06-세계의유형2-공간과크기.webp"
+        },
+        {
+          "title": "07 세계의유형3 전통과장르물.webp",
+          "sourceFile": "07_세계의유형3_전통과장르물.webp",
+          "url": "/assets/books/worldview-designer/07-07-세계의유형3-전통과장르물.webp"
+        },
+        {
+          "title": "08 세계의유형4 SF와미래.webp",
+          "sourceFile": "08_세계의유형4_SF와미래.webp",
+          "url": "/assets/books/worldview-designer/08-08-세계의유형4-sf와미래.webp"
+        },
+        {
+          "title": "09 세계의유형5 괴물과영웅과규칙.webp",
+          "sourceFile": "09_세계의유형5_괴물과영웅과규칙.webp",
+          "url": "/assets/books/worldview-designer/09-09-세계의유형5-괴물과영웅과규칙.webp"
+        },
+        {
+          "title": "10 설계의요소와작업원리.webp",
+          "sourceFile": "10_설계의요소와작업원리.webp",
+          "url": "/assets/books/worldview-designer/10-10-설계의요소와작업원리.webp"
+        },
+        {
+          "title": "11 키워드론.webp",
+          "sourceFile": "11_키워드론.webp",
+          "url": "/assets/books/worldview-designer/11-11-키워드론.webp"
+        },
+        {
+          "title": "12 정의와네이밍.webp",
+          "sourceFile": "12_정의와네이밍.webp",
+          "url": "/assets/books/worldview-designer/12-12-정의와네이밍.webp"
+        },
+        {
+          "title": "13 데이터파이프라인.webp",
+          "sourceFile": "13_데이터파이프라인.webp",
+          "url": "/assets/books/worldview-designer/13-13-데이터파이프라인.webp"
+        },
+        {
+          "title": "14 매체와세계관스토리텔링.webp",
+          "sourceFile": "14_매체와세계관스토리텔링.webp",
+          "url": "/assets/books/worldview-designer/14-14-매체와세계관스토리텔링.webp"
+        },
+        {
+          "title": "15 자가동력의세계.webp",
+          "sourceFile": "15_자가동력의세계.webp",
+          "url": "/assets/books/worldview-designer/15-15-자가동력의세계.webp"
+        },
+        {
+          "title": "생성된 이미지 1.png",
+          "sourceFile": "생성된 이미지 1.png",
+          "url": "/assets/books/worldview-designer/16-생성된-이미지-1.webp"
+        },
+        {
+          "title": "생성된 이미지 10.png",
+          "sourceFile": "생성된 이미지 10.png",
+          "url": "/assets/books/worldview-designer/17-생성된-이미지-10.webp"
+        },
+        {
+          "title": "생성된 이미지 11.png",
+          "sourceFile": "생성된 이미지 11.png",
+          "url": "/assets/books/worldview-designer/18-생성된-이미지-11.webp"
+        },
+        {
+          "title": "생성된 이미지 12.png",
+          "sourceFile": "생성된 이미지 12.png",
+          "url": "/assets/books/worldview-designer/19-생성된-이미지-12.webp"
+        },
+        {
+          "title": "생성된 이미지 13.png",
+          "sourceFile": "생성된 이미지 13.png",
+          "url": "/assets/books/worldview-designer/20-생성된-이미지-13.webp"
+        },
+        {
+          "title": "생성된 이미지 14.png",
+          "sourceFile": "생성된 이미지 14.png",
+          "url": "/assets/books/worldview-designer/21-생성된-이미지-14.webp"
+        },
+        {
+          "title": "생성된 이미지 15.png",
+          "sourceFile": "생성된 이미지 15.png",
+          "url": "/assets/books/worldview-designer/22-생성된-이미지-15.webp"
+        },
+        {
+          "title": "생성된 이미지 2.png",
+          "sourceFile": "생성된 이미지 2.png",
+          "url": "/assets/books/worldview-designer/23-생성된-이미지-2.webp"
+        },
+        {
+          "title": "생성된 이미지 3.png",
+          "sourceFile": "생성된 이미지 3.png",
+          "url": "/assets/books/worldview-designer/24-생성된-이미지-3.webp"
+        },
+        {
+          "title": "생성된 이미지 4.png",
+          "sourceFile": "생성된 이미지 4.png",
+          "url": "/assets/books/worldview-designer/25-생성된-이미지-4.webp"
+        },
+        {
+          "title": "생성된 이미지 5.png",
+          "sourceFile": "생성된 이미지 5.png",
+          "url": "/assets/books/worldview-designer/26-생성된-이미지-5.webp"
+        },
+        {
+          "title": "생성된 이미지 6.png",
+          "sourceFile": "생성된 이미지 6.png",
+          "url": "/assets/books/worldview-designer/27-생성된-이미지-6.webp"
+        },
+        {
+          "title": "생성된 이미지 7.png",
+          "sourceFile": "생성된 이미지 7.png",
+          "url": "/assets/books/worldview-designer/28-생성된-이미지-7.webp"
+        },
+        {
+          "title": "생성된 이미지 8.png",
+          "sourceFile": "생성된 이미지 8.png",
+          "url": "/assets/books/worldview-designer/29-생성된-이미지-8.webp"
+        },
+        {
+          "title": "생성된 이미지 9.png",
+          "sourceFile": "생성된 이미지 9.png",
+          "url": "/assets/books/worldview-designer/30-생성된-이미지-9.webp"
         }
       ]
     }
