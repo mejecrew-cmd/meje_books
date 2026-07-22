@@ -8,7 +8,7 @@
     "zh-Hant",
     "zh-Hans"
   ],
-  "generatedAt": "2026-07-20T17:02:59.363Z",
+  "generatedAt": "2026-07-22T09:38:42.956Z",
   "chapters": {
     "01-01-세계관이란무엇인가": {
       "title": "세계관이란 무엇인가",
@@ -16,20 +16,28 @@
       "sourceHash": "sha256:0e5774191a34dcb201bdae10abc481370f1a1eaefd9dd6bbda2f4d232263c1b4",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/01-01-세계관이란무엇인가.md"
+          "status": "reviewed",
+          "file": "translations/en/01-01-세계관이란무엇인가.md",
+          "sourceHash": "0e5774191a34dcb201bdae10abc481370f1a1eaefd9dd6bbda2f4d232263c1b4",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/01-01-세계관이란무엇인가.md"
+          "status": "reviewed",
+          "file": "translations/ja/01-01-세계관이란무엇인가.md",
+          "sourceHash": "0e5774191a34dcb201bdae10abc481370f1a1eaefd9dd6bbda2f4d232263c1b4",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/01-01-세계관이란무엇인가.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/01-01-세계관이란무엇인가.md",
+          "sourceHash": "0e5774191a34dcb201bdae10abc481370f1a1eaefd9dd6bbda2f4d232263c1b4",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/01-01-세계관이란무엇인가.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/01-01-세계관이란무엇인가.md",
+          "sourceHash": "0e5774191a34dcb201bdae10abc481370f1a1eaefd9dd6bbda2f4d232263c1b4",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -39,20 +47,28 @@
       "sourceHash": "sha256:4468940c29eb72363d4db11a146926298f7e88ed79b6d4b98337757375fbad86",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/02-02-핍진성허락의메커니즘.md"
+          "status": "reviewed",
+          "file": "translations/en/02-02-핍진성허락의메커니즘.md",
+          "sourceHash": "4468940c29eb72363d4db11a146926298f7e88ed79b6d4b98337757375fbad86",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/02-02-핍진성허락의메커니즘.md"
+          "status": "reviewed",
+          "file": "translations/ja/02-02-핍진성허락의메커니즘.md",
+          "sourceHash": "4468940c29eb72363d4db11a146926298f7e88ed79b6d4b98337757375fbad86",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/02-02-핍진성허락의메커니즘.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/02-02-핍진성허락의메커니즘.md",
+          "sourceHash": "4468940c29eb72363d4db11a146926298f7e88ed79b6d4b98337757375fbad86",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/02-02-핍진성허락의메커니즘.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/02-02-핍진성허락의메커니즘.md",
+          "sourceHash": "4468940c29eb72363d4db11a146926298f7e88ed79b6d4b98337757375fbad86",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -62,20 +78,28 @@
       "sourceHash": "sha256:abdce420cdf4875cda6218a4e6e489cf7ce360561b45d7a0ffc2b2a1f9ac7489",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/03-03-왜세계관인가.md"
+          "status": "reviewed",
+          "file": "translations/en/03-03-왜세계관인가.md",
+          "sourceHash": "abdce420cdf4875cda6218a4e6e489cf7ce360561b45d7a0ffc2b2a1f9ac7489",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/03-03-왜세계관인가.md"
+          "status": "reviewed",
+          "file": "translations/ja/03-03-왜세계관인가.md",
+          "sourceHash": "abdce420cdf4875cda6218a4e6e489cf7ce360561b45d7a0ffc2b2a1f9ac7489",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/03-03-왜세계관인가.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/03-03-왜세계관인가.md",
+          "sourceHash": "abdce420cdf4875cda6218a4e6e489cf7ce360561b45d7a0ffc2b2a1f9ac7489",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/03-03-왜세계관인가.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/03-03-왜세계관인가.md",
+          "sourceHash": "abdce420cdf4875cda6218a4e6e489cf7ce360561b45d7a0ffc2b2a1f9ac7489",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -85,20 +109,28 @@
       "sourceHash": "sha256:c87830f0f8d88b1e591fa620c71f4ac04f51669ece02357f09ca051f3e47be17",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/04-04-설계자라는직업.md"
+          "status": "reviewed",
+          "file": "translations/en/04-04-설계자라는직업.md",
+          "sourceHash": "c87830f0f8d88b1e591fa620c71f4ac04f51669ece02357f09ca051f3e47be17",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/04-04-설계자라는직업.md"
+          "status": "reviewed",
+          "file": "translations/ja/04-04-설계자라는직업.md",
+          "sourceHash": "c87830f0f8d88b1e591fa620c71f4ac04f51669ece02357f09ca051f3e47be17",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/04-04-설계자라는직업.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/04-04-설계자라는직업.md",
+          "sourceHash": "c87830f0f8d88b1e591fa620c71f4ac04f51669ece02357f09ca051f3e47be17",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/04-04-설계자라는직업.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/04-04-설계자라는직업.md",
+          "sourceHash": "c87830f0f8d88b1e591fa620c71f4ac04f51669ece02357f09ca051f3e47be17",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -108,20 +140,28 @@
       "sourceHash": "sha256:d45d79e0128f1cc58b87145bdefd233b6b29e302638511c9acd4d0238b0c9fe6",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/05-05-세계의유형1-시간.md"
+          "status": "reviewed",
+          "file": "translations/en/05-05-세계의유형1-시간.md",
+          "sourceHash": "d45d79e0128f1cc58b87145bdefd233b6b29e302638511c9acd4d0238b0c9fe6",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/05-05-세계의유형1-시간.md"
+          "status": "reviewed",
+          "file": "translations/ja/05-05-세계의유형1-시간.md",
+          "sourceHash": "d45d79e0128f1cc58b87145bdefd233b6b29e302638511c9acd4d0238b0c9fe6",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/05-05-세계의유형1-시간.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/05-05-세계의유형1-시간.md",
+          "sourceHash": "d45d79e0128f1cc58b87145bdefd233b6b29e302638511c9acd4d0238b0c9fe6",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/05-05-세계의유형1-시간.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/05-05-세계의유형1-시간.md",
+          "sourceHash": "d45d79e0128f1cc58b87145bdefd233b6b29e302638511c9acd4d0238b0c9fe6",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -131,20 +171,28 @@
       "sourceHash": "sha256:e3ce7e9303fa69f20b90cf743dcde932b114d55fdb05271118b62da8532b737f",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/06-06-세계의유형2-공간과크기.md"
+          "status": "reviewed",
+          "file": "translations/en/06-06-세계의유형2-공간과크기.md",
+          "sourceHash": "e3ce7e9303fa69f20b90cf743dcde932b114d55fdb05271118b62da8532b737f",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/06-06-세계의유형2-공간과크기.md"
+          "status": "reviewed",
+          "file": "translations/ja/06-06-세계의유형2-공간과크기.md",
+          "sourceHash": "e3ce7e9303fa69f20b90cf743dcde932b114d55fdb05271118b62da8532b737f",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/06-06-세계의유형2-공간과크기.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/06-06-세계의유형2-공간과크기.md",
+          "sourceHash": "e3ce7e9303fa69f20b90cf743dcde932b114d55fdb05271118b62da8532b737f",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/06-06-세계의유형2-공간과크기.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/06-06-세계의유형2-공간과크기.md",
+          "sourceHash": "e3ce7e9303fa69f20b90cf743dcde932b114d55fdb05271118b62da8532b737f",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -154,20 +202,28 @@
       "sourceHash": "sha256:0e94296a2920284d8731918bbe96e75328d6b8a9ca99783784dca0617d1bfe54",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/07-07-세계의유형3-전통과장르물.md"
+          "status": "reviewed",
+          "file": "translations/en/07-07-세계의유형3-전통과장르물.md",
+          "sourceHash": "0e94296a2920284d8731918bbe96e75328d6b8a9ca99783784dca0617d1bfe54",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/07-07-세계의유형3-전통과장르물.md"
+          "status": "reviewed",
+          "file": "translations/ja/07-07-세계의유형3-전통과장르물.md",
+          "sourceHash": "0e94296a2920284d8731918bbe96e75328d6b8a9ca99783784dca0617d1bfe54",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/07-07-세계의유형3-전통과장르물.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/07-07-세계의유형3-전통과장르물.md",
+          "sourceHash": "0e94296a2920284d8731918bbe96e75328d6b8a9ca99783784dca0617d1bfe54",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/07-07-세계의유형3-전통과장르물.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/07-07-세계의유형3-전통과장르물.md",
+          "sourceHash": "0e94296a2920284d8731918bbe96e75328d6b8a9ca99783784dca0617d1bfe54",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -177,20 +233,28 @@
       "sourceHash": "sha256:729d82e4e3ed741367e7a8efd6e6e77eba3f4a11a83f5956ef486330439301f1",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/08-08-세계의유형4-sf와미래.md"
+          "status": "reviewed",
+          "file": "translations/en/08-08-세계의유형4-sf와미래.md",
+          "sourceHash": "729d82e4e3ed741367e7a8efd6e6e77eba3f4a11a83f5956ef486330439301f1",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/08-08-세계의유형4-sf와미래.md"
+          "status": "reviewed",
+          "file": "translations/ja/08-08-세계의유형4-sf와미래.md",
+          "sourceHash": "729d82e4e3ed741367e7a8efd6e6e77eba3f4a11a83f5956ef486330439301f1",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/08-08-세계의유형4-sf와미래.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/08-08-세계의유형4-sf와미래.md",
+          "sourceHash": "729d82e4e3ed741367e7a8efd6e6e77eba3f4a11a83f5956ef486330439301f1",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/08-08-세계의유형4-sf와미래.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/08-08-세계의유형4-sf와미래.md",
+          "sourceHash": "729d82e4e3ed741367e7a8efd6e6e77eba3f4a11a83f5956ef486330439301f1",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -200,20 +264,28 @@
       "sourceHash": "sha256:d706af58b59979d76e3fc6cdbce3a3481d1ffd1457a173b11f3e06d380b1158d",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/09-09-세계의유형5-괴물과영웅과규칙.md"
+          "status": "reviewed",
+          "file": "translations/en/09-09-세계의유형5-괴물과영웅과규칙.md",
+          "sourceHash": "d706af58b59979d76e3fc6cdbce3a3481d1ffd1457a173b11f3e06d380b1158d",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/09-09-세계의유형5-괴물과영웅과규칙.md"
+          "status": "reviewed",
+          "file": "translations/ja/09-09-세계의유형5-괴물과영웅과규칙.md",
+          "sourceHash": "d706af58b59979d76e3fc6cdbce3a3481d1ffd1457a173b11f3e06d380b1158d",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/09-09-세계의유형5-괴물과영웅과규칙.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/09-09-세계의유형5-괴물과영웅과규칙.md",
+          "sourceHash": "d706af58b59979d76e3fc6cdbce3a3481d1ffd1457a173b11f3e06d380b1158d",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/09-09-세계의유형5-괴물과영웅과규칙.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/09-09-세계의유형5-괴물과영웅과규칙.md",
+          "sourceHash": "d706af58b59979d76e3fc6cdbce3a3481d1ffd1457a173b11f3e06d380b1158d",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -223,20 +295,28 @@
       "sourceHash": "sha256:bc49cf3753046825a7900350ecb05f5b283e07e81f4d5e9cca3d07b3db0c23d4",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/10-10-설계의요소와작업원리.md"
+          "status": "reviewed",
+          "file": "translations/en/10-10-설계의요소와작업원리.md",
+          "sourceHash": "bc49cf3753046825a7900350ecb05f5b283e07e81f4d5e9cca3d07b3db0c23d4",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/10-10-설계의요소와작업원리.md"
+          "status": "reviewed",
+          "file": "translations/ja/10-10-설계의요소와작업원리.md",
+          "sourceHash": "bc49cf3753046825a7900350ecb05f5b283e07e81f4d5e9cca3d07b3db0c23d4",
+          "updatedAt": "2026-07-21"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/10-10-설계의요소와작업원리.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/10-10-설계의요소와작업원리.md",
+          "sourceHash": "bc49cf3753046825a7900350ecb05f5b283e07e81f4d5e9cca3d07b3db0c23d4",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/10-10-설계의요소와작업원리.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/10-10-설계의요소와작업원리.md",
+          "sourceHash": "bc49cf3753046825a7900350ecb05f5b283e07e81f4d5e9cca3d07b3db0c23d4",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -246,20 +326,28 @@
       "sourceHash": "sha256:f9c049a739b762198ccce0f18c6898953a64bba41ec4c8e2a5f9284a37cda18b",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/11-11-키워드론.md"
+          "status": "reviewed",
+          "file": "translations/en/11-11-키워드론.md",
+          "sourceHash": "f9c049a739b762198ccce0f18c6898953a64bba41ec4c8e2a5f9284a37cda18b",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/11-11-키워드론.md"
+          "status": "reviewed",
+          "file": "translations/ja/11-11-키워드론.md",
+          "sourceHash": "f9c049a739b762198ccce0f18c6898953a64bba41ec4c8e2a5f9284a37cda18b",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/11-11-키워드론.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/11-11-키워드론.md",
+          "sourceHash": "f9c049a739b762198ccce0f18c6898953a64bba41ec4c8e2a5f9284a37cda18b",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/11-11-키워드론.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/11-11-키워드론.md",
+          "sourceHash": "f9c049a739b762198ccce0f18c6898953a64bba41ec4c8e2a5f9284a37cda18b",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -269,20 +357,28 @@
       "sourceHash": "sha256:33a2f179e538da25ccfbf0a496f1dc99e5fdf67be5584fc62f80e82790a8cc04",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/12-12-정의와네이밍.md"
+          "status": "reviewed",
+          "file": "translations/en/12-12-정의와네이밍.md",
+          "sourceHash": "33a2f179e538da25ccfbf0a496f1dc99e5fdf67be5584fc62f80e82790a8cc04",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/12-12-정의와네이밍.md"
+          "status": "reviewed",
+          "file": "translations/ja/12-12-정의와네이밍.md",
+          "sourceHash": "33a2f179e538da25ccfbf0a496f1dc99e5fdf67be5584fc62f80e82790a8cc04",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/12-12-정의와네이밍.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/12-12-정의와네이밍.md",
+          "sourceHash": "33a2f179e538da25ccfbf0a496f1dc99e5fdf67be5584fc62f80e82790a8cc04",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/12-12-정의와네이밍.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/12-12-정의와네이밍.md",
+          "sourceHash": "33a2f179e538da25ccfbf0a496f1dc99e5fdf67be5584fc62f80e82790a8cc04",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -292,20 +388,28 @@
       "sourceHash": "sha256:9f9e4514e7857e919be43adead8bead1d78a77e0bf20f2285442e5081bd263fc",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/13-13-데이터파이프라인.md"
+          "status": "reviewed",
+          "file": "translations/en/13-13-데이터파이프라인.md",
+          "sourceHash": "9f9e4514e7857e919be43adead8bead1d78a77e0bf20f2285442e5081bd263fc",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/13-13-데이터파이프라인.md"
+          "status": "reviewed",
+          "file": "translations/ja/13-13-데이터파이프라인.md",
+          "sourceHash": "9f9e4514e7857e919be43adead8bead1d78a77e0bf20f2285442e5081bd263fc",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/13-13-데이터파이프라인.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/13-13-데이터파이프라인.md",
+          "sourceHash": "9f9e4514e7857e919be43adead8bead1d78a77e0bf20f2285442e5081bd263fc",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/13-13-데이터파이프라인.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/13-13-데이터파이프라인.md",
+          "sourceHash": "9f9e4514e7857e919be43adead8bead1d78a77e0bf20f2285442e5081bd263fc",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -315,20 +419,28 @@
       "sourceHash": "sha256:815da6afb7307bebccd5db237a8be32edc3ea9ea10bbefffb013524affe935a3",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/14-14-매체와세계관스토리텔링.md"
+          "status": "reviewed",
+          "file": "translations/en/14-14-매체와세계관스토리텔링.md",
+          "sourceHash": "815da6afb7307bebccd5db237a8be32edc3ea9ea10bbefffb013524affe935a3",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/14-14-매체와세계관스토리텔링.md"
+          "status": "reviewed",
+          "file": "translations/ja/14-14-매체와세계관스토리텔링.md",
+          "sourceHash": "815da6afb7307bebccd5db237a8be32edc3ea9ea10bbefffb013524affe935a3",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/14-14-매체와세계관스토리텔링.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/14-14-매체와세계관스토리텔링.md",
+          "sourceHash": "815da6afb7307bebccd5db237a8be32edc3ea9ea10bbefffb013524affe935a3",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/14-14-매체와세계관스토리텔링.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/14-14-매체와세계관스토리텔링.md",
+          "sourceHash": "815da6afb7307bebccd5db237a8be32edc3ea9ea10bbefffb013524affe935a3",
+          "updatedAt": "2026-07-22"
         }
       }
     },
@@ -338,20 +450,28 @@
       "sourceHash": "sha256:701e69277cb41af6cbf4054869dec0fcc63e6b48e94e0aeb8349657cfe0eb278",
       "translations": {
         "en": {
-          "status": "missing",
-          "file": "translations/en/15-15-자가동력의세계.md"
+          "status": "reviewed",
+          "file": "translations/en/15-15-자가동력의세계.md",
+          "sourceHash": "701e69277cb41af6cbf4054869dec0fcc63e6b48e94e0aeb8349657cfe0eb278",
+          "updatedAt": "2026-07-21"
         },
         "ja": {
-          "status": "missing",
-          "file": "translations/ja/15-15-자가동력의세계.md"
+          "status": "reviewed",
+          "file": "translations/ja/15-15-자가동력의세계.md",
+          "sourceHash": "701e69277cb41af6cbf4054869dec0fcc63e6b48e94e0aeb8349657cfe0eb278",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hant": {
-          "status": "missing",
-          "file": "translations/zh-Hant/15-15-자가동력의세계.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hant/15-15-자가동력의세계.md",
+          "sourceHash": "701e69277cb41af6cbf4054869dec0fcc63e6b48e94e0aeb8349657cfe0eb278",
+          "updatedAt": "2026-07-22"
         },
         "zh-Hans": {
-          "status": "missing",
-          "file": "translations/zh-Hans/15-15-자가동력의세계.md"
+          "status": "reviewed",
+          "file": "translations/zh-Hans/15-15-자가동력의세계.md",
+          "sourceHash": "701e69277cb41af6cbf4054869dec0fcc63e6b48e94e0aeb8349657cfe0eb278",
+          "updatedAt": "2026-07-22"
         }
       }
     }
