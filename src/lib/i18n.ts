@@ -25,6 +25,14 @@ export const localeLabels: Record<Locale, string> = {
 type BookTranslation = Partial<Pick<Book, "title" | "subtitle" | "line" | "category" | "author" | "description">>;
 
 const englishBooks: Record<string, BookTranslation> = {
+  "fifth-cult-community": {
+    title: "The Age of the Fifth Cult Community, Opened by AI",
+    subtitle: "An observation report on the fifth wave, with worldbuilding design tools",
+    line: "KIM DONG-EUN",
+    category: "Fifth Wave",
+    author: "Kim Dong-eun WhtDrgon.",
+    description: "An observation report that maps the waves of belief communities that rose each time a new medium arrived, and gathers from a century of religious history the worldbuilding design tools that turn viewers into residents. It comprises 15 main chapters, 6 separate case files, and appendices."
+  },
   "worldview-designer": {
     title: "The Worldview Designer",
     subtitle: "A 15-part knowledge system that organizes worldbuilding as a professional craft",
@@ -117,6 +125,12 @@ const englishBooks: Record<string, BookTranslation> = {
 
 const localizedBookTitles: Partial<Record<Locale, Record<string, BookTranslation>>> = {
   ja: {
+    "fifth-cult-community": {
+      title: "AIが開く第五次カルト・コミュニティの時代",
+      subtitle: "五番目の波の観測報告と世界観設計ツール",
+      line: "KIM DONG-EUN", category: "第五の波", author: "キム・ドンウン WhtDrgon.",
+      description: "新しい媒体が現れるたびに起こってきた信念共同体の波を地図に描き、視聴者を居住者へと変える世界観設計ツールを百年の宗教史から収めて整理した観測報告です。本編15章と別冊ケースファイル6編、付録で構成されます。"
+    },
     "worldview-designer": {
       title: "世界観設計者",
       subtitle: "世界観をつくる仕事を職業の技術として整理した15編の知識体系",
@@ -182,6 +196,12 @@ const localizedBookTitles: Partial<Record<Locale, Record<string, BookTranslation
     }
   },
   "zh-Hant": {
+    "fifth-cult-community": {
+      title: "AI開啟的第五次崇拜社群時代",
+      subtitle: "第五次浪潮的觀測報告與世界觀設計工具",
+      line: "KIM DONG-EUN", category: "第五波", author: "Kim Dong-eun WhtDrgon.",
+      description: "描繪每逢新媒體出現便掀起的信念共同體浪潮，並從百年宗教史中汲取能將觀眾轉化為居民的世界觀設計工具的觀測報告。全書由正文十五章、別冊案例檔案六篇與附錄構成。"
+    },
     "worldview-designer": {
       title: "世界觀設計師",
       subtitle: "將世界觀創作整理為職業技術的十五篇知識體系",
@@ -240,6 +260,12 @@ const localizedBookTitles: Partial<Record<Locale, Record<string, BookTranslation
     }
   },
   "zh-Hans": {
+    "fifth-cult-community": {
+      title: "AI开启的第五次崇拜社区时代",
+      subtitle: "第五次浪潮的观测报告与世界观设计工具",
+      line: "KIM DONG-EUN", category: "第五波", author: "Kim Dong-eun WhtDrgon.",
+      description: "描绘每逢新媒体出现便掀起的信念共同体浪潮，并从百年宗教史中汲取能将观众转化为居民的世界观设计工具的观测报告。全书由正文十五章、别册案例档案六篇与附录构成。"
+    },
     "worldview-designer": {
       title: "世界观设计师",
       subtitle: "将世界观创作整理为职业技术的十五篇知识体系",
