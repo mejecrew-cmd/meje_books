@@ -25,6 +25,14 @@ export const localeLabels: Record<Locale, string> = {
 type BookTranslation = Partial<Pick<Book, "title" | "subtitle" | "line" | "category" | "author" | "description">>;
 
 const englishBooks: Record<string, BookTranslation> = {
+  "worldview-designer": {
+    title: "The Worldview Designer",
+    subtitle: "A 15-part knowledge system that organizes worldbuilding as a professional craft",
+    line: "KIM DONG-EUN",
+    category: "Worldbuilding",
+    author: "Kim Dong-eun WhtDrgon.",
+    description: "A complete knowledge system that organizes worldbuilding as a single professional craft. The general theory settles the concept, verisimilitude, and utility; the typology divides the branches of worlds by time, space, tradition, SF, and monsters and heroes; and the practice covers design elements, keyword theory, definition and naming, the data pipeline, storytelling by medium, and the self-propelled world, across 15 parts of the main text."
+  },
   "meje-librarying": {
     title: "MEJE Librarying Workflow",
     subtitle: "A production workflow for organizing source materials into worldbuilding knowledge systems",
@@ -109,6 +117,12 @@ const englishBooks: Record<string, BookTranslation> = {
 
 const localizedBookTitles: Partial<Record<Locale, Record<string, BookTranslation>>> = {
   ja: {
+    "worldview-designer": {
+      title: "世界観設計者",
+      subtitle: "世界観をつくる仕事を職業の技術として整理した15編の知識体系",
+      line: "KIM DONG-EUN", category: "ワールドビルディング", author: "キム・ドンウン WhtDrgon.",
+      description: "世界観をつくる仕事を一つの職業技術として整理した完結型の知識体系です。総論で概念と迫真性と効用を確定し、類型論で時間・空間・伝統・SF・怪物と英雄によって世界の系統を分け、実務論で設計の要素とキーワード論、定義とネーミング、データパイプライン、媒体別のストーリーテリング、自己駆動の世界までを扱う本編15編で構成されます。"
+    },
     "meje-librarying": {
       title: "MEJE ライブラリング・ワークフロー白書",
       subtitle: "資料を世界観の知識構造へまとめる制作工程",
@@ -168,6 +182,12 @@ const localizedBookTitles: Partial<Record<Locale, Record<string, BookTranslation
     }
   },
   "zh-Hant": {
+    "worldview-designer": {
+      title: "世界觀設計師",
+      subtitle: "將世界觀創作整理為職業技術的十五篇知識體系",
+      line: "KIM DONG-EUN", category: "世界觀建構", author: "Kim Dong-eun WhtDrgon.",
+      description: "將世界觀創作整理為一門職業技術的完整知識體系。總論確立概念、逼真性與效用；類型論以時間、空間、傳統、科幻、怪物與英雄劃分世界的分支；實務論涵蓋設計要素與關鍵詞論、定義與命名、資料管線、各媒體的敘事，直到自驅動的世界，構成本編十五篇。"
+    },
     "meje-librarying": {
       title: "MEJE 知識庫化工作流程白皮書", subtitle: "將資料整合為世界觀知識結構的製作流程",
       line: "MEJE PROCESS", category: "流程 02", author: "MEJE Works",
@@ -220,6 +240,12 @@ const localizedBookTitles: Partial<Record<Locale, Record<string, BookTranslation
     }
   },
   "zh-Hans": {
+    "worldview-designer": {
+      title: "世界观设计师",
+      subtitle: "将世界观创作整理为职业技术的十五篇知识体系",
+      line: "KIM DONG-EUN", category: "世界观建构", author: "Kim Dong-eun WhtDrgon.",
+      description: "将世界观创作整理为一门职业技术的完整知识体系。总论确立概念、逼真性与效用；类型论以时间、空间、传统、科幻、怪物与英雄划分世界的分支；实务论涵盖设计要素与关键词论、定义与命名、数据管线、各媒体的叙事，直到自驱动的世界，构成本编十五篇。"
+    },
     "meje-librarying": {
       title: "MEJE 知识库化工作流程白皮书", subtitle: "将资料整合为世界观知识结构的制作流程",
       line: "MEJE PROCESS", category: "流程 02", author: "MEJE Works",
